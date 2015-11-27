@@ -43,6 +43,10 @@
   <action id="MethodUp" />
   <action id="NextEditorTab" />
   <action id="PreviousEditorTab" />
+  <action id="QuickImplementations" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -67,6 +71,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="ViewSource" />
+  <action id="XDebugger.Inspect" />
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
