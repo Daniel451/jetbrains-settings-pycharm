@@ -75,7 +75,11 @@
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
+  <action id="emacsIDEAs.AceJumpCopy.Line">
+    <keyboard-shortcut first-keystroke="altGraph y" />
+  </action>
   <action id="emacsIDEAs.AceJumpSelect">
     <keyboard-shortcut first-keystroke="alt number_sign" />
   </action>
+  <action id="emacsIDEAs.AceJumpWord" />
 </keymap>
