@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1453944683263">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="76" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1453945654368">
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -25,7 +24,7 @@
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SearchEverywhere</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -36,12 +35,16 @@
       <show-last>true</show-last>
     </search>
     <history>
+      <history-search />
       <history-cmd>
         <entry>58</entry>
         <entry>a</entry>
         <entry>all</entry>
         <entry>w</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -49,6 +52,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
