@@ -6,12 +6,12 @@
       <file name="/a.dummy" timestamp="1453948220965">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1453948382752">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1453949146162">
         <mark key="'" line="50" column="10" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="137" column="0" />
-        <mark key="." line="45" column="0" />
+        <mark key="[" line="180" column="104" />
+        <mark key="]" line="181" column="0" />
+        <mark key="^" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
     </filemarks>
     <jumps>
