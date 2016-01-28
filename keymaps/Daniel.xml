@@ -36,6 +36,7 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="GotoBookmark7" />
+  <action id="GotoLine" />
   <action id="IpnbMoveCellDownAction" />
   <action id="IpnbMoveCellUpAction" />
   <action id="IpnbRunCellInplaceAction" />
