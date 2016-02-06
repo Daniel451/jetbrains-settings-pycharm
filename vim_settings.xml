@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1454733159150">
+      <file name="/a.dummy" timestamp="1454733747042">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
@@ -30,11 +30,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454733322514">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454735553494">
+        <mark key="[" line="44" column="21" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="46" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -50,44 +50,44 @@
       <jump line="165" column="4" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="4">
-        <text>read_dir = sys.argv[1]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG9zLm1ha2VkaXJzKHdyaXRlX2RpcikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoaW1hZ2VzKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoc29ydGVkKG9zLmxpc3RkaXIocmVhZF9kaXIpKSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KSkK</text>
+      <register name="6" type="4">
+        <text>-</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>\</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>\n\n\n\n\n\n\n\n\n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
