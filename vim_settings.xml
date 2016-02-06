@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1453948220965">
+      <file name="/a.dummy" timestamp="1454733159150">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454727849877">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
         <mark key="'" line="165" column="4" />
@@ -24,6 +24,17 @@
         <mark key="]" line="7" column="47" />
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454733322514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -39,38 +50,47 @@
       <jump line="165" column="4" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>$USER_HOME$/bt-img/</text>
-      </register>
-      <register name="1" type="4">
-        <text>t</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>a</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dGYK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
+      </register>
+      <register name="0" type="4">
+        <text>read_dir = sys.argv[1]</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CgoK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoaW1hZ2VzKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoc29ydGVkKG9zLmxpc3RkaXIocmVhZF9kaXIpKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">KSkK</text>
+      </register>
+      <register name="7" type="4">
+        <text>)</text>
+      </register>
+      <register name="8" type="4">
+        <text>r</text>
+      </register>
+      <register name="9" type="4">
+        <text>i</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -93,6 +113,7 @@
         <entry>noh</entry>
         <entry>wa</entry>
         <entry>wq</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -119,6 +140,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
