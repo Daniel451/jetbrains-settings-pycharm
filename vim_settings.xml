@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1453948220965">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454727849877">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
         <mark key="'" line="165" column="4" />
         <mark key="[" line="164" column="4" />
@@ -58,7 +64,7 @@
         <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -86,8 +92,8 @@
         <entry>action SearchEverywhere</entry>
         <entry>noh</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -110,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
