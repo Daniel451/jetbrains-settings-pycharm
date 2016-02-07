@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="/a.dummy" timestamp="1454793711044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -55,7 +61,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5wLm1heChpbWdfZGF0YSksIG5wLm1pbihpbWdfZGF0YSksIG5wLmF2ZXJhZ2UoaW1nX2RhdGEpKQogICAgcHJpbnQoaW1nX2RhdGEpCiAgICBwcmludCgpCiAgICBwcmludCh0eXBlKHNtYXApLCBzbWFwLnNoYXBlKQogICAgcHJpbnQod3JpdGVfZGlyICsgaW1nWzotNF0gKyAiX29yaWciICsgaW1nWy00Ol0pCiAgICBwcmludChucC5tYXgoc21hcCksIG5wLm1pbihzbWFwKSwgbnAuYXZlcmFnZShzbWFwKSkKICAgIHByaW50KHNtYXApCiAgICBicmVhawo=</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -67,31 +73,31 @@
         <text>write_dir + img[:-4] + &quot;_orig&quot; + img[-4:]</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZXhpdCgpCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KG5wLm1heChpbWdfZGF0YSksIG5wLm1pbihpbWdfZGF0YSksIG5wLmF2ZXJhZ2UoaW1nX2RhdGEpKQogICAgcHJpbnQoaW1nX2RhdGEpCiAgICBwcmludCgpCiAgICBwcmludCh0eXBlKHNtYXApLCBzbWFwLnNoYXBlKQogICAgcHJpbnQod3JpdGVfZGlyICsgaW1nWzotNF0gKyAiX29yaWciICsgaW1nWy00Ol0pCiAgICBwcmludChucC5tYXgoc21hcCksIG5wLm1pbihzbWFwKSwgbnAuYXZlcmFnZShzbWFwKSkKICAgIHByaW50KHNtYXApCiAgICBicmVhawo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="4">
         <text>#</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>#</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">cHJpbnQocmVhZF9kaXIpCnByaW50KHdyaXRlX2RpcikKCmV4aXQoKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRpbnVlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUocmVhZF9kaXIgKyBpbWcpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
