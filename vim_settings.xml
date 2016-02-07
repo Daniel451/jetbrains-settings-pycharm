@@ -47,9 +47,12 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" timestamp="1454864814145">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="59" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" timestamp="1454865588161">
+        <mark key="'" line="278" column="2" />
+        <mark key="[" line="313" column="31" />
+        <mark key="]" line="279" column="31" />
+        <mark key="^" line="279" column="31" />
+        <mark key="." line="279" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
         <mark key="[" line="25" column="0" />
@@ -74,6 +77,10 @@
       <jump line="49" column="2" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="51" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="165" column="4" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
+      <jump line="309" column="24" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
+      <jump line="299" column="37" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
+      <jump line="300" column="8" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
+      <jump line="278" column="2" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -83,7 +90,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>reshape</text>
+        <text>start_time</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
@@ -120,9 +127,9 @@
       </register>
     </registers>
     <search>
-      <last-search>reshape</last-search>
+      <last-search>start_time</last-search>
       <last-offset />
-      <last-pattern>reshape</last-pattern>
+      <last-pattern>start_time</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -130,6 +137,7 @@
       <history-search>
         <entry>trX</entry>
         <entry>reshape</entry>
+        <entry>start_time</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
