@@ -9,6 +9,12 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454862614649">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="58" column="22" />
+      </file>
       <file name="/a.dummy" timestamp="1454793711044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,6 +41,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -60,44 +72,44 @@
       <jump line="165" column="4" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>reshape</text>
       </register>
-      <register name="0" type="4">
-        <text>write_dir + img[:-4] + &quot;_orig&quot; + img[-4:]</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3Jvc3NfZW50cm9weSA9IHRmLnNxdWFyZShuX291dHB1dCAtIG91dHB1dCkgICMgYWxzbyB3b3Jrcz8hCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5wLm1heChpbWdfZGF0YSksIG5wLm1pbihpbWdfZGF0YSksIG5wLmF2ZXJhZ2UoaW1nX2RhdGEpKQogICAgcHJpbnQoaW1nX2RhdGEpCiAgICBwcmludCgpCiAgICBwcmludCh0eXBlKHNtYXApLCBzbWFwLnNoYXBlKQogICAgcHJpbnQod3JpdGVfZGlyICsgaW1nWzotNF0gKyAiX29yaWciICsgaW1nWy00Ol0pCiAgICBwcmludChucC5tYXgoc21hcCksIG5wLm1pbihzbWFwKSwgbnAuYXZlcmFnZShzbWFwKSkKICAgIHByaW50KHNtYXApCiAgICBicmVhawo=</text>
+      <register name="2" type="4">
+        <text>square</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>#</text>
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnQocmVhZF9kaXIpCnByaW50KHdyaXRlX2RpcikKCmV4aXQoKQo=</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5wLm1heChpbWdfZGF0YSksIG5wLm1pbihpbWdfZGF0YSksIG5wLmF2ZXJhZ2UoaW1nX2RhdGEpKQogICAgcHJpbnQoaW1nX2RhdGEpCiAgICBwcmludCgpCiAgICBwcmludCh0eXBlKHNtYXApLCBzbWFwLnNoYXBlKQogICAgcHJpbnQod3JpdGVfZGlyICsgaW1nWzotNF0gKyAiX29yaWciICsgaW1nWy00Ol0pCiAgICBwcmludChucC5tYXgoc21hcCksIG5wLm1pbihzbWFwKSwgbnAuYXZlcmFnZShzbWFwKSkKICAgIHByaW50KHNtYXApCiAgICBicmVhawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
