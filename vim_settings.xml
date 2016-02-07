@@ -9,11 +9,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454862614649">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="58" column="22" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454864824941">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="59" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="59" column="22" />
       </file>
       <file name="/a.dummy" timestamp="1454793711044">
         <mark key="[" line="0" column="0" />
@@ -47,6 +47,10 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" timestamp="1454864814145">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -72,8 +76,8 @@
       <jump line="165" column="4" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -82,7 +86,7 @@
         <text>reshape</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y3Jvc3NfZW50cm9weSA9IHRmLnNxdWFyZShuX291dHB1dCAtIG91dHB1dCkgICMgYWxzbyB3b3Jrcz8hCg==</text>
+        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
       </register>
       <register name="1" type="4">
         <text>0</text>
@@ -136,10 +140,10 @@
         <entry>wa</entry>
         <entry>wq</entry>
         <entry>redo</entry>
-        <entry>1</entry>
         <entry>5</entry>
         <entry>end</entry>
         <entry>100</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
