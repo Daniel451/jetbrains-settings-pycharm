@@ -47,12 +47,12 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" timestamp="1454865588161">
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" timestamp="1454866848404">
         <mark key="'" line="278" column="2" />
-        <mark key="[" line="313" column="31" />
-        <mark key="]" line="279" column="31" />
-        <mark key="^" line="279" column="31" />
-        <mark key="." line="279" column="31" />
+        <mark key="[" line="319" column="31" />
+        <mark key="]" line="318" column="94" />
+        <mark key="^" line="318" column="94" />
+        <mark key="." line="318" column="94" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
         <mark key="[" line="25" column="0" />
