@@ -71,11 +71,15 @@
         <mark key="^" line="318" column="94" />
         <mark key="." line="318" column="94" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454869927499">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="28" />
-        <mark key="^" line="47" column="29" />
-        <mark key="." line="46" column="28" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mnist/convolutional.py" timestamp="1454872482193">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454874114639">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -95,44 +99,44 @@
       <jump line="278" column="2" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>start_time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBoaWRkZW4gPSB0Zi5zaWdtb2lkKHRmLm1hdG11bChuX2lucHV0LCBXX2hpZGRlbikgKyBiX2hpZGRlbikK</text>
+        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
       </register>
-      <register name="1" type="4">
-        <text>6</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgIGlmIG15cXVldWUuc2l6ZSgpID09IDA6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IwojIEV4YW1wbGU6CiMgdGltZSBweXRob24gcGFyYWxsZWwucHkgMwojCg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbihteXF1ZXVlKSA9PSAwOgo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text>v</text>
       </register>
       <register name="7" type="4">
-        <text>b</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
