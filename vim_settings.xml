@@ -3,17 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454864824941">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="59" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
         <mark key="^" line="57" column="22" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1454793711044">
         <mark key="[" line="0" column="0" />
@@ -27,6 +21,29 @@
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/main.py" timestamp="1454793660160">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="25" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454795753664">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="61" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2_wo_bias.py" timestamp="1454869296232">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
         <mark key="'" line="165" column="4" />
@@ -54,16 +71,11 @@
         <mark key="^" line="318" column="94" />
         <mark key="." line="318" column="94" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454795753664">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="61" column="34" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454869927499">
+        <mark key="[" line="46" column="28" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="47" column="29" />
+        <mark key="." line="46" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -83,44 +95,44 @@
       <jump line="278" column="2" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>start_time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
+        <text encoding="base64">IyBoaWRkZW4gPSB0Zi5zaWdtb2lkKHRmLm1hdG11bChuX2lucHV0LCBXX2hpZGRlbikgKyBiX2hpZGRlbikK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>6</text>
       </register>
-      <register name="2" type="4">
-        <text>square</text>
+      <register name="2" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">IwojIEV4YW1wbGU6CiMgdGltZSBweXRob24gcGFyYWxsZWwucHkgMwojCg==</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>b</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5wLm1heChpbWdfZGF0YSksIG5wLm1pbihpbWdfZGF0YSksIG5wLmF2ZXJhZ2UoaW1nX2RhdGEpKQogICAgcHJpbnQoaW1nX2RhdGEpCiAgICBwcmludCgpCiAgICBwcmludCh0eXBlKHNtYXApLCBzbWFwLnNoYXBlKQogICAgcHJpbnQod3JpdGVfZGlyICsgaW1nWzotNF0gKyAiX29yaWciICsgaW1nWy00Ol0pCiAgICBwcmludChucC5tYXgoc21hcCksIG5wLm1pbihzbWFwKSwgbnAuYXZlcmFnZShzbWFwKSkKICAgIHByaW50KHNtYXApCiAgICBicmVhawo=</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
