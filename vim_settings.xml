@@ -141,7 +141,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>CORES</text>
+        <text>npy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
@@ -175,15 +175,15 @@
         <text>v</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>CORES</last-search>
+      <last-search>npy</last-search>
       <last-offset />
-      <last-pattern>CORES</last-pattern>
+      <last-pattern>npy</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -192,6 +192,7 @@
         <entry>start_time</entry>
         <entry>cores</entry>
         <entry>CORES</entry>
+        <entry>npy</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
@@ -206,8 +207,8 @@
         <entry>100</entry>
         <entry>1</entry>
         <entry>280</entry>
-        <entry>noh</entry>
         <entry>w</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
