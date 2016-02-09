@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/read_input_data.py" timestamp="1455017033136">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="27" column="32" />
+      </file>
       <file name="/a.dummy" timestamp="1455014608719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -36,14 +40,16 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455015955425">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455020591807">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455015853484">
-        <mark key="[" line="32" column="100" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455020689521">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="76" column="78" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1454979657669">
         <mark key="[" line="285" column="20" />
@@ -61,6 +67,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/extra/array_type_printer.py" timestamp="1455019839244">
+        <mark key="[" line="8" column="88" />
+        <mark key="]" line="7" column="81" />
+        <mark key="^" line="7" column="81" />
+        <mark key="." line="7" column="81" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
         <mark key="'" line="165" column="4" />
@@ -105,10 +117,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455014585494">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455019381698">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+        <mark key="^" line="26" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
         <mark key="[" line="25" column="0" />
@@ -190,44 +203,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9maWxlbGlzdCgpWzBdKQpwcmludChpbWdfdHJhaW4uZ2V0X3BhdGgoKSkKCmltZyA9IG1waW1nLmltcmVhZChpbWdfdHJhaW4uZ2V0X3BhdGgoKSArIGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKVswXSkKCnByaW50KGltZy5zaGFwZSkK</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4ocGF0aCArICJsYWJlbHMudHh0IiwgInIiKSBhcyBmOgogICAgICAgICAgICBidWZmZXIgPSBbeC5yZXBsYWNlKCJcbiIsICIiKS5zcGxpdCgiPT09IikgZm9yIHggaW4gZi5yZWFkbGluZXMoKV0KCiAgICAgICAgZm9yIGVsZW0gaW4gYnVmZmVyOgogICAgICAgICAgICB4ID0gZWxlbVsxXS5zcGxpdCgiLCIpWzBdWzE6XQogICAgICAgICAgICB5ID0gZWxlbVsxXS5zcGxpdCgiLCIpWzFdWzE6XQogICAgICAgICAgICBlbGVtWzFdID0gZGljdCgpCiAgICAgICAgICAgIGVsZW1bMV1bIngiXSA9IGludCh4KQogICAgICAgICAgICBlbGVtWzFdWyJ5Il0gPSBpbnQoeSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9maWxlbGlzdCgpWzBdKQpwcmludChpbWdfdHJhaW4uZ2V0X3BhdGgoKSkKCmltZyA9IG1waW1nLmltcmVhZChpbWdfdHJhaW4uZ2V0X3BhdGgoKSArIGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKVswXSkKCnByaW50KGltZy5zaGFwZSkK</text>
+        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>g  
-        else</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>p</text>
+      <register name="3" type="2">
+        <text encoding="base64">Zm9yIGltZ25hbWUsIGltZ2xhYmVsIGluIHppcChpbWdfdHJhaW4uZ2V0X2ZpbGVsaXN0KCksIGltZ2RhdGFfdHJhaW5bImltZ19sYWJlbHMiXSk6CiAgICBwcmludChpbWduYW1lLCBpbWdsYWJlbCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxlbVsxXSA9IGRpY3QoKQogICAgICAgICAgICAgICAgICAgICAgICBlbGVtWzFdWyJ4Il0gPSBpbnQoeCkKICAgICAgICAgICAgICAgICAgICAgICAgZWxlbVsxXVsieSJdID0gaW50KHkpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>]</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZmlsZXMg</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>filter(lambda item: item[-4:] == &quot;.png&quot;, contents)</text>
+        <text>[</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZWFkX2lucHV0X2RhdGEgaW1wb3J0IFJJRAo=</text>
+      <register name="9" type="4">
+        <text>]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
