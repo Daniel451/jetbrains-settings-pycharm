@@ -46,11 +46,10 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455023195993">
-        <mark key="[" line="16" column="77" />
-        <mark key="]" line="17" column="81" />
-        <mark key="^" line="17" column="81" />
-        <mark key="." line="17" column="81" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455027359755">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455022957808">
         <mark key="[" line="84" column="40" />
@@ -209,7 +208,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoQVQuZ2V0X3R5cGUodHJZX3hfY29vcmQpKQo=</text>
+        <text encoding="base64">ZnJvbSBkaXN0cmlidXRpb25zLmdhdXNzaWFuX2Rpc3RyaWJ1dGlvbiBpbXBvcnQgR2F1c3NpYW4K</text>
       </register>
       <register name="-" type="4">
         <text>&quot;]))</text>
@@ -218,37 +217,37 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoQVQuZ2V0X3R5cGUodHJZX3hfY29vcmQpKQo=</text>
+        <text encoding="base64">cGx0LnBsb3QodHJZX3hfY29vcmRbMF0pCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBkaXN0cmlidXRpb25zLmdhdXNzaWFuX2Rpc3RyaWJ1dGlvbiBpbXBvcnQgR2F1c3NpYW4K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cGx0LnBsb3QodHJZX3hfY29vcmRbMF0pCnBsdC5wbG90KHRyWV95X2Nvb3JkWzBdKQpwbHQuc2hvdygpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">cHJpbnQoQVQuZ2V0X3R5cGUoaW1nZGF0YV90cmFpblsiaW1nX2xhYmVsc195Il0pKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>&quot;]))</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>img_labels_x</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>[&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>imgdata_train</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">cHJpbnQodHJZLnNoYXBlKQpwcmludCh0clkuZHR5cGUpCnByaW50KHR5cGUodHJZKSkKcHJpbnQodHJZKQoKZXhpdCgpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNodXRpbAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Zm9yIGltZ25hbWUsIGltZ2xhYmVsIGluIHppcChpbWdfdHJhaW4uZ2V0X2ZpbGVsaXN0KCksIGltZ2RhdGFfdHJhaW5bImltZ19sYWJlbHMiXSk6CiAgICBwcmludChpbWduYW1lLCBpbWdsYWJlbCkK</text>
-      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -281,8 +280,8 @@
         <entry>280</entry>
         <entry>noh</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
