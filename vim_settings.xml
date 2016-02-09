@@ -68,11 +68,11 @@
         <mark key="^" line="285" column="17" />
         <mark key="." line="285" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_01.py" timestamp="1455035150799">
-        <mark key="[" line="146" column="78" />
-        <mark key="]" line="146" column="116" />
-        <mark key="^" line="146" column="116" />
-        <mark key="." line="146" column="116" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_01.py" timestamp="1455048009281">
+        <mark key="[" line="154" column="22" />
+        <mark key="]" line="154" column="23" />
+        <mark key="^" line="154" column="22" />
+        <mark key="." line="154" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.0.py" timestamp="1455035471987" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/extra/array_type_printer.py" timestamp="1455019839244">
@@ -187,11 +187,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -199,32 +199,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGJsdWJiID0gc2Vzcy5ydW4oeV9jb252LCBmZWVkX2RpY3Q9e3g6IFt0clhbMF1dLCBrZWVwX3Byb2I6IDEuMH0pCgogICAgICAgICAgICAgICAgcGx0LmNsZigpCiAgICAgICAgICAgICAgICBwbHQucGxvdChibHViYlswXSwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJtYWdlbnRhIikKICAgICAgICAgICAgICAgIHBsdC5wbG90KHRyWVswXSwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJibGFjayIpCiAgICAgICAgICAgICAgICBwbHQuc2F2ZWZpZygiL3dvcmsvaW50eDAzMy9sb2cvZXhwMl8wMS97fS5wbmciLmZvcm1hdChpKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>#</text>
+        <text>Y</text>
       </register>
       <register name="3" type="4">
-        <text>#</text>
+        <text>r</text>
       </register>
       <register name="4" type="4">
-        <text>d</text>
-      </register>
-      <register name="5" type="4">
-        <text>n</text>
-      </register>
-      <register name="6" type="4">
-        <text>e</text>
-      </register>
-      <register name="7" type="4">
-        <text>:</text>
-      </register>
-      <register name="8" type="4">
         <text>t</text>
       </register>
+      <register name="5" type="4">
+        <text>(</text>
+      </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
+      <register name="7" type="4">
+        <text>e</text>
+      </register>
+      <register name="8" type="4">
+        <text>l</text>
+      </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
