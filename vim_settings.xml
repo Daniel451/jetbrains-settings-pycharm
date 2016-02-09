@@ -3,21 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="57" column="22" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1454793711044">
+      <file name="/a.dummy" timestamp="1454989099778">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_16.py" timestamp="1454979716102">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="285" column="16" />
-        <mark key="]" line="285" column="17" />
-        <mark key="^" line="285" column="17" />
-        <mark key="." line="285" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
         <mark key="[" line="19" column="39" />
@@ -36,10 +23,11 @@
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test1.3.py" timestamp="1454988236803">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
         <mark key="[" line="38" column="0" />
@@ -47,11 +35,66 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1454989277127">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1454979657669">
         <mark key="[" line="285" column="20" />
         <mark key="]" line="285" column="20" />
         <mark key="^" line="285" column="57" />
         <mark key="." line="285" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
+        <mark key="[" line="285" column="16" />
+        <mark key="]" line="285" column="17" />
+        <mark key="^" line="285" column="17" />
+        <mark key="." line="285" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
+        <mark key="'" line="165" column="4" />
+        <mark key="[" line="164" column="4" />
+        <mark key="]" line="165" column="4" />
+        <mark key="^" line="165" column="4" />
+        <mark key="." line="165" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454874114639">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="47" column="28" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_1.py" timestamp="1454988976577">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="57" column="22" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2.1.py" timestamp="1454988397787">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_16.py" timestamp="1454979716102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="285" column="16" />
+        <mark key="]" line="285" column="17" />
+        <mark key="^" line="285" column="17" />
+        <mark key="." line="285" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/gaussian_distribution.py" timestamp="1454988878352">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
         <mark key="[" line="25" column="0" />
@@ -72,24 +115,11 @@
         <mark key="^" line="285" column="16" />
         <mark key="." line="285" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
-        <mark key="[" line="285" column="16" />
-        <mark key="]" line="285" column="17" />
-        <mark key="^" line="285" column="17" />
-        <mark key="." line="285" column="17" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
         <mark key="[" line="285" column="16" />
         <mark key="]" line="285" column="17" />
         <mark key="^" line="285" column="17" />
         <mark key="." line="285" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
-        <mark key="'" line="165" column="4" />
-        <mark key="[" line="164" column="4" />
-        <mark key="]" line="165" column="4" />
-        <mark key="^" line="165" column="4" />
-        <mark key="." line="165" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/read_input_data.py" timestamp="1453972758900">
         <mark key="[" line="7" column="46" />
@@ -97,11 +127,16 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-2/conv_net_test1.3.py" timestamp="1454983876816">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="7" column="4" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/ils_class.py" timestamp="1454989045378">
+        <mark key="[" line="5" column="8" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-2/conv_net_test1.3.py" timestamp="1454987761678">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -119,12 +154,6 @@
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mnist/convolutional.py" timestamp="1454872482193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454874114639">
-        <mark key="[" line="47" column="28" />
-        <mark key="]" line="47" column="28" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="47" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -151,44 +180,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ZnJvbSBpbWdfbG9hZF9zYXYK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>conv_net_test2.1</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBjaGVjayBpZiBpbWFnZXMgYXJlIHByZXNlbnQKaWYgbm90IGxlbihpbWFnZV9uYW1lcykgPiAxOgogICAgZXhpdCgiRXJyb3I6IG5vIGltYWdlcyBwcmVzZW50IGluIGdpdmVuIGRpcmVjdG9yeS4iKQo=</text>
+        <text encoding="base64">IyBkaXNjcmV0ZSBnYXVzc2lhbiB2ZWN0b3IKZGVmIG5vcm1fZGlzdHJpYnV0aW9uKHNoYXBlPSgwLCAxMCksIG11PTAuMCwgc2lnbWE9MS4wKToKICAgIGJ1ZmZlciA9IG5wLmFyYW5nZShzaGFwZVswXSwgc2hhcGVbMV0pCgogICAgYnVmZmVyID0gMSAvIChzaWdtYSAqIG5wLnNxcnQoMiAqIG5wLnBpKSkgKiBucC5leHAoLSAoYnVmZmVyIC0gbXUpICoqIDIgLyAoMiAqIHNpZ21hICoqIDIpKQoKICAgIHJldHVybiBidWZmZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ZnJvbSBpbWdfbG9hZF9zYXYK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KSA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">dGVzdDIgPSAiYmx1YmIiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>image_names</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ZnJvbSB0ZXN0X3RyYWluaW5nXzIgaW1wb3J0IGNvbnZfbmV0X3Rlc3QyXzEK</text>
       </register>
-      <register name="5" type="4">
-        <text>path</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGVzdCA9ICJoYWxsbyIK</text>
       </register>
-      <register name="7" type="4">
-        <text>config=tf.ConfigProto(inter_op_parallelism_threads=NUM_CORES,
-                   intra_op_parallelism_threads=NUM_CORES)</text>
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnQodGVzdDIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodGVzdDIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5VTV9DT1JFUyA9IDE2Cg==</text>
+        <text encoding="base64">cHJpbnQoImJsYSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
