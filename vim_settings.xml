@@ -35,11 +35,17 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1454989277127">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1454993669555">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1454991536134">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+        <mark key="^" line="32" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1454979657669">
         <mark key="[" line="285" column="20" />
@@ -180,43 +186,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBpbWdfbG9hZF9zYXYK</text>
+        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9wYXRoKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>conv_net_test2.1</text>
+        <text>ILS_test2_1</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBkaXNjcmV0ZSBnYXVzc2lhbiB2ZWN0b3IKZGVmIG5vcm1fZGlzdHJpYnV0aW9uKHNoYXBlPSgwLCAxMCksIG11PTAuMCwgc2lnbWE9MS4wKToKICAgIGJ1ZmZlciA9IG5wLmFyYW5nZShzaGFwZVswXSwgc2hhcGVbMV0pCgogICAgYnVmZmVyID0gMSAvIChzaWdtYSAqIG5wLnNxcnQoMiAqIG5wLnBpKSkgKiBucC5leHAoLSAoYnVmZmVyIC0gbXUpICoqIDIgLyAoMiAqIHNpZ21hICoqIDIpKQoKICAgIHJldHVybiBidWZmZXIK</text>
+        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9wYXRoKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpbWdfbG9hZF9zYXYK</text>
+        <text encoding="base64">cHJpbnQoaW1nLnNoYXBlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGVzdDIgPSAiYmx1YmIiCg==</text>
+        <text encoding="base64">cHJpbnQodHlwZShpbWcpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoaW1nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0ZXN0X3RyYWluaW5nXzIgaW1wb3J0IGNvbnZfbmV0X3Rlc3QyXzEK</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhpbWcsIGNtYXA9ImdyYXkiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGVzdCA9ICJoYWxsbyIK</text>
+        <text encoding="base64">cGx0LnBsb3QobnAuYXJhbmdlKDAsIDEwMCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQodGVzdDIpCg==</text>
+        <text encoding="base64">cHJpbnQoKQpwcmludChpbWdfdHJhaW4uZ2V0X2ZpbGVsaXN0KCkpCgppbWdfdHJhaW4uZmlsdGVyX2V4Y2x1ZGUoIjYxMyIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkKCmltZ190cmFpbi5maWx0ZXJfZXhjbHVkZSgiZ3JleSIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQodGVzdDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoImJsYSIpCg==</text>
+      <register name="9" type="4">
+        <text>ILS_test2_1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
