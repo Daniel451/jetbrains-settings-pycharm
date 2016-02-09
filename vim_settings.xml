@@ -12,6 +12,13 @@
       <file name="/a.dummy" timestamp="1454793711044">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_16.py" timestamp="1454979716102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="285" column="16" />
+        <mark key="]" line="285" column="17" />
+        <mark key="^" line="285" column="17" />
+        <mark key="." line="285" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
         <mark key="[" line="19" column="39" />
         <mark key="]" line="25" column="0" />
@@ -33,6 +40,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1454979657669">
+        <mark key="[" line="285" column="20" />
+        <mark key="]" line="285" column="20" />
+        <mark key="^" line="285" column="57" />
+        <mark key="." line="285" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="4" />
@@ -44,6 +57,25 @@
         <mark key="]" line="60" column="38" />
         <mark key="." line="60" column="38" />
         <mark key="^" line="60" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_8.py" timestamp="1454979726757">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="285" column="16" />
+        <mark key="]" line="285" column="16" />
+        <mark key="^" line="285" column="16" />
+        <mark key="." line="285" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
+        <mark key="[" line="285" column="16" />
+        <mark key="]" line="285" column="17" />
+        <mark key="^" line="285" column="17" />
+        <mark key="." line="285" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
+        <mark key="[" line="285" column="16" />
+        <mark key="]" line="285" column="17" />
+        <mark key="^" line="285" column="17" />
+        <mark key="." line="285" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
         <mark key="'" line="165" column="4" />
@@ -97,55 +129,59 @@
       <jump line="299" column="37" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
       <jump line="300" column="8" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
       <jump line="278" column="2" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_16.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+      <register name="&quot;" type="4">
+        <text>config=tf.ConfigProto(inter_op_parallelism_threads=NUM_CORES,
+                   intra_op_parallelism_threads=NUM_CORES)</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>start_time</text>
+        <text>CORES</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+      <register name="1" type="4">
+        <text>config=tf.ConfigProto(inter_op_parallelism_threads=NUM_CORES,
+                   intra_op_parallelism_threads=NUM_CORES)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG15cXVldWUuc2l6ZSgpID09IDA6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+        <text encoding="base64">ICAgIE5VTV9DT1JFUyA9IDE2Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIG15cXVldWUuc2l6ZSgpID09IDA6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIGxlbihteXF1ZXVlKSA9PSAwOgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="4">
-        <text>v</text>
-      </register>
-      <register name="7" type="4">
-        <text>i</text>
-      </register>
-      <register name="8" type="4">
-        <text>t</text>
-      </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>start_time</last-search>
+      <last-search>CORES</last-search>
       <last-offset />
-      <last-pattern>start_time</last-pattern>
+      <last-pattern>CORES</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -154,13 +190,14 @@
         <entry>trX</entry>
         <entry>reshape</entry>
         <entry>start_time</entry>
+        <entry>cores</entry>
+        <entry>CORES</entry>
       </history-search>
       <history-cmd>
         <entry>58</entry>
         <entry>a</entry>
         <entry>all</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>noh</entry>
         <entry>wa</entry>
         <entry>wq</entry>
         <entry>redo</entry>
@@ -168,6 +205,8 @@
         <entry>end</entry>
         <entry>100</entry>
         <entry>1</entry>
+        <entry>280</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
