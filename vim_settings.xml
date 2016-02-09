@@ -40,10 +40,10 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455001396463">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455002998222">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1454991536134">
         <mark key="[" line="19" column="25" />
@@ -100,11 +100,11 @@
         <mark key="^" line="285" column="17" />
         <mark key="." line="285" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/gaussian_distribution.py" timestamp="1454988878352">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/gaussian_distribution.py" timestamp="1455002467683">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
         <mark key="[" line="25" column="0" />
@@ -190,10 +190,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMSkKYXhhcnIuaW1zaG93KGltZywgY21hcD0iZ3JheSIpCmF4YXJyLmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZSgoNDMwLCAyNTApLCA0MCwgNDAsIGZpbGw9RmFsc2UsIGVkZ2Vjb2xvcj0icmVkIiwgbGluZXdpZHRoPTIuMCkpCnBsdC5zYXZlZmlnKCJ0ZXN0LnBuZyIpCgo=</text>
+        <text encoding="base64">cHJpbnQoR2F1c3NpYW4uZ2V0X25vcm1hbF9kaXN0cmlidXRpb24oKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>ILS_test2_1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -202,31 +202,31 @@
         <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9wYXRoKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMSkKYXhhcnIuaW1zaG93KGltZywgY21hcD0iZ3JheSIpCmF4YXJyLmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZSgoNDMwLCAyNTApLCA0MCwgNDAsIGZpbGw9RmFsc2UsIGVkZ2Vjb2xvcj0icmVkIiwgbGluZXdpZHRoPTIuMCkpCnBsdC5zYXZlZmlnKCJ0ZXN0LnBuZyIpCgo=</text>
+        <text encoding="base64">cHJpbnQoR2F1c3NpYW4uZ2V0X25vcm1hbF9kaXN0cmlidXRpb24oKSkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoaW1nLnNoYXBlKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShpbWcpKQo=</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoaW1nKQo=</text>
+      <register name="4" type="4">
+        <text>f</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhpbWcsIGNtYXA9ImdyYXkiKQo=</text>
+      <register name="5" type="4">
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cGx0LnBsb3QobnAuYXJhbmdlKDAsIDEwMCkpCg==</text>
+      <register name="7" type="4">
+        <text>s</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoKQpwcmludChpbWdfdHJhaW4uZ2V0X2ZpbGVsaXN0KCkpCgppbWdfdHJhaW4uZmlsdGVyX2V4Y2x1ZGUoIjYxMyIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkKCmltZ190cmFpbi5maWx0ZXJfZXhjbHVkZSgiZ3JleSIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkK</text>
+        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMSkKYXhhcnIuaW1zaG93KGltZywgY21hcD0iZ3JheSIpCmF4YXJyLmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZSgoNDMwLCAyNTApLCA0MCwgNDAsIGZpbGw9RmFsc2UsIGVkZ2Vjb2xvcj0icmVkIiwgbGluZXdpZHRoPTIuMCkpCnBsdC5zYXZlZmlnKCJ0ZXN0LnBuZyIpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoaW1nLnNoYXBlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
