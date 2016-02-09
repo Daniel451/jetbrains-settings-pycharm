@@ -29,17 +29,21 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="40" column="55" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1454993684998">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="27" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455001396463">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1454991536134">
         <mark key="[" line="19" column="25" />
@@ -186,7 +190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9wYXRoKCkpCg==</text>
+        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMSkKYXhhcnIuaW1zaG93KGltZywgY21hcD0iZ3JheSIpCmF4YXJyLmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZSgoNDMwLCAyNTApLCA0MCwgNDAsIGZpbGw9RmFsc2UsIGVkZ2Vjb2xvcj0icmVkIiwgbGluZXdpZHRoPTIuMCkpCnBsdC5zYXZlZmlnKCJ0ZXN0LnBuZyIpCgo=</text>
       </register>
       <register name="-" type="4">
         <text>ILS_test2_1</text>
@@ -198,31 +202,31 @@
         <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9wYXRoKCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoaW1nLnNoYXBlKQo=</text>
+        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMSkKYXhhcnIuaW1zaG93KGltZywgY21hcD0iZ3JheSIpCmF4YXJyLmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZSgoNDMwLCAyNTApLCA0MCwgNDAsIGZpbGw9RmFsc2UsIGVkZ2Vjb2xvcj0icmVkIiwgbGluZXdpZHRoPTIuMCkpCnBsdC5zYXZlZmlnKCJ0ZXN0LnBuZyIpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShpbWcpKQo=</text>
+        <text encoding="base64">cHJpbnQoaW1nLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoaW1nKQo=</text>
+        <text encoding="base64">cHJpbnQodHlwZShpbWcpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx0Lmltc2hvdyhpbWcsIGNtYXA9ImdyYXkiKQo=</text>
+        <text encoding="base64">cHJpbnQoaW1nKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhpbWcsIGNtYXA9ImdyYXkiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGx0LnBsb3QobnAuYXJhbmdlKDAsIDEwMCkpCg==</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoKQpwcmludChpbWdfdHJhaW4uZ2V0X2ZpbGVsaXN0KCkpCgppbWdfdHJhaW4uZmlsdGVyX2V4Y2x1ZGUoIjYxMyIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkKCmltZ190cmFpbi5maWx0ZXJfZXhjbHVkZSgiZ3JleSIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkK</text>
+        <text encoding="base64">cGx0LnBsb3QobnAuYXJhbmdlKDAsIDEwMCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoKQpwcmludChpbWdfdHJhaW4uZ2V0X2ZpbGVsaXN0KCkpCgppbWdfdHJhaW4uZmlsdGVyX2V4Y2x1ZGUoIjYxMyIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkKCmltZ190cmFpbi5maWx0ZXJfZXhjbHVkZSgiZ3JleSIpCgpwcmludCgpCnByaW50KGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>ILS_test2_1</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
