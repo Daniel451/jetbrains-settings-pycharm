@@ -29,14 +29,21 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="25" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" timestamp="1454985228059">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454795753664">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="40" column="55" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
@@ -90,6 +97,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-2/conv_net_test1.3.py" timestamp="1454983876816">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="19" />
@@ -131,51 +144,54 @@
       <jump line="278" column="2" filename="$USER_HOME$/repositories/Python2.7Tests/tensorflow/convolutional.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_16.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_8.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>config=tf.ConfigProto(inter_op_parallelism_threads=NUM_CORES,
-                   intra_op_parallelism_threads=NUM_CORES)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">KSA=</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
+        <text encoding="base64">IyBjaGVjayBpZiBpbWFnZXMgYXJlIHByZXNlbnQKaWYgbm90IGxlbihpbWFnZV9uYW1lcykgPiAxOgogICAgZXhpdCgiRXJyb3I6IG5vIGltYWdlcyBwcmVzZW50IGluIGdpdmVuIGRpcmVjdG9yeS4iKQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">KSA=</text>
+      </register>
+      <register name="3" type="4">
+        <text>image_names</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>path</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>config=tf.ConfigProto(inter_op_parallelism_threads=NUM_CORES,
                    intra_op_parallelism_threads=NUM_CORES)</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIE5VTV9DT1JFUyA9IDE2Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG15cXVldWUuc2l6ZSgpID09IDA6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihteXF1ZXVlKSA9PSAwOgo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>e</text>
-      </register>
-      <register name="9" type="4">
-        <text>v</text>
-      </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -183,7 +199,7 @@
       <last-offset />
       <last-pattern>npy</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -200,15 +216,15 @@
         <entry>all</entry>
         <entry>action SearchEverywhere</entry>
         <entry>wa</entry>
-        <entry>wq</entry>
         <entry>redo</entry>
         <entry>5</entry>
         <entry>end</entry>
         <entry>100</entry>
         <entry>1</entry>
         <entry>280</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
