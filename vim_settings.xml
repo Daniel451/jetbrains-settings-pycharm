@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1454989099778">
+      <file name="/a.dummy" timestamp="1455014608719">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
@@ -11,10 +11,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/main.py" timestamp="1454793660160">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="25" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" timestamp="1454985228059">
         <mark key="'" line="5" column="0" />
@@ -40,16 +36,14 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="61" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455002998222">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455015955425">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1454991536134">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="32" column="29" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455015853484">
+        <mark key="[" line="32" column="100" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1454979657669">
         <mark key="[" line="285" column="20" />
@@ -62,6 +56,11 @@
         <mark key="]" line="285" column="17" />
         <mark key="^" line="285" column="17" />
         <mark key="." line="285" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_01.py" timestamp="1455014631908">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1454725845916">
         <mark key="'" line="165" column="4" />
@@ -105,6 +104,11 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455014585494">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
         <mark key="[" line="25" column="0" />
@@ -161,10 +165,6 @@
         <mark key="^" line="318" column="94" />
         <mark key="." line="318" column="94" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mnist/convolutional.py" timestamp="1454872482193">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="59" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
@@ -190,43 +190,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoR2F1c3NpYW4uZ2V0X25vcm1hbF9kaXN0cmlidXRpb24oKSkK</text>
+        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9maWxlbGlzdCgpWzBdKQpwcmludChpbWdfdHJhaW4uZ2V0X3BhdGgoKSkKCmltZyA9IG1waW1nLmltcmVhZChpbWdfdHJhaW4uZ2V0X3BhdGgoKSArIGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKVswXSkKCnByaW50KGltZy5zaGFwZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9wYXRoKCkpCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoR2F1c3NpYW4uZ2V0X25vcm1hbF9kaXN0cmlidXRpb24oKSkK</text>
+        <text encoding="base64">cHJpbnQoaW1nX3RyYWluLmdldF9maWxlbGlzdCgpWzBdKQpwcmludChpbWdfdHJhaW4uZ2V0X3BhdGgoKSkKCmltZyA9IG1waW1nLmltcmVhZChpbWdfdHJhaW4uZ2V0X3BhdGgoKSArIGltZ190cmFpbi5nZXRfZmlsZWxpc3QoKVswXSkKCnByaW50KGltZy5zaGFwZSkK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g  
+        else</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>p</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>l</text>
-      </register>
-      <register name="6" type="4">
-        <text>e</text>
-      </register>
-      <register name="7" type="4">
         <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMSkKYXhhcnIuaW1zaG93KGltZywgY21hcD0iZ3JheSIpCmF4YXJyLmFkZF9wYXRjaChwYXRjaGVzLlJlY3RhbmdsZSgoNDMwLCAyNTApLCA0MCwgNDAsIGZpbGw9RmFsc2UsIGVkZ2Vjb2xvcj0icmVkIiwgbGluZXdpZHRoPTIuMCkpCnBsdC5zYXZlZmlnKCJ0ZXN0LnBuZyIpCgo=</text>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ZmlsZXMg</text>
+      </register>
+      <register name="8" type="4">
+        <text>filter(lambda item: item[-4:] == &quot;.png&quot;, contents)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoaW1nLnNoYXBlKQo=</text>
+        <text encoding="base64">ZnJvbSByZWFkX2lucHV0X2RhdGEgaW1wb3J0IFJJRAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -291,6 +292,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
