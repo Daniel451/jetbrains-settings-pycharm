@@ -34,6 +34,11 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.3.py" timestamp="1455109630388">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/get_images_in_dir.py" timestamp="1454733211815">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -62,11 +67,11 @@
         <mark key="^" line="84" column="73" />
         <mark key="." line="84" column="73" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_03.py" timestamp="1455105617020">
-        <mark key="[" line="101" column="26" />
-        <mark key="]" line="101" column="87" />
-        <mark key="^" line="101" column="87" />
-        <mark key="." line="101" column="87" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_03.py" timestamp="1455109616150">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="102" column="33" />
+        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1455029566011">
         <mark key="[" line="0" column="0" />
@@ -109,6 +114,11 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455110624287">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classA.py" timestamp="1455035486300">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="50" />
@@ -119,12 +129,6 @@
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/gaussian_distribution.py" timestamp="1455002467683">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455021994814">
         <mark key="[" line="25" column="0" />
@@ -143,10 +147,10 @@
         <mark key="." line="60" column="38" />
         <mark key="^" line="60" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455105127608">
-        <mark key="[" line="101" column="26" />
-        <mark key="]" line="101" column="31" />
-        <mark key="." line="101" column="31" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
+        <mark key="[" line="165" column="53" />
+        <mark key="]" line="165" column="54" />
+        <mark key="." line="165" column="54" />
         <mark key="^" line="101" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
@@ -197,8 +201,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:.4f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoInRyWDoge30iLmZvcm1hdChBVC5nZXRfdHlwZSh0clgpKSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -206,35 +210,35 @@
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="4">
-        <text>:.4f</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoInRyWDoge30iLmZvcm1hdChBVC5nZXRfdHlwZSh0clgpKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="1" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>*</text>
+      <register name="2" type="4">
+        <text>#</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>*</text>
       </register>
       <register name="6" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
