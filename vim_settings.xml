@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/read_input_data.py" timestamp="1455017033136">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="27" column="32" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="21" column="109" />
@@ -18,6 +14,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.5.py" timestamp="1455116813219">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test1.3.py" timestamp="1454988236803">
         <mark key="[" line="4" column="0" />
@@ -75,6 +76,12 @@
         <mark key="]" line="0" column="59" />
         <mark key="^" line="285" column="57" />
         <mark key="." line="285" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_05.py" timestamp="1455116785459">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="93" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
