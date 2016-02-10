@@ -7,6 +7,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="27" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="21" column="109" />
+        <mark key="." line="21" column="109" />
+        <mark key="^" line="21" column="109" />
+      </file>
       <file name="/a.dummy" timestamp="1455014608719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,11 +97,6 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_1.py" timestamp="1454988976577">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -130,7 +131,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1454859171470">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1455107262574">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="26" column="4" />
         <mark key="^" line="26" column="4" />
@@ -197,43 +198,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>:.4f</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="4">
-        <text>tf.nn.softmax_cross_entropy_with_logits(y_conv, y_train)</text>
+        <text>:.4f</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnQgPSAoc3RhcnQgKyAxKQogICAgICAgICAgICBlbmQgPSAoZW5kICsgMSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZW5kID4gdHJYLnNoYXBlWzBdOgogICAgICAgICAgICAgICAgc3RhcnQgPSAwCiAgICAgICAgICAgICAgICBlbmQgPSAxCg==</text>
+      <register name="3" type="4">
+        <text>*</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBGaXJzdCAzMi1jb3JlIHZlcnNpb24gdG8gZnVsbHkgcnVuIG9uIEh1bW1lbC1DbHVzdGVyCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>1</text>
-      </register>
-      <register name="7" type="4">
-        <text>0</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>)</text>
       </register>
+      <register name="6" type="4">
+        <text>]</text>
+      </register>
+      <register name="7" type="4">
+        <text>i</text>
+      </register>
+      <register name="8" type="4">
+        <text>[</text>
+      </register>
       <register name="9" type="4">
-        <text>Y</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
