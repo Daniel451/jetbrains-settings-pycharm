@@ -15,6 +15,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7.py" timestamp="1455227739203">
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="17" column="51" />
@@ -25,11 +30,6 @@
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classB.py" timestamp="1455031540798">
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455201925602">
         <mark key="[" line="0" column="0" />
@@ -175,6 +175,12 @@
         <mark key="^" line="46" column="22" />
         <mark key="." line="63" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07.py" timestamp="1455228533529">
+        <mark key="[" line="157" column="58" />
+        <mark key="]" line="157" column="57" />
+        <mark key="." line="157" column="57" />
+        <mark key="^" line="157" column="57" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_04.py" timestamp="1455115201647">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -229,8 +235,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJsb2dfZGF0YSIsIHR5cGUobG9nX2RhdGEpKQogICAgICAgICAgICAgICAgcHJpbnQoInRyWFtpbWdfaV0iLCB0eXBlKHRyWFtpbWdfaV0pLCB0clhbaW1nX2ldLnNoYXBlKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(1 - tf.minimum(1.0, 2 * cross_entropy))\
+                          * tf.abs(2 - tf.reduce_sum(y_conv))</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -241,32 +248,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXJyID0gbmV0d29ya19vdXRwdXQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJsb2dfZGF0YSIsIHR5cGUobG9nX2RhdGEpKQogICAgICAgICAgICAgICAgcHJpbnQoInRyWFtpbWdfaV0iLCB0eXBlKHRyWFtpbWdfaV0pLCB0clhbaW1nX2ldLnNoYXBlKQo=</text>
+      <register name="1" type="4">
+        <text>(1 - tf.minimum(1.0, 2 * cross_entropy))\
+                          * tf.abs(2 - tf.reduce_sum(y_conv))</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICMgY3JlYXRlIHN1YnBsb3RzCg==</text>
+      <register name="3" type="4">
+        <text>y_train</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyByZXNoYXBlIGltYWdlIGRhdGEKICAgICAgICAgICAgZGF0YV9pbnB1dCA9IGRhdGFfaW5wdXQucmVzaGFwZSg2MDAsIDgwMCkK</text>
+      <register name="5" type="4">
+        <text>y_conv</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlxucGxvdCBkYXRhX2lucHV0IiwgZGF0YV9pbnB1dC5zaGFwZSkKICAgICAgICAgICAgYXJyID0gbmV0d29ya19vdXRwdXQKICAgICAgICAgICAgcHJpbnQoInBsb3QgbmV0d29yayBvdXRwdXQiLCBhcnIuc2hhcGUsIG5wLm1heChhcnIpLCBucC5taW4oYXJyKSwgbnAuYXJnbWF4KGFycikpCiAgICAgICAgICAgIGFyciA9IG5ldHdvcmtfb3V0cHV0WzA6ODAwXQogICAgICAgICAgICBwcmludCgicGxvdCBuZXR3b3JrIG91dHB1dCIsIGFyci5zaGFwZSwgbnAubWF4KGFyciksIG5wLm1pbihhcnIpLCBucC5hcmdtYXgoYXJyKSkKICAgICAgICAgICAgYXJyID0gbmV0d29ya19vdXRwdXRbODAwOjE0MDBdCiAgICAgICAgICAgIHByaW50KCJwbG90IG5ldHdvcmsgb3V0cHV0IiwgYXJyLnNoYXBlLCBucC5tYXgoYXJyKSwgbnAubWluKGFyciksIG5wLmFyZ21heChhcnIpKQo=</text>
+      <register name="6" type="4">
+        <text>(</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInBsb3QgbmV0d29yayBvdXRwdXQiLCBuZXR3b3JrX291dHB1dC5zaGFwZSwgbnAubWF4KG5ldHdvcmtfb3V0cHV0KSwgbnAubWluKG5ldHdvcmtfb3V0cHV0KSwgbnAuYXJnbWF4KG5ldHdvcmtfb3V0cHV0KSkK</text>
+      <register name="7" type="4">
+        <text>softmax_cross_entropy_with_logits</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInBsb3QgbmV0d29yayBvdXRwdXQiLCBuZXR3b3JrX291dHB1dC5zaGFwZSwgbnAubWF4KG5ldHdvcmtfb3V0cHV0KSwgbnAubWluKG5ldHdvcmtfb3V0cHV0KSwgbnAuYXJnbWF4KG5ldHdvcmtfb3V0cHV0KSkK</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwbG90IGNvc3QgZnVuY3Rpb24gdmFsdWVzIGFuZCBjcm9zcyBlbnRyb3B5IHZhbHVlcwogICAgICAgICAgICBheGFyclszXS5wbG90KGNvc3RfZnVuY3Rpb24sIGxpbmVzdHlsZT0ic29saWQiLCBtYXJrZXI9IngiLCBjb2xvcj0iYmx1ZSIpCiAgICAgICAgICAgIGF4YXJyWzNdLnBsb3QoY3Jvc3NfZW50cm9weSwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJyZWQiKQo=</text>
+      <register name="9" type="4">
+        <text>nn</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
