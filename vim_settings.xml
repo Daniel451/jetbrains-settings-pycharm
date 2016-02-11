@@ -88,11 +88,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455204716562">
-        <mark key="[" line="125" column="25" />
-        <mark key="]" line="125" column="25" />
-        <mark key="." line="125" column="25" />
-        <mark key="^" line="182" column="56" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455205221653">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="47" column="48" />
+        <mark key="." line="47" column="48" />
+        <mark key="^" line="47" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -229,8 +229,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXhhcnJbMV0ucGxvdChuZXR3b3JrX291dHB1dCwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJtYWdlbnRhIikKICAgICAgICAgICAgYXhhcnJbMV0ucGxvdCh0ZWFjaGVyX3NpZ25hbCwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJibGFjayIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -239,7 +239,7 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ19kYXRhID0gc2Vzcy5ydW4oeV9jb252LCBmZWVkX2RpY3Q9e3g6IFt0clhbMF1dLCBrZWVwX3Byb2I6IDEuMH0pCiAgICAgICAgICAgICAgICBsb2dfcGxvdCh0clhbMF0sIGxvZ19kYXRhWzBdLCB0cllbMF0sIGxvZ19kYXRhWzFdLCBsb2dfZGF0YVsyXSwKICAgICAgICAgICAgICAgICAgICAgICAgICIvd29yay9pbnR4MDMzL2xvZy9leHAyXzA2L2ltZzBfezowPjV9LnBuZyIsIGkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXhhcnJbMV0ucGxvdChuZXR3b3JrX291dHB1dCwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJtYWdlbnRhIikKICAgICAgICAgICAgYXhhcnJbMV0ucGxvdCh0ZWFjaGVyX3NpZ25hbCwgbGluZXN0eWxlPSJzb2xpZCIsIG1hcmtlcj0ieCIsIGNvbG9yPSJibGFjayIpCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -335,6 +335,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
