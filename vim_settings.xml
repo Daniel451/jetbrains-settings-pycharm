@@ -31,9 +31,9 @@
         <mark key="^" line="5" column="37" />
         <mark key="." line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455022957808">
-        <mark key="[" line="84" column="40" />
-        <mark key="]" line="84" column="73" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1455201925602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
         <mark key="^" line="84" column="73" />
         <mark key="." line="84" column="73" />
       </file>
@@ -88,10 +88,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455200820015">
-        <mark key="]" line="109" column="69" />
-        <mark key="^" line="109" column="69" />
-        <mark key="." line="109" column="71" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455201752039">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -149,6 +150,12 @@
         <mark key="[" line="193" column="100" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.0.py" timestamp="1455035471987" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455202485606">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="51" />
+        <mark key="." line="8" column="51" />
+        <mark key="^" line="8" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/kalman_tests/kalman_test1.py" timestamp="1455035503962" />
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
@@ -223,43 +230,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(1 - tf.minimum(0.95, 2*tf.nn.softmax_cross_entropy_with_logits(y_conv, y_train)))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="4">
-        <text>(1 - tf.minimum(0.95, 2*tf.nn.softmax_cross_entropy_with_logits(y_conv, y_train)))</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>h</text>
+        <text>0</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>a</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">aWYoaW1nLnNoYXBlW10pCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">cGx0LnNhdmVmaWcoIi93b3JrL2ludHgwMzMvbG9nL2V4cDJfMDYvaW1nMV97OjA+NX0ucG5nIi5mb3JtYXQoaSkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">YXhhcnJbMCwgMF0uY2xmKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
