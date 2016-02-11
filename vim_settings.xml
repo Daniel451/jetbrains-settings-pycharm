@@ -88,11 +88,11 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455118037902">
-        <mark key="[" line="99" column="12" />
-        <mark key="]" line="101" column="35" />
-        <mark key="." line="101" column="35" />
-        <mark key="^" line="101" column="35" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455199513923">
+        <mark key="[" line="100" column="103" />
+        <mark key="]" line="100" column="104" />
+        <mark key="^" line="100" column="21" />
+        <mark key="." line="100" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -223,8 +223,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKyAoMSAtIHRmLm1pbmltdW0oMS4wLCB0Zi5ubi5zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMoeV9jb252LCB5X3RyYWluKSkpXAogICAgICAgICAgICAgICAgICAgICAgICAgICogdGYuYWJzKDEgLSB0Zi5yZWR1Y2Vfc3VtKHlfY29udikpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(1 - tf.minimum(0.95, 2*tf.nn.softmax_cross_entropy_with_logits(y_conv, y_train)))</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -232,8 +232,8 @@
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKyAoMSAtIHRmLm1pbmltdW0oMS4wLCB0Zi5ubi5zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMoeV9jb252LCB5X3RyYWluKSkpXAogICAgICAgICAgICAgICAgICAgICAgICAgICogdGYuYWJzKDEgLSB0Zi5yZWR1Y2Vfc3VtKHlfY29udikpCg==</text>
+      <register name="0" type="4">
+        <text>(1 - tf.minimum(0.95, 2*tf.nn.softmax_cross_entropy_with_logits(y_conv, y_train)))</text>
       </register>
       <register name="1" type="4">
         <text>)</text>
