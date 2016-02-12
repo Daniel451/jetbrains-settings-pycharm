@@ -43,6 +43,11 @@
         <mark key="^" line="102" column="33" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_3.py" timestamp="1455260019385">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
         <mark key="]" line="285" column="17" />
@@ -146,6 +151,12 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_3.py" timestamp="1455260101801">
+        <mark key="[" line="149" column="56" />
+        <mark key="]" line="149" column="50" />
+        <mark key="." line="149" column="50" />
+        <mark key="^" line="149" column="50" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1455029566011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
@@ -157,9 +168,6 @@
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="93" column="61" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_01.py" timestamp="1455105014752">
-        <mark key="[" line="193" column="100" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455203888672">
         <mark key="[" line="8" column="0" />
