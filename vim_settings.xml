@@ -20,6 +20,12 @@
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_5.py" timestamp="1455287916318">
+        <mark key="[" line="109" column="35" />
+        <mark key="]" line="128" column="38" />
+        <mark key="." line="128" column="38" />
+        <mark key="^" line="128" column="38" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="17" column="51" />
@@ -82,11 +88,11 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455287417560">
-        <mark key="[" line="143" column="20" />
-        <mark key="]" line="145" column="14" />
-        <mark key="." line="145" column="14" />
-        <mark key="^" line="145" column="14" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455287552615">
+        <mark key="[" line="145" column="14" />
+        <mark key="]" line="147" column="51" />
+        <mark key="." line="147" column="51" />
+        <mark key="^" line="147" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -116,6 +122,11 @@
         <mark key="]" line="165" column="54" />
         <mark key="." line="165" column="54" />
         <mark key="^" line="101" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_6.py" timestamp="1455288032250">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -175,6 +186,11 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="93" column="61" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_5.py" timestamp="1455287727468">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455203888672">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="12" column="66" />
@@ -205,6 +221,12 @@
         <mark key="." line="149" column="57" />
         <mark key="^" line="149" column="57" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455288426367">
+        <mark key="[" line="278" column="52" />
+        <mark key="]" line="278" column="53" />
+        <mark key="." line="278" column="53" />
+        <mark key="^" line="288" column="104" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_04.py" timestamp="1455115201647">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -221,6 +243,11 @@
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_4.py" timestamp="1455287629889">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
         <mark key="[" line="285" column="16" />
@@ -265,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fc3RlcDEsIGZlZWRfZGljdD17eDogdHJYW3N0YXJ0OmVuZF0sIHlfdHJhaW46IHRyWVtzdGFydDplbmRdLCBrZWVwX3Byb2I6IDAuNX0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -274,19 +301,19 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyID0gbmV0d29ya19vdXRwdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fc3RlcDEsIGZlZWRfZGljdD17eDogdHJYW3N0YXJ0OmVuZF0sIHlfdHJhaW46IHRyWVtzdGFydDplbmRdLCBrZWVwX3Byb2I6IDAuNX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3N0X2Z1bmN0aW9uID0gY3Jvc3NfZW50cm9weQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciBwbG90CiAgICAgICAgICAgIHBsdC5jbGYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciBwbG90CiAgICAgICAgICAgIHBsdC5jbGYoKQo=</text>
       </register>
       <register name="5" type="4">
         <text>0</text>
@@ -300,8 +327,8 @@
       <register name="8" type="4">
         <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
