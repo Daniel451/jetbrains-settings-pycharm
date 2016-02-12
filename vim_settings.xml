@@ -15,10 +15,23 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" timestamp="1454985228059">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7.py" timestamp="1455227739203">
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_5.py" timestamp="1455294865923">
+        <mark key="[" line="168" column="37" />
+        <mark key="]" line="168" column="36" />
+        <mark key="." line="168" column="36" />
+        <mark key="^" line="168" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -82,7 +95,8 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455293278983">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455294830578">
+        <mark key="'" line="275" column="69" />
         <mark key="[" line="145" column="14" />
         <mark key="]" line="147" column="51" />
         <mark key="." line="147" column="51" />
@@ -283,13 +297,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
       <jump line="7" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
+      <jump line="275" column="69" filename="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fc3RlcDEsIGZlZWRfZGljdD17eDogdHJYW3N0YXJ0OmVuZF0sIHlfdHJhaW46IHRyWVtzdGFydDplbmRdLCBrZWVwX3Byb2I6IDAuNX0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>integral_constraint</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>integral_constraint</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -297,23 +312,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fc3RlcDEsIGZlZWRfZGljdD17eDogdHJYW3N0YXJ0OmVuZF0sIHlfdHJhaW46IHRyWVtzdGFydDplbmRdLCBrZWVwX3Byb2I6IDAuNX0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0X2Z1bmN0aW9uID0gY3Jvc3NfZW50cm9weQo=</text>
+      <register name="1" type="4">
+        <text>integral_constraint</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb3N0X2Z1bmN0aW9uID0gY3Jvc3NfZW50cm9weQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciBwbG90CiAgICAgICAgICAgIHBsdC5jbGYoKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>0</text>
-      </register>
-      <register name="6" type="4">
-        <text>0</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
