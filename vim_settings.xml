@@ -82,6 +82,12 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455287417560">
+        <mark key="[" line="143" column="20" />
+        <mark key="]" line="145" column="14" />
+        <mark key="." line="145" column="14" />
+        <mark key="^" line="145" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="63" column="19" />
@@ -258,8 +264,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -270,14 +276,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXJyID0gbmV0d29ya19vdXRwdXQK</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciBwbG90CiAgICAgICAgICAgIHBsdC5jbGYoKQo=</text>
       </register>
       <register name="4" type="4">
         <text>0</text>
@@ -285,14 +291,14 @@
       <register name="5" type="4">
         <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciBwbG90CiAgICAgICAgICAgIHBsdC5jbGYoKQo=</text>
+      <register name="8" type="4">
+        <text>0</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
