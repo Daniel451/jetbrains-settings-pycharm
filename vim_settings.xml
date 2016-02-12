@@ -95,12 +95,12 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455294830578">
-        <mark key="'" line="275" column="69" />
-        <mark key="[" line="145" column="14" />
-        <mark key="]" line="147" column="51" />
-        <mark key="." line="147" column="51" />
-        <mark key="^" line="147" column="51" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455301100432">
+        <mark key="'" line="274" column="69" />
+        <mark key="[" line="147" column="28" />
+        <mark key="]" line="147" column="52" />
+        <mark key="^" line="147" column="52" />
+        <mark key="." line="147" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -229,10 +229,10 @@
         <mark key="." line="149" column="57" />
         <mark key="^" line="149" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455292899471">
-        <mark key="[" line="111" column="39" />
-        <mark key="]" line="129" column="49" />
-        <mark key="." line="129" column="49" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455300365334">
+        <mark key="[" line="169" column="48" />
+        <mark key="]" line="169" column="48" />
+        <mark key="." line="169" column="48" />
         <mark key="^" line="129" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_04.py" timestamp="1455115201647">
@@ -301,43 +301,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>integral_constraint</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>integral_constraint</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4odHJhaW5fc3RlcDEsIGZlZWRfZGljdD17eDogdHJYW3N0YXJ0OmVuZF0sIHlfdHJhaW46IHRyWVtzdGFydDplbmRdLCBrZWVwX3Byb2I6IDAuNX0pCg==</text>
+        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>integral_constraint</text>
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">KyA=</text>
+        <text>o</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3N0X2Z1bmN0aW9uID0gY3Jvc3NfZW50cm9weQo=</text>
+      <register name="3" type="4">
+        <text>r</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>z</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciBwbG90CiAgICAgICAgICAgIHBsdC5jbGYoKQo=</text>
+        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCA4MDA6MTQwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgODAwOjE0MDBdKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>0</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
