@@ -144,12 +144,11 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455470687747">
-        <mark key="'" line="45" column="39" />
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="17" />
-        <mark key="^" line="48" column="17" />
-        <mark key="." line="48" column="17" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455474482072">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -220,11 +219,11 @@
         <mark key="." line="13" column="66" />
         <mark key="^" line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455470594131">
-        <mark key="[" line="159" column="62" />
-        <mark key="]" line="159" column="62" />
-        <mark key="^" line="52" column="62" />
-        <mark key="." line="159" column="62" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455473795252">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="274" column="104" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
@@ -323,38 +322,38 @@
       <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Experiment2_07_6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQob3MuZW52aXJvblsiQlRFWCJdKSAgIyBkZWJ1Zwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Experiment2_07_6</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="4">
-        <text>trX, teX, tr_Y_x, tr_Y_y, te_Y_x, te_Y_y</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fYWRkX2xpc3RfY29udGFpbmVyX2Zvcl9sb2dfbGlzdF9rZXkoTE9HX09CSi5pbWcwMCwgTE9HX0VOVFJJRVMuY3Jvc3NfZW50cm9weV94KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Experiment2_07_6</text>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnQob3MuZW52aXJvblsiQlRFWCJdKSAgIyBkZWJ1Zwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Y</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>e</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoc3RyKG9zLmVudmlyb25bIkJURVgiXSkpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvc3Qgc2hvdWxkIGJlIGNyb3NzIGVudHJvcHkgKyBJbnRlZ3JhbENvbnN0cmFpbnQKICAgICAgICAjCiAgICAgICAgIyBhc3N1bXB0aW9uOiAoMSAtIHRmLm1pbmltdW0oMC45NSwgMip0Zi5ubi5zb2Z0bWF4X2Nyb3NzX2VudHJvcHlfd2l0aF9sb2dpdHMoeV9jb252LCB5X3RyYWluKSkpCiAgICAgICAgIyBjcm9zc19lbnRyb3B5IGhpZ2ggLT4gbG93IEludGVncmFsQ29uc3RyYWludAogICAgICAgICMgY3Jvc3NfZW50cm9weSBsb3cgLT4gaGlnaCBJbnRlZ3JhbENvbnN0cmFpbnQKICAgICAgICAjIHNvIHRoZSBiZXR0ZXIgdGhlIG5ldHdvcmsgY2xhc3NpZmllcyAoY3Jvc3NfZW50cm9weSBsb3cpLCB0aGUgaGlnaHQgc2hvdWxkIGdldCB0aGUgY29uc3RyYWludAogICAgICAgICMgdG8gZml0IHRoZSBvdXRwdXQgZGlzdHJpYnV0aW9ucyBpbiBhIHN1bSBvZiBhYm91dCAyIGluIHRvdGFsCg==</text>
       </register>
       <register name="7" type="4">
-        <text>X</text>
+        <text>Y</text>
       </register>
       <register name="8" type="4">
         <text>e</text>
