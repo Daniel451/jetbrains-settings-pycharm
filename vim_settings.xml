@@ -144,11 +144,11 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455454993234">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="8" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455458125598">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="48" />
+        <mark key="^" line="19" column="48" />
+        <mark key="." line="19" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -315,10 +315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -327,31 +327,31 @@
         <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
-      <register name="2" type="4">
-        <text>o</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyBpbWdfdHJhaW4ubG9hZF9kaXIoIi9ob21lL2RhbmllbC9idC1pbWcvdGVzdC10cmFpbmluZy0xL3RyYWluLyIpCg==</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>z</text>
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCA4MDA6MTQwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgODAwOjE0MDBdKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
-      </register>
-      <register name="8" type="4">
+      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="9" type="4">
-        <text>p</text>
+      <register name="7" type="4">
+        <text>z</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCA4MDA6MTQwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgODAwOjE0MDBdKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
