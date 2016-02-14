@@ -219,7 +219,7 @@
         <mark key="." line="13" column="66" />
         <mark key="^" line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455480988499">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455486088350">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="18" column="40" />
         <mark key="^" line="18" column="40" />
@@ -322,8 +322,8 @@
       <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -331,35 +331,35 @@
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="4">
-        <text>prop={&quot;size&quot;: 6}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9fbG9nX2xpc3RzW2xvZ19vYmpdW0xPR19FTlRSSUVTLmNyb3NzX2VudHJvcHlfeF0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>prop={&quot;size&quot;: 6}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChsb2dfb2JqKQogICAgICAgIHByaW50KGxvZ19vYmoubmFtZSkK</text>
       </register>
-      <register name="3" type="4">
-        <text>img00</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJsb2dvYmpfcGFzc19kZWJ1ZyIsIExPR19PQkouaW1nMDAubmFtZSkKICAgICAgICAgICAgICAgIHByaW50KCJjZXgiLCBjZV94LCAiY2V5IiwgY2VfeSkK</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>LOG_OBJ</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>5</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>prop={&quot;size&quot;: 6}</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>img00</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
