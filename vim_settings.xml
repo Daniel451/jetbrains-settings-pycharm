@@ -144,12 +144,12 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455461152885">
-        <mark key="'" line="64" column="39" />
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="59" />
-        <mark key="^" line="6" column="59" />
-        <mark key="." line="6" column="59" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455470687747">
+        <mark key="'" line="45" column="39" />
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -214,17 +214,17 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455460991822">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="15" />
-        <mark key="." line="12" column="15" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455470831786">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="66" />
+        <mark key="." line="13" column="66" />
+        <mark key="^" line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455466420275">
-        <mark key="[" line="66" column="31" />
-        <mark key="]" line="66" column="31" />
-        <mark key="^" line="63" column="58" />
-        <mark key="." line="66" column="31" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455470594131">
+        <mark key="[" line="159" column="62" />
+        <mark key="]" line="159" column="62" />
+        <mark key="^" line="52" column="62" />
+        <mark key="." line="159" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
@@ -324,43 +324,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>enumeration</text>
+        <text>Experiment2_07_6</text>
       </register>
       <register name="-" type="4">
-        <text>enumeration</text>
+        <text>Experiment2_07_6</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="4">
-        <text>Log object (enumeration)</text>
+        <text>trX, teX, tr_Y_x, tr_Y_y, te_Y_x, te_Y_y</text>
       </register>
       <register name="1" type="4">
-        <text>enumeration</text>
+        <text>Experiment2_07_6</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICg=</text>
+        <text>Y</text>
       </register>
       <register name="3" type="4">
-        <text>ect</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>:param log_obj: Log obj</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>ect (enumeration)</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbG9nX29iajogTG9nIG9iamVjdCAoZW51bWVyYXRpb24pCg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>ect (enumeration)</text>
+        <text>X</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IGtleQ==</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>/container</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
