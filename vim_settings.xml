@@ -220,11 +220,11 @@
         <mark key="." line="12" column="15" />
         <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455464148725">
-        <mark key="[" line="59" column="29" />
-        <mark key="]" line="59" column="29" />
-        <mark key="^" line="59" column="29" />
-        <mark key="." line="59" column="29" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455466420275">
+        <mark key="[" line="66" column="31" />
+        <mark key="]" line="66" column="31" />
+        <mark key="^" line="63" column="58" />
+        <mark key="." line="66" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
@@ -324,43 +324,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>enumeration</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>enumeration</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fY3JlYXRlX2xvZ19saXN0KExPR19PQkouaW1nMDApCg==</text>
+      <register name="0" type="4">
+        <text>Log object (enumeration)</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>enumeration</text>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text encoding="base64">ICg=</text>
       </register>
       <register name="3" type="4">
-        <text>m</text>
+        <text>ect</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>:param log_obj: Log obj</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>ect (enumeration)</text>
       </register>
-      <register name="6" type="4">
-        <text>J</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbG9nX29iajogTG9nIG9iamVjdCAoZW51bWVyYXRpb24pCg==</text>
       </register>
       <register name="7" type="4">
-        <text>B</text>
+        <text>ect (enumeration)</text>
       </register>
       <register name="8" type="4">
-        <text>O</text>
+        <text encoding="base64">IGtleQ==</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>/container</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
