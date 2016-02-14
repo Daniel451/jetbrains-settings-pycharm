@@ -144,11 +144,12 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455458125598">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="48" />
-        <mark key="^" line="19" column="48" />
-        <mark key="." line="19" column="48" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455461152885">
+        <mark key="'" line="64" column="39" />
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="6" column="59" />
+        <mark key="^" line="6" column="59" />
+        <mark key="." line="6" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -213,11 +214,17 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455203888672">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="66" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455460991822">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455461367428">
+        <mark key="[" line="325" column="11" />
+        <mark key="]" line="325" column="15" />
+        <mark key="." line="325" column="15" />
+        <mark key="^" line="325" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
@@ -312,46 +319,48 @@
       <jump line="7" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
       <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
       <jump line="275" column="69" filename="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" />
+      <jump line="6" column="59" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
+      <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGx0LmxlZ2VuZChsb2M9InVwcGVyIGxlZnQiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
+        <text encoding="base64">YXhhcnJbMl0ucGxvdChkaXN0cmksIGxpbmVzdHlsZT0ic29saWQiLCBtYXJrZXI9IngiLCBjb2xvcj0iYmxhY2siKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">cGx0LmxlZ2VuZChsb2M9InVwcGVyIGxlZnQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBpbWdfdHJhaW4ubG9hZF9kaXIoIi9ob21lL2RhbmllbC9idC1pbWcvdGVzdC10cmFpbmluZy0xL3RyYWluLyIpCg==</text>
+        <text encoding="base64">cGx0LmxlZ2VuZCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQobnAubWF4KGRpc3RyaSkpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoZGlzdHJpLnNoYXBlKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>]</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>z</text>
+        <text>[</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCA4MDA6MTQwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgODAwOjE0MDBdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5X2NvbnZfc29mdG1heFs6LCAwOjgwMF0gPSB0Zi5ubi5zb2Z0bWF4KHlfY29udl9saW5lYXJbOiwgMDo4MDBdKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
