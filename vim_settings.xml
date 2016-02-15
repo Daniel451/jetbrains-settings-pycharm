@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.6.py" timestamp="1455502141004">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="21" column="109" />
@@ -17,13 +22,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" timestamp="1454985228059">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7.py" timestamp="1455227739203">
         <mark key="[" line="63" column="17" />
@@ -99,6 +97,17 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_07.py" timestamp="1455502224486">
+        <mark key="[" line="191" column="44" />
+        <mark key="]" line="235" column="35" />
+        <mark key="." line="235" column="35" />
+        <mark key="^" line="235" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.5.py" timestamp="1455502007218">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_1.py" timestamp="1454988976577">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -119,13 +128,6 @@
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" timestamp="1455301100432">
-        <mark key="'" line="274" column="69" />
-        <mark key="[" line="147" column="28" />
-        <mark key="]" line="147" column="52" />
-        <mark key="^" line="147" column="52" />
-        <mark key="." line="147" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -253,6 +255,12 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455502285224">
+        <mark key="[" line="200" column="41" />
+        <mark key="]" line="209" column="42" />
+        <mark key="." line="209" column="42" />
+        <mark key="^" line="209" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_2.py" timestamp="1454868680515">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -345,6 +353,17 @@
         <mark key="]" line="229" column="53" />
         <mark key="^" line="236" column="53" />
         <mark key="." line="229" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.7.py" timestamp="1455502253984">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_06.py" timestamp="1455502342605">
+        <mark key="[" line="200" column="41" />
+        <mark key="]" line="209" column="42" />
+        <mark key="." line="209" column="42" />
+        <mark key="^" line="209" column="42" />
       </file>
     </filemarks>
     <jumps>
