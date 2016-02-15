@@ -71,6 +71,11 @@
         <mark key="^" line="7" column="81" />
         <mark key="." line="7" column="81" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_4.1.py" timestamp="1455542795549">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="15" />
+        <mark key="." line="50" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.2.py" timestamp="1455499421002">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
@@ -159,12 +164,6 @@
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455474482072">
-        <mark key="'" line="41" column="39" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455499809644">
         <mark key="[" line="249" column="49" />
@@ -288,6 +287,12 @@
         <mark key="." line="149" column="57" />
         <mark key="^" line="149" column="57" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455542698557">
+        <mark key="[" line="164" column="50" />
+        <mark key="]" line="164" column="51" />
+        <mark key="." line="164" column="51" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455499929905">
         <mark key="[" line="158" column="0" />
         <mark key="]" line="159" column="71" />
@@ -396,7 +401,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoX3Bvb2wxID0gdGYubm4uZHJvcG91dChoX3Bvb2wxLCBrZWVwX3Byb2IpCg==</text>
+        <text encoding="base64">IyBGaXJzdCAzMi1jb3JlIHZlcnNpb24gdG8gZnVsbHkgcnVuIG9uIEh1bW1lbC1DbHVzdGVyCiMgb25seSB4LWNvb3JkaW5hdGUK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -408,31 +413,31 @@
         <text>tf.constant(0.0, dtype=tf.float32)</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">IyBGaXJzdCAzMi1jb3JlIHZlcnNpb24gdG8gZnVsbHkgcnVuIG9uIEh1bW1lbC1DbHVzdGVyCiMgb25seSB4LWNvb3JkaW5hdGUK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBoX3Bvb2wxID0gdGYubm4uZHJvcG91dChoX3Bvb2wxLCBrZWVwX3Byb2IpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
-      </register>
       <register name="3" type="4">
-        <text>tf.train.AdamOptimizer(0.001).minimize(cross_entropy_y)</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tf.train.AdamOptimizer(0.001).minimize(cross_entropy_y)</text>
       </register>
       <register name="5" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>tf.nn.softmax_cross_entropy_with_logits(nn_out_y_linear, y_train_y)</text>
+        <text>#</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>tf.nn.softmax_cross_entropy_with_logits(nn_out_y_linear, y_train_y)</text>
       </register>
       <register name="8" type="4">
         <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbCA9IHRmLnJhbmRvbV9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjUsIGR0eXBlPXRmLmZsb2F0MzIpCg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
