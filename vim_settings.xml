@@ -76,15 +76,15 @@
         <mark key="]" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.2.py" timestamp="1455550910726">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.2.py" timestamp="1455556756530">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_03.py" timestamp="1455499703885">
-        <mark key="[" line="219" column="31" />
-        <mark key="]" line="219" column="32" />
-        <mark key="." line="219" column="32" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_03.py" timestamp="1455556902892">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
         <mark key="^" line="248" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01_2.py" timestamp="1455500470411">
@@ -327,10 +327,10 @@
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_02.py" timestamp="1455552796820">
-        <mark key="[" line="260" column="62" />
-        <mark key="]" line="260" column="97" />
-        <mark key="." line="260" column="97" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_02.py" timestamp="1455556848931">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
         <mark key="^" line="260" column="97" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
@@ -470,10 +470,10 @@
         <entry>280</entry>
         <entry>noh</entry>
         <entry>q</entry>
-        <entry>1</entry>
         <entry>redo</entry>
         <entry>wa</entry>
         <entry>wq</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
