@@ -94,10 +94,10 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_07.py" timestamp="1455502224486">
-        <mark key="[" line="191" column="44" />
-        <mark key="]" line="235" column="35" />
-        <mark key="." line="235" column="35" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_07.py" timestamp="1455540771760">
+        <mark key="[" line="221" column="54" />
+        <mark key="]" line="221" column="55" />
+        <mark key="." line="221" column="55" />
         <mark key="^" line="235" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.5.py" timestamp="1455502007218">
@@ -247,11 +247,11 @@
         <mark key="." line="13" column="66" />
         <mark key="^" line="13" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455538507504">
-        <mark key="[" line="247" column="42" />
-        <mark key="]" line="251" column="53" />
-        <mark key="." line="251" column="53" />
-        <mark key="^" line="251" column="53" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455541118995">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.4.py" timestamp="1455499829794">
         <mark key="[" line="48" column="17" />
@@ -362,10 +362,10 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_06.py" timestamp="1455502342605">
-        <mark key="[" line="200" column="41" />
-        <mark key="]" line="209" column="42" />
-        <mark key="." line="209" column="42" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_06.py" timestamp="1455540733461">
+        <mark key="[" line="221" column="54" />
+        <mark key="]" line="221" column="55" />
+        <mark key="." line="221" column="55" />
         <mark key="^" line="209" column="42" />
       </file>
     </filemarks>
@@ -395,8 +395,8 @@
       <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoX3Bvb2wxID0gdGYubm4uZHJvcG91dChoX3Bvb2wxLCBrZWVwX3Byb2IpCg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -407,32 +407,32 @@
       <register name="0" type="4">
         <text>tf.constant(0.0, dtype=tf.float32)</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBoX3Bvb2wxID0gdGYubm4uZHJvcG91dChoX3Bvb2wxLCBrZWVwX3Byb2IpCg==</text>
       </register>
       <register name="2" type="4">
-        <text>tf.train.AdamOptimizer(0.001).minimize(cross_entropy_y)</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>tf.train.AdamOptimizer(0.001).minimize(cross_entropy_y)</text>
       </register>
       <register name="4" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>tf.nn.softmax_cross_entropy_with_logits(nn_out_y_linear, y_train_y)</text>
+        <text>#</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>tf.nn.softmax_cross_entropy_with_logits(nn_out_y_linear, y_train_y)</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbCA9IHRmLnJhbmRvbV9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjUsIGR0eXBlPXRmLmZsb2F0MzIpCg==</text>
+      <register name="8" type="4">
+        <text>0</text>
       </register>
-      <register name="9" type="4">
-        <text>cross_entropy_x,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbCA9IHRmLnJhbmRvbV9ub3JtYWwoc2hhcGUsIHN0ZGRldj0wLjUsIGR0eXBlPXRmLmZsb2F0MzIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
