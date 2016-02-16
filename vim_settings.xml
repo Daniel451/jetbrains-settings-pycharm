@@ -286,11 +286,11 @@
         <mark key="." line="149" column="57" />
         <mark key="^" line="149" column="57" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455578394796">
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="41" />
-        <mark key="." line="25" column="41" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455580663800">
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="105" column="50" />
+        <mark key="." line="105" column="50" />
+        <mark key="^" line="105" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455571384948">
         <mark key="[" line="158" column="30" />
@@ -400,7 +400,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoInRyWCIsIEFULmdldF90eXBlKHRlWCkpCnByaW50KCJ0ZVl4IiwgQVQuZ2V0X3R5cGUodGVZX3hfY29vcmQpKQpwcmludCgidGVZeSIsIEFULmdldF90eXBlKHRlWV95X2Nvb3JkKSkKZXhpdCgpCg==</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
@@ -412,13 +412,13 @@
         <text encoding="base64">cHJpbnQoInRyWCIsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoInRyWCIsIEFULmdldF90eXBlKHRlWCkpCnByaW50KCJ0ZVl4IiwgQVQuZ2V0X3R5cGUodGVZX3hfY29vcmQpKQpwcmludCgidGVZeSIsIEFULmdldF90eXBlKHRlWV95X2Nvb3JkKSkKZXhpdCgpCg==</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoInRyWCIsIEFULmdldF90eXBlKHRyWCkpCnByaW50KCJ0cll4IiwgQVQuZ2V0X3R5cGUodHJZX3hfY29vcmQpKQpwcmludCgidHJZeSIsIEFULmdldF90eXBlKHRyWV95X2Nvb3JkKSkKcHJpbnQoIiIpCg==</text>
+        <text encoding="base64">cHJpbnQoInRyWCIsIEFULmdldF90eXBlKHRlWCkpCnByaW50KCJ0ZVl4IiwgQVQuZ2V0X3R5cGUodGVZX3hfY29vcmQpKQpwcmludCgidGVZeSIsIEFULmdldF90eXBlKHRlWV95X2Nvb3JkKSkKZXhpdCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>A</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoInRyWCIsIEFULmdldF90eXBlKHRyWCkpCnByaW50KCJ0cll4IiwgQVQuZ2V0X3R5cGUodHJZX3hfY29vcmQpKQpwcmludCgidHJZeSIsIEFULmdldF90eXBlKHRyWV95X2Nvb3JkKSkKcHJpbnQoIiIpCg==</text>
       </register>
       <register name="4" type="4">
         <text>A</text>
@@ -433,10 +433,10 @@
         <text>A</text>
       </register>
       <register name="8" type="4">
-        <text>trX</text>
+        <text>A</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>trX</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
