@@ -37,11 +37,11 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_02.py" timestamp="1455628988354">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="522" column="24" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_02.py" timestamp="1455719270392">
+        <mark key="[" line="284" column="59" />
+        <mark key="]" line="284" column="72" />
+        <mark key="." line="284" column="72" />
+        <mark key="^" line="284" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.3.py" timestamp="1455109630388">
         <mark key="[" line="50" column="17" />
@@ -187,6 +187,12 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455719463486">
+        <mark key="[" line="314" column="16" />
+        <mark key="]" line="286" column="40" />
+        <mark key="^" line="286" column="40" />
+        <mark key="." line="286" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.5.py" timestamp="1455116813219">
         <mark key="[" line="63" column="17" />
@@ -427,43 +433,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bm9ybV9kaXN0cmlfbm9pc2VbNjAwOl0gLT0gMC4wMQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RfcHJlZGljdGlvbiA9IHRmLmVxdWFsKHRmLmFyZ21heChubl9vdXRfeF9saW5lYXIsIDEpLCB0Zi5hcmdtYXgoeV90cmFpbl94LCAxKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm9ybV9kaXN0cmlfbm9pc2VbNjAwOl0gLT0gMC4wMQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3JyZWN0X3ByZWRpY3Rpb25feCA9IHRmLmFicyh0Zi5hcmdtYXgobm5fb3V0X3hfbGluZWFyLCAxKSAtIHRmLmFyZ21heCh5X3RyYWluX3gsIDEpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RfcHJlZGljdGlvbiA9IHRmLmVxdWFsKHRmLmFyZ21heChubl9vdXRfeF9saW5lYXIsIDEpLCB0Zi5hcmdtYXgoeV90cmFpbl94LCAxKSkK</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>x</text>
       </register>
       <register name="3" type="4">
-        <text>8</text>
+        <text>_</text>
       </register>
       <register name="4" type="4">
         <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>8</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
