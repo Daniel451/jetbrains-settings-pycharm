@@ -172,6 +172,11 @@
         <mark key="." line="165" column="54" />
         <mark key="^" line="101" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_4.4.py" timestamp="1455720771243">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_6.py" timestamp="1455364518859">
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="20" />
@@ -188,11 +193,11 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455719463486">
-        <mark key="[" line="314" column="16" />
-        <mark key="]" line="286" column="40" />
-        <mark key="^" line="286" column="40" />
-        <mark key="." line="286" column="40" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455720666116">
+        <mark key="[" line="344" column="55" />
+        <mark key="]" line="344" column="56" />
+        <mark key="^" line="344" column="56" />
+        <mark key="." line="344" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.5.py" timestamp="1455116813219">
         <mark key="[" line="63" column="17" />
@@ -433,43 +438,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RfcHJlZGljdGlvbiA9IHRmLmVxdWFsKHRmLmFyZ21heChubl9vdXRfeF9saW5lYXIsIDEpLCB0Zi5hcmdtYXgoeV90cmFpbl94LCAxKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLmxvZ19wYXRoICsgImFjY3VyYWN5LnR4dCIsICJhIikgYXMgbXlmaWxlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb3JyZWN0X3ByZWRpY3Rpb25feCA9IHRmLmFicyh0Zi5hcmdtYXgobm5fb3V0X3hfbGluZWFyLCAxKSAtIHRmLmFyZ21heCh5X3RyYWluX3gsIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLmxvZ19wYXRoICsgImFjY3VyYWN5LnR4dCIsICJhIikgYXMgbXlmaWxlOgo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>\</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RfcHJlZGljdGlvbiA9IHRmLmVxdWFsKHRmLmFyZ21heChubl9vdXRfeF9saW5lYXIsIDEpLCB0Zi5hcmdtYXgoeV90cmFpbl94LCAxKSkK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>x</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
-      </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
         <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>8</text>
-      </register>
-      <register name="7" type="4">
         <text>0</text>
       </register>
+      <register name="7" type="4">
+        <text>8</text>
+      </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
