@@ -289,6 +289,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="77" column="18" />
+        <mark key="." line="77" column="18" />
+        <mark key="^" line="77" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455582008943">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="38" />
@@ -307,11 +313,11 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455868523146">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-        <mark key="^" line="10" column="6" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455911463662">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
@@ -443,44 +449,44 @@
       <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGJsYSh0KToKICAgIGEgKz0gdAogICAgcHJpbnQoYSkKCmJsYSgxKQpibGEoMSkKYmxhKDIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLmxvZ19wYXRoICsgImFjY3VyYWN5LnR4dCIsICJhIikgYXMgbXlmaWxlOgo=</text>
+        <text encoding="base64">cHJpbnQoYWRkKDEsIDIuMCkpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIGJsYSh0KToKICAgIGEgKz0gdAogICAgcHJpbnQoYSkKCmJsYSgxKQpibGEoMSkKYmxhKDIpCg==</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGEgPSAwCg==</text>
+      <register name="2" type="4">
+        <text>r</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RmdW5jMSgpOgogICAgcHJpbnQoInRlc3RmdW5jMSEiKQoKd3JhcDEgPSB0ZXN0ZnVuYzEKCndyYXAxKCkKCnByaW50KHdyYXAxLl9fbmFtZV9fKQoKd3JhcDIgPSB0ZXN0ZnVuYzEoKQoKcHJpbnQod3JhcDIpCg==</text>
+      <register name="3" type="4">
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>\</text>
+        <text>t</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RfcHJlZGljdGlvbiA9IHRmLmVxdWFsKHRmLmFyZ21heChubl9vdXRfeF9saW5lYXIsIDEpLCB0Zi5hcmdtYXgoeV90cmFpbl94LCAxKSkK</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -518,6 +524,7 @@
         <entry>wq</entry>
         <entry>259</entry>
         <entry>1</entry>
+        <entry>34</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
