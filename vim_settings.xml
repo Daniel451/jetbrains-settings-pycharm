@@ -158,10 +158,11 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1455919631217">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1455920541953">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="8" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="27" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -210,9 +211,6 @@
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1455919758084">
         <mark key="[" line="78" column="30" />
-        <mark key="]" line="79" column="7" />
-        <mark key="^" line="79" column="7" />
-        <mark key="." line="79" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455720666116">
         <mark key="[" line="344" column="55" />
@@ -482,11 +480,11 @@
       <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBtYXRwbG90bGliIGZvciBkZWJ1Z2dpbmcgLyBsb2dnaW5nIC8gcmVzdWx0IHByaW50aW5nCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>first experiment of the 'real', refactored series</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -494,32 +492,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGUpCiAgICAgICAgcHJpbnQodGVYLnNoYXBlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBtYXRwbG90bGliIGZvciBkZWJ1Z2dpbmcgLyBsb2dnaW5nIC8gcmVzdWx0IHByaW50aW5nCmltcG9ydCBtYXRwbG90bGliLnB5cGxvdCBhcyBwbHQK</text>
+      <register name="1" type="4">
+        <text>g</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oc2VsZi5sb2dfcGF0aCArICJhY2N1cmFjeS50eHQiLCAidyIpIGFzIG15ZmlsZToK</text>
+      <register name="2" type="4">
+        <text>n</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRydW5jYXRlIGFjY3VyYWN5IGxvZyBmaWxlCg==</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlmaWxlLndyaXRlKCIiKQo=</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRydW5jYXRlIGFjY3VyYWN5IGxvZyBmaWxlCiAgICAgICAgd2l0aCBvcGVuKHNlbGYubG9nX3BhdGggKyAiYWNjdXJhY3kudHh0IiwgInciKSBhcyBteWZpbGU6CiAgICAgICAgICAgIG15ZmlsZS53cml0ZSgiIikK</text>
+      <register name="6" type="4">
+        <text>o</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBleHRyYS5hcnJheV90eXBlX3ByaW50ZXIgaW1wb3J0IEFycmF5VHlwZSBhcyBBVAo=</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
