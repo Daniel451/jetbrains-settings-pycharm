@@ -307,10 +307,10 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455834468249">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455867744428">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
@@ -443,7 +443,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RmdW5jMSgpOgogICAgcHJpbnQoInRlc3RmdW5jMSEiKQoKd3JhcDEgPSB0ZXN0ZnVuYzEKCndyYXAxKCkKCnByaW50KHdyYXAxLl9fbmFtZV9fKQoKd3JhcDIgPSB0ZXN0ZnVuYzEoKQoKcHJpbnQod3JhcDIpCg==</text>
+        <text encoding="base64">ZGVmIGJsYSh0KToKICAgIGEgKz0gdAogICAgcHJpbnQoYSkKCmJsYSgxKQpibGEoMSkKYmxhKDIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -455,31 +455,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdpdGggb3BlbihzZWxmLmxvZ19wYXRoICsgImFjY3VyYWN5LnR4dCIsICJhIikgYXMgbXlmaWxlOgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ZGVmIGJsYSh0KToKICAgIGEgKz0gdAogICAgcHJpbnQoYSkKCmJsYSgxKQpibGEoMSkKYmxhKDIpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGEgPSAwCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ZGVmIHRlc3RmdW5jMSgpOgogICAgcHJpbnQoInRlc3RmdW5jMSEiKQoKd3JhcDEgPSB0ZXN0ZnVuYzEKCndyYXAxKCkKCnByaW50KHdyYXAxLl9fbmFtZV9fKQoKd3JhcDIgPSB0ZXN0ZnVuYzEoKQoKcHJpbnQod3JhcDIpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>)</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>\</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjIGNvcnJlY3RfcHJlZGljdGlvbiA9IHRmLmVxdWFsKHRmLmFyZ21heChubl9vdXRfeF9saW5lYXIsIDEpLCB0Zi5hcmdtYXgoeV90cmFpbl94LCAxKSkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>x</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
-      </register>
-      <register name="8" type="4">
-        <text>0</text>
-      </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
