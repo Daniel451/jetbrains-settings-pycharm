@@ -307,10 +307,11 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455867744428">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455868523146">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+        <mark key="^" line="10" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
