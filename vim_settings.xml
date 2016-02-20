@@ -158,11 +158,12 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1455923146019">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1455926159534">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="24" />
-        <mark key="." line="52" column="24" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="60" column="24" />
+        <mark key="^" line="60" column="24" />
+        <mark key="." line="60" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -209,8 +210,9 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1455919758084">
-        <mark key="[" line="78" column="30" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1455924570173">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="35" column="92" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455720666116">
         <mark key="[" line="344" column="55" />
@@ -314,11 +316,11 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_plot_types.py" timestamp="1455923645014">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="6" column="46" />
-        <mark key="." line="6" column="46" />
-        <mark key="^" line="6" column="46" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_plot_types.py" timestamp="1455924804471">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455582008943">
         <mark key="[" line="18" column="37" />
@@ -489,43 +491,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9feCA9ICJvdXRwdXQgb2YgdGhlIG5ldHdvcmsgZm9yIHRoZSBiYWxsJ3MgeC1jb29yZGluYXRlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>valid</text>
+        <text>PLOT_TYPE_ENTRIES</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9feCA9ICJvdXRwdXQgb2YgdGhlIG5ldHdvcmsgZm9yIHRoZSBiYWxsJ3MgeC1jb29yZGluYXRlIgo=</text>
+        <text encoding="base64">ICAgIHRyYWluX2Vycl94ID0gInRvdGFsIHRyYWluaW5nIGVycm9yIGZvciB4IGRhdGEiCiAgICB0cmFpbl9lcnJfeSA9ICJ0b3RhbCB0cmFpbmluZyBlcnJvciBmb3IgeSBkYXRhIgogICAgdHJhaW5fZXJyX3RvdGFsID0gInRvdGFsIHRyYWluaW5nIGVycm9yIGZvciB4IGFuZCB5IGRhdGEiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>valid</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBsb3RzW3Bsb3RfdHlwZV9lbnVtXVtwbG90X3R5cGVfZW50cmllc19lbnVtXS5hcHBlbmQodmFsdWUpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>PLOT_TYPE_ENTRIES</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>.]:</text>
       </register>
       <register name="5" type="4">
-        <text>has to be a valid enum entry of a log object enum</text>
+        <text>.]:</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      <register name="7" type="4">
+        <text>c</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5fX2xvZ19saXN0cy5oYXNfa2V5KCk6Cg==</text>
+      <register name="8" type="4">
+        <text>n</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
