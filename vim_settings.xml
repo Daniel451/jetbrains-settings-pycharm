@@ -225,8 +225,8 @@
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/matplotlib/dynamic_multiple_subplots.py" timestamp="1456089997083">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/Python2.7Tests/matplotlib/dynamic_multiple_subplots.py" timestamp="1456094982676">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_08.py" timestamp="1455263632842">
         <mark key="[" line="203" column="26" />
@@ -494,7 +494,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjcmVhdGUgc3VicGxvdHMKICAgICAgICAgICAgZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMiwgMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -503,34 +503,34 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZ2V0X2xvZ3Bsb3Qob2JqKS5hZGRfcGxvdChQTE9UX1RZUEVTLm9faW1nKQo=</text>
+        <text encoding="base64">YSA9IG5wLnJhbmRvbS5yYW5kKDEwMCkK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjcmVhdGUgc3VicGxvdHMKICAgICAgICAgICAgZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMiwgMikK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>.</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>f</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>l</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>e</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>s</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9sb2dwbG90KFBMT1RfVFlQRVMubm5feCkK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmdldF9sb2dwbG90KFBMT1RfVFlQRVMubm5feCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
