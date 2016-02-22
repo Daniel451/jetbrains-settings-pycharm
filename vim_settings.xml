@@ -8,6 +8,12 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/type_checking.py" timestamp="1456105059092">
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="26" />
+        <mark key="^" line="35" column="15" />
+        <mark key="." line="46" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="21" column="109" />
@@ -31,11 +37,10 @@
         <mark key="." line="168" column="36" />
         <mark key="^" line="168" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/Logger.py" timestamp="1456098834963">
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="71" />
-        <mark key="." line="18" column="71" />
-        <mark key="^" line="18" column="71" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/Logger.py" timestamp="1456105183611">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -132,6 +137,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator_type_check.py" timestamp="1456101993563">
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
@@ -534,7 +544,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ZnJvbSB0eXBlX2NoZWNraW5nIGltcG9ydCBhY2NlcHRzX2Z1bmMK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -543,34 +553,34 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVycl90ZXN0X3ggPSAieCBlcnJvciBmb3IgdGVzdCBpbWFnZXMiCg==</text>
+        <text encoding="base64">YS5hZGRfbG9nX2ltZyhMb2dJbWdUeXBlcy5pbWcwMDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ZnJvbSB0eXBlX2NoZWNraW5nIGltcG9ydCBhY2NlcHRzX2Z1bmMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTE9HX0VOVFJJRVMoRW51bSk6CiAgICAiIiIKICAgIGVudW0gZm9yIHRoZSBsb2cgZGF0YQogICAgIiIiCiAgICBjcm9zc19lbnRyb3B5X3ggPSAibW9kZWxsaW5nIHRoZSB4IGNyb3NzIGVudHJvcHkgZXJyb3IiCiAgICBjcm9zc19lbnRyb3B5X3kgPSAibW9kZWxsaW5nIHRoZSB5IGNyb3NzIGVudHJvcHkgZXJyb3IiCgogICAgY29zdF9mdW5jdGlvbl94ID0gInRvdGFsIHggZXJyb3IsIGNhbGN1bGF0ZWQgYnkgdGhlIG5ldHdvcmtzIGNvc3QgZnVuY3Rpb24iCiAgICBjb3N0X2Z1bmN0aW9uX3kgPSAidG90YWwgeSBlcnJvciwgY2FsY3VsYXRlZCBieSB0aGUgbmV0d29ya3MgY29zdCBmdW5jdGlvbiIKCiAgICBpbnRlZ3JhbF9jb25zdHJhaW50X3ggPSAiaW50ZWdyYWwgY29uc3RyYWludCB4ICdlcnJvcicsIG1vZGVscyB0aGUgbG9zcyBvZiB0aGUgdG90YWwgc3VtIgogICAgaW50ZWdyYWxfY29uc3RyYWludF95ID0gImludGVncmFsIGNvbnN0cmFpbnQgeSAnZXJyb3InLCBtb2RlbHMgdGhlIGxvc3Mgb2YgdGhlIHRvdGFsIHN1bSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTE9HX09CSihFbnVtKToKICAgICIiIgogICAgZW51bSBmb3IgdGhlIGxvZyBpbWFnZXMKICAgICIiIgogICAgaW1nMDIgPSAiaW1hZ2UgIzAyIG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nMDUgPSAiaW1hZ2UgIzA1IG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nMTMgPSAiaW1hZ2UgIzEzIG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nMTcgPSAiaW1hZ2UgIzE3IG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nMzQgPSAiaW1hZ2UgIzM0IG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nNDkgPSAiaW1hZ2UgIzQ5IG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nNzQgPSAiaW1hZ2UgIzc0IG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nOTUgPSAiaW1hZ2UgIzk1IG9mIHRoZSB0cmFpbmluZyBkYXRhc2V0IgogICAgaW1nMTM1ID0gImltYWdlICMxMzUgb2YgdGhlIHRyYWluaW5nIGRhdGFzZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YSA9IExvZ2dlcigpCgphLmFkZF9sb2dfaW1nKExvZ0ltZ1R5cGVzLmltZzAwMikKYS5hZGRfbG9nX2ltZygxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGFjY2VwdHNfZnVuYyhzdHIpCmRlZiB0ZXN0KGJsYSk6CiAgICBwYXNzCgp0ZXN0KDUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU1BFQ0lBTF9MT0coRW51bSk6CiAgICAiIiIKICAgIGVudW0gZm9yIHNwZWNpYWwgbG9nIHR5cGVzIGxpa2UgYSBjdXN0b20gdGltZSBzZXJpZXMsIGUuZy4gZm9yIHRlc3QgZXJyb3IKICAgICIiIgogICAgZXJyb3JfcGxvdCA9ICJzcGVjaWFsIHBsb3QgZm9yIGUuZy4gdGVzdCBlcnJvciIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -593,7 +603,6 @@
         <entry>npy</entry>
       </history-search>
       <history-cmd>
-        <entry>a</entry>
         <entry>all</entry>
         <entry>action SearchEverywhere</entry>
         <entry>5</entry>
@@ -612,6 +621,7 @@
         <entry>5O</entry>
         <entry>o5</entry>
         <entry>W</entry>
+        <entry>32</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
