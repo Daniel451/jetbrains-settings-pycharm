@@ -14,11 +14,10 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataVector.py" timestamp="1456107093207">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataVector.py" timestamp="1456323417920">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
@@ -43,7 +42,7 @@
         <mark key="." line="168" column="36" />
         <mark key="^" line="168" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/Logger.py" timestamp="1456105719586">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/Logger.py" timestamp="1456323245033">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="10" column="0" />
@@ -503,11 +502,11 @@
         <mark key="^" line="236" column="53" />
         <mark key="." line="229" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataSequence.py" timestamp="1456107816990">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataSequence.py" timestamp="1456323257679">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="10" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.7.py" timestamp="1455502253984">
         <mark key="[" line="48" column="17" />
@@ -565,28 +564,28 @@
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiU3VwZXIgTG9nRGF0YSBpbml0aWFsaXplZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiU3VwZXIgTG9nRGF0YSBpbml0aWFsaXplZCIpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">YSA9IERhdGFTZXF1ZW5jZSgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
-      </register>
       <register name="5" type="4">
-        <text>c</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>q</text>
+        <text>u</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -620,7 +619,6 @@
         <entry>redo</entry>
         <entry>wa</entry>
         <entry>259</entry>
-        <entry>1</entry>
         <entry>34</entry>
         <entry>wq</entry>
         <entry>5o</entry>
@@ -628,6 +626,7 @@
         <entry>o5</entry>
         <entry>W</entry>
         <entry>32</entry>
+        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
