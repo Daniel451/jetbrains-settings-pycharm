@@ -246,11 +246,11 @@
         <mark key="." line="16" column="64" />
         <mark key="^" line="16" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1456433000280">
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="58" column="30" />
-        <mark key="." line="58" column="30" />
-        <mark key="^" line="58" column="30" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1456433218580">
+        <mark key="[" line="285" column="77" />
+        <mark key="]" line="285" column="77" />
+        <mark key="." line="285" column="77" />
+        <mark key="^" line="285" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455720666116">
         <mark key="[" line="344" column="55" />
@@ -551,8 +551,8 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGYK</text>
+      <register name="&quot;" type="4">
+        <text>nno_x, nno_y, ce_x, ce_y</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -560,8 +560,8 @@
       <register name="/" type="4">
         <text>npy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmdldF9sb2dfaW1nX29iaihsb2dfaW1nX3R5cGUpLmFkZF9zdWJwbG90KExPR19TVUJQTE9UX1RZUEVTLm9faW1nKQo=</text>
+      <register name="0" type="4">
+        <text>nno_x, nno_y, ce_x, ce_y</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAjIGYK</text>
