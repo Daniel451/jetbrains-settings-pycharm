@@ -248,11 +248,12 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" timestamp="1456527821587">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" timestamp="1456528775770">
         <mark key="'" line="15" column="49" />
-        <mark key="]" line="105" column="63" />
-        <mark key="." line="105" column="63" />
-        <mark key="^" line="105" column="63" />
+        <mark key="[" line="103" column="56" />
+        <mark key="]" line="103" column="61" />
+        <mark key="." line="103" column="61" />
+        <mark key="^" line="103" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.3.py" timestamp="1455499557769">
         <mark key="[" line="48" column="17" />
@@ -375,6 +376,13 @@
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1456447466185">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455021994814">
         <mark key="[" line="25" column="0" />
