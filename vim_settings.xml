@@ -90,8 +90,11 @@
         <mark key="^" line="285" column="17" />
         <mark key="." line="285" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogSubplot.py" timestamp="1456437799039">
-        <mark key="[" line="32" column="33" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogSubplot.py" timestamp="1456448228550">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="28" column="10" />
+        <mark key="^" line="28" column="10" />
+        <mark key="." line="28" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/extra/array_type_printer.py" timestamp="1455019839244">
         <mark key="[" line="8" column="88" />
@@ -182,11 +185,12 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1456445432802">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1456447466185">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="48" column="18" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -226,12 +230,6 @@
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" timestamp="1455474482072">
-        <mark key="'" line="41" column="39" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -489,11 +487,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" timestamp="1456445468214">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" timestamp="1456448097936">
         <mark key="'" line="15" column="49" />
-        <mark key="[" line="79" column="36" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="88" column="93" />
+        <mark key="]" line="88" column="105" />
+        <mark key="." line="88" column="105" />
+        <mark key="^" line="88" column="105" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/ils_class.py" timestamp="1454989045378">
         <mark key="[" line="5" column="8" />
@@ -560,7 +559,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHN1YnBsb3RfY291bnQgPT0gNDoK</text>
+        <text encoding="base64">ICAgICAgICB1c2UoIkFnZyIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -569,13 +568,13 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMiwgMikK</text>
+        <text encoding="base64">ICAgICAgICBwbHQuc2F2ZWZpZyhzZWxmLmNvbXBsZXRlX2xvZ3BhdGggKyAiLnBuZyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHN1YnBsb3RfY291bnQgPT0gNDoK</text>
+        <text encoding="base64">ICAgICAgICB1c2UoIkFnZyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHN1YnBsb3RfY291bnQgPT0gNDoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
@@ -584,19 +583,19 @@
         <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZiwgYXhhcnIgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZiwgYXhhcnIgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nX2ltZy5zZXRfdHJhaW5zdGVwKHNlbGYudHJhaW5fc3RlcCkK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nX2ltZy5zZXRfdHJhaW5zdGVwKHNlbGYudHJhaW5fc3RlcCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
