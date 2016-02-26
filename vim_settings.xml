@@ -121,6 +121,11 @@
         <mark key="^" line="210" column="21" />
         <mark key="." line="269" column="41" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex09.py" timestamp="1456518661101">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_4.4.py" timestamp="1455720771243">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
@@ -142,6 +147,12 @@
         <mark key="]" line="343" column="16" />
         <mark key="." line="343" column="16" />
         <mark key="^" line="58" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex09.py" timestamp="1456518809480">
+        <mark key="[" line="134" column="40" />
+        <mark key="]" line="134" column="65" />
+        <mark key="." line="134" column="65" />
+        <mark key="^" line="134" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test1.3.py" timestamp="1454988236803">
         <mark key="[" line="4" column="0" />
@@ -301,6 +312,11 @@
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex08.py" timestamp="1456518457394">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -511,6 +527,12 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456518437501">
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="38" />
+        <mark key="^" line="134" column="68" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="38" />
@@ -610,10 +632,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -622,10 +644,10 @@
         <text encoding="base64">ICAgICAgICBwbHQuc2F2ZWZpZyhzZWxmLmNvbXBsZXRlX2xvZ3BhdGggKyAiLnBuZyIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="3" type="4">
         <text>0</text>
@@ -633,23 +655,23 @@
       <register name="4" type="4">
         <text>0</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuc2F2ZWZpZyhzZWxmLmNvbXBsZXRlX2xvZ3BhdGggKyAiLnBkZiIpCg==</text>
+      <register name="5" type="4">
+        <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2UoIkFnZyIpCg==</text>
+      <register name="6" type="4">
+        <text>0</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHN1YnBsb3RfY291bnQgPT0gNDoK</text>
+        <text encoding="base64">ICAgICAgICBwbHQuc2F2ZWZpZyhzZWxmLmNvbXBsZXRlX2xvZ3BhdGggKyAiLnBkZiIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICB1c2UoIkFnZyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHN1YnBsb3RfY291bnQgPT0gNDoK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -687,8 +709,8 @@
         <entry>32</entry>
         <entry>1</entry>
         <entry>329</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
