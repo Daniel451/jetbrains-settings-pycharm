@@ -151,11 +151,11 @@
         <mark key="." line="343" column="16" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex09.py" timestamp="1456526545784">
-        <mark key="[" line="102" column="64" />
-        <mark key="]" line="102" column="87" />
-        <mark key="." line="102" column="87" />
-        <mark key="^" line="102" column="87" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex09.py" timestamp="1456529848003">
+        <mark key="[" line="344" column="24" />
+        <mark key="]" line="344" column="25" />
+        <mark key="." line="344" column="25" />
+        <mark key="^" line="346" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test1.3.py" timestamp="1454988236803">
         <mark key="[" line="4" column="0" />
@@ -530,10 +530,10 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456518437501">
-        <mark key="[" line="56" column="37" />
-        <mark key="]" line="56" column="38" />
-        <mark key="." line="56" column="38" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456529494970">
+        <mark key="[" line="134" column="67" />
+        <mark key="]" line="134" column="68" />
+        <mark key="." line="134" column="68" />
         <mark key="^" line="134" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
@@ -635,7 +635,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMjIyMjIyMjIyMjIyMjIyMjIyMjIwogICAgIyBvcmlnaW5hbCBpbWcgZGF0YSAjCiAgICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5nZXRfbG9nX2ltZ19vYmooa2V5KS5nZXRfc3VicGxvdChMT0dfU1VCUExPVF9UWVBFUy5ubl95KSBcCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRfZGF0YV9vYmooTE9HX0RBVEFfVFlQRVMubm5fb3V0X3kpLmFkZF9kYXRhKG5ub195KQo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -644,22 +644,22 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMjIyMjIyMjIyMjIyMjIyMjIyMjIwogICAgIyBvcmlnaW5hbCBpbWcgZGF0YSAjCiAgICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmxvZ2dlci5nZXRfbG9nX2ltZ19vYmooa2V5KS5nZXRfc3VicGxvdChMT0dfU1VCUExPVF9UWVBFUy5ubl95KSBcCiAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRfZGF0YV9vYmooTE9HX0RBVEFfVFlQRVMubm5fb3V0X3kpLmFkZF9kYXRhKG5ub195KQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm5feC5hZGRfZGF0YV9vYmooRGF0YVZlY3RvcihMT0dfREFUQV9UWVBFUy4pLCBMT0dfREFUQV9UWVBFUy5ubl9vdXRfeCkK</text>
-      </register>
-      <register name="3" type="4">
+      <register name="1" type="4">
         <text>1</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm5feC5hZGRfZGF0YV9vYmooRGF0YVZlY3RvcihMT0dfREFUQV9UWVBFUy4pLCBMT0dfREFUQV9UWVBFUy5ubl9vdXRfeCkK</text>
+      </register>
       <register name="4" type="4">
-        <text>-</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>-</text>
       </register>
       <register name="6" type="4">
         <text>0</text>
@@ -670,8 +670,8 @@
       <register name="8" type="4">
         <text>0</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuc2F2ZWZpZyhzZWxmLmNvbXBsZXRlX2xvZ3BhdGggKyAiLnBkZiIpCg==</text>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
