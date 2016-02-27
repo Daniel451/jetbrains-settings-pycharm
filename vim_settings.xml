@@ -540,11 +540,6 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1456608056671">
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.4.py" timestamp="1455499829794">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
@@ -689,11 +684,11 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1nID0gbXBpbWcuaW1yZWFkKCIvaG9tZS9kYW5pZWwvcmVwb3NpdG9yaWVzL2JhY2hlbG9yLXRoZXNpcy9jb2RlL2xhYmVsX2ltYWdlcy92Mi9pbWdfZnJfbm92MTVfMDAwLjAwMC5wbmciKQo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -702,31 +697,31 @@
         <text encoding="base64">aW1nID0gbXBpbWcuaW1yZWFkKCIvaG9tZS9kYW5pZWwvcmVwb3NpdG9yaWVzL2JhY2hlbG9yLXRoZXNpcy9jb2RlL2xhYmVsX2ltYWdlcy92Mi9pbWdfZnJfbm92MTVfMDAwLjAwMC5wbmciKQo=</text>
       </register>
       <register name="1" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
         <text>&quot;)</text>
       </register>
-      <register name="3" type="4">
+      <register name="2" type="4">
         <text>png</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>.</text>
       </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>000</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>.</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>img_fr_nov15_000</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>&quot;</text>
       </register>
-      <register name="9" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICogMTAuMA==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
