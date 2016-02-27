@@ -120,12 +120,6 @@
         <mark key="^" line="63" column="19" />
         <mark key="." line="63" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1455107262574">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455226933683">
         <mark key="[" line="269" column="40" />
         <mark key="]" line="269" column="41" />
@@ -539,6 +533,9 @@
         <mark key="[" line="52" column="17" />
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" timestamp="1456608076523">
+        <mark key="^" line="150" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.4.py" timestamp="1455499829794">
         <mark key="[" line="48" column="17" />
