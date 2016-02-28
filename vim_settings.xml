@@ -14,6 +14,9 @@
         <mark key="^" line="54" column="89" />
         <mark key="." line="54" column="89" />
       </file>
+      <file name="/a.dummy" timestamp="1456638799938">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
         <mark key="]" line="134" column="58" />
@@ -29,6 +32,12 @@
         <mark key="[" line="36" column="30" />
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex02.py" timestamp="1456639058901">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -68,6 +77,12 @@
         <mark key="]" line="139" column="34" />
         <mark key="." line="139" column="34" />
         <mark key="^" line="139" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex02.py" timestamp="1456639194447">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="58" column="41" />
+        <mark key="^" line="58" column="41" />
+        <mark key="." line="58" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_07.py" timestamp="1455540771760">
         <mark key="[" line="221" column="54" />
@@ -109,10 +124,6 @@
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_log_subplot_types.py" timestamp="1456526710587">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="4" column="72" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -268,13 +279,6 @@
         <mark key="^" line="136" column="51" />
         <mark key="." line="136" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" timestamp="1456528775770">
-        <mark key="'" line="15" column="49" />
-        <mark key="[" line="103" column="56" />
-        <mark key="]" line="103" column="61" />
-        <mark key="." line="103" column="61" />
-        <mark key="^" line="103" column="61" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.3.py" timestamp="1455499557769">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
@@ -403,13 +407,6 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" timestamp="1456447466185">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="18" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455021994814">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -442,6 +439,12 @@
         <mark key="]" line="136" column="36" />
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex01.py" timestamp="1456639259714">
+        <mark key="[" line="136" column="48" />
+        <mark key="]" line="136" column="57" />
+        <mark key="." line="136" column="57" />
+        <mark key="^" line="136" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -582,6 +585,12 @@
         <mark key="]" line="134" column="71" />
         <mark key="." line="134" column="71" />
         <mark key="^" line="134" column="68" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex01.py" timestamp="1456638999999">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -727,7 +736,7 @@
         <text>i</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -765,8 +774,8 @@
         <entry>32</entry>
         <entry>1</entry>
         <entry>329</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
