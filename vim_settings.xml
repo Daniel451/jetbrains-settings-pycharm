@@ -30,12 +30,12 @@
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" timestamp="1456689794322">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" timestamp="1456692069039">
         <mark key="'" line="195" column="18" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+        <mark key="[" line="136" column="69" />
+        <mark key="]" line="136" column="68" />
+        <mark key="." line="136" column="68" />
+        <mark key="^" line="136" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex02.py" timestamp="1456639058901">
         <mark key="[" line="17" column="48" />
@@ -234,6 +234,12 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex13.py" timestamp="1456691481007">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="51" column="17" />
+        <mark key="^" line="51" column="17" />
+        <mark key="." line="51" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
         <mark key="[" line="68" column="13" />
@@ -454,6 +460,12 @@
         <mark key="." line="134" column="69" />
         <mark key="^" line="134" column="69" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex12.py" timestamp="1456691256185">
+        <mark key="[" line="322" column="74" />
+        <mark key="]" line="322" column="101" />
+        <mark key="^" line="322" column="101" />
+        <mark key="." line="322" column="101" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.2.py" timestamp="1455083079802">
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="18" />
@@ -537,6 +549,12 @@
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex13.py" timestamp="1456691738667">
+        <mark key="[" line="56" column="37" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="38" />
+        <mark key="^" line="201" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_08.py" timestamp="1455263632842">
         <mark key="[" line="203" column="26" />
@@ -737,6 +755,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex12.py" timestamp="1456691164783">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="36" column="45" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/ils_class.py" timestamp="1454989045378">
         <mark key="[" line="5" column="8" />
         <mark key="]" line="5" column="18" />
@@ -797,8 +821,8 @@
       <jump line="195" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoX3Bvb2wzX2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDMsIFstMSwgMTUwICogMjAwICogMzJdKQo=</text>
       </register>
       <register name="-" type="4">
         <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
@@ -807,34 +831,34 @@
         <text>acti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYWN0aXZhdGlvbih4KToKICAgICAgICAgICAgIyBzb2Z0LXNpZ24gYWN0aXZhdGlvbiAoQmVyZ3N0cmEgZXQgYWwgMjAwOSkKICAgICAgICAgICAgcmV0dXJuIHRmLmRpdih4LCB0Zi5hZGQoMS4wLCB0Zi5hYnMoeCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbWF4X3Bvb2xfMngyKG14KToKICAgICAgICAgICAgcmV0dXJuIHRmLm5uLm1heF9wb29sKG14LCBrc2l6ZT1bMSwgMiwgMiwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpZGVzPVsxLCAyLCAyLCAxXSwgcGFkZGluZz0nU0FNRScpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBoX3Bvb2wzX2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDMsIFstMSwgMTUwICogMjAwICogMzJdKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjIgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDgsIDE2XSkKICAgICAgICBiX2NvbnYyID0gYmlhc192YXJpYWJsZShbMTZdKQoKICAgICAgICBoX2NvbnYyID0gdGYubm4ucmVsdSgoY29udjJkKGhfcG9vbDEsIFdfY29udjIpICsgYl9jb252MikpCiAgICAgICAgaF9wb29sMiA9IG1heF9wb29sXzJ4MihoX2NvbnYyKQogICAgICAgICMgaF9wb29sMiA9IHRmLm5uLmRyb3BvdXQoaF9wb29sMiwga2VlcF9wcm9iKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>x</text>
+        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
