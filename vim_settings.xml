@@ -172,6 +172,12 @@
         <mark key="]" line="260" column="0" />
         <mark key="." line="260" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/enum_log_data_types.py" timestamp="1456699964950">
+        <mark key="[" line="53" column="40" />
+        <mark key="]" line="130" column="50" />
+        <mark key="^" line="130" column="50" />
+        <mark key="." line="130" column="50" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_log_data_types.py" timestamp="1456569248501">
         <mark key="[" line="38" column="36" />
         <mark key="]" line="45" column="42" />
@@ -687,11 +693,11 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456699408892">
-        <mark key="[" line="149" column="60" />
-        <mark key="]" line="149" column="66" />
-        <mark key="." line="149" column="66" />
-        <mark key="^" line="149" column="66" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456702057288">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="388" column="40" />
+        <mark key="." line="388" column="40" />
+        <mark key="^" line="388" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -821,11 +827,11 @@
       <jump line="195" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4ZWNfdGltZV9kZWx0YSA9IGludCh0aW1lLnRpbWUoKSAtIHRvdGFsX3N0YXJ0X3RpbWUpCiAgICAgICAgICAgICAgICBleGVjX21pbnV0ZXMsIGV4ZWNfc2Vjb25kcyA9IGRpdm1vZChleGVjX3RpbWVfZGVsdGEsIDYwKQogICAgICAgICAgICAgICAgZXhlY19ob3VycywgZXhlY19taW51dGVzID0gZGl2bW9kKGV4ZWNfbWludXRlcywgNjApCiAgICAgICAgICAgICAgICBwcmludCgic3RlcCB7Oj41fSB8IGV4ZWNfdGltZTogezowPjJ9Ons6MD4yfTp7OjA+Mn0iLmZvcm1hdChpLCBleGVjX2hvdXJzLCBleGVjX21pbnV0ZXMsIGV4ZWNfc2Vjb25kcykpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -833,32 +839,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19ldmVyeV9uX3N0ZXBzID0gMjAwCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4ZWNfdGltZV9kZWx0YSA9IGludCh0aW1lLnRpbWUoKSAtIHRvdGFsX3N0YXJ0X3RpbWUpCiAgICAgICAgICAgICAgICBleGVjX21pbnV0ZXMsIGV4ZWNfc2Vjb25kcyA9IGRpdm1vZChleGVjX3RpbWVfZGVsdGEsIDYwKQogICAgICAgICAgICAgICAgZXhlY19ob3VycywgZXhlY19taW51dGVzID0gZGl2bW9kKGV4ZWNfbWludXRlcywgNjApCiAgICAgICAgICAgICAgICBwcmludCgic3RlcCB7Oj41fSB8IGV4ZWNfdGltZTogezowPjJ9Ons6MD4yfTp7OjA+Mn0iLmZvcm1hdChpLCBleGVjX2hvdXJzLCBleGVjX21pbnV0ZXMsIGV4ZWNfc2Vjb25kcykpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludCBjb25zdW1lZCB0aW1lCiAgICAgICAgICAgIGlmIGkgJSBzZWxmID09IDA6Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>5</text>
+      </register>
+      <register name="4" type="4">
+        <text>5</text>
+      </register>
+      <register name="5" type="4">
         <text>0</text>
       </register>
-      <register name="2" type="4">
-        <text>2</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoX3Bvb2wzX2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDMsIFstMSwgMTUwICogMjAwICogMzJdKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjIgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDgsIDE2XSkKICAgICAgICBiX2NvbnYyID0gYmlhc192YXJpYWJsZShbMTZdKQoKICAgICAgICBoX2NvbnYyID0gdGYubm4ucmVsdSgoY29udjJkKGhfcG9vbDEsIFdfY29udjIpICsgYl9jb252MikpCiAgICAgICAgaF9wb29sMiA9IG1heF9wb29sXzJ4MihoX2NvbnYyKQogICAgICAgICMgaF9wb29sMiA9IHRmLm5uLmRyb3BvdXQoaF9wb29sMiwga2VlcF9wcm9iKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
