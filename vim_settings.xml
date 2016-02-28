@@ -30,6 +30,13 @@
         <mark key="]" line="36" column="30" />
         <mark key="." line="36" column="30" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" timestamp="1456689794322">
+        <mark key="'" line="195" column="18" />
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex02.py" timestamp="1456639058901">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="32" column="49" />
@@ -74,6 +81,11 @@
         <mark key="]" line="139" column="34" />
         <mark key="." line="139" column="34" />
         <mark key="^" line="139" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex11.py" timestamp="1456689899698">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex02.py" timestamp="1456639194447">
         <mark key="[" line="57" column="33" />
@@ -657,11 +669,11 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456657714567">
-        <mark key="[" line="228" column="42" />
-        <mark key="]" line="228" column="43" />
-        <mark key="." line="228" column="43" />
-        <mark key="^" line="160" column="47" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456690164179">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="58" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -776,43 +788,50 @@
       <jump line="24" column="2" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
+      <jump line="217" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
+      <jump line="155" column="25" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
+      <jump line="153" column="12" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
+      <jump line="154" column="24" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
+      <jump line="177" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
+      <jump line="186" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
+      <jump line="195" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjMgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDY0LCAxMjhdKQogICAgICAgIGJfY29udjMgPSBiaWFzX3ZhcmlhYmxlKFsxMjhdKQoKICAgICAgICBoX2NvbnYzID0gYWN0aXZhdGlvbihjb252MmQoaF9wb29sMiwgV19jb252MykgKyBiX2NvbnYzKQogICAgICAgIGhfcG9vbDMgPSBtYXhfcG9vbF84eDgoaF9jb252MykKICAgICAgICAjIGhfcG9vbDMgPSB0Zi5ubi5kcm9wb3V0KGhfcG9vbDMsIGtlZXBfcHJvYikK</text>
+      <register name="&quot;" type="4">
+        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
       </register>
       <register name="/" type="4">
-        <text>npy</text>
+        <text>acti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjMgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDY0LCAxMjhdKQogICAgICAgIGJfY29udjMgPSBiaWFzX3ZhcmlhYmxlKFsxMjhdKQoKICAgICAgICBoX2NvbnYzID0gYWN0aXZhdGlvbihjb252MmQoaF9wb29sMiwgV19jb252MykgKyBiX2NvbnYzKQogICAgICAgIGhfcG9vbDMgPSBtYXhfcG9vbF84eDgoaF9jb252MykKICAgICAgICAjIGhfcG9vbDMgPSB0Zi5ubi5kcm9wb3V0KGhfcG9vbDMsIGtlZXBfcHJvYikK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYWN0aXZhdGlvbih4KToKICAgICAgICAgICAgIyBzb2Z0LXNpZ24gYWN0aXZhdGlvbiAoQmVyZ3N0cmEgZXQgYWwgMjAwOSkKICAgICAgICAgICAgcmV0dXJuIHRmLmRpdih4LCB0Zi5hZGQoMS4wLCB0Zi5hYnMoeCkpKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
-      </register>
-      <register name="5" type="4">
         <text>2</text>
       </register>
+      <register name="5" type="4">
+        <text>x</text>
+      </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text>2</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>_</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
         <text>o</text>
@@ -822,11 +841,11 @@
       </register>
     </registers>
     <search>
-      <last-search>npy</last-search>
+      <last-search>acti</last-search>
       <last-offset />
-      <last-pattern>npy</last-pattern>
+      <last-pattern>acti</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -836,9 +855,10 @@
         <entry>cores</entry>
         <entry>CORES</entry>
         <entry>npy</entry>
+        <entry>relu</entry>
+        <entry>acti</entry>
       </history-search>
       <history-cmd>
-        <entry>action SearchEverywhere</entry>
         <entry>5</entry>
         <entry>end</entry>
         <entry>100</entry>
@@ -857,6 +877,7 @@
         <entry>1</entry>
         <entry>329</entry>
         <entry>wa</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
