@@ -290,6 +290,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex03.py" timestamp="1456640658066">
+        <mark key="[" line="136" column="68" />
+        <mark key="]" line="136" column="69" />
+        <mark key="." line="136" column="69" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_06.py" timestamp="1455582140840">
         <mark key="[" line="280" column="35" />
         <mark key="]" line="281" column="33" />
@@ -411,6 +416,11 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex03.py" timestamp="1456640683802">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -736,7 +746,7 @@
         <text>i</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -774,8 +784,8 @@
         <entry>32</entry>
         <entry>1</entry>
         <entry>329</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
