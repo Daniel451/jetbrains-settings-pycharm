@@ -72,8 +72,8 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex13.py" timestamp="1456569481498">
-        <mark key="[" line="139" column="42" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex13.py" timestamp="1456645979905">
+        <mark key="[" line="136" column="0" />
         <mark key="]" line="139" column="34" />
         <mark key="." line="139" column="34" />
         <mark key="^" line="139" column="34" />
@@ -709,6 +709,12 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex07.py" timestamp="1456646391876">
+        <mark key="[" line="136" column="30" />
+        <mark key="]" line="46" column="19" />
+        <mark key="." line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
@@ -740,7 +746,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoX3Bvb2w0X2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDQsIFstMSwgNzUgKiAxMDAgKiAxMjhdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNoYXBlKSA9PSAyOgogICAgICAgICAgICAgICAgeGF2aWVyX3N0ZGRldiA9IHRmLnNxcnQoMS4wIC8gdGYuY2FzdChzaGFwZVswXSwgdGYuZmxvYXQzMikpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB4YXZpZXJfc3RkZGV2ID0gMC4xCg==</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -749,7 +755,7 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjMgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDE2LCAzMl0pCiAgICAgICAgYl9jb252MyA9IGJpYXNfdmFyaWFibGUoWzMyXSkKCiAgICAgICAgaF9jb252MyA9IHRmLm5uLnJlbHUoKGNvbnYyZChoX3Bvb2wyLCBXX2NvbnYzKSArIGJfY29udjMpKQogICAgICAgIGhfcG9vbDMgPSBtYXhfcG9vbF8yeDIoaF9jb252MykKICAgICAgICAjIGhfcG9vbDMgPSB0Zi5ubi5kcm9wb3V0KGhfcG9vbDMsIGtlZXBfcHJvYikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNoYXBlKSA9PSAyOgogICAgICAgICAgICAgICAgeGF2aWVyX3N0ZGRldiA9IHRmLnNxcnQoMS4wIC8gdGYuY2FzdChzaGFwZVswXSwgdGYuZmxvYXQzMikpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB4YXZpZXJfc3RkZGV2ID0gMC4xCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBoX3Bvb2w0X2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDQsIFstMSwgNzUgKiAxMDAgKiAxMjhdKQo=</text>
