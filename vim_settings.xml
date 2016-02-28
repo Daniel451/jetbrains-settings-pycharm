@@ -347,11 +347,11 @@
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v2/label.py" timestamp="1456622984666">
-        <mark key="[" line="82" column="18" />
-        <mark key="]" line="82" column="48" />
-        <mark key="." line="82" column="48" />
-        <mark key="^" line="82" column="48" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v2/label.py" timestamp="1456625988084">
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="78" column="14" />
+        <mark key="." line="78" column="14" />
+        <mark key="^" line="78" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.2.py" timestamp="1455556756530">
         <mark key="[" line="48" column="17" />
@@ -682,10 +682,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5heC5zaG93KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -694,31 +694,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9fZmlsdGVyX2V4Y2x1ZGUoIl9ncmV5IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRlc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5heC5zaG93KCkK</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>u</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXRoKQo=</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      <register name="5" type="4">
+        <text>T</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      <register name="6" type="4">
+        <text>b</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZXhfc3RyOiAK</text>
+      <register name="7" type="4">
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>k</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLl9fZmlsZXMpCg==</text>
+      <register name="9" type="4">
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
