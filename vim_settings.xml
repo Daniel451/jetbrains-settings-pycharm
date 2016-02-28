@@ -687,11 +687,11 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456690164179">
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="58" column="40" />
-        <mark key="." line="58" column="40" />
-        <mark key="^" line="58" column="40" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456699408892">
+        <mark key="[" line="149" column="60" />
+        <mark key="]" line="149" column="66" />
+        <mark key="." line="149" column="66" />
+        <mark key="^" line="149" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -821,44 +821,44 @@
       <jump line="195" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoX3Bvb2wzX2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDMsIFstMSwgMTUwICogMjAwICogMzJdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbWF4X3Bvb2xfMngyKG14KToKICAgICAgICAgICAgcmV0dXJuIHRmLm5uLm1heF9wb29sKG14LCBrc2l6ZT1bMSwgMiwgMiwgMV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJpZGVzPVsxLCAyLCAyLCAxXSwgcGFkZGluZz0nU0FNRScpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ19ldmVyeV9uX3N0ZXBzID0gMjAwCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoX3Bvb2wzX2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDMsIFstMSwgMTUwICogMjAwICogMzJdKQo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjIgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDgsIDE2XSkKICAgICAgICBiX2NvbnYyID0gYmlhc192YXJpYWJsZShbMTZdKQoKICAgICAgICBoX2NvbnYyID0gdGYubm4ucmVsdSgoY29udjJkKGhfcG9vbDEsIFdfY29udjIpICsgYl9jb252MikpCiAgICAgICAgaF9wb29sMiA9IG1heF9wb29sXzJ4MihoX2NvbnYyKQogICAgICAgICMgaF9wb29sMiA9IHRmLm5uLmRyb3BvdXQoaF9wb29sMiwga2VlcF9wcm9iKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
-      </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="4">
-        <text>(</text>
-      </register>
-      <register name="8" type="4">
+      <register name="2" type="4">
         <text>2</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBoX3Bvb2wzX2ZsYXQgPSB0Zi5yZXNoYXBlKGhfcG9vbDMsIFstMSwgMTUwICogMjAwICogMzJdKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjIgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDgsIDE2XSkKICAgICAgICBiX2NvbnYyID0gYmlhc192YXJpYWJsZShbMTZdKQoKICAgICAgICBoX2NvbnYyID0gdGYubm4ucmVsdSgoY29udjJkKGhfcG9vbDEsIFdfY29udjIpICsgYl9jb252MikpCiAgICAgICAgaF9wb29sMiA9IG1heF9wb29sXzJ4MihoX2NvbnYyKQogICAgICAgICMgaF9wb29sMiA9IHRmLm5uLmRyb3BvdXQoaF9wb29sMiwga2VlcF9wcm9iKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>tf.div(x, tf.add(1.0, tf.abs(x)))</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -946,6 +946,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
