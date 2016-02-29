@@ -63,6 +63,11 @@
         <mark key="^" line="102" column="33" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s03_ex03.py" timestamp="1456713372303">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex04.py" timestamp="1456469063940">
         <mark key="[" line="52" column="17" />
         <mark key="]" line="52" column="18" />
@@ -204,6 +209,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex02.py" timestamp="1456715138385">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="34" />
+        <mark key="^" line="57" column="34" />
+        <mark key="." line="57" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455033587706">
         <mark key="[" line="11" column="0" />
@@ -474,6 +485,12 @@
         <mark key="." line="134" column="69" />
         <mark key="^" line="134" column="69" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/DataSequence.py" timestamp="1456711263739">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+        <mark key="^" line="30" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex12.py" timestamp="1456691256185">
         <mark key="[" line="322" column="74" />
         <mark key="]" line="322" column="101" />
@@ -485,16 +502,25 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex01.py" timestamp="1456710231781">
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="38" />
-        <mark key="." line="58" column="38" />
-        <mark key="^" line="468" column="53" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex01.py" timestamp="1456715090596">
+        <mark key="[" line="57" column="33" />
+        <mark key="]" line="57" column="34" />
+        <mark key="." line="57" column="34" />
+        <mark key="^" line="57" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/LogData.py" timestamp="1456711199782">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="54" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_1/conv_net_test1.3.py" timestamp="1455021994814">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s03_ex02.py" timestamp="1456712442927">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex03.py" timestamp="1456640683802">
         <mark key="[" line="52" column="17" />
@@ -558,6 +584,11 @@
         <mark key="]" line="138" column="48" />
         <mark key="." line="138" column="48" />
         <mark key="^" line="138" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/LogImg.py" timestamp="1456712189042">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455720666116">
         <mark key="[" line="344" column="55" />
@@ -707,6 +738,12 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456715711775">
+        <mark key="[" line="58" column="40" />
+        <mark key="]" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="^" line="59" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456709499912">
         <mark key="[" line="360" column="0" />
         <mark key="]" line="360" column="0" />
@@ -851,34 +888,34 @@
         <text>acti</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQobnAuaW4xZCh4MTEsIF94MTEpLmFzdHlwZShucC5mbG9hdDMyKSkKICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQobnAuaW4xZCh5MTEsIF95MTEpLmFzdHlwZShucC5mbG9hdDMyKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGF0YShzZWxmKToKICAgICAgICAiIiIKICAgICAgICA6cmV0dXJuOiByZXR1cm5zIHRoZSBkYXRhCiAgICAgICAgOnJ0eXBlOiBudW1weS5uZGFycmF5CiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIG5wLmFycmF5KHNlbGYuZGF0YSkK</text>
       </register>
       <register name="1" type="4">
         <text>0</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -903,7 +940,6 @@
         <entry>acti</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
         <entry>end</entry>
         <entry>100</entry>
         <entry>280</entry>
@@ -922,6 +958,7 @@
         <entry>329</entry>
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>.,.+11w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
