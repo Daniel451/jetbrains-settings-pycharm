@@ -513,10 +513,10 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex01.py" timestamp="1456732686679">
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="34" />
-        <mark key="." line="59" column="34" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex01.py" timestamp="1456733746802">
+        <mark key="[" line="267" column="68" />
+        <mark key="]" line="267" column="68" />
+        <mark key="." line="267" column="68" />
         <mark key="^" line="57" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/LogData.py" timestamp="1456711199782">
@@ -749,10 +749,10 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456732867255">
-        <mark key="[" line="161" column="72" />
-        <mark key="]" line="161" column="77" />
-        <mark key="." line="161" column="77" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456733980404">
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="34" />
+        <mark key="." line="59" column="34" />
         <mark key="^" line="161" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456709499912">
@@ -890,10 +890,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -902,31 +902,31 @@
         <text encoding="base64">ICAgICAgICAjIGZsYXQgZGF0YSBmb3IgZnVsbHkgY29ubmVjdGVkIGxheWVycwogICAgICAgIGhfcG9vbDJfZmxhdCA9IHRmLnJlc2hhcGUoaF9wb29sMiwgWy0xLCAxNTAgKiAyMDAgKiAxNl0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="6" type="4">
-        <text>*</text>
+        <text>i</text>
       </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
