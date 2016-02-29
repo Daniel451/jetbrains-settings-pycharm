@@ -738,11 +738,11 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456718220416">
-        <mark key="[" line="59" column="35" />
-        <mark key="]" line="59" column="35" />
-        <mark key="." line="59" column="35" />
-        <mark key="^" line="58" column="40" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456724404443">
+        <mark key="[" line="208" column="47" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="233" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456709499912">
         <mark key="[" line="360" column="0" />
@@ -900,22 +900,22 @@
         <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>w</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>:</text>
+        <text>w</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
