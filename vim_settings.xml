@@ -738,11 +738,11 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456727183505">
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="59" column="34" />
-        <mark key="." line="59" column="34" />
-        <mark key="^" line="59" column="34" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex03.py" timestamp="1456729422879">
+        <mark key="[" line="161" column="71" />
+        <mark key="]" line="161" column="77" />
+        <mark key="." line="161" column="77" />
+        <mark key="^" line="161" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex10.py" timestamp="1456709499912">
         <mark key="[" line="360" column="0" />
@@ -879,10 +879,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -891,22 +891,22 @@
         <text encoding="base64">ICAgIGRlZiBnZXRfZGF0YShzZWxmKToKICAgICAgICAiIiIKICAgICAgICA6cmV0dXJuOiByZXR1cm5zIHRoZSBkYXRhCiAgICAgICAgOnJ0eXBlOiBudW1weS5uZGFycmF5CiAgICAgICAgIiIiCiAgICAgICAgcmV0dXJuIG5wLmFycmF5KHNlbGYuZGF0YSkK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>*</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
@@ -915,7 +915,7 @@
         <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
