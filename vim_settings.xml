@@ -788,10 +788,21 @@
         <mark key="]" line="52" column="20" />
         <mark key="." line="52" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex06.py" timestamp="1456871062841">
+        <mark key="[" line="256" column="54" />
+        <mark key="]" line="256" column="55" />
+        <mark key="^" line="262" column="54" />
+        <mark key="." line="256" column="55" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex04_9.py" timestamp="1456834177509">
         <mark key="[" line="58" column="37" />
         <mark key="]" line="58" column="38" />
         <mark key="." line="58" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex06.py" timestamp="1456871108018">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07.py" timestamp="1455232154861">
         <mark key="[" line="149" column="48" />
@@ -1158,11 +1169,11 @@
       <jump line="195" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -1170,32 +1181,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsb25lIG9mIHMwMyBlMDRfNAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>-</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>1</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>0</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDgsIDhdKQogICAgICAgIGJfY29udjQgPSBiaWFzX3ZhcmlhYmxlKFs4XSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
+        <text>8</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>x</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>8</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
