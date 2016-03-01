@@ -20,7 +20,12 @@
         <mark key="^" line="54" column="89" />
         <mark key="." line="54" column="89" />
       </file>
-      <file name="/a.dummy" timestamp="1456840989579">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex09.py" timestamp="1456872972007">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+      </file>
+      <file name="/a.dummy" timestamp="1456872175181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex02.py" timestamp="1456639058901">
@@ -93,6 +98,12 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex08.py" timestamp="1456872764807">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="97" />
+        <mark key="." line="48" column="97" />
+        <mark key="^" line="48" column="97" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classA.py" timestamp="1455035486300">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="50" />
@@ -153,6 +164,12 @@
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
         <mark key="^" line="345" column="82" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex09.py" timestamp="1456872937438">
+        <mark key="[" line="235" column="48" />
+        <mark key="]" line="246" column="41" />
+        <mark key="." line="246" column="41" />
+        <mark key="^" line="246" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s03_ex01.py" timestamp="1456709741283">
         <mark key="[" line="52" column="14" />
@@ -363,6 +380,11 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="238" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex08.py" timestamp="1456872495103">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/DataSequence.py" timestamp="1456711263739">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="30" column="41" />
@@ -461,6 +483,11 @@
         <mark key="]" line="203" column="27" />
         <mark key="." line="203" column="27" />
         <mark key="^" line="203" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex07.py" timestamp="1456872232015">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series03_ex04_5.py" timestamp="1456840981541">
         <mark key="[" line="56" column="38" />
@@ -848,6 +875,11 @@
         <mark key="." line="56" column="35" />
         <mark key="^" line="48" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex07.py" timestamp="1456872243533">
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex04.py" timestamp="1456732443768">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="48" column="60" />
@@ -1173,7 +1205,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -1188,25 +1220,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDgsIDhdKQogICAgICAgIGJfY29udjQgPSBiaWFzX3ZhcmlhYmxlKFs4XSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDMyLCAzMl0pCiAgICAgICAgYl9jb252NCA9IGJpYXNfdmFyaWFibGUoWzMyXSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>9</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>_</text>
       </register>
       <register name="6" type="4">
-        <text>8</text>
+        <text>9</text>
       </register>
       <register name="7" type="4">
-        <text>x</text>
-      </register>
-      <register name="8" type="4">
-        <text>8</text>
-      </register>
-      <register name="9" type="4">
         <text>_</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
