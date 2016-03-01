@@ -1089,10 +1089,10 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex02.py" timestamp="1456870141608">
-        <mark key="[" line="216" column="44" />
-        <mark key="]" line="235" column="48" />
-        <mark key="." line="235" column="48" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex02.py" timestamp="1456873890849">
+        <mark key="[" line="161" column="72" />
+        <mark key="]" line="161" column="72" />
+        <mark key="." line="161" column="72" />
         <mark key="^" line="235" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex01.py" timestamp="1456638999999">
@@ -1201,11 +1201,11 @@
       <jump line="195" column="18" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex11.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -1213,32 +1213,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsb25lIG9mIHMwMyBlMDRfNAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDMyLCAzMl0pCiAgICAgICAgYl9jb252NCA9IGJpYXNfdmFyaWFibGUoWzMyXSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>9</text>
+        <text>6</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>9</text>
+        <text>*</text>
       </register>
-      <register name="7" type="4">
-        <text>_</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDMyLCAzMl0pCiAgICAgICAgYl9jb252NCA9IGJpYXNfdmFyaWFibGUoWzMyXSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
