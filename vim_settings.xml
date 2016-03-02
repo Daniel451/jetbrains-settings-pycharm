@@ -292,6 +292,11 @@
         <mark key="." line="281" column="33" />
         <mark key="^" line="281" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/WriteArray.py" timestamp="1456940213924">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="21" column="109" />
@@ -560,6 +565,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s05_ex01.py" timestamp="1456940627414">
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="32" column="60" />
+        <mark key="." line="32" column="60" />
+        <mark key="^" line="32" column="60" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455582008943">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="38" />
@@ -635,10 +646,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex01.py" timestamp="1456938891742">
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex01.py" timestamp="1456940658219">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="397" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
         <mark key="[" line="285" column="16" />
@@ -699,11 +711,11 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBXcml0ZUFycmF5IGltcG9ydCBXQQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -711,32 +723,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoX2ZjMV9kcm9wX3kgPSB0Zi5ubi5kcm9wb3V0KGhfZmMxX3ksIGtlZXBfcHJvYikK</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBXcml0ZUFycmF5IGltcG9ydCBXQQo=</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text>x</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>o</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCgpjbGFzcyBXQShvYmplY3QpOgoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiB3cml0ZV9hcnIoZmlsZXBhdGgsIGFyciwgKToKICAgICAgICBucC5zYXZlel9jb21wcmVzc2VkKGZpbGVwYXRoLCBhcnIpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>o</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZnJvbSBhYmMgaW1wb3J0IGFic3RyYWN0bWV0aG9kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
