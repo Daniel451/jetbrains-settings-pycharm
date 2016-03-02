@@ -189,6 +189,12 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex20.py" timestamp="1456923323633">
+        <mark key="[" line="244" column="38" />
+        <mark key="]" line="244" column="39" />
+        <mark key="^" line="253" column="54" />
+        <mark key="." line="244" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455549796227">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="34" />
@@ -348,6 +354,12 @@
         <mark key="]" line="28" column="10" />
         <mark key="^" line="28" column="10" />
         <mark key="." line="28" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex20.py" timestamp="1456923153929">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="52" column="17" />
+        <mark key="^" line="52" column="17" />
+        <mark key="." line="52" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.2.py" timestamp="1455556756530">
         <mark key="[" line="48" column="17" />
@@ -701,28 +713,28 @@
         <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>b</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>2</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
         <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
