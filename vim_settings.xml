@@ -353,6 +353,11 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex19.py" timestamp="1456915392519">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_03.py" timestamp="1455565371905">
         <mark key="[" line="371" column="44" />
         <mark key="]" line="371" column="62" />
@@ -529,6 +534,12 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex19.py" timestamp="1456915377018">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="56" />
+        <mark key="." line="48" column="56" />
+        <mark key="^" line="48" column="56" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.4.py" timestamp="1455499829794">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
@@ -673,47 +684,47 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1nID0gbXBpbWcuaW1yZWFkKCIvaG9tZS9kYW5pZWwvcmVwb3NpdG9yaWVzL2JhY2hlbG9yLXRoZXNpcy9jb2RlL2xhYmVsX2ltYWdlcy92Mi9pbWdfZnJfbm92MTVfMDAwLjAwMC5wbmciKQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1nID0gbXBpbWcuaW1yZWFkKCIvaG9tZS9kYW5pZWwvcmVwb3NpdG9yaWVzL2JhY2hlbG9yLXRoZXNpcy9jb2RlL2xhYmVsX2ltYWdlcy92Mi9pbWdfZnJfbm92MTVfMDAwLjAwMC5wbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICBoX2ZjMV9kcm9wX3kgPSB0Zi5ubi5kcm9wb3V0KGhfZmMxX3ksIGtlZXBfcHJvYikK</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;)</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>png</text>
+        <text>b</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text>000</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>img_fr_nov15_000</text>
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICogMTAuMA==</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -751,8 +762,8 @@
         <entry>32</entry>
         <entry>1</entry>
         <entry>329</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
