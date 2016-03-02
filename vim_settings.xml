@@ -25,7 +25,7 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1456872175181">
+      <file name="/a.dummy" timestamp="1456878358735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex02.py" timestamp="1456639058901">
@@ -97,6 +97,12 @@
         <mark key="]" line="35" column="5" />
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s04_ex10.py" timestamp="1456878616962">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="17" />
+        <mark key="^" line="52" column="17" />
+        <mark key="." line="52" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex08.py" timestamp="1456872764807">
         <mark key="[" line="48" column="19" />
@@ -436,6 +442,12 @@
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="20" />
         <mark key="." line="63" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex10.py" timestamp="1456878576799">
+        <mark key="[" line="196" column="44" />
+        <mark key="]" line="59" column="33" />
+        <mark key="." line="59" column="33" />
+        <mark key="^" line="59" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex10.py" timestamp="1456657119125">
         <mark key="[" line="7" column="33" />
@@ -1202,10 +1214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -1214,31 +1226,31 @@
         <text encoding="base64">ICAgIGNsb25lIG9mIHMwMyBlMDRfNAo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="4">
-        <text>0</text>
-      </register>
-      <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="4" type="4">
         <text>6</text>
       </register>
-      <register name="5" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>*</text>
+      <register name="3" type="4">
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
+        <text>6</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="7" type="4">
+        <text>*</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDMyLCAzMl0pCiAgICAgICAgYl9jb252NCA9IGJpYXNfdmFyaWFibGUoWzMyXSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
