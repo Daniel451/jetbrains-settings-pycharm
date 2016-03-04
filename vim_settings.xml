@@ -30,9 +30,6 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1456878358735">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s02_ex02.py" timestamp="1456639058901">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="32" column="49" />
@@ -435,6 +432,11 @@
         <mark key="^" line="50" column="19" />
         <mark key="." line="50" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/img_load_save.py" timestamp="1457060621944">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series03/cnn_series03_ex01.py" timestamp="1456733746802">
         <mark key="[" line="267" column="68" />
         <mark key="]" line="267" column="68" />
@@ -782,6 +784,12 @@
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457062049672">
+        <mark key="[" line="47" column="46" />
+        <mark key="]" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+        <mark key="^" line="56" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series02/cnn_series02_ex05.py" timestamp="1456659545112">
         <mark key="[" line="177" column="41" />
@@ -1303,10 +1311,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>acti</text>
@@ -1315,31 +1323,31 @@
         <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzUsIDUsIDMyLCAzMl0pCiAgICAgICAgYl9jb252NCA9IGJpYXNfdmFyaWFibGUoWzMyXSkKCiAgICAgICAgaF9jb252NCA9IGFjdGl2YXRpb24oY29udjJkKGhfcG9vbDMsIFdfY29udjQpICsgYl9jb252NCkKICAgICAgICBoX3Bvb2w0ID0gbWF4X3Bvb2xfMngyKGhfY29udjQpCiAgICAgICAgaF9wb29sNCA9IHRmLm5uLmRyb3BvdXQoaF9wb29sNCwga2VlcF9wcm9iKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>x</text>
       </register>
-      <register name="2" type="4">
-        <text>)</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>n</text>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQodGVYLnNoYXBlKQo=</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>]</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>[</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>]</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>2</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
