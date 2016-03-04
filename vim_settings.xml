@@ -117,12 +117,12 @@
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457098917677">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="29" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="66" column="66" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457102458055">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+        <mark key="^" line="56" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classA.py" timestamp="1455035486300">
         <mark key="[" line="2" column="0" />
@@ -767,44 +767,44 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmLCBheGFyciA9IHBsdC5zdWJwbG90cygyLCAyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmLCBheGFyciA9IHBsdC5zdWJwbG90cygyLCAyKQo=</text>
+        <text encoding="base64">ZGl2aWRlciA9IG1ha2VfYXhlc19sb2NhdGFibGUoYXhhcnJbMl0pCmNheDEgPSBkaXZpZGVyLmFwcGVuZF9heGVzKCJyaWdodCIsIHNpemU9IjUlIiwgcGFkPTAuMDUpCmNheDEuc2V0X3lsaW0oWzAsIDYwMF0pCnBsdC5jb2xvcmJhcihoMCwgY2F4PWNheDEpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
-      </register>
-      <register name="3" type="4">
-        <text>T</text>
-      </register>
-      <register name="4" type="4">
-        <text>.</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Zm9yIGxpbmUgaW4gaGVhdG1hcDoKICAgIHByaW50IGxlbihsaW5lKSwgYXJyWyJubm9feSJdWzBdLnNoYXBlCiAgICBsaW5lICs9IGFyclsibm5vX3kiXVswXQo=</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text>a</text>
+      </register>
+      <register name="4" type="4">
+        <text>x</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
+      </register>
       <register name="7" type="4">
-        <text>#</text>
+        <text>=</text>
       </register>
       <register name="8" type="4">
-        <text>9</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>9</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -815,7 +815,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxoZWF0bWFwXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -833,7 +833,6 @@
         <entry>end</entry>
         <entry>100</entry>
         <entry>280</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>redo</entry>
         <entry>259</entry>
@@ -847,6 +846,7 @@
         <entry>1</entry>
         <entry>329</entry>
         <entry>wa</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
