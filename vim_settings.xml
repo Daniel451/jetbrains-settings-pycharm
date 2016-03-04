@@ -444,6 +444,12 @@
         <mark key="." line="134" column="69" />
         <mark key="^" line="134" column="69" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/plot_assist.py" timestamp="1457053478451">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.2.py" timestamp="1455083079802">
         <mark key="[" line="50" column="17" />
         <mark key="]" line="50" column="18" />
@@ -747,11 +753,11 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdToxIik6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
@@ -759,32 +765,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdTowIik6Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdToxIik6Cg==</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdTowIik6Cg==</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdToxIik6Cg==</text>
+      <register name="3" type="4">
+        <text>i</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdTowIik6Cg==</text>
+      <register name="4" type="4">
+        <text>f</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdToxIik6Cg==</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdTowIik6Cg==</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdToxIik6Cg==</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLmRldmljZSgiL2dwdTowIik6Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIE9VVFBVVDogZnVsbHkgY29ubmVjdGVkIC0geAogICAgICAgIFdfZmMyX3ggPSB3ZWlnaHRfdmFyaWFibGUoWzEwMCwgODAwXSkKICAgICAgICBiX2ZjMl94ID0gYmlhc192YXJpYWJsZShbODAwXSwgc3RhcnRfdmFsdWU9MC4wKQoKICAgICAgICBubl9vdXRfeF9saW5lYXIgPSB0Zi5tYXRtdWwoaF9mYzFfZHJvcF94LCBXX2ZjMl94KSArIGJfZmMyX3gK</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
