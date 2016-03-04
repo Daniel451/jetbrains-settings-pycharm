@@ -117,11 +117,12 @@
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457058157967">
-        <mark key="[" line="24" column="48" />
-        <mark key="]" line="35" column="49" />
-        <mark key="." line="35" column="49" />
-        <mark key="^" line="35" column="49" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457098917677">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="29" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="66" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classA.py" timestamp="1455035486300">
         <mark key="[" line="2" column="0" />
@@ -180,7 +181,6 @@
         <mark key="." line="343" column="16" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex01.py" timestamp="1456916273019" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex09.py" timestamp="1456533286459">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
@@ -245,7 +245,6 @@
         <mark key="." line="3" column="12" />
         <mark key="^" line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex06.py" timestamp="1456989674285" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex04.py" timestamp="1456469177048">
         <mark key="[" line="220" column="53" />
         <mark key="]" line="220" column="53" />
@@ -465,7 +464,6 @@
         <mark key="]" line="50" column="18" />
         <mark key="." line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/img_load_save.py" timestamp="1457058460109" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex07.py" timestamp="1457057691983">
         <mark key="[" line="355" column="65" />
         <mark key="]" line="355" column="66" />
@@ -648,6 +646,10 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/matplotlib_show_subplots.py" timestamp="1457098908337">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="37" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456532787821">
         <mark key="[" line="134" column="70" />
         <mark key="]" line="134" column="71" />
@@ -762,56 +764,57 @@
       <jump line="24" column="2" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmLCBheGFyciA9IHBsdC5zdWJwbG90cygyLCAyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>npy</text>
+        <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoYXJyWyJ0b3AxMV94X291dCJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBmLCBheGFyciA9IHBsdC5zdWJwbG90cygyLCAyKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>o</text>
+        <text>T</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yIGxpbmUgaW4gaGVhdG1hcDoKICAgIHByaW50IGxlbihsaW5lKSwgYXJyWyJubm9feSJdWzBdLnNoYXBlCiAgICBsaW5lICs9IGFyclsibm5vX3kiXVswXQo=</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>#</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>9</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>npy</last-search>
+      <last-search encoding="base64">XDxoZWF0bWFwXD4=</last-search>
       <last-offset />
-      <last-pattern>npy</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxoZWF0bWFwXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -822,6 +825,7 @@
         <entry>cores</entry>
         <entry>CORES</entry>
         <entry>npy</entry>
+        <entry encoding="base64">XDxoZWF0bWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action SearchEverywhere</entry>
