@@ -598,6 +598,12 @@
         <mark key="." line="139" column="85" />
         <mark key="^" line="139" column="85" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex03.py" timestamp="1457201045439">
+        <mark key="[" line="511" column="91" />
+        <mark key="]" line="511" column="91" />
+        <mark key="." line="511" column="92" />
+        <mark key="^" line="511" column="91" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_handler/log_plot.py" timestamp="1455470831786">
         <mark key="[" line="13" column="63" />
         <mark key="]" line="13" column="66" />
@@ -641,6 +647,11 @@
         <mark key="]" line="32" column="60" />
         <mark key="." line="32" column="60" />
         <mark key="^" line="32" column="60" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s06_ex03.py" timestamp="1457201082045">
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455582008943">
         <mark key="[" line="18" column="37" />
@@ -782,44 +793,44 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRvIHRoZSBwbG90dGluZyBtYWdpYwogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLnNldF90cmFpbl9zdGVwKGkpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIucGxvdF9kYXRhKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Zi5zYXZlZmlnKCIvaG9tZS9kYW5pZWwvdG1wL3ByaW1pdGl2ZV9wbG90X291dHB1dC5wbmciLCBkcGk9ODApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGRvIHRoZSBwbG90dGluZyBtYWdpYwogICAgICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLnNldF90cmFpbl9zdGVwKGkpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIucGxvdF9kYXRhKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>| top10-val: {} | least-10-val: {}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBubnkgdHJhaW4KICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZ2V0X2xvZ19pbWdfb2JqKGtleSkuZ2V0X3N1YnBsb3QoTE9HX1NVQlBMT1RfVFlQRVMubm5feSkgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldF9kYXRhX29iaihMT0dfREFUQV9UWVBFUy5ubl90cl95KS5hZGRfZGF0YSh0cl9ZX3lbaW1nX2ldKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9yZGVyX3NpemUgPSAwLjA0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBubnggdHJhaW4KICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZ2V0X2xvZ19pbWdfb2JqKGtleSkuZ2V0X3N1YnBsb3QoTE9HX1NVQlBMT1RfVFlQRVMubm5feCkgXAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldF9kYXRhX29iaihMT0dfREFUQV9UWVBFUy5ubl90cl94KS5hZGRfZGF0YSh0cl9ZX3hbaW1nX2ldKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm5feS5hZGRfZGF0YV9vYmooRGF0YVZlY3RvcihMT0dfREFUQV9UWVBFUy5ubl90cl95KSwgTE9HX0RBVEFfVFlQRVMubm5fdHJfeSkK</text>
       </register>
-      <register name="5" type="4">
-        <text>z</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbm5feC5hZGRfZGF0YV9vYmooRGF0YVZlY3RvcihMT0dfREFUQV9UWVBFUy5ubl90cl94KSwgTE9HX0RBVEFfVFlQRVMubm5fdHJfeCkK</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>| top10-val: {} | least-10-val: {}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
