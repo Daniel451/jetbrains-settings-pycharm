@@ -117,11 +117,11 @@
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457192575634">
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="39" />
-        <mark key="^" line="73" column="39" />
-        <mark key="." line="73" column="39" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" timestamp="1457194729960">
+        <mark key="[" line="97" column="24" />
+        <mark key="]" line="97" column="35" />
+        <mark key="." line="97" column="35" />
+        <mark key="^" line="97" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classA.py" timestamp="1455035486300">
         <mark key="[" line="2" column="0" />
@@ -761,44 +761,44 @@
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Zi5zYXZlZmlnKCIvaG9tZS9kYW5pZWwvdG1wL3ByaW1pdGl2ZV9wbG90X291dHB1dC5wbmciLCBkcGk9ODApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aGVhdG1hcCArPSBhcnJbIm5ub194Il1bMF1bTm9uZSwgOl0K</text>
+        <text encoding="base64">Zi5zYXZlZmlnKCIvaG9tZS9kYW5pZWwvdG1wL3ByaW1pdGl2ZV9wbG90X291dHB1dC5wbmciLCBkcGk9ODApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>5</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ym9yZGVyX3NpemUgPSAwLjA0Cg==</text>
       </register>
       <register name="2" type="4">
         <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>z</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>N</text>
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>_</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
