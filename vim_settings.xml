@@ -19,9 +19,6 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1457197140172">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
         <mark key="]" line="134" column="58" />
@@ -118,9 +115,9 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" timestamp="1455919242718">
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="70" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" timestamp="1457246451133">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
         <mark key="." line="46" column="70" />
         <mark key="^" line="46" column="70" />
       </file>
@@ -266,6 +263,11 @@
         <mark key="]" line="32" column="61" />
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test.py" timestamp="1457246453992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
         <mark key="[" line="68" column="13" />
@@ -853,7 +855,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhdF9kYXRhX3ggPSB0Zi5jb25zdGFudChoX3Bvb2wzX2ZsYXQpCg==</text>
+        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -862,7 +864,7 @@
         <text>npy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhdF9kYXRhX3ggPSB0Zi5jb25zdGFudChoX3Bvb2wzX2ZsYXQpCg==</text>
+        <text encoding="base64">IyEvc3cvZW52L2djYy00LjkuM19vcGVubXBpLTEuOC44L3BrZ3NyYy8yMDE1UTQvYmluL3B5dGhvbjIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
