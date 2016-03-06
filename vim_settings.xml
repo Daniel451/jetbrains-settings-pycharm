@@ -549,6 +549,11 @@
         <mark key="." line="149" column="50" />
         <mark key="^" line="149" column="50" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot.py" timestamp="1457283521942">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogData.py" timestamp="1456435803413">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -655,6 +660,12 @@
         <mark key="]" line="134" column="71" />
         <mark key="." line="134" column="71" />
         <mark key="^" line="134" column="68" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex05.py" timestamp="1457283761298">
+        <mark key="[" line="350" column="72" />
+        <mark key="]" line="350" column="84" />
+        <mark key="^" line="350" column="84" />
+        <mark key="." line="350" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -767,44 +778,44 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>3</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXJyWyJjZV95Il0gPSBbMy41LCAxLjUsIDIuMF0K</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXhhcnJbMV0uc2V0X3RpdGxlKCJoZWF0bWFwIGZvciB4IG91dHB1dCIpCg==</text>
+      <register name="0" type="4">
+        <text>np.arange(arr[&quot;ce_x&quot;].shape[0]) * train_step_size</text>
       </register>
-      <register name="1" type="4">
-        <text>3</text>
+      <register name="1" type="2">
+        <text encoding="base64">YXJyWyJjZV95Il0gPSBbMy41LCAxLjUsIDIuMF0K</text>
       </register>
-      <register name="2" type="4">
-        <text>n</text>
+      <register name="2" type="2">
+        <text encoding="base64">YXJyWyJjZV94Il0gPSBbMywgMiwgMV0K</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>+</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>+</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>v</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
