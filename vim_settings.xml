@@ -661,11 +661,11 @@
         <mark key="." line="134" column="71" />
         <mark key="^" line="134" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex05.py" timestamp="1457283761298">
-        <mark key="[" line="350" column="72" />
-        <mark key="]" line="350" column="84" />
-        <mark key="^" line="350" column="84" />
-        <mark key="." line="350" column="84" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex05.py" timestamp="1457284643963">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -778,44 +778,44 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXJyWyJjZV95Il0gPSBbMy41LCAxLjUsIDIuMF0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>np.arange(arr[&quot;ce_x&quot;].shape[0]) * train_step_size</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubG9nX3Rlc3RfY2VbdGldWyJ4Il0uYWRkX2RhdGEoY2VfeCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">YXJyWyJjZV95Il0gPSBbMy41LCAxLjUsIDIuMF0K</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YXJyWyJjZV94Il0gPSBbMywgMiwgMV0K</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
-      <register name="4" type="4">
-        <text>+</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>1</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIyBhcHBlbmQgY3Jvc3MgZW50cm9weSBlcnJvcnMgdG8gZGF0YSBzZXF1ZW5jZXMK</text>
       </register>
-      <register name="6" type="4">
-        <text>+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dfdGVzdF9jZVtpXVsieCJdID0gRGF0YVNlcXVlbmNlKExPR19EQVRBX1RZUEVTLmNvc3RfZnVuY3Rpb25feCkKICAgICAgICAgICAgc2VsZi5sb2dfdGVzdF9jZVtpXVsieCJdID0gRGF0YVNlcXVlbmNlKExPR19EQVRBX1RZUEVTLmNvc3RfZnVuY3Rpb25feCkK</text>
       </register>
-      <register name="8" type="4">
-        <text>x</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ5IjogRGF0YVNlcXVlbmNlKExPR19EQVRBX1RZUEVTLmNvc3RfZnVuY3Rpb25feSl9KQo=</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>[2, 3, 4, 7, 10, 18, 25, 27, 32, 45, 56, 66, 67, 68, 77]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
