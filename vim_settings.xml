@@ -264,11 +264,11 @@
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test.py" timestamp="1457431310235">
-        <mark key="[" line="18" column="6" />
-        <mark key="]" line="18" column="6" />
-        <mark key="^" line="86" column="17" />
-        <mark key="." line="18" column="6" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test.py" timestamp="1457432853149">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="86" column="16" />
+        <mark key="." line="86" column="16" />
+        <mark key="^" line="86" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
         <mark key="[" line="68" column="13" />
@@ -688,11 +688,11 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test2.py" timestamp="1457429108857">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="28" column="45" />
-        <mark key="^" line="28" column="45" />
-        <mark key="." line="28" column="45" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test2.py" timestamp="1457433430520">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
         <mark key="[" line="1" column="0" />
@@ -897,44 +897,44 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoNWYuY3JlYXRlX2RhdGFzZXQoImFjY3VfeCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE9c2VsZi5sb2dnZXIuZ2V0X2xvZ19pbWdfb2JqKExPR19JTUdfVFlQRVMudGVzdF9lcnJvcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldF9zdWJwbG90KExPR19TVUJQTE9UX1RZUEVTLnRlc3RfZXJyKS5nZXRfZGF0YV9vYmooTE9HX0RBVEFfVFlQRVMuYWNjdV94KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0X2RhdGEoKSkK</text>
+        <text encoding="base64">cHJpbnQoYzJbMF0uZXZhbCgpKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBudW0gb2YgbXVsdGlwbGljYXRpb25zIHRvIHBlcmZvcm0KbiA9IDEwCg==</text>
+        <text encoding="base64">d2l0aCB0Zi5kZXZpY2UoJy9jcHU6MCcpOgogICAgc3VtMSA9IHRmLmFkZF9uKGMxKSAgIyBBZGRpdGlvbiBvZiBhbGwgZWxlbWVudHMgaW4gYzEsIGkuZS4gQV5uICsgQl5uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnCkV4YW1wbGU6IGNvbXB1dGUgQV5uICsgQl5uIG9uIDIgR1BVcwpSZXN1bHRzIG9uIDggY29yZXMgd2l0aCAyIEdUWC05ODA6CiAqIFNpbmdsZSBHUFUgY29tcHV0YXRpb24gdGltZTogMDowMDoxMS4yNzc0NDkKICogTXVsdGkgR1BVIGNvbXB1dGF0aW9uIHRpbWU6IDA6MDA6MDcuMTMxNzAxCicnJwo=</text>
+        <text encoding="base64">ICAgICMgY29tcHV0ZSBBXm4gYW5kIEJebiBhbmQgc3RvcmUgcmVzdWx0cyBpbiBjMQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG4gPCAxOiAgIyBBYnN0cmFjdCBjYXNlcyB3aGVyZSBuIDwgMQogICAgICAgIHJldHVybiBNCiAgICBlbHNlOgo=</text>
+        <text encoding="base64">JycnClNpbmdsZSBHUFUgY29tcHV0aW5nCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIG1hdHBvdyhNLCBuKToKICAgIGlmIG4gPCAxOiAgIyBBYnN0cmFjdCBjYXNlcyB3aGVyZSBuIDwgMQogICAgICAgIHJldHVybiBNCiAgICBlbHNlOgogICAgICAgIHJldHVybiB0Zi5tYXRtdWwoTSwgbWF0cG93KE0sIG4gLSAxKSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGMxLmFwcGVuZChtYXRwb3coYSwgbikpCiAgICBjMS5hcHBlbmQobWF0cG93KGIsIG4pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
