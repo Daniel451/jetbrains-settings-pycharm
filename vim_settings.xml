@@ -25,6 +25,9 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
+      <file name="/a.dummy" timestamp="1457439394696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
         <mark key="]" line="134" column="58" />
@@ -109,6 +112,11 @@
         <mark key="]" line="61" column="37" />
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex02.py" timestamp="1457441077607">
+        <mark key="[" line="535" column="63" />
+        <mark key="]" line="535" column="64" />
+        <mark key="." line="535" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
@@ -200,6 +208,12 @@
         <mark key="]" line="343" column="16" />
         <mark key="." line="343" column="16" />
         <mark key="^" line="58" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex01.py" timestamp="1457442186414">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s06_ex13.py" timestamp="1457372465989">
         <mark key="[" line="52" column="17" />
@@ -518,6 +532,11 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="40" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex02.py" timestamp="1457441131946">
+        <mark key="[" line="82" column="17" />
+        <mark key="]" line="82" column="18" />
+        <mark key="." line="82" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/plot_assist.py" timestamp="1457054635714">
         <mark key="[" line="33" column="74" />
         <mark key="]" line="33" column="53" />
@@ -584,6 +603,12 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex01.py" timestamp="1457441050941">
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="38" />
+        <mark key="^" line="61" column="37" />
+        <mark key="." line="63" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex16.py" timestamp="1457372401822">
         <mark key="[" line="61" column="36" />
@@ -898,46 +923,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHQxXzEgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgciA9IHNlc3MucnVuKGFkZF9zaW5nbGUpCiAgICB0MV8yID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIHByaW50KHIpCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHQxXzEgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQogICAgciA9IHNlc3MucnVuKGFkZF9zaW5nbGUpCiAgICB0MV8yID0gZGF0ZXRpbWUuZGF0ZXRpbWUubm93KCkKICAgIHByaW50KHIpCg==</text>
+        <text encoding="base64">cHJpbnQoIlxubG9hZGVkIHRyYWluaW5nIGxhYmVscyBzdWNjZXNzZnVsbHkhIikKcHJpbnQoInRyWV94X2Nvb3JkLnNoYXBlOiB7fSIuZm9ybWF0KHRyWV94X2Nvb3JkLnNoYXBlKSkKcHJpbnQoInRyWV94X2Nvb3JkIHVzZXMgezosLjJmfSBNQiBvZiBtZW1vcnkiLmZvcm1hdChmbG9hdCh0cllfeF9jb29yZC5uYnl0ZXMpIC8gMWU2KSkKcHJpbnQoInRyWV95X2Nvb3JkLnNoYXBlOiB7fSIuZm9ybWF0KHRyWV95X2Nvb3JkLnNoYXBlKSkKcHJpbnQoInRyWV95X2Nvb3JkIHVzZXMgezosLjJmfSBNQiBvZiBtZW1vcnkiLmZvcm1hdChmbG9hdCh0cllfeV9jb29yZC5uYnl0ZXMpIC8gMWU2KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgUnVucyB0aGUgb3AuCg==</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>n</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
+      <register name="3" type="2">
+        <text encoding="base64">cHJpbnQoInBsb3QuLi4iKQpwbHQuaW1zaG93KHRyWFsxNTAwXSkKcGx0LnBsb3QodHJZX3hfY29vcmRbMTUwMF0gKiAyMDAwLjAsIGNvbG9yPSJyZWQiLCBtYXJrZXI9Ik5vbmUiLCBsaW5lc3R5bGU9InNvbGlkIikKcGx0LnNhdmVmaWcoIi9ob21lL2RhbmllbC90bXAvYmxhLnBuZyIpCnByaW50KCJwbG90IHJkeSIpCmV4aXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JycnCk11bHRpIEdQVSBjb21wdXRpbmcKJycnCndpdGggdGYuZGV2aWNlKCcvZ3B1OjAnKToKICAgIGEyID0gdGYuY29uc3RhbnQoQSkKICAgIGIyID0gdGYuY29uc3RhbnQoQikKICAgIGFiMiA9IHRmLmFkZChhMiwgYjIpCgp3aXRoIHRmLmRldmljZSgnL2dwdToxJyk6CiAgICBjMiA9IHRmLmNvbnN0YW50KEMpCiAgICBkMiA9IHRmLmNvbnN0YW50KEQpCiAgICBjZDIgPSB0Zi5hZGQoYzIsIGQyKQoKd2l0aCB0Zi5kZXZpY2UoJy9ncHU6MCcpOgogICAgYWRkX211bHRpID0gdGYuYWRkX24oYzIpICAjIEFkZGl0aW9uIG9mIGFsbCBlbGVtZW50cyBpbiBjMiwgaS5lLiBBXm4gKyBCXm4K</text>
+        <text encoding="base64">cGx0LnBsb3QobnAuYXJhbmdlKDEwMCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dDFfMiA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpCndpdGggdGYuU2Vzc2lvbihjb25maWc9dGYuQ29uZmlnUHJvdG8obG9nX2RldmljZV9wbGFjZW1lbnQ9bG9nX2RldmljZV9wbGFjZW1lbnQpKSBhcyBzZXNzOgogICAgIyBSdW5zIHRoZSBvcC4KICAgIHNlc3MucnVuKHN1bTIpCnQyXzIgPSBkYXRldGltZS5kYXRldGltZS5ub3coKQo=</text>
+        <text encoding="base64">cHJpbnQoInBsb3QuLi4iKQojIHBsdC5pbXNob3codHJYWzUwMF0pCnBsdC5wbG90KG5wLmFyYW5nZSgxMDApKQpwbHQuc2F2ZWZpZygiL2hvbWUvZGFuaWVsL3RtcC9ibGEucG5nIikKcHJpbnQoInBsb3QgcmR5IikKZXhpdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRmLmFkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGMyLmFwcGVuZChtYXRwb3coYiwgbikpCg==</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGIgPSB0Zi5jb25zdGFudChCKQo=</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBHUFU6MSBjb21wdXRlcyBCXm4K</text>
+        <text encoding="base64">cGx0LnBsb3QodHJZX3hfY29vcmRbMTUwMF0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -976,8 +1001,8 @@
         <entry>329</entry>
         <entry>noh</entry>
         <entry>we</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
