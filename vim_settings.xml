@@ -264,6 +264,12 @@
         <mark key="." line="32" column="61" />
         <mark key="^" line="32" column="61" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test.py" timestamp="1457431310235">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="6" />
+        <mark key="^" line="86" column="17" />
+        <mark key="." line="18" column="6" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
         <mark key="[" line="68" column="13" />
         <mark key="]" line="77" column="18" />
@@ -891,11 +897,11 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -903,32 +909,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoNWYuY3JlYXRlX2RhdGFzZXQoImFjY3VfeCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE9c2VsZi5sb2dnZXIuZ2V0X2xvZ19pbWdfb2JqKExPR19JTUdfVFlQRVMudGVzdF9lcnJvcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldF9zdWJwbG90KExPR19TVUJQTE9UX1RZUEVTLnRlc3RfZXJyKS5nZXRfZGF0YV9vYmooTE9HX0RBVEFfVFlQRVMuYWNjdV94KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0X2RhdGEoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBudW0gb2YgbXVsdGlwbGljYXRpb25zIHRvIHBlcmZvcm0KbiA9IDEwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JycnCkV4YW1wbGU6IGNvbXB1dGUgQV5uICsgQl5uIG9uIDIgR1BVcwpSZXN1bHRzIG9uIDggY29yZXMgd2l0aCAyIEdUWC05ODA6CiAqIFNpbmdsZSBHUFUgY29tcHV0YXRpb24gdGltZTogMDowMDoxMS4yNzc0NDkKICogTXVsdGkgR1BVIGNvbXB1dGF0aW9uIHRpbWU6IDA6MDA6MDcuMTMxNzAxCicnJwo=</text>
+        <text encoding="base64">IyBudW0gb2YgbXVsdGlwbGljYXRpb25zIHRvIHBlcmZvcm0KbiA9IDEwCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">JycnCkV4YW1wbGU6IGNvbXB1dGUgQV5uICsgQl5uIG9uIDIgR1BVcwpSZXN1bHRzIG9uIDggY29yZXMgd2l0aCAyIEdUWC05ODA6CiAqIFNpbmdsZSBHUFUgY29tcHV0YXRpb24gdGltZTogMDowMDoxMS4yNzc0NDkKICogTXVsdGkgR1BVIGNvbXB1dGF0aW9uIHRpbWU6IDA6MDA6MDcuMTMxNzAxCicnJwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIG4gPCAxOiAgIyBBYnN0cmFjdCBjYXNlcyB3aGVyZSBuIDwgMQogICAgICAgIHJldHVybiBNCiAgICBlbHNlOgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
-      </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
