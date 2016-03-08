@@ -682,6 +682,12 @@
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test2.py" timestamp="1457429108857">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -886,10 +892,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoNWYuY3JlYXRlX2RhdGFzZXQoImFjY3VfeCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE9c2VsZi5sb2dnZXIuZ2V0X2xvZ19pbWdfb2JqKExPR19JTUdfVFlQRVMudGVzdF9lcnJvcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldF9zdWJwbG90KExPR19TVUJQTE9UX1RZUEVTLnRlc3RfZXJyKS5nZXRfZGF0YV9vYmooTE9HX0RBVEFfVFlQRVMuYWNjdV94KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0X2RhdGEoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -898,31 +904,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoNWYuY3JlYXRlX2RhdGFzZXQoImFjY3VfeCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE9c2VsZi5sb2dnZXIuZ2V0X2xvZ19pbWdfb2JqKExPR19JTUdfVFlQRVMudGVzdF9lcnJvcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldF9zdWJwbG90KExPR19TVUJQTE9UX1RZUEVTLnRlc3RfZXJyKS5nZXRfZGF0YV9vYmooTE9HX0RBVEFfVFlQRVMuYWNjdV94KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ2V0X2RhdGEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoNWYgPSAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>0</text>
+      <register name="2" type="2">
+        <text encoding="base64">IyBudW0gb2YgbXVsdGlwbGljYXRpb25zIHRvIHBlcmZvcm0KbiA9IDEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JycnCkV4YW1wbGU6IGNvbXB1dGUgQV5uICsgQl5uIG9uIDIgR1BVcwpSZXN1bHRzIG9uIDggY29yZXMgd2l0aCAyIEdUWC05ODA6CiAqIFNpbmdsZSBHUFUgY29tcHV0YXRpb24gdGltZTogMDowMDoxMS4yNzc0NDkKICogTXVsdGkgR1BVIGNvbXB1dGF0aW9uIHRpbWU6IDA6MDA6MDcuMTMxNzAxCicnJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQgYXJyLmtleXMoKQo=</text>
+        <text encoding="base64">ICAgIGlmIG4gPCAxOiAgIyBBYnN0cmFjdCBjYXNlcyB3aGVyZSBuIDwgMQogICAgICAgIHJldHVybiBNCiAgICBlbHNlOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>z</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
