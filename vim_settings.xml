@@ -118,11 +118,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex02.py" timestamp="1457449894393">
-        <mark key="[" line="531" column="64" />
-        <mark key="]" line="535" column="64" />
-        <mark key="." line="535" column="64" />
-        <mark key="^" line="535" column="64" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex02.py" timestamp="1457506841631">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="63" column="39" />
+        <mark key="." line="63" column="39" />
+        <mark key="^" line="63" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
@@ -620,11 +620,11 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex01.py" timestamp="1457441050941">
-        <mark key="[" line="63" column="37" />
-        <mark key="]" line="63" column="38" />
-        <mark key="^" line="61" column="37" />
-        <mark key="." line="63" column="38" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex01.py" timestamp="1457506828348">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="63" column="39" />
+        <mark key="^" line="63" column="39" />
+        <mark key="." line="63" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex16.py" timestamp="1457372401822">
         <mark key="[" line="61" column="36" />
@@ -983,7 +983,7 @@
         <text encoding="base64">cGx0LnBsb3QodHJZX3hfY29vcmRbMTUwMF0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1022,8 +1022,8 @@
         <entry>329</entry>
         <entry>noh</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
