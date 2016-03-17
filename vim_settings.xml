@@ -19,9 +19,6 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1456938670073">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
         <mark key="]" line="134" column="58" />
@@ -93,6 +90,11 @@
         <mark key="]" line="134" column="58" />
         <mark key="." line="134" column="58" />
         <mark key="^" line="134" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex06.py" timestamp="1458241329606">
+        <mark key="[" line="82" column="17" />
+        <mark key="]" line="82" column="18" />
+        <mark key="." line="82" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
@@ -180,6 +182,12 @@
         <mark key="]" line="343" column="16" />
         <mark key="." line="343" column="16" />
         <mark key="^" line="58" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex05.py" timestamp="1458241102535">
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="62" />
+        <mark key="." line="52" column="62" />
+        <mark key="^" line="52" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457623402224">
         <mark key="[" line="142" column="0" />
@@ -445,6 +453,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex06.py" timestamp="1458241262850">
+        <mark key="[" line="251" column="18" />
+        <mark key="]" line="251" column="29" />
+        <mark key="^" line="251" column="29" />
+        <mark key="." line="251" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s05_ex06.py" timestamp="1457030662956">
         <mark key="[" line="17" column="57" />
         <mark key="]" line="32" column="49" />
@@ -512,6 +526,11 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex05.py" timestamp="1458240832621">
+        <mark key="[" line="82" column="17" />
+        <mark key="]" line="82" column="18" />
+        <mark key="." line="82" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -782,43 +801,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ190ZXN0X2ltYWdlc19ucCA9IFsxLCAyLCAzLCA0LCA3LCAxMCwgMTgsIDE5LCAyNSwgMjcsIDI4LCAzMiwgMzUsIDM2LCA0NSwgNTYsIDY2LCA2NywgNjgsIDc3XQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbnYvbWF4cG9vbCBsYXllcgogICAgICAgIFdfY29udjQgPSB3ZWlnaHRfdmFyaWFibGUoWzMsIDMsIDE2LCAzMl0sICJXX2NvbnYzIikKICAgICAgICBiX2NvbnY0ID0gYmlhc192YXJpYWJsZShbMzJdLCAiYl9jb252MyIpCgogICAgICAgIGhfY29udjQgPSBhY3RpdmF0aW9uKGNvbnYyZChoX3Bvb2wzLCBXX2NvbnY0KSArIGJfY29udjQpCiAgICAgICAgaF9wb29sNCA9IGhfY29udjQKICAgICAgICBoX3Bvb2w0ID0gdGYubm4uZHJvcG91dChoX3Bvb2w0LCBrZWVwX3Byb2IpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>1</text>
+        <text>*</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="9" type="4">
-        <text>+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
