@@ -821,6 +821,12 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/paper_plot.py" timestamp="1458812280235">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="114" column="41" />
+        <mark key="." line="108" column="20" />
+        <mark key="^" line="110" column="47" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455911463662">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="24" />
@@ -865,6 +871,12 @@
         <mark key="[" line="63" column="17" />
         <mark key="]" line="63" column="18" />
         <mark key="." line="63" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_teacher_plot.py" timestamp="1458812897414">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_4.py" timestamp="1455287629889">
         <mark key="[" line="63" column="19" />
@@ -955,44 +967,44 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQodHlwZV90ZXN0NCgiMiIsIDMsIFsiMSIsIDUsIDZdKSkK</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQodHlwZV90ZXN0NCgiMiIsIDMsIFsiMSIsIDUsIDZdKSkK</text>
+        <text encoding="base64">cGx0LnJjKCJ4dGljayIsIGxhYmVsc2l6ZT10aWNrc19mb250X3NpemUpCnBsdC5yYygieXRpY2siLCBsYWJlbHNpemU9dGlja3NfZm9udF9zaXplKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJjIiwgYywgdHlwZShjKSkK</text>
+      <register name="1" type="4">
+        <text>5</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJiIiwgYiwgdHlwZShiKSkK</text>
+      <register name="2" type="4">
+        <text>=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJhIiwgYSwgdHlwZShhKSkK</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
