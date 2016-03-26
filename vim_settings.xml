@@ -398,6 +398,12 @@
         <mark key="." line="364" column="66" />
         <mark key="^" line="59" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/HannesJahresarbeit/Labyrinth.py" timestamp="1459013527444">
+        <mark key="[" line="164" column="21" />
+        <mark key="]" line="164" column="24" />
+        <mark key="." line="164" column="24" />
+        <mark key="^" line="164" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/WriteArray.py" timestamp="1456940213924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -968,10 +974,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -980,31 +986,31 @@
         <text encoding="base64">cGx0LnJjKCJ4dGljayIsIGxhYmVsc2l6ZT10aWNrc19mb250X3NpemUpCnBsdC5yYygieXRpY2siLCBsYWJlbHNpemU9dGlja3NfZm9udF9zaXplKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>=</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>d</text>
+        <text>5</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>=</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
