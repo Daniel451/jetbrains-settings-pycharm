@@ -532,11 +532,11 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/func_speed_tests.py" timestamp="1459160000170">
-        <mark key="[" line="28" column="68" />
-        <mark key="]" line="28" column="87" />
-        <mark key="^" line="28" column="87" />
-        <mark key="." line="28" column="87" />
+      <file name="$USER_HOME$/repositories/Python3Tests/func_speed_tests.py" timestamp="1459162869694">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.5.py" timestamp="1457025609434">
         <mark key="[" line="48" column="17" />
@@ -980,43 +980,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGx0LnJjKCJ4dGljayIsIGxhYmVsc2l6ZT10aWNrc19mb250X3NpemUpCnBsdC5yYygieXRpY2siLCBsYWJlbHNpemU9dGlja3NfZm9udF9zaXplKQo=</text>
+        <text encoding="base64">cHJpbnRfdGltZSgKICAgICJsaXN0X2NvbXByZWhlbnNpb24iLAogICAgICAgIHRpbWVpdC50aW1laXQoc3RtdD0ibGlzdF9jb21wcmVoZW5zaW9uKG1sc3QpIiwKICAgICAgICAgICAgICAgICAgICAgIHNldHVwPSJmcm9tIF9fbWFpbl9fIGltcG9ydCBtbHN0LCBsaXN0X2NvbXByZWhlbnNpb24iLAogICAgICAgICAgICAgICAgICAgICAgbnVtYmVyPW4pCikK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1103,6 +1103,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
