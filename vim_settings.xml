@@ -532,8 +532,11 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/func_speed_tests.py" timestamp="1459157713444">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/Python3Tests/func_speed_tests.py" timestamp="1459160000170">
+        <mark key="[" line="28" column="68" />
+        <mark key="]" line="28" column="87" />
+        <mark key="^" line="28" column="87" />
+        <mark key="." line="28" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.5.py" timestamp="1457025609434">
         <mark key="[" line="48" column="17" />
