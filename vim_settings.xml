@@ -532,11 +532,10 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/func_speed_tests.py" timestamp="1459165190838">
-        <mark key="[" line="37" column="15" />
-        <mark key="]" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="16" />
+      <file name="$USER_HOME$/repositories/Python3Tests/func_speed_tests.py" timestamp="1459210205392">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.5.py" timestamp="1457025609434">
         <mark key="[" line="48" column="17" />
@@ -943,6 +942,12 @@
         <mark key="^" line="236" column="53" />
         <mark key="." line="229" column="53" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/map_speed_tests.py" timestamp="1459210632181">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.7.py" timestamp="1455502253984">
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
@@ -980,7 +985,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnRfdGltZSgiZm9yX2xvb3BfcmFuZ2UiKQo=</text>
+        <text encoding="base64">ZGVmIGZvcl9sb29wKGRpYyk6CiAgICBmb3IgaywgdiBpbiBpdGVyKGRpYyk6CiAgICAgICAgZGljW2tdID0gdiArIDEK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -989,34 +994,34 @@
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnRfdGltZSgiZm9yX2xvb3BfcmFuZ2UiKQo=</text>
+        <text encoding="base64">ZGVmIGZvcl9sb29wKGRpYyk6CiAgICBmb3IgaywgdiBpbiBpdGVyKGRpYyk6CiAgICAgICAgZGljW2tdID0gdiArIDEK</text>
       </register>
-      <register name="1" type="4">
-        <text>n</text>
+      <register name="1" type="2">
+        <text encoding="base64">cHJpbnRfdGltZSgibGlzdF9jb21wcmVoZW5zaW9uIikK</text>
       </register>
-      <register name="2" type="4">
-        <text>o</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnRfdGltZSgiZm9yX2xvb3BfYXBwZW5kIikKcHJpbnRfdGltZSgiZm9yX2xvb3BfcmFuZ2UiKQpwcmludF90aW1lKCJ3aGlsZV9sb29wIikK</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>s</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIGZvcl9sb29wX2FwcGVuZChsc3QpOgogICAgdG1wID0gW10KICAgIGZvciBpdGVtIGluIGxzdDoKICAgICAgICB0bXAuYXBwZW5kKGl0ZW0gKyAxKQoKCmRlZiBmb3JfbG9vcF9yYW5nZShsc3QpOgogICAgZm9yIGsgaW4gcmFuZ2UobGVuKGxzdCkpOgogICAgICAgIGxzdFtrXSArPSAxCiAgICByZXR1cm4gbHN0CgoKZGVmIHdoaWxlX2xvb3AobHN0KToKICAgIGl0ID0gaXRlcihsc3QpCiAgICB0bXAgPSBbXQogICAgd2hpbGUgaXQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0bXAuYXBwZW5kKG5leHQoaXQpKzEpCiAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgIGJyZWFrCiAgICByZXR1cm4gdG1wCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>h</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZGVmIGxpc3RfY29tcHJlaGVuc2lvbihsc3QpOgogICAgcmV0dXJuIFt4ICsgMSBmb3IgeCBpbiBsc3RdCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>r</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
