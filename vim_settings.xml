@@ -1027,7 +1027,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>321</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1065,9 +1065,9 @@
         <entry>329</entry>
         <entry>noh</entry>
         <entry>we</entry>
-        <entry>wa</entry>
         <entry>w</entry>
         <entry>321</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
