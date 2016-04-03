@@ -153,6 +153,9 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cornelius_topographic_elman/mlprec_v3.py" timestamp="1459689469834">
+        <mark key="[" line="137" column="59" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s06_ex14.py" timestamp="1457372471507">
         <mark key="[" line="52" column="17" />
         <mark key="]" line="52" column="18" />
@@ -1024,7 +1027,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>321</text>
       </register>
     </registers>
     <search>
@@ -1045,7 +1048,6 @@
         <entry encoding="base64">XDxoZWF0bWFwXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>5</entry>
         <entry>end</entry>
         <entry>100</entry>
         <entry>280</entry>
@@ -1065,6 +1067,7 @@
         <entry>we</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>321</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1097,7 +1100,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
