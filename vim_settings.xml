@@ -118,11 +118,10 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex02.py" timestamp="1457506841631">
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="63" column="39" />
-        <mark key="." line="63" column="39" />
-        <mark key="^" line="63" column="39" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex02.py" timestamp="1459732715627">
+        <mark key="[" line="525" column="0" />
+        <mark key="]" line="525" column="0" />
+        <mark key="." line="525" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
@@ -988,7 +987,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGZvcl9sb29wKGRpYyk6CiAgICBmb3IgaywgdiBpbiBpdGVyKGRpYyk6CiAgICAgICAgZGljW2tdID0gdiArIDEK</text>
+        <text encoding="base64">Z2ZncmVncgo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -1000,31 +999,31 @@
         <text encoding="base64">ZGVmIGZvcl9sb29wKGRpYyk6CiAgICBmb3IgaywgdiBpbiBpdGVyKGRpYyk6CiAgICAgICAgZGljW2tdID0gdiArIDEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRfdGltZSgibGlzdF9jb21wcmVoZW5zaW9uIikK</text>
+        <text encoding="base64">Z2ZncmVncgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfdGltZSgiZm9yX2xvb3BfYXBwZW5kIikKcHJpbnRfdGltZSgiZm9yX2xvb3BfcmFuZ2UiKQpwcmludF90aW1lKCJ3aGlsZV9sb29wIikK</text>
+        <text encoding="base64">cHJpbnRfdGltZSgibGlzdF9jb21wcmVoZW5zaW9uIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnRfdGltZSgiZm9yX2xvb3BfYXBwZW5kIikKcHJpbnRfdGltZSgiZm9yX2xvb3BfcmFuZ2UiKQpwcmludF90aW1lKCJ3aGlsZV9sb29wIikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGZvcl9sb29wX2FwcGVuZChsc3QpOgogICAgdG1wID0gW10KICAgIGZvciBpdGVtIGluIGxzdDoKICAgICAgICB0bXAuYXBwZW5kKGl0ZW0gKyAxKQoKCmRlZiBmb3JfbG9vcF9yYW5nZShsc3QpOgogICAgZm9yIGsgaW4gcmFuZ2UobGVuKGxzdCkpOgogICAgICAgIGxzdFtrXSArPSAxCiAgICByZXR1cm4gbHN0CgoKZGVmIHdoaWxlX2xvb3AobHN0KToKICAgIGl0ID0gaXRlcihsc3QpCiAgICB0bXAgPSBbXQogICAgd2hpbGUgaXQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0bXAuYXBwZW5kKG5leHQoaXQpKzEpCiAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgIGJyZWFrCiAgICByZXR1cm4gdG1wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZvcl9sb29wX2FwcGVuZChsc3QpOgogICAgdG1wID0gW10KICAgIGZvciBpdGVtIGluIGxzdDoKICAgICAgICB0bXAuYXBwZW5kKGl0ZW0gKyAxKQoKCmRlZiBmb3JfbG9vcF9yYW5nZShsc3QpOgogICAgZm9yIGsgaW4gcmFuZ2UobGVuKGxzdCkpOgogICAgICAgIGxzdFtrXSArPSAxCiAgICByZXR1cm4gbHN0CgoKZGVmIHdoaWxlX2xvb3AobHN0KToKICAgIGl0ID0gaXRlcihsc3QpCiAgICB0bXAgPSBbXQogICAgd2hpbGUgaXQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0bXAuYXBwZW5kKG5leHQoaXQpKzEpCiAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgIGJyZWFrCiAgICByZXR1cm4gdG1wCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGxpc3RfY29tcHJlaGVuc2lvbihsc3QpOgogICAgcmV0dXJuIFt4ICsgMSBmb3IgeCBpbiBsc3RdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGxpc3RfY29tcHJlaGVuc2lvbihsc3QpOgogICAgcmV0dXJuIFt4ICsgMSBmb3IgeCBpbiBsc3RdCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
