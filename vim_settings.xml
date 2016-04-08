@@ -578,11 +578,11 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460156172086">
-        <mark key="[" line="20" column="65" />
-        <mark key="]" line="20" column="65" />
-        <mark key="^" line="20" column="74" />
-        <mark key="." line="20" column="65" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460158514362">
+        <mark key="[" line="48" column="42" />
+        <mark key="]" line="48" column="59" />
+        <mark key="^" line="48" column="59" />
+        <mark key="." line="48" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.2.py" timestamp="1455083079802">
         <mark key="[" line="50" column="17" />
@@ -999,44 +999,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9MTMsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1lbnVfbGVmdF91cHBlci5wYWNrKHNpZGU9InRvcCIsIGZpbGw9ImJvdGgiLCBleHBhbmQ9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJfdHJhaW4ucGFjayhzaWRlPSJ0b3AiLCBwYWR5PTEwKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9MTMsCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJfc2F2ZV9zYW1wbGUuY29uZmlnKHdpZHRoPTEyKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>u</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmJfdHJhaW4uY29uZmlnKHdpZHRoPTEyKQo=</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>b</text>
+        <text>0</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9MTIwLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9MTIwLAo=</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>b</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
