@@ -578,10 +578,11 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460073477247">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460079728789">
+        <mark key="[" line="54" column="103" />
+        <mark key="]" line="54" column="103" />
+        <mark key="." line="54" column="103" />
+        <mark key="^" line="54" column="103" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.2.py" timestamp="1455083079802">
         <mark key="[" line="50" column="17" />
@@ -989,49 +990,51 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
       <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
+      <jump line="4" column="19" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2ZncmVncgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGZvcl9sb29wKGRpYyk6CiAgICBmb3IgaywgdiBpbiBpdGVyKGRpYyk6CiAgICAgICAgZGljW2tdID0gdiArIDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50LndpZGdldC5jcmVhdGVfbGluZShzZWxmLnhfb2xkLCBzZWxmLnlfb2xkLCBldmVudC54LCBldmVudC55LCBzbW9vdGg9VHJ1ZSwgd2lkdGg9NSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Z2ZncmVncgo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfdGltZSgibGlzdF9jb21wcmVoZW5zaW9uIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZXZlbnQud2lkZ2V0LmNyZWF0ZV9vdmFsKGV2ZW50LngtMSwgZXZlbnQueS0xLCBldmVudC54KzEsIGV2ZW50LnkrMSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cHJpbnRfdGltZSgiZm9yX2xvb3BfYXBwZW5kIikKcHJpbnRfdGltZSgiZm9yX2xvb3BfcmFuZ2UiKQpwcmludF90aW1lKCJ3aGlsZV9sb29wIikK</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>u</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmIGZvcl9sb29wX2FwcGVuZChsc3QpOgogICAgdG1wID0gW10KICAgIGZvciBpdGVtIGluIGxzdDoKICAgICAgICB0bXAuYXBwZW5kKGl0ZW0gKyAxKQoKCmRlZiBmb3JfbG9vcF9yYW5nZShsc3QpOgogICAgZm9yIGsgaW4gcmFuZ2UobGVuKGxzdCkpOgogICAgICAgIGxzdFtrXSArPSAxCiAgICByZXR1cm4gbHN0CgoKZGVmIHdoaWxlX2xvb3AobHN0KToKICAgIGl0ID0gaXRlcihsc3QpCiAgICB0bXAgPSBbXQogICAgd2hpbGUgaXQ6CiAgICAgICAgdHJ5OgogICAgICAgICAgICB0bXAuYXBwZW5kKG5leHQoaXQpKzEpCiAgICAgICAgZXhjZXB0IFN0b3BJdGVyYXRpb246CiAgICAgICAgICAgIGJyZWFrCiAgICByZXR1cm4gdG1wCg==</text>
+      <register name="6" type="4">
+        <text>T</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>h</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGVmIGxpc3RfY29tcHJlaGVuc2lvbihsc3QpOgogICAgcmV0dXJuIFt4ICsgMSBmb3IgeCBpbiBsc3RdCg==</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1039,7 +1042,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxoZWF0bWFwXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1065,13 +1068,13 @@
         <entry>o5</entry>
         <entry>W</entry>
         <entry>32</entry>
-        <entry>1</entry>
         <entry>329</entry>
-        <entry>noh</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>321</entry>
         <entry>wa</entry>
+        <entry>1</entry>
+        <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1118,6 +1121,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
