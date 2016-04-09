@@ -33,10 +33,10 @@
         <mark key="]" line="82" column="18" />
         <mark key="." line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460239402576">
-        <mark key="[" line="195" column="27" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460241133505">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
@@ -1038,10 +1038,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInN0YXJ0Iiwgc3RhcnQpCiAgICAgICAgICAgIHByaW50KCJlbmQiLCBlbmQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -1050,28 +1050,28 @@
         <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGVbMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInN0YXJ0Iiwgc3RhcnQpCiAgICAgICAgICAgIHByaW50KCJlbmQiLCBlbmQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGVbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNlLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjY3Uuc2hhcGUpCg==</text>
       </register>
       <register name="4" type="4">
-        <text>]</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>[</text>
+        <text>0</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQuaW1zaG93KGltYWdlc1s1MDBdKQogICAgICAgIHByaW50KGxhYmVsc1s1MDBdKQogICAgICAgIHBsdC5zaG93KCkKICAgICAgICBleGl0KCkK</text>
+      <register name="7" type="4">
+        <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
       <register name="9" type="4">
         <text>1</text>
