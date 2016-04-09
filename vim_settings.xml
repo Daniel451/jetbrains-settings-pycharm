@@ -578,11 +578,11 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460160232518">
-        <mark key="[" line="77" column="28" />
-        <mark key="]" line="78" column="68" />
-        <mark key="^" line="78" column="68" />
-        <mark key="." line="78" column="68" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460161574517">
+        <mark key="[" line="84" column="54" />
+        <mark key="]" line="84" column="62" />
+        <mark key="^" line="84" column="62" />
+        <mark key="." line="84" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.2.py" timestamp="1455083079802">
         <mark key="[" line="50" column="17" />
@@ -999,44 +999,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRyYXdpbmdfYXJlYSkK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmJfdHJhaW4ucGFjayhzaWRlPSJ0b3AiLCBwYWR5PTEwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJfc2F2ZV9zYW1wbGUgPSB0ay5CdXR0b24oc2VsZi5tZW51X2xlZnRfdXBwZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ9IihzKWF2ZSBzYW1wbGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21tYW5kPXNlbGYuYl9zYXZlX3NhbXBsZV9wcmVzcykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRyYXdpbmdfYXJlYSkK</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>=</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg9MTMsCg==</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
