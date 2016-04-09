@@ -25,7 +25,7 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1460218729289">
+      <file name="/a.dummy" timestamp="1460219056761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex03.py" timestamp="1457459012652">
@@ -33,11 +33,11 @@
         <mark key="]" line="82" column="18" />
         <mark key="." line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460218759931">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="13" column="8" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460220205225">
+        <mark key="[" line="212" column="65" />
+        <mark key="]" line="212" column="65" />
+        <mark key="^" line="215" column="30" />
+        <mark key="." line="212" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
@@ -655,10 +655,11 @@
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460218884663">
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460220137305">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="13" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -1020,11 +1021,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnIK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -1032,32 +1033,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzYXZlciA9IHRmLnRyYWluLlNhdmVyKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnIK</text>
+      <register name="1" type="4">
+        <text>]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>[</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZWVwX3Byb2IgPSB0Zi5wbGFjZWhvbGRlcigiZmxvYXQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZXIucmVzdG9yZShzZWxmLnNlc3MsICJjbm5fbW9kZWwuY2twdCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi54CiAgICAgICAgeV90cmFpbiA9IHNlbGYueV90cmFpbgogICAgICAgIGtlZXBfcHJvYiA9IHNlbGYua2VlcF9wcm9iCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="6" type="4">
+        <text>]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsb2FkOgo=</text>
+      <register name="7" type="4">
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>[</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
