@@ -33,11 +33,11 @@
         <mark key="]" line="82" column="18" />
         <mark key="." line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460229247738">
-        <mark key="[" line="217" column="72" />
-        <mark key="]" line="219" column="29" />
-        <mark key="^" line="219" column="29" />
-        <mark key="." line="219" column="29" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460234797634">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="195" column="94" />
+        <mark key="." line="195" column="94" />
+        <mark key="^" line="195" column="94" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
@@ -685,11 +685,11 @@
         <mark key="^" line="63" column="39" />
         <mark key="." line="63" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/gui_main.py" timestamp="1460230362772">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="147" column="78" />
-        <mark key="." line="147" column="78" />
-        <mark key="^" line="147" column="78" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/gui_main.py" timestamp="1460234707177">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="36" />
+        <mark key="^" line="172" column="36" />
+        <mark key="." line="172" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex16.py" timestamp="1457372401822">
         <mark key="[" line="61" column="36" />
@@ -1040,10 +1040,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVsX3ZhciA9IHRrLlN0cmluZ1ZhcigpCiAgICAgICAgc2VsZi5sYWJlbF92YXIuc2V0KHN0cihzZWxmLm5ldC5nZXRfZG9uZV90cmFpbmluZ19wZXJjZW50YWdlKCkpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -1052,31 +1052,31 @@
         <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHlwZShpbWdkYXRhKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxhYmVsX3ZhciA9IHRrLlN0cmluZ1ZhcigpCiAgICAgICAgc2VsZi5sYWJlbF92YXIuc2V0KHN0cihzZWxmLm5ldC5nZXRfZG9uZV90cmFpbmluZ19wZXJjZW50YWdlKCkpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwID0gUHJvY2Vzcyh0YXJnZXQ9c2VsZi5uZXQudHJhaW4sIGFyZ3M9KGltYWdlcywgbGFiZWxzLCApKQogICAgICAgIHAuc3RhcnQoKQogICAgICAgIHByaW50KCJwcm9jZXNzIHN0YXJ0ZWQiKQogICAgICAgIHNlbGYuX191cGRhdGVfc3RhdHVzKCkKICAgICAgICBwLmpvaW4oKQogICAgICAgIHByaW50KCJwcm9jZXNzIGZpbmlzaGVkIikK</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX3VwZGF0ZV9zdGF0dXMoc2VsZik6CiAgICAgICAgc2VsZi5zdGF0dXNiYXIudXBkYXRlKCJUZXN0ISIpCg==</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>m</text>
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>b</text>
       </register>
       <register name="9" type="4">
-        <text>.</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
