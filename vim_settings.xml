@@ -33,11 +33,11 @@
         <mark key="]" line="82" column="18" />
         <mark key="." line="82" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460220205225">
-        <mark key="[" line="212" column="65" />
-        <mark key="]" line="212" column="65" />
-        <mark key="^" line="215" column="30" />
-        <mark key="." line="212" column="65" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460229247738">
+        <mark key="[" line="217" column="72" />
+        <mark key="]" line="219" column="29" />
+        <mark key="^" line="219" column="29" />
+        <mark key="." line="219" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
@@ -389,11 +389,11 @@
         <mark key="^" line="136" column="51" />
         <mark key="." line="136" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_converter.py" timestamp="1460222320950">
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="32" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_converter.py" timestamp="1460230019707">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.3.py" timestamp="1455499557769">
         <mark key="[" line="48" column="17" />
@@ -405,6 +405,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="6" column="25" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_06.py" timestamp="1455582140840">
         <mark key="[" line="280" column="35" />
@@ -478,7 +484,7 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1456572141077">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1460228479113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
         <mark key="^" line="84" column="73" />
@@ -678,6 +684,12 @@
         <mark key="]" line="63" column="39" />
         <mark key="^" line="63" column="39" />
         <mark key="." line="63" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/gui_main.py" timestamp="1460230362772">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="147" column="78" />
+        <mark key="." line="147" column="78" />
+        <mark key="^" line="147" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex16.py" timestamp="1457372401822">
         <mark key="[" line="61" column="36" />
@@ -1027,44 +1039,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlciA9IHRmLnRyYWluLlNhdmVyKCkK</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBpbWFnZSBhcyBtcGltZwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHlwZShpbWdkYXRhKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text>[</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrZWVwX3Byb2IgPSB0Zi5wbGFjZWhvbGRlcigiZmxvYXQiKQo=</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gc2VsZi54CiAgICAgICAgeV90cmFpbiA9IHNlbGYueV90cmFpbgogICAgICAgIGtlZXBfcHJvYiA9IHNlbGYua2VlcF9wcm9iCg==</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>]</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>[</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
