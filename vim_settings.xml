@@ -25,13 +25,19 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1460170003195">
+      <file name="/a.dummy" timestamp="1460218729289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex03.py" timestamp="1457459012652">
         <mark key="[" line="82" column="17" />
         <mark key="]" line="82" column="18" />
         <mark key="." line="82" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/network_lib.py" timestamp="1460218759931">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex07.py" timestamp="1456470025205">
         <mark key="[" line="134" column="57" />
@@ -217,11 +223,11 @@
         <mark key="." line="343" column="16" />
         <mark key="^" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/cnn.py" timestamp="1460217450674">
-        <mark key="[" line="200" column="26" />
-        <mark key="]" line="200" column="30" />
-        <mark key="." line="200" column="30" />
-        <mark key="^" line="200" column="30" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/cnn.py" timestamp="1460218660197">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex01.py" timestamp="1457442186414">
         <mark key="[" line="9" column="0" />
@@ -588,11 +594,11 @@
         <mark key="^" line="33" column="53" />
         <mark key="." line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460215172163">
-        <mark key="[" line="49" column="67" />
-        <mark key="]" line="49" column="91" />
-        <mark key="^" line="49" column="91" />
-        <mark key="." line="49" column="91" />
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460218725779">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.2.py" timestamp="1455083079802">
         <mark key="[" line="50" column="17" />
@@ -648,6 +654,12 @@
         <mark key="]" line="136" column="36" />
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460218852948">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -1010,43 +1022,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4oW25uX291dF9saW5lYXIsIHRvcDNfb3V0LCB0b3AzX3RyYWluXSwKICAgICAgICAgICAgICAgICAgICAgZmVlZF9kaWN0PXt4OiB9KQo=</text>
+        <text encoding="base64">ZnIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZXIucmVzdG9yZShzZXNzLCBzZWxmLmxvZ19wYXRoICsgImFhYl9tb2RlbC5ja3B0IikK</text>
+        <text encoding="base64">ICAgICAgICBzYXZlciA9IHRmLnRyYWluLlNhdmVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzcy5ydW4oW25uX291dF9saW5lYXIsIHRvcDNfb3V0LCB0b3AzX3RyYWluXSwKICAgICAgICAgICAgICAgICAgICAgZmVlZF9kaWN0PXt4OiB9KQo=</text>
+        <text encoding="base64">ZnIK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Y</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZXIucmVzdG9yZShzZWxmLnNlc3MsICJjbm5fbW9kZWwuY2twdCIpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>e</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50cmFpbigpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsb2FkOgo=</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>Y</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
