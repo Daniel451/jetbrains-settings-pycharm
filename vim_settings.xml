@@ -907,12 +907,11 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" timestamp="1478258501210">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" timestamp="1478302732408">
+        <mark key="'" line="34" column="0" />
+        <mark key="]" line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+        <mark key="." line="17" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -1053,6 +1052,8 @@
       <jump line="16" column="51" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="18" column="3" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="17" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1118,7 +1119,6 @@
         <entry>cnn</entry>
       </history-search>
       <history-cmd>
-        <entry>34</entry>
         <entry>wq</entry>
         <entry>5o</entry>
         <entry>5O</entry>
