@@ -907,6 +907,13 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" timestamp="1478257001685">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="38" />
@@ -1036,6 +1043,8 @@
       <jump line="4" column="19" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
       <jump line="13" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" />
+      <jump line="10" column="2" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1078,7 +1087,7 @@
         <text>5</text>
       </register>
       <register name=":" type="4">
-        <text>20</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1099,8 +1108,6 @@
         <entry encoding="base64">XDxoZWF0bWFwXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>280</entry>
-        <entry>q</entry>
         <entry>redo</entry>
         <entry>259</entry>
         <entry>34</entry>
@@ -1119,6 +1126,8 @@
         <entry>1</entry>
         <entry>40</entry>
         <entry>20</entry>
+        <entry>q</entry>
+        <entry>ggVA</entry>
       </history-cmd>
       <history-expr />
       <history-input />
