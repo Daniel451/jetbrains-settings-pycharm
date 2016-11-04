@@ -134,10 +134,11 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" timestamp="1455919242718">
-        <mark key="[" line="46" column="51" />
-        <mark key="]" line="46" column="70" />
-        <mark key="." line="46" column="70" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" timestamp="1478238407775">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="46" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
@@ -483,11 +484,10 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1460228479113">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="84" column="73" />
-        <mark key="." line="84" column="73" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1478238746963">
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_3.py" timestamp="1455260019385">
         <mark key="[" line="63" column="19" />
@@ -1035,13 +1035,14 @@
       <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
       <jump line="4" column="19" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWF0bWFwXD4=</text>
@@ -1050,34 +1051,34 @@
         <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGVbMF0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNlLnNoYXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNlLnNoYXBlKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjY3Uuc2hhcGUpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>}</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
-      </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
         <text>0</text>
       </register>
       <register name="8" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text>5</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>20</text>
       </register>
     </registers>
     <search>
@@ -1085,7 +1086,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxoZWF0bWFwXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1098,8 +1099,6 @@
         <entry encoding="base64">XDxoZWF0bWFwXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>end</entry>
-        <entry>100</entry>
         <entry>280</entry>
         <entry>q</entry>
         <entry>redo</entry>
@@ -1115,9 +1114,11 @@
         <entry>we</entry>
         <entry>321</entry>
         <entry>wa</entry>
-        <entry>1</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>1</entry>
+        <entry>40</entry>
+        <entry>20</entry>
       </history-cmd>
       <history-expr />
       <history-input />
