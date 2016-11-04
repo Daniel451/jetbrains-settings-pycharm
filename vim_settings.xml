@@ -1094,7 +1094,7 @@
         <text>5</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -1135,8 +1135,8 @@
         <entry>20</entry>
         <entry>ggVA</entry>
         <entry>q</entry>
-        <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
