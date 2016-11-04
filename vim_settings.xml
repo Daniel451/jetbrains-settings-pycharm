@@ -907,12 +907,12 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" timestamp="1478257679944">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" timestamp="1478257863478">
         <mark key="'" line="18" column="3" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
@@ -1117,8 +1117,6 @@
         <entry>cnn</entry>
       </history-search>
       <history-cmd>
-        <entry>redo</entry>
-        <entry>259</entry>
         <entry>34</entry>
         <entry>wq</entry>
         <entry>5o</entry>
