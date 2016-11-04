@@ -1,11 +1,12 @@
 <keymap version="1" name="Daniel" parent="Eclipse">
+  <action id="AceJumpAction">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
+  <action id="CloseContent" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
@@ -34,6 +35,7 @@
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark7" />
   <action id="GotoLine" />
+  <action id="Images.Thumbnails.Hide" />
   <action id="IpnbMoveCellDownAction" />
   <action id="IpnbMoveCellUpAction" />
   <action id="IpnbRunCellInplaceAction" />
