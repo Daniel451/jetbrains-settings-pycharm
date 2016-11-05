@@ -452,6 +452,9 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" timestamp="1478308004394">
+        <mark key="'" line="208" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex03.py" timestamp="1456469147303">
         <mark key="[" line="134" column="58" />
         <mark key="]" line="134" column="59" />
@@ -638,12 +641,12 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" timestamp="1478307299254">
-        <mark key="'" line="56" column="8" />
-        <mark key="[" line="56" column="43" />
-        <mark key="]" line="56" column="7" />
-        <mark key="." line="56" column="7" />
-        <mark key="^" line="56" column="7" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" timestamp="1478308042008">
+        <mark key="'" line="256" column="24" />
+        <mark key="[" line="59" column="72" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+        <mark key="^" line="62" column="23" />
         <mark key="o" line="56" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
@@ -1084,6 +1087,17 @@
       <jump line="176" column="26" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="52" column="28" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="56" column="8" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="233" column="19" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="287" column="30" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="381" column="47" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="72" column="32" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="98" column="27" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="175" column="37" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="218" column="32" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="223" column="17" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="253" column="24" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
+      <jump line="7" column="44" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
+      <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1093,7 +1107,7 @@
         <text encoding="base64">ZGF0YSA=</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>sess</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGVbMF0pCg==</text>
@@ -1126,13 +1140,13 @@
         <text>5</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>sess</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>sess</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1148,15 +1162,10 @@
         <entry>test</entry>
         <entry>cnn</entry>
         <entry>log</entry>
+        <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>32</entry>
-        <entry>329</entry>
-        <entry>we</entry>
-        <entry>321</entry>
-        <entry>wa</entry>
         <entry>noh</entry>
-        <entry>w</entry>
         <entry>1</entry>
         <entry>40</entry>
         <entry>20</entry>
@@ -1169,12 +1178,13 @@
         <entry>set nopaste</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
-        <entry>nohlsearch</entry>
         <entry>action Comment</entry>
         <entry>action Linecomment</entry>
         <entry>browse</entry>
         <entry>history</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
