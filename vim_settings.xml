@@ -99,6 +99,12 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/ex_setup_s01_ex01.py" timestamp="1478483279414">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex06.py" timestamp="1457057681957">
         <mark key="[" line="355" column="65" />
         <mark key="]" line="355" column="66" />
@@ -1101,7 +1107,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text>from distributions.convert_to_distribution import DistributionConverter as DC
+from dir_operations.img_load_save import ImageLoadSave
+from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZGF0YSA=</text>
@@ -1112,35 +1120,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGVbMF0pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+      <register name="1" type="4">
+        <text>from distributions.convert_to_distribution import DistributionConverter as DC
+from dir_operations.img_load_save import ImageLoadSave
+from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNlLnNoYXBlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNlLnNoYXBlKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjY3Uuc2hhcGUpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>}</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
-      </register>
       <register name="7" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
         <text>0</text>
       </register>
       <register name="9" type="4">
-        <text>5</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>m .+1</text>
       </register>
     </registers>
     <search>
@@ -1165,27 +1175,26 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry>1</entry>
         <entry>40</entry>
         <entry>20</entry>
         <entry>ggVA</entry>
         <entry>action AceJump</entry>
-        <entry>m .-2</entry>
-        <entry>m .+1</entry>
         <entry>redo</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>action Comment</entry>
         <entry>action Linecomment</entry>
         <entry>browse</entry>
         <entry>history</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action RenameElement</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>m .-2</entry>
+        <entry>m .+1</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
       </history-cmd>
       <history-expr />
       <history-input />
