@@ -706,6 +706,12 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/debug_plotter/plot_train_images.py" timestamp="1478644481869">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex16.py" timestamp="1457372401822">
         <mark key="[" line="61" column="36" />
         <mark key="]" line="49" column="19" />
@@ -1107,12 +1113,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from distributions.convert_to_distribution import DistributionConverter as DC
-from dir_operations.img_load_save import ImageLoadSave
-from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
+        <text encoding="base64">Y25uX3MxMF9leDAxIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGF0YSA=</text>
+        <text encoding="base64">Y25uX3MxMF9leDAxIA==</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -1150,7 +1154,7 @@ from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
         <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1185,16 +1189,16 @@ from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
         <entry>action Linecomment</entry>
         <entry>browse</entry>
         <entry>history</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action CommentByLineComment</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>q</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
