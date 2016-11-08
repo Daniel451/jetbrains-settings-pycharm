@@ -1150,7 +1150,7 @@ from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
         <text>0</text>
       </register>
       <register name=":" type="4">
-        <text>m .+1</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1181,7 +1181,6 @@ from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
         <entry>ggVA</entry>
         <entry>action AceJump</entry>
         <entry>redo</entry>
-        <entry>q</entry>
         <entry>action Comment</entry>
         <entry>action Linecomment</entry>
         <entry>browse</entry>
@@ -1195,6 +1194,7 @@ from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
         <entry>m .+1</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
