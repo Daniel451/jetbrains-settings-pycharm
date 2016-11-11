@@ -49,10 +49,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/csv_tests/csv_test1.py" timestamp="1478873909285">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/csv_tests/csv_test1.py" timestamp="1478875467506">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="48" />
+        <mark key="." line="16" column="48" />
+        <mark key="^" line="16" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -1127,44 +1128,44 @@
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNzdmRhdGEgPSBsaXN0KHJlYWRlcikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>OrderedDict</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
+        <text encoding="base64">cHJpbnQoZGF0WzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNzdmRhdGEgPSBsaXN0KHJlYWRlcikK</text>
+        <text encoding="base64">d2l0aCBvcGVuKGxkYXRhICsgInRyYWluL3RleHRfbmFtZXMvbmFtZXNfa29lbG4vVm9ybmFtZW5fS29lbG5fMjAxNS5jc3YiKSBhcyBjc3ZmaWxlOgogICAgcmVhZGVyID0gY3N2LkRpY3RSZWFkZXIoY3N2ZmlsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoY3N2ZGF0YVsxXSkK</text>
+        <text encoding="base64">ICAgIGNzdmRhdGEgPSBsaXN0KHJlYWRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNzdmRhdGEgPSBPcmRlcmVkRGljdChyZWFkZXIpCg==</text>
+        <text encoding="base64">cHJpbnQoY3N2ZGF0YVsxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3N2ZGF0YSA9IE9yZGVyZWREaWN0KCkK</text>
+        <text encoding="base64">ICAgIGNzdmRhdGEgPSBPcmRlcmVkRGljdChyZWFkZXIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KGludChyZWFkZXIubGluZV9udW0pLCByZWFkZXIuZmllbGRuYW1lcykK</text>
+        <text encoding="base64">Y3N2ZGF0YSA9IE9yZGVyZWREaWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGludChyZWFkZXIubGluZV9udW0pLCByZWFkZXIuZmllbGRuYW1lcykK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlclswXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlclswXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1204,13 +1205,14 @@
         <entry>history</entry>
         <entry>nohlsearch</entry>
         <entry>action RenameElement</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>q</entry>
         <entry>action SearchEverywhere</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>15</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
