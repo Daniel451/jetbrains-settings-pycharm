@@ -49,6 +49,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/csv_tests/csv_test1.py" timestamp="1478873909285">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="17" column="51" />
@@ -199,6 +204,10 @@
         <mark key="[" line="48" column="17" />
         <mark key="]" line="48" column="18" />
         <mark key="." line="48" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tesseract-tests/text-bounding-box01.py" timestamp="1478872313651">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455567532531">
         <mark key="[" line="260" column="0" />
@@ -1118,46 +1127,44 @@
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y25uX3MxMF9leDAxIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNzdmRhdGEgPSBsaXN0KHJlYWRlcikK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y25uX3MxMF9leDAxIA==</text>
+        <text>OrderedDict</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0clguc2hhcGVbMF0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>from distributions.convert_to_distribution import DistributionConverter as DC
-from dir_operations.img_load_save import ImageLoadSave
-from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNzdmRhdGEgPSBsaXN0KHJlYWRlcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">cHJpbnQoY3N2ZGF0YVsxXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNzdmRhdGEgPSBPcmRlcmVkRGljdChyZWFkZXIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGNlLnNoYXBlKQo=</text>
+        <text encoding="base64">Y3N2ZGF0YSA9IE9yZGVyZWREaWN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGFjY3Uuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGludChyZWFkZXIubGluZV9udW0pLCByZWFkZXIuZmllbGRuYW1lcykK</text>
       </register>
-      <register name="6" type="4">
-        <text>}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJlYWRlclswXSkK</text>
       </register>
-      <register name="9" type="4">
-        <text>0</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1200,10 +1207,10 @@ from cnn_series01.cnn_series01_ex01 import Experiment1_01</text>
         <entry>action CommentByLineComment</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>q</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
