@@ -49,11 +49,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/csv_tests/csv_test1.py" timestamp="1478875467506">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="48" />
-        <mark key="." line="16" column="48" />
-        <mark key="^" line="16" column="48" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/csv_tests/csv_test1.py" timestamp="1478879432477">
+        <mark key="[" line="27" column="70" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -1128,44 +1128,44 @@
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRhdGxpc3QuYXBwZW5kKGZkYXQpCiAgICBkYXQgPSBucC5hcHBlbmQoZGF0LCBmZGF0WzE6XSwgYXhpcz0wKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>fpath</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZGF0WzBdKQo=</text>
+        <text encoding="base64">cHJpbnQoZGF0WzFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGxkYXRhICsgInRyYWluL3RleHRfbmFtZXMvbmFtZXNfa29lbG4vVm9ybmFtZW5fS29lbG5fMjAxNS5jc3YiKSBhcyBjc3ZmaWxlOgogICAgcmVhZGVyID0gY3N2LkRpY3RSZWFkZXIoY3N2ZmlsZSkK</text>
+        <text encoding="base64">ICAgIGRhdGxpc3QuYXBwZW5kKGZkYXQpCiAgICBkYXQgPSBucC5hcHBlbmQoZGF0LCBmZGF0WzE6XSwgYXhpcz0wKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNzdmRhdGEgPSBsaXN0KHJlYWRlcikK</text>
+        <text encoding="base64">Zm9yIGUgaW4gZGF0bGlzdDoKICAgIHByaW50KGUuc2hhcGUsIHN0cihlLm5ieXRlcyAvIDEwMDApICsgIiBLQiIpCgpwcmludCgiIikKcHJpbnQobnVtcHVmZmVyLCBzdHIoYnl0ZXB1ZmZlciAvIDEwMDApICsgIiBLQiIpCnByaW50KGRhdC5zaGFwZSwgc3RyKGRhdC5uYnl0ZXMgLyAxMDAwKSArICIgS0IiKQoKcHJpbnQoIiIpCnByaW50KGRhdFswXSkKcHJpbnQoZGF0WzFdKQpwcmludChkYXRbNTA1NDo1MDU3XSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoY3N2ZGF0YVsxXSkK</text>
+        <text encoding="base64">ICAgIGJ5dGVwdWZmZXIgKz0gZmRhdC5uYnl0ZXMKICAgIG51bXB1ZmZlciArPSBmZGF0LnNoYXBlWzBdIC0gMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNzdmRhdGEgPSBPcmRlcmVkRGljdChyZWFkZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3N2ZGF0YSA9IE9yZGVyZWREaWN0KCkK</text>
+        <text encoding="base64">Ynl0ZXB1ZmZlciA9IDAKbnVtcHVmZmVyID0gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGludChyZWFkZXIubGluZV9udW0pLCByZWFkZXIuZmllbGRuYW1lcykK</text>
+        <text encoding="base64">ZGF0ID0gbnAuemVyb3MoKDEsIDMpLCBkdHlwZT1ucC5zdHIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlci5uZXh0KCkpCg==</text>
+        <text encoding="base64">ZnBhdGggPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlYWRlclswXSkK</text>
+        <text encoding="base64">ZnBhdGgyID0gbGRhdGEgKyAidHJhaW4vdGV4dF9uYW1lcy9uYW1lc19rb2Vsbi9Wb3JuYW1lbl9Lb2Vsbl8yMDExLmNzdiIKZnBhdGgzID0gbGRhdGEgKyAidHJhaW4vdGV4dF9uYW1lcy9uYW1lc19rb2Vsbi9Wb3JuYW1lbl9Lb2Vsbl8yMDEyLmNzdiIKZnBhdGg0ID0gbGRhdGEgKyAidHJhaW4vdGV4dF9uYW1lcy9uYW1lc19rb2Vsbi9Wb3JuYW1lbl9Lb2Vsbl8yMDEzLmNzdiIKZnBhdGg1ID0gbGRhdGEgKyAidHJhaW4vdGV4dF9uYW1lcy9uYW1lc19rb2Vsbi9Wb3JuYW1lbl9Lb2Vsbl8yMDE0LmNzdiIKZnBhdGg2ID0gbGRhdGEgKyAidHJhaW4vdGV4dF9uYW1lcy9uYW1lc19rb2Vsbi9Wb3JuYW1lbl9Lb2Vsbl8yMDE1LmNzdiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1209,10 +1209,10 @@
         <entry>m .+1</entry>
         <entry>q</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>15</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>15</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
