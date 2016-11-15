@@ -210,10 +210,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479227775216">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479237899784">
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455567532531">
         <mark key="[" line="260" column="0" />
@@ -1133,11 +1134,11 @@
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKGxpbmUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -1146,31 +1147,31 @@
         <text encoding="base64">cHJpbnQoZGF0WzFdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCBsZW4od29yZCkgPj0gMlwKICAgICAgICAgICAgICAgIGFuZCAod29yZFstMl0gbm90IGluICgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAwKSk6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHdvcmRzWzBdWzBdID09ICJhIjoK</text>
+        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGZsaW5lcykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHh0bGluZXMgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKGxpbmUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0W2VfaW5kZXgsIDBdID0gc3RyKGludChkYXRbZV9pbmRleCwgMF0pICsgaW50KGZkYXRbaSwgMF0pKQo=</text>
+        <text encoding="base64">ICAgIGlmIHdvcmRzWzBdWzBdID09ICJhIjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZV9pbmRleCkK</text>
+        <text encoding="base64">cHJpbnQobGVuKGZsaW5lcykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmRhdFtpLCA6XS5zaGFwZSkK</text>
+        <text encoding="base64">dHh0bGluZXMgPSBsaXN0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmZGF0LnNoYXBlLCBkYXQuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0W2VfaW5kZXgsIDBdID0gc3RyKGludChkYXRbZV9pbmRleCwgMF0pICsgaW50KGZkYXRbaSwgMF0pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZV9pbmRleCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1217,6 +1218,7 @@
         <entry>set nopaste</entry>
         <entry>q</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>18</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
