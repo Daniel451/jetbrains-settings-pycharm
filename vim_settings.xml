@@ -25,7 +25,7 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1478308550190">
+      <file name="/a.dummy" timestamp="1479222550334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex03.py" timestamp="1457459012652">
@@ -1168,7 +1168,7 @@
         <text encoding="base64">ICAgIGRhdGxpc3QuYXBwZW5kKGZkYXQpCiAgICBkYXQgPSBucC5hcHBlbmQoZGF0LCBmZGF0WzE6XSwgYXhpcz0wKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1193,7 +1193,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>1</entry>
         <entry>40</entry>
         <entry>20</entry>
         <entry>ggVA</entry>
@@ -1207,13 +1206,13 @@
         <entry>action RenameElement</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
-        <entry>q</entry>
         <entry>action SearchEverywhere</entry>
         <entry>15</entry>
         <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
