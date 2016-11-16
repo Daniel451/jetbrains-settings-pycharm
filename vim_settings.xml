@@ -25,7 +25,7 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1479222550334">
+      <file name="/a.dummy" timestamp="1479333264082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex03.py" timestamp="1457459012652">
@@ -153,6 +153,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="46" column="70" />
       </file>
+      <file name="$USER_HOME$/repositories/GWV/ex8/solution8/solution8.py" timestamp="1479333715166">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="32" column="95" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="38" />
@@ -210,11 +214,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479331009754">
-        <mark key="[" line="66" column="64" />
-        <mark key="]" line="70" column="52" />
-        <mark key="^" line="70" column="52" />
-        <mark key="." line="70" column="52" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479335187529">
+        <mark key="[" line="80" column="56" />
+        <mark key="]" line="80" column="67" />
+        <mark key="." line="80" column="67" />
+        <mark key="^" line="80" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455567532531">
         <mark key="[" line="260" column="0" />
@@ -267,6 +271,11 @@
         <mark key="]" line="63" column="38" />
         <mark key="." line="63" column="38" />
         <mark key="^" line="63" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/gen_words.py" timestamp="1479334924850">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex09.py" timestamp="1456533286459">
         <mark key="[" line="136" column="0" />
@@ -1140,44 +1149,46 @@
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>zip(counts.keys(), counts.values())):</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzX3dvcmQsIFwKICAgICAgICBuX3dvcmQsIFwKICAgICAgICBubl93b3JkLCBcCiAgICAgICAgbm5uX3dvcmQgID0gIkdhbmRhbGYiLCAid29sbHRlIiwgIlNhdXJvbiIsICJ0w7Z0ZW4iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>zip(counts.keys(), counts.values())):</text>
+        <text>words[seed], self.words[seed + 1], self.words[seed + 2], self.words[seed + 3]</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdvcmQgPSB3b3JkLnJlcGxhY2UoIiAiLCAiIikK</text>
+        <text encoding="base64">ICAgICAgICBzX3dvcmQsXAogICAgICAgIG5fd29yZCxcCiAgICAgICAgbm5fd29yZCxcCiAgICAgICAgbm5uX3dvcmQgID0gc2VsZi53b3Jkc1tzZWVkXSwgc2VsZi53b3Jkc1tzZWVkICsgMV0sIHNlbGYud29yZHNbc2VlZCArIDJdLCBzZWxmLndvcmRzW3NlZWQgKyAzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHppcAo=</text>
+        <text encoding="base64">ICAgICAgICBzX3dvcmQsIFwKICAgICAgICBuX3dvcmQsIFwKICAgICAgICBubl93b3JkLCBcCiAgICAgICAgbm5uX3dvcmQgID0gIkdhbmRhbGYiLCAid29sbHRlIiwgIlNhdXJvbiIsICJ0w7Z0ZW4iCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChDb3VudGVyKHJzbHQpKQo=</text>
+      <register name="2" type="4">
+        <text>print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(10, mm.generate_markov_text_bigrams(10)))
+print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(20, mm.generate_markov_text_bigrams(20)))
+print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(30, mm.generate_markov_text_bigrams(30)))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikKICAgICAgICBwcmludChyc2x0KQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmtleXNfaGVwdGFncmFtcykK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbWUoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX3NlYXJjaF93b3JkKHVzZXJfaW5wdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBhdGggdG8gdGhlIGZpbGUgY29udGFpbmluZyB0aGUgdGV4dAogICAgICAgIHNlbGYuZmlsZXBhdGggPSBmaWxlcGF0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ciA9IFJlYWRQREYoc3lzLmFyZ3ZbMV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JkcyA9IGxpc3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiIikKICAgICAgICBwcmludCgiPj4gIikK</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGZpbHRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1222,11 +1233,11 @@
         <entry>action RenameElement</entry>
         <entry>2</entry>
         <entry>m .+1</entry>
+        <entry>m .-2</entry>
+        <entry>1</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>m .-2</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
