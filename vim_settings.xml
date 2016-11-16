@@ -214,11 +214,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479335187529">
-        <mark key="[" line="80" column="56" />
-        <mark key="]" line="80" column="67" />
-        <mark key="." line="80" column="67" />
-        <mark key="^" line="80" column="67" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479339998264">
+        <mark key="[" line="83" column="67" />
+        <mark key="]" line="84" column="67" />
+        <mark key="." line="84" column="67" />
+        <mark key="^" line="84" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455567532531">
         <mark key="[" line="260" column="0" />
@@ -1150,10 +1150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzX3dvcmQsIFwKICAgICAgICBuX3dvcmQsIFwKICAgICAgICBubl93b3JkLCBcCiAgICAgICAgbm5uX3dvcmQgID0gIkdhbmRhbGYiLCAid29sbHRlIiwgIlNhdXJvbiIsICJ0w7Z0ZW4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>words[seed], self.words[seed + 1], self.words[seed + 2], self.words[seed + 3]</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -1162,33 +1162,33 @@
         <text encoding="base64">ICAgICAgICBzX3dvcmQsXAogICAgICAgIG5fd29yZCxcCiAgICAgICAgbm5fd29yZCxcCiAgICAgICAgbm5uX3dvcmQgID0gc2VsZi53b3Jkc1tzZWVkXSwgc2VsZi53b3Jkc1tzZWVkICsgMV0sIHNlbGYud29yZHNbc2VlZCArIDJdLCBzZWxmLndvcmRzW3NlZWQgKyAzXQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IHJlLnN1YihyJyguKlxic21hbGwgKilcdCsoICp3b3JsZFxiLiopJywgcidcMSBcMicsIGxpbmUpCiAgICAgICAgICAgIGxpbmUgPSByZS5zdWIociIgKyIsICIgIiwgbGluZSkuc3RyaXAoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzX3dvcmQsIFwKICAgICAgICBuX3dvcmQsIFwKICAgICAgICBubl93b3JkLCBcCiAgICAgICAgbm5uX3dvcmQgID0gIkdhbmRhbGYiLCAid29sbHRlIiwgIlNhdXJvbiIsICJ0w7Z0ZW4iCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(10, mm.generate_markov_text_bigrams(10)))
 print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(20, mm.generate_markov_text_bigrams(20)))
 print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(30, mm.generate_markov_text_bigrams(30)))</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmtleXNfaGVwdGFncmFtcykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhdGggdG8gdGhlIGZpbGUgY29udGFpbmluZyB0aGUgdGV4dAogICAgICAgIHNlbGYuZmlsZXBhdGggPSBmaWxlcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmtleXNfaGVwdGFncmFtcykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ciA9IFJlYWRQREYoc3lzLmFyZ3ZbMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JkcyA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHBhdGggdG8gdGhlIGZpbGUgY29udGFpbmluZyB0aGUgdGV4dAogICAgICAgIHNlbGYuZmlsZXBhdGggPSBmaWxlcGF0aAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IGZpbHRlcgo=</text>
+        <text encoding="base64">ciA9IFJlYWRQREYoc3lzLmFyZ3ZbMV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
