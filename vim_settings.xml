@@ -210,11 +210,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479238596424">
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="15" column="30" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="30" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479316093565">
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="101" column="27" />
+        <mark key="^" line="101" column="27" />
+        <mark key="." line="101" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455567532531">
         <mark key="[" line="260" column="0" />
@@ -1135,43 +1135,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>noun_groups</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>noun_groups</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZGF0WzFdKQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JkID0gd29yZC5yZXBsYWNlKCIvIiwgIiAiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZCBsZW4od29yZCkgPj0gMlwKICAgICAgICAgICAgICAgIGFuZCAod29yZFstMl0gbm90IGluICgxLCAyLCAzLCA0LCA1LCA2LCA3LCA4LCA5LCAwKSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKGxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHdvcmRzWzBdWzBdID09ICJhIjoK</text>
+        <text encoding="base64">IyBmaW5kIHNlbnRlbmNlcwpzZW50ZW5jZXMgPSBsaXN0KCkKZm9yIGxpbmUgaW4gZmxpbmVzOgogICAgbGluZSA9IGxpbmUucmVwbGFjZSgiXG4iLCAiIikKICAgIHdvcmRzID0gbGluZS5zcGxpdCgiICIpCgogICAgdG1wX3NlbnRlbmNlID0gbGlzdCgpCiAgICBmb3Igd29yZCBpbiB3b3JkczoKICAgICAgICB3b3JkID0gd29yZC5yZXBsYWNlKCIoIiwgIiIpCiAgICAgICAgd29yZCA9IHdvcmQucmVwbGFjZSgiKSIsICIiKQogICAgICAgIHdvcmQgPSB3b3JkLnJlcGxhY2UoIiAiLCAiIikKCiAgICAgICAgIyBmaWx0ZXIgd2ViIHVybHMKICAgICAgICBpZiAiaHR0cDoiIGluIHdvcmQ6CiAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgaWYgbGVuKHdvcmQpIDwgMToKICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgIyBhbmF6eWxlIHdvcmQgYW5kIGFkZCB0byBjdXJyZW50IHNlbnRlbmNlCiAgICAgICAgaWYgcmUubWF0Y2gociJbYS16QS1aw6TDtsO8w4TDlsOcw59dezIsfSIsIHdvcmQpIGlzIG5vdCBOb25lOgogICAgICAgICAgICB0bXBfc2VudGVuY2UuYXBwZW5kKHdvcmQpCiAgICAgICAgZWxpZiAod29yZFstMV0gPT0gIi4iIG9yIHdvcmRbLTFdID09ICI/IiBvciB3b3JkWy0xXSA9PSAiISIpXAogICAgICAgICAgICAgICAgYW5kIGxlbih3b3JkKSA+PSAzOgogICAgICAgICAgICB0bXBfc2VudGVuY2UuYXBwZW5kKHdvcmQpCiAgICAgICAgICAgIGlmIGxlbih0bXBfc2VudGVuY2UpID4gMjoKICAgICAgICAgICAgICAgIHNlbnRlbmNlcy5hcHBlbmQoIiAiLmpvaW4odG1wX3NlbnRlbmNlKSkKICAgICAgICAgICAgdG1wX3NlbnRlbmNlID0gbGlzdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobGVuKGZsaW5lcykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHh0bGluZXMgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBidWZmZXJfbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0W2VfaW5kZXgsIDBdID0gc3RyKGludChkYXRbZV9pbmRleCwgMF0pICsgaW50KGZkYXRbaSwgMF0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZV9pbmRleCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1209,16 +1209,16 @@
         <entry>browse</entry>
         <entry>history</entry>
         <entry>nohlsearch</entry>
-        <entry>action RenameElement</entry>
-        <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>action SearchEverywhere</entry>
         <entry>15</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>q</entry>
         <entry>action CommentByLineComment</entry>
         <entry>18</entry>
+        <entry>m .-2</entry>
+        <entry>action RenameElement</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
