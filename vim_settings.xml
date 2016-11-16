@@ -698,11 +698,11 @@
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479321648443">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479323988247">
+        <mark key="[" line="52" column="46" />
+        <mark key="]" line="52" column="55" />
+        <mark key="." line="52" column="55" />
+        <mark key="^" line="52" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460220137305">
         <mark key="[" line="11" column="41" />
@@ -1139,8 +1139,8 @@
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX3NlYXJjaF93b3JkKHVzZXJfaW5wdXQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1152,31 +1152,31 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiKiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pbnB1dCA9IGlucHV0KCJFbnRlciBhIHdvcmQgdG8gc2VhcmNoIGZvciByZWZlcmVuY2VzOiAiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fX3NlYXJjaF93b3JkKHVzZXJfaW5wdXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hfZm9yID0gIlZlcnplaWNobmlzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikKICAgICAgICBwcmludCgiPj4gIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcl9pbnB1dCA9IGlucHV0KCJFbnRlciBhIHdvcmQgdG8gc2VhcmNoIGZvciByZWZlcmVuY2VzOiAiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hfZm9yID0gIlZlcnplaWNobmlzIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVhZGVyID0gUmVhZFBERihzeXMuYXJndlsxXSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
