@@ -214,11 +214,10 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479339998264">
-        <mark key="[" line="83" column="67" />
-        <mark key="]" line="84" column="67" />
-        <mark key="." line="84" column="67" />
-        <mark key="^" line="84" column="67" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479341776496">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_04.py" timestamp="1455567532531">
         <mark key="[" line="260" column="0" />
@@ -708,11 +707,11 @@
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479330071122">
-        <mark key="[" line="65" column="34" />
-        <mark key="]" line="65" column="50" />
-        <mark key="." line="65" column="50" />
-        <mark key="^" line="65" column="50" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479341627241">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460220137305">
         <mark key="[" line="11" column="41" />
@@ -1150,45 +1149,45 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>flines</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzX3dvcmQsXAogICAgICAgIG5fd29yZCxcCiAgICAgICAgbm5fd29yZCxcCiAgICAgICAgbm5uX3dvcmQgID0gc2VsZi53b3Jkc1tzZWVkXSwgc2VsZi53b3Jkc1tzZWVkICsgMV0sIHNlbGYud29yZHNbc2VlZCArIDJdLCBzZWxmLndvcmRzW3NlZWQgKyAzXQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX3JlYWRfcGRmKHNlbGYsIGZwYXRoOiBzdHIpIC0+IExpc3Rbc3RyXToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IHJlLnN1YihyJyguKlxic21hbGwgKilcdCsoICp3b3JsZFxiLiopJywgcidcMSBcMicsIGxpbmUpCiAgICAgICAgICAgIGxpbmUgPSByZS5zdWIociIgKyIsICIgIiwgbGluZSkuc3RyaXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmcGF0aHMpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oc3lzLmFyZ3YpID09IDI6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBzZWxmLl9fcmVhZGVyID0gUmVhZFBERihzeXMuYXJndlsxOl0pIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGluZSA9IHJlLnN1YihyJyguKlxic21hbGwgKilcdCsoICp3b3JsZFxiLiopJywgcidcMSBcMicsIGxpbmUpCiAgICAgICAgICAgIGxpbmUgPSByZS5zdWIociIgKyIsICIgIiwgbGluZSkuc3RyaXAoKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzX3dvcmQsIFwKICAgICAgICBuX3dvcmQsIFwKICAgICAgICBubl93b3JkLCBcCiAgICAgICAgbm5uX3dvcmQgID0gIkdhbmRhbGYiLCAid29sbHRlIiwgIlNhdXJvbiIsICJ0w7Z0ZW4iCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(10, mm.generate_markov_text_bigrams(10)))
 print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(20, mm.generate_markov_text_bigrams(20)))
 print(&quot;Markov chain text of size {}:\n{}\n&quot;.format(30, mm.generate_markov_text_bigrams(30)))</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmtleXNfaGVwdGFncmFtcykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBhdGggdG8gdGhlIGZpbGUgY29udGFpbmluZyB0aGUgdGV4dAogICAgICAgIHNlbGYuZmlsZXBhdGggPSBmaWxlcGF0aAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ciA9IFJlYWRQREYoc3lzLmFyZ3ZbMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
