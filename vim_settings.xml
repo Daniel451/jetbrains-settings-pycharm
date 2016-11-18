@@ -205,11 +205,11 @@
         <mark key="]" line="52" column="18" />
         <mark key="." line="52" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/screen.py" timestamp="1479478644409">
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="56" column="19" />
-        <mark key="^" line="55" column="31" />
-        <mark key="." line="56" column="19" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/screen.py" timestamp="1479492154279">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_4.4.py" timestamp="1455720771243">
         <mark key="[" line="48" column="17" />
@@ -718,11 +718,11 @@
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479477146620">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479492056749">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="51" column="39" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460220137305">
         <mark key="[" line="11" column="41" />
@@ -1160,44 +1160,44 @@
       <jump line="3" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fc2NyZWVuLmFkZF9zdHJfdG9fc2NyKCJcbiIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>************************\</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBjbGVhcl9zY3JlZW4oc2VsZik6CiAgICAgICAgc2VsZi5zdGRzY3IuY2xlYXIoKQoKCiAgICBkZWYgcmVmcmVzaF9zY3JlZW4oc2VsZik6CiAgICAgICAgc2VsZi5zdGRzY3IucmVmcmVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fc2NyZWVuLmFkZF9zdHJfdG9fc2NyKCIqKioqKioqKioqKioqKioqKioqKioqKipcbiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fc3Rkc2NyLmFkZHN0cihzdHIoYV9zdHIpLCBjdXJzZXMuY29sb3JfcGFpcihjb2xvcnBhaXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fc2NyZWVuLmFkZF9zdHJfdG9fc2NyKCJcbiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3VpX2xvb3Aoc2VsZik6CiAgICAgICAgd2hpbGUgVHJ1ZToKICAgICAgICAgICAgc2VsZi5fX3ByaW50X21lbnUoKQogICAgICAgICAgICBzZWxmLl9fcGFyc2VfbWVudV9pbnB1dChzZWxmLl9fcHJvbXB0X3VzZXIoKSkKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJpbnRfbWVudSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJvbXB0X3VzZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByc2x0ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudHMgPSBDb3VudGVyKGxpc3QoY2hhaW4oKnJlc3VsdHMpKSkKICAgICAgICBwcmludChjb3VudHMpCiAgICAgICAgcHJpbnQoIlxuXG4iKQogICAgICAgIGhvdHRlc3QgPSBzb3J0ZWQoY291bnRzLml0ZW1zKCksIGtleT1vcGVyYXRvci5pdGVtZ2V0dGVyKDEpKQogICAgICAgIHByaW50KGhvdHRlc3QpCgogICAgICAgIHJldHVybiBob3R0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJvbXB0X3VzZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZXN1bHRzCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fc2NyZWVuLmdldF91c2VyX2lucHV0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1241,13 +1241,14 @@
         <entry>action RenameElement</entry>
         <entry>2</entry>
         <entry>m .+1</entry>
-        <entry>m .-2</entry>
         <entry>q</entry>
         <entry>50</entry>
-        <entry>action CommentByLineComment</entry>
+        <entry>m .-2</entry>
         <entry>1</entry>
+        <entry>80</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
