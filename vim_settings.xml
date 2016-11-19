@@ -393,13 +393,6 @@
         <mark key="." line="134" column="71" />
         <mark key="^" line="134" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" timestamp="1478303382447">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="14" column="16" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
         <mark key="[" line="18" column="37" />
         <mark key="]" line="18" column="38" />
@@ -460,13 +453,6 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" timestamp="1478238407775">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="46" column="70" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="38" />
@@ -494,11 +480,11 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479510911066">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="39" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479562507578">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="8" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex03.py" timestamp="1456938867152">
         <mark key="[" line="46" column="16" />
@@ -590,10 +576,8 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/dir_operations/img_load_save.py" timestamp="1478238746963">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/array_type_printer.py" timestamp="1479562586552">
+        <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex02.py" timestamp="1456938881676">
         <mark key="[" line="46" column="16" />
@@ -624,6 +608,12 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/.gitignore" timestamp="1479562657173">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s05_ex06.py" timestamp="1457030662956">
         <mark key="[" line="17" column="57" />
