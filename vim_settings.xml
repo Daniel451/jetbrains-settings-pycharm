@@ -15,11 +15,13 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479943217040">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479943375674">
         <mark key="'" line="212" column="0" />
-        <mark key="]" line="185" column="1" />
-        <mark key="." line="185" column="1" />
-        <mark key="^" line="185" column="1" />
+        <mark key="[" line="54" column="30" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
+        <mark key="o" line="25" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1479527087736">
         <mark key="[" line="0" column="0" />
@@ -888,10 +890,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
