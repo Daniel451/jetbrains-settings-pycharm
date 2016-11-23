@@ -15,12 +15,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479929674077">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
-        <mark key="^" line="28" column="2" />
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479933716301">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="." line="26" column="4" />
+        <mark key="^" line="26" column="4" />
       </file>
       <file name="/a.dummy" timestamp="1479527087736">
         <mark key="[" line="0" column="0" />
@@ -885,11 +884,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -898,31 +897,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkuZW5jb2RlKGVuY29kaW5nPSJ1dGYtOCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIoKQo=</text>
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJvY2Vzc29yID0gUFAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByc2x0ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJvY2Vzc29yID0gUFAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByc2x0ID0gbGlzdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action AceJumpAction</text>
