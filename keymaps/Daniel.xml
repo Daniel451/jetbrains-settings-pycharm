@@ -1,7 +1,5 @@
 <keymap version="1" name="Daniel" parent="Eclipse">
-  <action id="AceJumpAction">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
+  <action id="AceJumpAction" />
   <action id="AutoIndentLines" />
   <action id="CloseActiveTab" />
   <action id="CloseAllEditors">
