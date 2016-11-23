@@ -25,7 +25,7 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1478308550190">
+      <file name="/a.dummy" timestamp="1479929092967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex03.py" timestamp="1457459012652">
@@ -642,12 +642,10 @@
         <mark key="." line="52" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" timestamp="1478308042008">
-        <mark key="'" line="256" column="24" />
-        <mark key="[" line="59" column="72" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-        <mark key="^" line="62" column="23" />
-        <mark key="o" line="56" column="8" />
+        <mark key="'" line="253" column="24" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -1165,18 +1163,15 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>noh</entry>
         <entry>1</entry>
         <entry>40</entry>
         <entry>20</entry>
         <entry>ggVA</entry>
-        <entry>action AceJump</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>redo</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>action Comment</entry>
         <entry>action Linecomment</entry>
@@ -1185,7 +1180,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
         <entry>nohlsearch</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>action RenameElement</entry>
+        <entry>action AceJump</entry>
+        <entry encoding="base64">YWN0aW9uIEFjZUp1bXBBY3Rpb248Q1I+</entry>
       </history-cmd>
       <history-expr />
       <history-input />
