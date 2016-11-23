@@ -15,14 +15,14 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479944110539">
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479944851637">
         <mark key="e" line="23" column="7" />
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="0" />
-        <mark key="o" line="25" column="0" />
+        <mark key="o" line="24" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1479527087736">
         <mark key="[" line="0" column="0" />
@@ -890,8 +890,8 @@
       <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -903,7 +903,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkuZW5jb2RlKGVuY29kaW5nPSJ1dGYtOCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZXJpZXMK</text>
@@ -912,22 +912,22 @@
         <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZXJpZXMK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIoKQo=</text>
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name=":" type="4">
         <text>action AceJumpAction</text>
