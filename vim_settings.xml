@@ -15,6 +15,15 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479944851637">
+        <mark key="e" line="23" column="7" />
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="o" line="24" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1479527087736">
         <mark key="[" line="0" column="0" />
       </file>
@@ -368,9 +377,6 @@
         <mark key="]" line="61" column="37" />
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" timestamp="1478308004394">
-        <mark key="'" line="208" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_5.py" timestamp="1455294865923">
         <mark key="[" line="168" column="37" />
@@ -878,13 +884,17 @@
       <jump line="7" column="44" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
       <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
       <jump line="3" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
+      <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>iations</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>iations</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -893,34 +903,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkuZW5jb2RlKGVuY29kaW5nPSJ1dGYtOCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIoKQo=</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkK</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJvY2Vzc29yID0gUFAoKQo=</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByc2x0ID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action AceJumpAction</text>
       </register>
     </registers>
     <search>
@@ -945,7 +955,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>action Linecomment</entry>
         <entry>browse</entry>
         <entry>history</entry>
         <entry>15</entry>
@@ -955,8 +964,6 @@
         <entry>q</entry>
         <entry>50</entry>
         <entry>80</entry>
-        <entry>nohlsearch</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>m .+1</entry>
         <entry>wa</entry>
         <entry>1</entry>
@@ -964,7 +971,12 @@
         <entry>set nopaste</entry>
         <entry>m .-2</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>nohlsearch</entry>
+        <entry>action SearchEverywhere</entry>
         <entry>w</entry>
+        <entry>action AceJumpAction</entry>
+        <entry>action AceJumpCharAction</entry>
+        <entry>action AceJumpChar</entry>
       </history-cmd>
       <history-expr />
       <history-input />
