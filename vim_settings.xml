@@ -930,7 +930,7 @@
         <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action AceJumpAction</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -955,8 +955,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>browse</entry>
-        <entry>history</entry>
         <entry>15</entry>
         <entry>18</entry>
         <entry>action RenameElement</entry>
@@ -977,6 +975,7 @@
         <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
