@@ -982,6 +982,7 @@
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
