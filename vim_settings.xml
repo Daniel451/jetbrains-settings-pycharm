@@ -553,11 +553,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480046028077">
-        <mark key="[" line="34" column="61" />
-        <mark key="]" line="34" column="61" />
-        <mark key="." line="34" column="61" />
-        <mark key="^" line="34" column="317" />
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480048603467">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="60" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -894,8 +894,8 @@
       <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">R2VvSVA9PTEuMy4yCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -907,19 +907,19 @@
         <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCkBpbnByb2NlZWRpbmdze2Jhc3RpYW5lbGxpMjAxNXJvYm9jdXAsCiAgdGl0bGU9e1JvYm9DdXAgMjAxNC1Sb2JvdCBXb3JsZCBDdXAgWFZJSUl9LAogIGF1dGhvcj17QmFzdGlhbmVsbGksIEVtYW51ZWxlIGFuZCBJb2NjaGksIEx1Y2EgYW5kIE5hcmRpLCBEYW5pZWxlIGFuZCBDYXN0ZWxsdWNjaSwgR2l1c2VwcGUgYW5kIENyb2NlLCBEYW5pbG8gYW5kIEJhc2lsaSwgUm9iZXJ0b30sCiAgYm9va3RpdGxlPXtTcHJpbmdlciBWZXJsYWd9LAogIHllYXI9ezIwMTV9Cn0KYGBgCg==</text>
+        <text encoding="base64">R2VvSVA9PTEuMy4yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb21wbGV0ZSB0aGVzaXMgKChodHRwczovL2dvZ3MubWFmaWFzaS5kZS8xMnNwZWNrL0JhY2hlbG9yVGhlc2lzL3NyYy9tYXN0ZXIvdGhlc2lzX2JhbGxfdHJhY2tpbmdfc3BlY2sucGRmKSkK</text>
+        <text encoding="base64">YGBgCkBpbnByb2NlZWRpbmdze2Jhc3RpYW5lbGxpMjAxNXJvYm9jdXAsCiAgdGl0bGU9e1JvYm9DdXAgMjAxNC1Sb2JvdCBXb3JsZCBDdXAgWFZJSUl9LAogIGF1dGhvcj17QmFzdGlhbmVsbGksIEVtYW51ZWxlIGFuZCBJb2NjaGksIEx1Y2EgYW5kIE5hcmRpLCBEYW5pZWxlIGFuZCBDYXN0ZWxsdWNjaSwgR2l1c2VwcGUgYW5kIENyb2NlLCBEYW5pbG8gYW5kIEJhc2lsaSwgUm9iZXJ0b30sCiAgYm9va3RpdGxlPXtTcHJpbmdlciBWZXJsYWd9LAogIHllYXI9ezIwMTV9Cn0KYGBgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmZmZgo=</text>
+        <text encoding="base64">VGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb21wbGV0ZSB0aGVzaXMgKChodHRwczovL2dvZ3MubWFmaWFzaS5kZS8xMnNwZWNrL0JhY2hlbG9yVGhlc2lzL3NyYy9tYXN0ZXIvdGhlc2lzX2JhbGxfdHJhY2tpbmdfc3BlY2sucGRmKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+        <text encoding="base64">ZmZmZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ZXJpZXMK</text>
@@ -928,10 +928,10 @@
         <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXIK</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
