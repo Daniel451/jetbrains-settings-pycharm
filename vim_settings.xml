@@ -553,11 +553,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480044367332">
-        <mark key="[" line="28" column="10" />
-        <mark key="]" line="28" column="10" />
-        <mark key="." line="28" column="10" />
-        <mark key="^" line="21" column="0" />
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480046028077">
+        <mark key="[" line="34" column="61" />
+        <mark key="]" line="34" column="61" />
+        <mark key="." line="34" column="61" />
+        <mark key="^" line="34" column="317" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -895,10 +895,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Bastianelli, Emanuele and Iocchi, Luca and Nardi, Daniele and Castellucci, Giuseppe and Croce, Danilo and Basili, Rober</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>Bastianelli, Emanuele and Iocchi, Luca and Nardi, Daniele and Castellucci, Giuseppe and Croce, Danilo and Basili, Rober</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
