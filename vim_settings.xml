@@ -499,14 +499,6 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" timestamp="1478308042008">
-        <mark key="'" line="256" column="24" />
-        <mark key="[" line="59" column="72" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-        <mark key="^" line="62" column="23" />
-        <mark key="o" line="56" column="8" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
         <mark key="]" line="165" column="54" />
@@ -560,6 +552,12 @@
         <mark key="]" line="49" column="19" />
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480044367332">
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="10" />
+        <mark key="." line="28" column="10" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -710,6 +708,12 @@
         <mark key="]" line="114" column="41" />
         <mark key="." line="108" column="20" />
         <mark key="^" line="110" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/exp_setups/train_s11_ex05.py" timestamp="1480042752834">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455911463662">
         <mark key="[" line="22" column="24" />
@@ -890,47 +894,47 @@
       <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Bastianelli, Emanuele and Iocchi, Luca and Nardi, Daniele and Castellucci, Giuseppe and Croce, Danilo and Basili, Rober</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>Bastianelli, Emanuele and Iocchi, Luca and Nardi, Daniele and Castellucci, Giuseppe and Croce, Danilo and Basili, Rober</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkuZW5jb2RlKGVuY29kaW5nPSJ1dGYtOCIpCg==</text>
+        <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+        <text encoding="base64">YGBgCkBpbnByb2NlZWRpbmdze2Jhc3RpYW5lbGxpMjAxNXJvYm9jdXAsCiAgdGl0bGU9e1JvYm9DdXAgMjAxNC1Sb2JvdCBXb3JsZCBDdXAgWFZJSUl9LAogIGF1dGhvcj17QmFzdGlhbmVsbGksIEVtYW51ZWxlIGFuZCBJb2NjaGksIEx1Y2EgYW5kIE5hcmRpLCBEYW5pZWxlIGFuZCBDYXN0ZWxsdWNjaSwgR2l1c2VwcGUgYW5kIENyb2NlLCBEYW5pbG8gYW5kIEJhc2lsaSwgUm9iZXJ0b30sCiAgYm9va3RpdGxlPXtTcHJpbmdlciBWZXJsYWd9LAogIHllYXI9ezIwMTV9Cn0KYGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">VGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb21wbGV0ZSB0aGVzaXMgKChodHRwczovL2dvZ3MubWFmaWFzaS5kZS8xMnNwZWNrL0JhY2hlbG9yVGhlc2lzL3NyYy9tYXN0ZXIvdGhlc2lzX2JhbGxfdHJhY2tpbmdfc3BlY2sucGRmKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">ZmZmZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZXJpZXMK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXJpZXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXJpZXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZXIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -955,7 +959,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
         <entry>18</entry>
         <entry>action RenameElement</entry>
         <entry>2</entry>
@@ -971,11 +974,11 @@
         <entry>action CommentByLineComment</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>w</entry>
         <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

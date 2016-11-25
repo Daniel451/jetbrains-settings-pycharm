@@ -78,7 +78,7 @@
   <action id="ViewSource" />
   <action id="XDebugger.Inspect" />
   <action id="emacsIDEAs.AceJump">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="#10000b4" second-keystroke="c" />
   </action>
   <action id="emacsIDEAs.AceJumpCopy.Line">
     <keyboard-shortcut first-keystroke="altGraph y" />
@@ -87,6 +87,6 @@
     <keyboard-shortcut first-keystroke="alt number_sign" />
   </action>
   <action id="emacsIDEAs.AceJumpWord">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="#10000b4" second-keystroke="w" />
   </action>
 </keymap>
