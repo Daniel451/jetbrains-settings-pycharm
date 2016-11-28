@@ -24,12 +24,6 @@
         <mark key="^" line="24" column="0" />
         <mark key="o" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/models/abstr_model.py" timestamp="1480354228537">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1479527087736">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,6 +241,11 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/exp_setups/train_s11_ex17.py" timestamp="1480049378321">
+        <mark key="[" line="55" column="82" />
+        <mark key="]" line="55" column="83" />
+        <mark key="." line="55" column="83" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455549796227">
         <mark key="[" line="17" column="33" />
@@ -559,6 +558,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480049305673">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
         <mark key="]" line="138" column="48" />
@@ -708,6 +712,12 @@
         <mark key="]" line="114" column="41" />
         <mark key="." line="108" column="20" />
         <mark key="^" line="110" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/exp_setups/train_s11_ex05.py" timestamp="1480042752834">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="^" line="22" column="29" />
+        <mark key="." line="22" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455911463662">
         <mark key="[" line="22" column="24" />
@@ -889,43 +899,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiMgZGVidWcgc3R1ZmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkuZW5jb2RlKGVuY29kaW5nPSJ1dGYtOCIpCg==</text>
+        <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgZGVidWcgc3R1ZmYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">YXBwZGlycz09MS40LjAKYXJnY29tcGxldGU9PTEuNC4xCmJhY2twb3J0cy5zaHV0aWwtZ2V0LXRlcm1pbmFsLXNpemU9PTEuMC4wCmJlYXV0aWZ1bHNvdXA0PT00LjUuMApjaGFyZGV0PT0yLjMuMApjeWNsZXI9PTAuMTAuMApDeXRob249PTAuMjUuMQpkZWNvcmF0b3I9PTQuMC4xMApFYm9va0xpYj09MC4xNQplbnVtMzQ9PTEuMS42CmZ1bmNzaWdzPT0xLjAuMgpoNXB5PT0yLjYuMAppcHl0aG9uPT01LjAuMAppcHl0aG9uLWdlbnV0aWxzPT0wLjEuMApsb3Vpcz09My4wLjAKbHhtbD09My42LjEKbWF0cGxvdGxpYj09MS41LjEKbW9jaz09Mi4wLjAKbmV0c25tcC1weXRob249PTEuMGExCm51bXB5PT0xLjExLjIKcGFja2FnaW5nPT0xNi44CnBhdGhsaWIyPT0yLjEuMApwYnI9PTEuMTAuMApwZGZtaW5lcj09MjAxNDAzMjgKcGV4cGVjdD09NC4yLjAKcGlja2xlc2hhcmU9PTAuNy4zClBpbGxvdz09My4zLjAKcHJvbXB0LXRvb2xraXQ9PTEuMC4zCnByb3RvYnVmPT0zLjEuMApwdHlwcm9jZXNzPT0wLjUuMQpwd3F1YWxpdHk9PTEuMy4wClB5Z21lbnRzPT0yLjEuMwpweXBhcnNpbmc9PTIuMS41CnB5dGhvbi1kYXRldXRpbD09Mi41LjMKcHl0aG9uLWRvY3g9PTAuOC42CnB5dGhvbi1saWJ0b3JyZW50PT0xLjEuMQpweXRob24tbXVzaWNicmFpbno9PTAuMC4wCnB5dGhvbi1wcHR4PT0wLjUuOApweXR6PT0yMDE2LjYuMQpzaW1wbGVnZW5lcmljPT0wLjguMQpzaXg9PTEuMTAuMApTcGVlY2hSZWNvZ25pdGlvbj09My40LjYKdGVhbT09MS4wCnRlbnNvcmZsb3c9PTAuMTEuMHJjMQp0ZXNzZXJvY3I9PTIuMS4yCnRleHRyYWN0PT0xLjQuMAp0cmFpdGxldHM9PTQuMi4yCnZpcnR1YWxlbnY9PTE1LjAuMwp3Y3dpZHRoPT0wLjEuNwp4bHJkPT0xLjAuMApYbHN4V3JpdGVyPT0wLjkuMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+        <text encoding="base64">R2VvSVA9PTEuMy4yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">YGBgCkBpbnByb2NlZWRpbmdze2Jhc3RpYW5lbGxpMjAxNXJvYm9jdXAsCiAgdGl0bGU9e1JvYm9DdXAgMjAxNC1Sb2JvdCBXb3JsZCBDdXAgWFZJSUl9LAogIGF1dGhvcj17QmFzdGlhbmVsbGksIEVtYW51ZWxlIGFuZCBJb2NjaGksIEx1Y2EgYW5kIE5hcmRpLCBEYW5pZWxlIGFuZCBDYXN0ZWxsdWNjaSwgR2l1c2VwcGUgYW5kIENyb2NlLCBEYW5pbG8gYW5kIEJhc2lsaSwgUm9iZXJ0b30sCiAgYm9va3RpdGxlPXtTcHJpbmdlciBWZXJsYWd9LAogIHllYXI9ezIwMTV9Cn0KYGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">VGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb21wbGV0ZSB0aGVzaXMgKChodHRwczovL2dvZ3MubWFmaWFzaS5kZS8xMnNwZWNrL0JhY2hlbG9yVGhlc2lzL3NyYy9tYXN0ZXIvdGhlc2lzX2JhbGxfdHJhY2tpbmdfc3BlY2sucGRmKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">ZmZmZgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXIK</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -962,16 +972,17 @@
         <entry>m .+1</entry>
         <entry>wa</entry>
         <entry>1</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
         <entry>m .-2</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
-        <entry>action CommentByLineComment</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
