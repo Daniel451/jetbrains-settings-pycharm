@@ -24,6 +24,12 @@
         <mark key="^" line="24" column="0" />
         <mark key="o" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/models/abstr_model.py" timestamp="1480354228537">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1479527087736">
         <mark key="[" line="0" column="0" />
       </file>
@@ -499,14 +505,6 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" timestamp="1478308042008">
-        <mark key="'" line="256" column="24" />
-        <mark key="[" line="59" column="72" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-        <mark key="^" line="62" column="23" />
-        <mark key="o" line="56" column="8" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
         <mark key="]" line="165" column="54" />
@@ -891,10 +889,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+        <text encoding="base64">CiMgZGVidWcgc3R1ZmYK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -903,34 +901,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3b3JkID0gc3RyKHZhbFswXSkuZW5jb2RlKGVuY29kaW5nPSJ1dGYtOCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+        <text encoding="base64">CiMgZGVidWcgc3R1ZmYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ZXJpZXMK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXJpZXMK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgojIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiMjIyMjIyMjIyMjIyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">ZXJpZXNzc3NzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -955,7 +953,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>15</entry>
         <entry>18</entry>
         <entry>action RenameElement</entry>
         <entry>2</entry>
@@ -965,17 +962,17 @@
         <entry>m .+1</entry>
         <entry>wa</entry>
         <entry>1</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>m .-2</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>w</entry>
         <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

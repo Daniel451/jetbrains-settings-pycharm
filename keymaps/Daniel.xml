@@ -80,9 +80,6 @@
   <action id="emacsIDEAs.AceJump">
     <keyboard-shortcut first-keystroke="space" second-keystroke="c" />
   </action>
-  <action id="emacsIDEAs.AceJumpCopy.Line">
-    <keyboard-shortcut first-keystroke="altGraph y" />
-  </action>
   <action id="emacsIDEAs.AceJumpSelect">
     <keyboard-shortcut first-keystroke="alt number_sign" />
   </action>
