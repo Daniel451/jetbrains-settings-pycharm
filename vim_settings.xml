@@ -282,11 +282,11 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481096531214">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="38" column="9" />
-        <mark key="." line="38" column="9" />
-        <mark key="^" line="38" column="18" />
+      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481100986315">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/res.py" timestamp="1479531855079">
         <mark key="[" line="13" column="12" />
@@ -916,43 +916,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
+        <text encoding="base64">YmxhKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQobWVhc3VyZS4pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJmdW5jdGlvbiIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">cHJpbnQoImRpY3QiLCBibGEuX19kaWN0X18pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGRlYwo=</text>
+        <text encoding="base64">ICAgIHdyYXBwZXIudF90aW1lX3BlcmYgPSB0X3RpbWVfcGVyZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdyYXBwZXIudF90aW1lID0gdF90aW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChudW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGRlYwpkZWYgYmxhKCk6CiAgICBwcmludCgiZnVuY3Rpb24iKQogICAgIyByZXR1cm4gNQo=</text>
+        <text encoding="base64">ICAgICAgICBudW0gPSA1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBudW0gPSBudW0gKyAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ID0gMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGRlYyhmKToKICAgIEB3cmFwcyhmKQogICAgZGVmIHdyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBwcmludCgiZGVjb3JhdG9yIGRlYyIpCiAgICAgICAgcmV0dXJuIGYoKmFyZ3MsICoqa3dhcmdzKQogICAgcmV0dXJuIHdyYXBwZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -963,7 +963,7 @@
       <last-offset />
       <last-pattern>sess</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -985,7 +985,6 @@
         <entry>80</entry>
         <entry>wa</entry>
         <entry>1</entry>
-        <entry>m .-2</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action AceJumpAction</entry>
@@ -995,10 +994,12 @@
         <entry>redo</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
         <entry>action emacsIDEAs.AceJump</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>m .+1</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>m .+1</entry>
-        <entry>action CommentByLineComment</entry>
+        <entry>we</entry>
+        <entry>m .-2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
