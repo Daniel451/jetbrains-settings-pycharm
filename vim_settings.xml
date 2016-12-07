@@ -154,6 +154,11 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/simple_dec.py" timestamp="1481094077789">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/tesseract-tests/text-bounding-box01.py" timestamp="1478872313651">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
@@ -276,6 +281,12 @@
         <mark key="]" line="77" column="18" />
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481094502099">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/res.py" timestamp="1479531855079">
         <mark key="[" line="13" column="12" />
@@ -905,10 +916,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IGMgYyBjIGMgYyBjIGMgYyBjIGMgYyBjIGMK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -917,34 +928,34 @@
         <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGMgYyBjIGMgYyBjIGMgYyBjIGMgYyBjIGMK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGRlYwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwZGlycz09MS40LjAKYXJnY29tcGxldGU9PTEuNC4xCmJhY2twb3J0cy5zaHV0aWwtZ2V0LXRlcm1pbmFsLXNpemU9PTEuMC4wCmJlYXV0aWZ1bHNvdXA0PT00LjUuMApjaGFyZGV0PT0yLjMuMApjeWNsZXI9PTAuMTAuMApDeXRob249PTAuMjUuMQpkZWNvcmF0b3I9PTQuMC4xMApFYm9va0xpYj09MC4xNQplbnVtMzQ9PTEuMS42CmZ1bmNzaWdzPT0xLjAuMgpoNXB5PT0yLjYuMAppcHl0aG9uPT01LjAuMAppcHl0aG9uLWdlbnV0aWxzPT0wLjEuMApsb3Vpcz09My4wLjAKbHhtbD09My42LjEKbWF0cGxvdGxpYj09MS41LjEKbW9jaz09Mi4wLjAKbmV0c25tcC1weXRob249PTEuMGExCm51bXB5PT0xLjExLjIKcGFja2FnaW5nPT0xNi44CnBhdGhsaWIyPT0yLjEuMApwYnI9PTEuMTAuMApwZGZtaW5lcj09MjAxNDAzMjgKcGV4cGVjdD09NC4yLjAKcGlja2xlc2hhcmU9PTAuNy4zClBpbGxvdz09My4zLjAKcHJvbXB0LXRvb2xraXQ9PTEuMC4zCnByb3RvYnVmPT0zLjEuMApwdHlwcm9jZXNzPT0wLjUuMQpwd3F1YWxpdHk9PTEuMy4wClB5Z21lbnRzPT0yLjEuMwpweXBhcnNpbmc9PTIuMS41CnB5dGhvbi1kYXRldXRpbD09Mi41LjMKcHl0aG9uLWRvY3g9PTAuOC42CnB5dGhvbi1saWJ0b3JyZW50PT0xLjEuMQpweXRob24tbXVzaWNicmFpbno9PTAuMC4wCnB5dGhvbi1wcHR4PT0wLjUuOApweXR6PT0yMDE2LjYuMQpzaW1wbGVnZW5lcmljPT0wLjguMQpzaXg9PTEuMTAuMApTcGVlY2hSZWNvZ25pdGlvbj09My40LjYKdGVhbT09MS4wCnRlbnNvcmZsb3c9PTAuMTEuMHJjMQp0ZXNzZXJvY3I9PTIuMS4yCnRleHRyYWN0PT0xLjQuMAp0cmFpdGxldHM9PTQuMi4yCnZpcnR1YWxlbnY9PTE1LjAuMwp3Y3dpZHRoPT0wLjEuNwp4bHJkPT0xLjAuMApYbHN4V3JpdGVyPT0wLjkuMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">R2VvSVA9PTEuMy4yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBgCkBpbnByb2NlZWRpbmdze2Jhc3RpYW5lbGxpMjAxNXJvYm9jdXAsCiAgdGl0bGU9e1JvYm9DdXAgMjAxNC1Sb2JvdCBXb3JsZCBDdXAgWFZJSUl9LAogIGF1dGhvcj17QmFzdGlhbmVsbGksIEVtYW51ZWxlIGFuZCBJb2NjaGksIEx1Y2EgYW5kIE5hcmRpLCBEYW5pZWxlIGFuZCBDYXN0ZWxsdWNjaSwgR2l1c2VwcGUgYW5kIENyb2NlLCBEYW5pbG8gYW5kIEJhc2lsaSwgUm9iZXJ0b30sCiAgYm9va3RpdGxlPXtTcHJpbmdlciBWZXJsYWd9LAogIHllYXI9ezIwMTV9Cn0KYGBgCg==</text>
+        <text encoding="base64">QGRlYwpkZWYgYmxhKCk6CiAgICBwcmludCgiZnVuY3Rpb24iKQogICAgIyByZXR1cm4gNQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb21wbGV0ZSB0aGVzaXMgKChodHRwczovL2dvZ3MubWFmaWFzaS5kZS8xMnNwZWNrL0JhY2hlbG9yVGhlc2lzL3NyYy9tYXN0ZXIvdGhlc2lzX2JhbGxfdHJhY2tpbmdfc3BlY2sucGRmKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmZmZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmV3Cg==</text>
+        <text encoding="base64">ZGVmIGRlYyhmKToKICAgIEB3cmFwcyhmKQogICAgZGVmIHdyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBwcmludCgiZGVjb3JhdG9yIGRlYyIpCiAgICAgICAgcmV0dXJuIGYoKmFyZ3MsICoqa3dhcmdzKQogICAgcmV0dXJuIHdyYXBwZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXJpZXMK</text>
+        <text encoding="base64">ICAgICIiIkRvY3N0cmluZyIiIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action emacsIDEAs.AceJump</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -969,16 +980,12 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>action RenameElement</entry>
-        <entry>2</entry>
         <entry>q</entry>
         <entry>50</entry>
         <entry>80</entry>
-        <entry>m .+1</entry>
         <entry>wa</entry>
         <entry>1</entry>
         <entry>m .-2</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action AceJumpAction</entry>
@@ -986,11 +993,13 @@
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
         <entry>redo</entry>
-        <entry>w</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>m .+1</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
