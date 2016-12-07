@@ -277,12 +277,6 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481093119098">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/res.py" timestamp="1479531855079">
         <mark key="[" line="13" column="12" />
         <mark key="]" line="13" column="18" />
@@ -911,7 +905,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QG1lYXN1cmUKZGVmIGJsYSgpOgogICAgcmV0dXJuIDUKCgpibGEoKQo=</text>
+        <text encoding="base64">IGMgYyBjIGMgYyBjIGMgYyBjIGMgYyBjIGMK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -923,34 +917,34 @@
         <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QG1lYXN1cmUKZGVmIGJsYSgpOgogICAgcmV0dXJuIDUKCgpibGEoKQo=</text>
+        <text encoding="base64">IGMgYyBjIGMgYyBjIGMgYyBjIGMgYyBjIGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmxhKCkKYmxhKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGQudXBkYXRlKCkK</text>
+        <text encoding="base64">YXBwZGlycz09MS40LjAKYXJnY29tcGxldGU9PTEuNC4xCmJhY2twb3J0cy5zaHV0aWwtZ2V0LXRlcm1pbmFsLXNpemU9PTEuMC4wCmJlYXV0aWZ1bHNvdXA0PT00LjUuMApjaGFyZGV0PT0yLjMuMApjeWNsZXI9PTAuMTAuMApDeXRob249PTAuMjUuMQpkZWNvcmF0b3I9PTQuMC4xMApFYm9va0xpYj09MC4xNQplbnVtMzQ9PTEuMS42CmZ1bmNzaWdzPT0xLjAuMgpoNXB5PT0yLjYuMAppcHl0aG9uPT01LjAuMAppcHl0aG9uLWdlbnV0aWxzPT0wLjEuMApsb3Vpcz09My4wLjAKbHhtbD09My42LjEKbWF0cGxvdGxpYj09MS41LjEKbW9jaz09Mi4wLjAKbmV0c25tcC1weXRob249PTEuMGExCm51bXB5PT0xLjExLjIKcGFja2FnaW5nPT0xNi44CnBhdGhsaWIyPT0yLjEuMApwYnI9PTEuMTAuMApwZGZtaW5lcj09MjAxNDAzMjgKcGV4cGVjdD09NC4yLjAKcGlja2xlc2hhcmU9PTAuNy4zClBpbGxvdz09My4zLjAKcHJvbXB0LXRvb2xraXQ9PTEuMC4zCnByb3RvYnVmPT0zLjEuMApwdHlwcm9jZXNzPT0wLjUuMQpwd3F1YWxpdHk9PTEuMy4wClB5Z21lbnRzPT0yLjEuMwpweXBhcnNpbmc9PTIuMS41CnB5dGhvbi1kYXRldXRpbD09Mi41LjMKcHl0aG9uLWRvY3g9PTAuOC42CnB5dGhvbi1saWJ0b3JyZW50PT0xLjEuMQpweXRob24tbXVzaWNicmFpbno9PTAuMC4wCnB5dGhvbi1wcHR4PT0wLjUuOApweXR6PT0yMDE2LjYuMQpzaW1wbGVnZW5lcmljPT0wLjguMQpzaXg9PTEuMTAuMApTcGVlY2hSZWNvZ25pdGlvbj09My40LjYKdGVhbT09MS4wCnRlbnNvcmZsb3c9PTAuMTEuMHJjMQp0ZXNzZXJvY3I9PTIuMS4yCnRleHRyYWN0PT0xLjQuMAp0cmFpdGxldHM9PTQuMi4yCnZpcnR1YWxlbnY9PTE1LjAuMwp3Y3dpZHRoPT0wLjEuNwp4bHJkPT0xLjAuMApYbHN4V3JpdGVyPT0wLjkuMwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkLnVwZGF0ZSgpCg==</text>
+        <text encoding="base64">R2VvSVA9PTEuMy4yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCkBpbnByb2NlZWRpbmdze2Jhc3RpYW5lbGxpMjAxNXJvYm9jdXAsCiAgdGl0bGU9e1JvYm9DdXAgMjAxNC1Sb2JvdCBXb3JsZCBDdXAgWFZJSUl9LAogIGF1dGhvcj17QmFzdGlhbmVsbGksIEVtYW51ZWxlIGFuZCBJb2NjaGksIEx1Y2EgYW5kIE5hcmRpLCBEYW5pZWxlIGFuZCBDYXN0ZWxsdWNjaSwgR2l1c2VwcGUgYW5kIENyb2NlLCBEYW5pbG8gYW5kIEJhc2lsaSwgUm9iZXJ0b30sCiAgYm9va3RpdGxlPXtTcHJpbmdlciBWZXJsYWd9LAogIHllYXI9ezIwMTV9Cn0KYGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMQo=</text>
+        <text encoding="base64">VGhpcyByZXBvc2l0b3J5IGNvbnRhaW5zIHRoZSBjb21wbGV0ZSB0aGVzaXMgKChodHRwczovL2dvZ3MubWFmaWFzaS5kZS8xMnNwZWNrL0JhY2hlbG9yVGhlc2lzL3NyYy9tYXN0ZXIvdGhlc2lzX2JhbGxfdHJhY2tpbmdfc3BlY2sucGRmKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZmZmZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW5wdXRzID0gZGljdCgpCg==</text>
+        <text encoding="base64">bmV3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5wdXRzWwo=</text>
+        <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action emacsIDEAs.AceJump</text>
       </register>
     </registers>
     <search>
@@ -992,9 +986,11 @@
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
         <entry>redo</entry>
+        <entry>w</entry>
+        <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>w</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
       </history-cmd>
       <history-expr />
       <history-input />
