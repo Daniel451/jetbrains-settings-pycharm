@@ -282,11 +282,10 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481094502099">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481095676334">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/res.py" timestamp="1479531855079">
         <mark key="[" line="13" column="12" />
@@ -916,10 +915,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">cHJpbnQobWVhc3VyZS4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -928,31 +927,31 @@
         <text encoding="base64">W3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZl0oaHR0cHM6Ly9nb2dzLm1hZmlhc2kuZGUvMTJzcGVjay9CYWNoZWxvclRoZXNpcy9zcmMvbWFzdGVyL3RoZXNpc19iYWxsX3RyYWNraW5nX3NwZWNrLnBkZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
+        <text encoding="base64">cHJpbnQobWVhc3VyZS4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGRlYwo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWVpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGRlYwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGRlYwpkZWYgYmxhKCk6CiAgICBwcmludCgiZnVuY3Rpb24iKQogICAgIyByZXR1cm4gNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGRlYwpkZWYgYmxhKCk6CiAgICBwcmludCgiZnVuY3Rpb24iKQogICAgIyByZXR1cm4gNQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGRlYyhmKToKICAgIEB3cmFwcyhmKQogICAgZGVmIHdyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBwcmludCgiZGVjb3JhdG9yIGRlYyIpCiAgICAgICAgcmV0dXJuIGYoKmFyZ3MsICoqa3dhcmdzKQogICAgcmV0dXJuIHdyYXBwZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICIiIkRvY3N0cmluZyIiIgo=</text>
+        <text encoding="base64">ZGVmIGRlYyhmKToKICAgIEB3cmFwcyhmKQogICAgZGVmIHdyYXBwZXIoKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICBwcmludCgiZGVjb3JhdG9yIGRlYyIpCiAgICAgICAgcmV0dXJuIGYoKmFyZ3MsICoqa3dhcmdzKQogICAgcmV0dXJuIHdyYXBwZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
