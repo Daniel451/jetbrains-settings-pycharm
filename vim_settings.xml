@@ -282,11 +282,11 @@
         <mark key="." line="77" column="18" />
         <mark key="^" line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481102414783">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="15" />
-        <mark key="." line="62" column="15" />
-        <mark key="^" line="62" column="15" />
+      <file name="$USER_HOME$/repositories/Python3Tests/timeit.py" timestamp="1481110657734">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/res.py" timestamp="1479531855079">
         <mark key="[" line="13" column="12" />
@@ -916,10 +916,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
