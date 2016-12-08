@@ -944,7 +944,7 @@
         <text encoding="base64">ZXJpZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action emacsIDEAs.AceJump</text>
+        <text>action emacsIDEAs.AceJumpWord</text>
       </register>
     </registers>
     <search>
@@ -969,8 +969,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>action RenameElement</entry>
-        <entry>2</entry>
         <entry>q</entry>
         <entry>50</entry>
         <entry>80</entry>
@@ -991,6 +989,7 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action emacsIDEAs.AceJump</entry>
+        <entry>action emacsIDEAs.AceJumpWord</entry>
       </history-cmd>
       <history-expr />
       <history-input />
