@@ -575,11 +575,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1481377870683">
-        <mark key="[" line="99" column="4" />
-        <mark key="]" line="99" column="21" />
-        <mark key="." line="99" column="21" />
-        <mark key="^" line="99" column="21" />
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1481388477933">
+        <mark key="[" line="104" column="67" />
+        <mark key="]" line="104" column="68" />
+        <mark key="." line="104" column="68" />
+        <mark key="^" line="104" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -917,10 +917,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">YW55b25lIA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">YW55b25lIA==</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
