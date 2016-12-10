@@ -575,10 +575,11 @@
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1480049305673">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1481376765457">
+        <mark key="[" line="74" column="3" />
+        <mark key="]" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="52" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -963,7 +964,7 @@
       <last-offset />
       <last-pattern>sess</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -980,7 +981,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>50</entry>
         <entry>80</entry>
         <entry>wa</entry>
