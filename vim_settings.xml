@@ -111,10 +111,6 @@
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/GWV/ex8/solution8/solution8.py" timestamp="1479333715166">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="32" column="95" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="38" />
@@ -158,10 +154,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tesseract-tests/text-bounding-box01.py" timestamp="1478872313651">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -228,6 +220,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/hdr-sample.txt" timestamp="1481673267682">
+        <mark key="[" line="31" column="107" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455033587706">
         <mark key="[" line="11" column="0" />
@@ -305,10 +303,6 @@
         <mark key="]" line="61" column="37" />
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/GWV/ex4/solution4/screen.py" timestamp="1479478217324">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="37" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
@@ -415,6 +409,12 @@
         <mark key="." line="284" column="72" />
         <mark key="^" line="284" column="72" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481673381286">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
         <mark key="]" line="285" column="17" />
@@ -465,10 +465,6 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex06.py" timestamp="1460217095018">
-        <mark key="[" line="593" column="0" />
-        <mark key="]" line="593" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/.gitignore" timestamp="1479562657173">
         <mark key="[" line="9" column="5" />
@@ -920,10 +916,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW55b25lIA==</text>
+        <text encoding="base64">DA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW55b25lIA==</text>
+        <text encoding="base64">DA==</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
@@ -932,31 +928,31 @@
         <text>speck-bachelor-thesis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">DGRpZSBCcmFuZHlib2NrcyBoYXR0ZW4gbmFjaCBhbGxlbSwgd2FzIG1hbiBow7ZydGUsIEJyZWVibHV0IGluIGRlbgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIyMgVHJhaW5lZCBOZXR3b3JrcwoKSSB3aWxsIHJlbGVhc2UgdHJhaW5lZCBuZXVyYWwgbmV0d29ya3Mgc2hvcnRseS4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIHlvdXIgb3duIGRhdGEuCg==</text>
+        <text encoding="base64">IyMjIyMgVHJhaW5lZCBOZXR3b3JrcwoKSSB3aWxsIHJlbGVhc2UgdHJhaW5lZCBuZXVyYWwgbmV0d29ya3Mgc2hvcnRseS4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">dXNlIHlvdXIgb3duIGRhdGEuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgie30gLSB7fSIuZm9ybWF0KGZucCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIHQxLCB0MiBpbiB6aXAoYmxhLnRfdGltZS52YWx1ZXMoKSwgYmxhLnRfdGltZV9wZXJmLnZhbHVlcygpKToKICAgIHByaW50KHQxLCB0MikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgie30gLSB7fSIuZm9ybWF0KGZucCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOnBhcmFtIGFyZ3M6IAogICAgICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICAgICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">Zm9yIHQxLCB0MiBpbiB6aXAoYmxhLnRfdGltZS52YWx1ZXMoKSwgYmxhLnRfdGltZV9wZXJmLnZhbHVlcygpKToKICAgIHByaW50KHQxLCB0MikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZjogCiAgICAgICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnBhcmFtIGFyZ3M6IAogICAgICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -996,13 +992,14 @@
         <entry>qa</entry>
         <entry>redo</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
         <entry>m .+1</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>we</entry>
         <entry>m .-2</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
