@@ -409,11 +409,11 @@
         <mark key="." line="284" column="72" />
         <mark key="^" line="284" column="72" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481848957066">
-        <mark key="[" line="30" column="41" />
-        <mark key="]" line="30" column="41" />
-        <mark key="." line="30" column="41" />
-        <mark key="^" line="30" column="41" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481850534796">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -916,43 +916,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>sess</text>
       </register>
-      <register name="0" type="4">
-        <text>speck-bachelor-thesis</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQoIiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQodHlwZSh3b3JkcykpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vdW5zPXguc3BsaXQoKQogICAgcHJpbnQobm91bnMpCiAgICBwcmludCgiIikKICAgIGZvciBlbGVtZW50IGluIG5vdW5zOgogICAgICAgIGlmIGVsZW1lbnQuaXNsb3dlcigpPT0gVHJ1ZToKICAgICAgICAgICAgbm91bnMucmVtb3ZlKGVsZW1lbnQpCiAgICBwcmludChub3VucykKICAgIHJldHVybiBub3Vucwo=</text>
+        <text encoding="base64">cHJpbnQoZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoeCkK</text>
+        <text encoding="base64">ICAgIG5vdW5zPXguc3BsaXQoKQogICAgcHJpbnQobm91bnMpCiAgICBwcmludCgiIikKICAgIGZvciBlbGVtZW50IGluIG5vdW5zOgogICAgICAgIGlmIGVsZW1lbnQuaXNsb3dlcigpPT0gVHJ1ZToKICAgICAgICAgICAgbm91bnMucmVtb3ZlKGVsZW1lbnQpCiAgICBwcmludChub3VucykKICAgIHJldHVybiBub3Vucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChlbGVtZW50KQo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoeCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlxud2FzXG4iKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChlbGVtZW50KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlbGVtZW50ID09ICJoYXR0ZW4iOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIlxud2FzXG4iKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ3YXMiIGluIG5vdW5zKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBlbGVtZW50ID09ICJoYXR0ZW4iOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoIndhcyIgaW4gZGF0YSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJ3YXMiIGluIG5vdW5zKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -997,8 +997,8 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>we</entry>
-        <entry>m .-2</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>m .-2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
