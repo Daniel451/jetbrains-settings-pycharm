@@ -126,6 +126,10 @@
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cornelius_topographic_elman/mlprec_v3.py" timestamp="1459689469834">
         <mark key="[" line="137" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" timestamp="1482355195993">
+        <mark key="'" line="19" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="63" column="19" />
@@ -155,11 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482348329219">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="^" line="28" column="8" />
-        <mark key="." line="28" column="8" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482354394702">
+        <mark key="[" line="99" column="16" />
+        <mark key="]" line="99" column="26" />
+        <mark key="." line="99" column="26" />
+        <mark key="^" line="99" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -280,7 +284,8 @@
         <mark key="." line="86" column="16" />
         <mark key="^" line="86" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" timestamp="1482346547021">
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" timestamp="1482355230130">
+        <mark key="'" line="167" column="0" />
         <mark key="[" line="33" column="23" />
         <mark key="]" line="32" column="41" />
         <mark key="." line="32" column="41" />
@@ -427,11 +432,11 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482348851265">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="12" />
-        <mark key="." line="8" column="12" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482356221768">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -931,55 +936,57 @@
       <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sess</text>
+        <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoIiIpCg==</text>
+        <text encoding="base64">cHJpbnQoIktoYWxhc2FyIiwgci5nZXRfd29yZHMoKVsiS2hhbGFzYXIiXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbGxlY3QgYWxsIHNlbnRlbmNlcwogICAgICAgIHNlbGYuX19maW5kX3NlbnRlbmNlcygpCg==</text>
+        <text encoding="base64">ICAgIHdvcmRfY291bnRfYnVmZmVyW3dvcmRdID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">d29yZF9jb3VudF9idWZmZXIgPSBkaWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d29yZF9vY2N1cmVuY2VfYnVmZmVyID0gbGlzdCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5mb3JtYXRpb24gPSBPcmRlcmVkRGljdCgpCg==</text>
+        <text encoding="base64">cHJpbnQoIktoYWxhc2FyIiwgci5nZXRfd29yZHMoKVsiS2hhbGFzYXIiXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoci5nZXRfd29yZHMoKVsiUGZlcmQiXSArIHIuZ2V0X3dvcmRzKClbIlBmZXJkZSJdICsgci5nZXRfd29yZHMoKVsiUGZlcmRlbiJdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZF9idWZmZXIuZXh0ZW5kKHNlbnRfYnVmZmVyW2ldKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpbmQgc2VudGVuY2VzCiAgICAgICAgc2VudGVuY2VzID0gbGlzdCgpCiAgICAgICAgdG1wX3NlbnRlbmNlID0gbGlzdCgpCiAgICAgICAgd29yZF9idWZmZXIgPSBsaXN0KCkKICAgICAgICBmb3IgbGluZSBpbiBzZWxmLl9fZmlsZV9saW5lczoKICAgICAgICAgICAgbGluZSA9IGxpbmUucmVwbGFjZSgiXG4iLCAiIikKICAgICAgICAgICAgIyB3b3JkcyA9IGxpbmUuc3BsaXQoIiAiKQogICAgICAgICAgICB3b3JkcyA9IHJlLnNwbGl0KHIiXFciLCBsaW5lKQoKICAgICAgICAgICAgZm9yIHdvcmQgaW4gd29yZHM6CiAgICAgICAgICAgICAgICB3b3JkID0gd29yZC5yZXBsYWNlKCIoIiwgIiIpCiAgICAgICAgICAgICAgICB3b3JkID0gd29yZC5yZXBsYWNlKCIpIiwgIiIpCiAgICAgICAgICAgICAgICB3b3JkID0gd29yZC5yZXBsYWNlKCIgIiwgIiIpCiAgICAgICAgICAgICAgICB3b3JkID0gd29yZC5yZXBsYWNlKCItIiwgIiIpCgogICAgICAgICAgICAgICAgIyBmaWx0ZXIgd2ViIHVybHMKICAgICAgICAgICAgICAgIGlmICJodHRwOiIgaW4gd29yZDoKICAgICAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICAgICAgaWYgIlJBMmsiIGluIHdvcmQ6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgICAgIGlmIGxlbih3b3JkKSA8IDE6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICBpZiB3b3JkIGluIHsiZGlnaXRhbCIsICJyZW1hc3RlcmVkIiwgImJ5In06CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICB3b3JkX2J1ZmZlci5hcHBlbmQod29yZCkKCiAgICAgICAgICAgICAgICBpZiB3b3JkIGluIHsiRXMiLCAiRXIiLCAiU2llIiwgIkR1IiwgIkljaCIsICJFdWNoIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJFaW4iLCAiSW0iLCAiSW4iLCAiRGVyIiwgIkRpZSIsICJEYXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIkRpZXMiLCAiRGVzc2VuIiwgIldhcyIsICJXZXIiLCAiV28iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIkFiZXIiLCAiVW5kIiwgIklociIsICJJaHJlIiwgIklocmVuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBbHMiLCAiRWluZSIsICJFaW5lbiIsICJEb2NoIiwgIkRlbm4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIkVpbnMiLCAiWndlaSIsICJEcmVpIiwgIlZpZXIiLCAiRsO8bmYiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIkRlbm5vY2giLCAiV8OkaHJlbmRkZXNzZW4iLCAiTWl0IiwgIldlbm4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIkRhbm4iLCAiV2lyIiwgIkphIiwgIk5laW4iLCAiVmllbGxlaWNodCIsICJEYSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiU28iLCAiU29iYWxkIiwgIkkiLCAiSUkiLCAiSUlJIiwgIldpZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiV29kdXJjaCIsICJXZXN3ZWdlbiIsICJXZXNoYWxiIiwgIldhcnVtIn06CiAgICAgICAgICAgICAgICAgICAgY29udGludWUKCiAgICAgICAgICAgICAgICAjIGFuYXp5bGUgd29yZCBhbmQgYWRkIHRvIGN1cnJlbnQgc2VudGVuY2UKICAgICAgICAgICAgICAgIGlmIHJlLm1hdGNoKHIiW2EtekEtWsOkw7bDvMOEw5bDnMOfXXsyLH0iLCB3b3JkKSBpcyBub3QgTm9uZToKICAgICAgICAgICAgICAgICAgICB0bXBfc2VudGVuY2UuYXBwZW5kKHdvcmQpCgogICAgICAgICAgICAgICAgIyBpZiAod29yZFstMV0gPT0gIi4iIG9yIHdvcmRbLTFdID09ICI/IiBvciB3b3JkWy0xXSA9PSAiISIpIFwKICAgICAgICAgICAgICAgICMgICAgICAgICBhbmQgbGVuKHdvcmQpID49IDM6CiAgICAgICAgICAgICAgICAjICAgICB0bXBfc2VudGVuY2UuYXBwZW5kKHdvcmQpCiAgICAgICAgICAgICAgICAjICAgICBpZiBsZW4odG1wX3NlbnRlbmNlKSA+IDI6CiAgICAgICAgICAgICAgICAjICAgICAgICAgc2VudGVuY2VzLmFwcGVuZCgiICIuam9pbih0bXBfc2VudGVuY2UpKQogICAgICAgICAgICAgICAgIyAgICAgdG1wX3NlbnRlbmNlID0gbGlzdCgpCiAgICAgICAgICAgIGlmICIuIiBpbiBsaW5lIGFuZCBsZW4odG1wX3NlbnRlbmNlKSA+IDI6CiAgICAgICAgICAgICAgICBzZW50ZW5jZXMuYXBwZW5kKCIgIi5qb2luKHRtcF9zZW50ZW5jZSkpCiAgICAgICAgICAgICAgICB0bXBfc2VudGVuY2UgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICB3b3JkX2J1ZmZlciA9IGxpc3QoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fZmlsZV9saW5lcyA9IGZsaW5lcwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sess</last-search>
+      <last-search>sort</last-search>
       <last-offset />
-      <last-pattern>sess</last-pattern>
+      <last-pattern>sort</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -996,14 +1003,12 @@
         <entry>cnn</entry>
         <entry>log</entry>
         <entry>sess</entry>
+        <entry>sort</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
         <entry>80</entry>
         <entry>wa</entry>
-        <entry>1</entry>
-        <entry>nohlsearch</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
@@ -1016,6 +1021,10 @@
         <entry>we</entry>
         <entry>action CommentByLineComment</entry>
         <entry>m .-2</entry>
+        <entry>q</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>nohlsearch</entry>
+        <entry>1</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
