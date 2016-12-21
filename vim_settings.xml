@@ -159,11 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482354394702">
-        <mark key="[" line="99" column="16" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-        <mark key="^" line="99" column="26" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482357183297">
+        <mark key="[" line="118" column="33" />
+        <mark key="]" line="119" column="40" />
+        <mark key="." line="119" column="40" />
+        <mark key="^" line="119" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -432,11 +432,11 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482356221768">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482356714776">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -940,44 +940,44 @@
       <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIGl0ZXJhdGUK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>sentence</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoIktoYWxhc2FyIiwgci5nZXRfd29yZHMoKVsiS2hhbGFzYXIiXSkK</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGl0ZXJhdGUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdvcmRfY291bnRfYnVmZmVyW3dvcmRdID0K</text>
+        <text encoding="base64">ICAgICAgICAjIGZpbmQgbm91bnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d29yZF9jb3VudF9idWZmZXIgPSBkaWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d29yZF9vY2N1cmVuY2VfYnVmZmVyID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3Vucy5hcHBlbmQod29yZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoIktoYWxhc2FyIiwgci5nZXRfd29yZHMoKVsiS2hhbGFzYXIiXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoci5nZXRfd29yZHMoKVsiUGZlcmQiXSArIHIuZ2V0X3dvcmRzKClbIlBmZXJkZSJdICsgci5nZXRfd29yZHMoKVsiUGZlcmRlbiJdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbih3b3JkKSA8IDE6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZF9idWZmZXIuZXh0ZW5kKHNlbnRfYnVmZmVyW2ldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JkX2J1ZmZlciA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY2xlYXIgd29yZAogICAgICAgICAgICAgICAgd29yZCA9IHJlLnN1YihyIlwufFwsfFw7fFw6fFwofFwpfFxbfFxdIiwgIiIsIHdvcmQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY2xlYXIgd29yZAogICAgICAgICAgICAgICAgd29yZCA9IHJlLnN1YihyIlwufFwsfFw7fFw6fFwofFwpfFxbfFxdIiwgIiIsIHdvcmQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1016,16 +1016,16 @@
         <entry>redo</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
         <entry>m .+1</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>we</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>m .-2</entry>
         <entry>q</entry>
         <entry>action SearchEverywhere</entry>
         <entry>nohlsearch</entry>
         <entry>1</entry>
         <entry>action emacsIDEAs.AceJump</entry>
+        <entry>m .-2</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
