@@ -403,6 +403,12 @@
       <file name="$USER_HOME$/repositories/Python3Tests/blubb.py" timestamp="1481503641048">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="23" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="21" column="109" />
@@ -943,43 +949,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAibGluZXMiLAo=</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sentence</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_lin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAibGluZXMiLAo=</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBzZWxmLmdldF9saW5lcywK</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGl0ZXJhdGUK</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpbmQgbm91bnMK</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBub3Vucy5hcHBlbmQod29yZCkK</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbih3b3JkKSA8IDE6CiAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1025,10 +1031,10 @@
         <entry>action SearchEverywhere</entry>
         <entry>nohlsearch</entry>
         <entry>1</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>m .-2</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
