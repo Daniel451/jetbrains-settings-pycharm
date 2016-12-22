@@ -159,11 +159,10 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482367678835">
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="8" />
-        <mark key="." line="75" column="8" />
-        <mark key="^" line="69" column="32" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482369666733">
+        <mark key="[" line="108" column="83" />
+        <mark key="]" line="128" column="38" />
+        <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -948,11 +947,11 @@
       <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2VudCBpbiBlbnVtZXJhdGUoc2VudF9idWZmZXIpOgogICAgICAgICAgICAjIHNhdmUgZmlsdGVyZWQgc2VudGVuY2VzCiAgICAgICAgICAgIHNlbnRfYnVmZmVyW2ldID0gbmx0ay50b2tlbml6ZS5yZWdleHBfdG9rZW5pemUoc2VudCwgcGF0dGVybj0iXHcrIikKCiAgICAgICAgICAgICMgc2F2ZSBhbGwgd29yZHMgb2YgdGhlIHNlbnRlbmNlcyBhbmQgY291bnQgaXRzIG9jY3VycmVuY2VzCiAgICAgICAgICAgIGZvciB3b3JkIGluIHNlbnRfYnVmZmVyW2ldOgogICAgICAgICAgICAgICAgd29yZF9idWZmZXJbd29yZF0gKz0gMQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>nltk.tokenize.sent_tokenize(lst, language=self.__lang)</text>
       </register>
       <register name="/" type="4">
         <text>get_lin</text>
@@ -961,31 +960,31 @@
         <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woY3B1X2NvdW50KCkpIGFzIHA6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHJlYWRfdHh0X3dvcmtlcihwYXRoOiBzdHIpOgogICAgd2l0aCBvcGVuKHBhdGgsICJyIikgYXMgZjoKICAgICAgICByZXR1cm4gZi5yZWFkKCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2VudCBpbiBlbnVtZXJhdGUoc2VudF9idWZmZXIpOgogICAgICAgICAgICAjIHNhdmUgZmlsdGVyZWQgc2VudGVuY2VzCiAgICAgICAgICAgIHNlbnRfYnVmZmVyW2ldID0gbmx0ay50b2tlbml6ZS5yZWdleHBfdG9rZW5pemUoc2VudCwgcGF0dGVybj0iXHcrIikKCiAgICAgICAgICAgICMgc2F2ZSBhbGwgd29yZHMgb2YgdGhlIHNlbnRlbmNlcyBhbmQgY291bnQgaXRzIG9jY3VycmVuY2VzCiAgICAgICAgICAgIGZvciB3b3JkIGluIHNlbnRfYnVmZmVyW2ldOgogICAgICAgICAgICAgICAgd29yZF9idWZmZXJbd29yZF0gKz0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChibHViYikK</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlci5leHRlbmQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woY3B1X2NvdW50KCkpIGFzIHA6CiAgICAgICAgICAgIGJsdWJiID0gcC5tYXAoc2VsZi5ibHViYmVyLCByYW5nZSgxMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IFtzZW50IGZvciBzZW50IGluIHNlbnRfYnVmZmVyXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgYmx1YmJlcihzZWxmLCB4KToKICAgICAgICAgICAgcmV0dXJuIHgrMQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbHN0IGluIGZkYXRhOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBibHViYmVyKHNlbGYsIHgpOgogICAgICAgIHJldHVybiB4KzEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VudF9idWZmZXIuZXh0ZW5kKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IGxpc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1022,7 +1021,6 @@
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
-        <entry>redo</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
         <entry>m .+1</entry>
         <entry>we</entry>
@@ -1035,6 +1033,7 @@
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
