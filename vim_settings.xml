@@ -159,12 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482361176003">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="117" column="40" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482367678835">
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="8" />
+        <mark key="." line="75" column="8" />
+        <mark key="^" line="69" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -946,46 +945,47 @@
       <jump line="19" column="10" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" />
       <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="74" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
+      <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>get_lin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woY3B1X2NvdW50KCkpIGFzIHA6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ZGVmIHJlYWRfdHh0X3dvcmtlcihwYXRoOiBzdHIpOgogICAgd2l0aCBvcGVuKHBhdGgsICJyIikgYXMgZjoKICAgICAgICByZXR1cm4gZi5yZWFkKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChibHViYikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woY3B1X2NvdW50KCkpIGFzIHA6CiAgICAgICAgICAgIGJsdWJiID0gcC5tYXAoc2VsZi5ibHViYmVyLCByYW5nZSgxMCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgYmx1YmJlcihzZWxmLCB4KToKICAgICAgICAgICAgcmV0dXJuIHgrMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBibHViYmVyKHNlbGYsIHgpOgogICAgICAgIHJldHVybiB4KzEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQocVswXVswXSwgcVswXVstMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1032,9 +1032,9 @@
         <entry>nohlsearch</entry>
         <entry>1</entry>
         <entry>m .-2</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
