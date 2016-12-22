@@ -159,10 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482369666733">
-        <mark key="[" line="108" column="83" />
-        <mark key="]" line="128" column="38" />
-        <mark key="." line="122" column="0" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482371944003">
+        <mark key="[" line="3" column="11" />
+        <mark key="]" line="107" column="7" />
+        <mark key="." line="107" column="7" />
+        <mark key="^" line="107" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -770,6 +771,12 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/iter_split_every_n.py" timestamp="1482371390402">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="29" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456532787821">
         <mark key="[" line="134" column="70" />
         <mark key="]" line="134" column="71" />
@@ -793,6 +800,12 @@
         <mark key="]" line="159" column="71" />
         <mark key="." line="169" column="48" />
         <mark key="^" line="129" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/check_iter_split_every_n.py" timestamp="1482371820875">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/log_plot/plot_train.py" timestamp="1478645268563">
         <mark key="[" line="60" column="29" />
@@ -947,44 +960,44 @@
       <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2VudCBpbiBlbnVtZXJhdGUoc2VudF9idWZmZXIpOgogICAgICAgICAgICAjIHNhdmUgZmlsdGVyZWQgc2VudGVuY2VzCiAgICAgICAgICAgIHNlbnRfYnVmZmVyW2ldID0gbmx0ay50b2tlbml6ZS5yZWdleHBfdG9rZW5pemUoc2VudCwgcGF0dGVybj0iXHcrIikKCiAgICAgICAgICAgICMgc2F2ZSBhbGwgd29yZHMgb2YgdGhlIHNlbnRlbmNlcyBhbmQgY291bnQgaXRzIG9jY3VycmVuY2VzCiAgICAgICAgICAgIGZvciB3b3JkIGluIHNlbnRfYnVmZmVyW2ldOgogICAgICAgICAgICAgICAgd29yZF9idWZmZXJbd29yZF0gKz0gMQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>nltk.tokenize.sent_tokenize(lst, language=self.__lang)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>get_lin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIFBvb2woY3B1X2NvdW50KCkpIGFzIHA6Cg==</text>
+        <text encoding="base64">cHJpbnQobGlzdChhKSkKZm9yIGUgaW4gc3BsaXRfZXZlcnlfbihhLCAyKToKICAgIHByaW50KGxpc3QoZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2VudCBpbiBlbnVtZXJhdGUoc2VudF9idWZmZXIpOgogICAgICAgICAgICAjIHNhdmUgZmlsdGVyZWQgc2VudGVuY2VzCiAgICAgICAgICAgIHNlbnRfYnVmZmVyW2ldID0gbmx0ay50b2tlbml6ZS5yZWdleHBfdG9rZW5pemUoc2VudCwgcGF0dGVybj0iXHcrIikKCiAgICAgICAgICAgICMgc2F2ZSBhbGwgd29yZHMgb2YgdGhlIHNlbnRlbmNlcyBhbmQgY291bnQgaXRzIG9jY3VycmVuY2VzCiAgICAgICAgICAgIGZvciB3b3JkIGluIHNlbnRfYnVmZmVyW2ldOgogICAgICAgICAgICAgICAgd29yZF9idWZmZXJbd29yZF0gKz0gMQo=</text>
+        <text encoding="base64">ICAgIHN0b3AgPSBuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGl0ID0gaXRlcihpdGVyYWJsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlci5leHRlbmQoKQo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIGZyb20gaXRlcihsYW1iZGEgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlcgo=</text>
+        <text encoding="base64">ZnJvbSB0eXBpbgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IFtzZW50IGZvciBzZW50IGluIHNlbnRfYnVmZmVyXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2VudCBpbiBlbnVtZXJhdGUoc2VudF9idWZmZXIpOgogICAgICAgICAgICAjIHNhdmUgZmlsdGVyZWQgc2VudGVuY2VzCiAgICAgICAgICAgIHNlbnRfYnVmZmVyW2ldID0gbmx0ay50b2tlbml6ZS5yZWdleHBfdG9rZW5pemUoc2VudCwgcGF0dGVybj0iXHcrIikKCiAgICAgICAgICAgICMgc2F2ZSBhbGwgd29yZHMgb2YgdGhlIHNlbnRlbmNlcyBhbmQgY291bnQgaXRzIG9jY3VycmVuY2VzCiAgICAgICAgICAgIGZvciB3b3JkIGluIHNlbnRfYnVmZmVyW2ldOgogICAgICAgICAgICAgICAgd29yZF9idWZmZXJbd29yZF0gKz0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbHN0IGluIGZkYXRhOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudF9idWZmZXIuZXh0ZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlci5leHRlbmQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IGxpc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
