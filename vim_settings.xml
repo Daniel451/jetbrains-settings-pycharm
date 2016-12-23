@@ -159,11 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482371944003">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="107" column="7" />
-        <mark key="." line="107" column="7" />
-        <mark key="^" line="107" column="7" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482373679873">
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="116" column="96" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -438,11 +438,11 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482356714776">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="23" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="23" column="30" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482373243700">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="85" />
+        <mark key="." line="8" column="85" />
+        <mark key="^" line="8" column="85" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -771,11 +771,11 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/iter_split_every_n.py" timestamp="1482371390402">
-        <mark key="[" line="13" column="10" />
-        <mark key="]" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="^" line="13" column="29" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/iter_split_every_n.py" timestamp="1482373033522">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456532787821">
         <mark key="[" line="134" column="70" />
@@ -960,44 +960,44 @@
       <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyB3b3JrZXIgZnVuY3Rpb25zCiMgbmVlZGVkIGJlY2F1c2UgUG9vbCBjYW4gbm90IHBpY2tsZSBmdW5jdGlvbnMgd2l0aCBtYXAgaW5zaWRlIG9mIGNsYXNzZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>get_lin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQobGlzdChhKSkKZm9yIGUgaW4gc3BsaXRfZXZlcnlfbihhLCAyKToKICAgIHByaW50KGxpc3QoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IHNlbGYuX19nZXRfb25lX3NlbnRlbmNlX2J1ZmZlcihbZVswXSBmb3IgZSBpbiBzZW50c193b3Jkc19idWZmZXJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0b3AgPSBuCg==</text>
+        <text encoding="base64">IyB3b3JrZXIgZnVuY3Rpb25zCiMgbmVlZGVkIGJlY2F1c2UgUG9vbCBjYW4gbm90IHBpY2tsZSBmdW5jdGlvbnMgd2l0aCBtYXAgaW5zaWRlIG9mIGNsYXNzZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ID0gaXRlcihpdGVyYWJsZSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGZyb20gaXRlcihsYW1iZGEgKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSB0eXBpbgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgc2VudCBpbiBlbnVtZXJhdGUoc2VudF9idWZmZXIpOgogICAgICAgICAgICAjIHNhdmUgZmlsdGVyZWQgc2VudGVuY2VzCiAgICAgICAgICAgIHNlbnRfYnVmZmVyW2ldID0gbmx0ay50b2tlbml6ZS5yZWdleHBfdG9rZW5pemUoc2VudCwgcGF0dGVybj0iXHcrIikKCiAgICAgICAgICAgICMgc2F2ZSBhbGwgd29yZHMgb2YgdGhlIHNlbnRlbmNlcyBhbmQgY291bnQgaXRzIG9jY3VycmVuY2VzCiAgICAgICAgICAgIGZvciB3b3JkIGluIHNlbnRfYnVmZmVyW2ldOgogICAgICAgICAgICAgICAgd29yZF9idWZmZXJbd29yZF0gKz0gMQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VudF9idWZmZXIuZXh0ZW5kKGZpbGVzX3NlbnRzKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZXNfc2VudHMgaW4gcGVyX2ZpbGVfc2VudHM6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZXNfc2VudHMgaW4gcGVyX2ZpbGVfc2VudHM6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbHN0OgogICAgICAgIDpyZXR1cm46Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlci5leHRlbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlcgo=</text>
+        <text encoding="base64">ICAgIHN0b3AgPSBuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1044,9 +1044,10 @@
         <entry>1</entry>
         <entry>m .-2</entry>
         <entry>action emacsIDEAs.AceJump</entry>
+        <entry>redo</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>redo</entry>
+        <entry>184</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
