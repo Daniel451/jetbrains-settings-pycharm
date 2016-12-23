@@ -126,9 +126,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cornelius_topographic_elman/mlprec_v3.py" timestamp="1459689469834">
-        <mark key="[" line="137" column="59" />
-      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" timestamp="1482355195993">
         <mark key="'" line="19" column="10" />
         <mark key="." line="2" column="10" />
@@ -411,9 +408,6 @@
         <mark key="." line="26" column="28" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/blubb.py" timestamp="1481503641048">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
         <mark key="[" line="23" column="34" />
         <mark key="]" line="23" column="35" />
@@ -478,9 +472,6 @@
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/array_type_printer.py" timestamp="1479562586552">
-        <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex02.py" timestamp="1456938881676">
         <mark key="[" line="46" column="16" />
@@ -902,6 +893,12 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/blessings_test.py" timestamp="1482534685079">
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="16" column="38" />
+        <mark key="^" line="16" column="38" />
+        <mark key="." line="16" column="38" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="16" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
@@ -1006,17 +1003,17 @@
       <jump line="28" column="7" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcmUKIyBpbXBvcnQgbmx0awojIGltcG9ydCBvcywgc3lzCiMgZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFNldAojIGZyb20gY29sbGVjdGlvbnMgaW1wb3J0IE9yZGVyZWREaWN0LCBkZWZhdWx0ZGljdAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>10000000</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>loaded</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCmltcG9ydCBubHRrCmltcG9ydCBvcywgc3lzCmZyb20gbXVsdGlwcm9jZXNzaW5nIGltcG9ydCBQb29sLCBjcHVfY291bnQKZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFNldApmcm9tIGNvbGxlY3Rpb25zIGltcG9ydCBPcmRlcmVkRGljdCwgZGVmYXVsdGRpY3QK</text>
+        <text encoding="base64">cHJpbnQodC5ib2xkKCJIZWxsbyB3b3JsZCEiKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyBpbXBvcnQgcmUKIyBpbXBvcnQgbmx0awojIGltcG9ydCBvcywgc3lzCiMgZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFNldAojIGZyb20gY29sbGVjdGlvbnMgaW1wb3J0IE9yZGVyZWREaWN0LCBkZWZhdWx0ZGljdAo=</text>
