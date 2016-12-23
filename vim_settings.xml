@@ -159,11 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482451709895">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="43" />
-        <mark key="." line="51" column="43" />
-        <mark key="^" line="51" column="43" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482454670994">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="104" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -243,7 +243,12 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/main.py" timestamp="1482452470972" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/main.py" timestamp="1482453581131">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="84" />
+        <mark key="^" line="15" column="84" />
+        <mark key="." line="15" column="84" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex11.py" timestamp="1456533586210">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="52" column="17" />
@@ -285,11 +290,11 @@
         <mark key="." line="86" column="16" />
         <mark key="^" line="86" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" timestamp="1482355230130">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="33" column="23" />
-        <mark key="]" line="32" column="41" />
-        <mark key="." line="32" column="41" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" timestamp="1482454090311">
+        <mark key="'" line="67" column="31" />
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="71" column="62" />
+        <mark key="." line="71" column="62" />
         <mark key="^" line="32" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
@@ -959,28 +964,35 @@
       <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="74" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
       <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="161" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="168" column="28" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="26" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="41" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="67" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>get_lin</text>
+        <text>reader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IHNlbGYuX19nZXRfb25lX3NlbnRlbmNlX2J1ZmZlcihbZVswXSBmb3IgZSBpbiBzZW50c193b3Jkc19idWZmZXJdKQo=</text>
+        <text encoding="base64">ICAgICAgICBkWyJzZW50ZW5jZXMiXSAtPiBudW1iZXIgb2Ygc2VudGVuY2VzCiAgICAgICAgZFsid29yZHMiXSAgICAgLT4gbnVtYmVyIG9mIHdvcmRzCiAgICAgICAgZFsibm91bnMiXSAgICAgLT4gbnVtYmVyIG9mIG5vdW5zCiAgICAgICAgZFsiYXNzb2MuIl0gICAgLT4gbnVtYmVyIG9mIGFzc29jaWF0aW9ucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
@@ -995,21 +1007,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlYWQgaW4gYWxsIHNlbnRlbmNlcyBvZiBhbGwgZmlsZXMKICAgICAgICBzZW50X2J1ZmZlciA9IGxpc3QoKQogICAgICAgIHdvcmRfYnVmZmVyID0gZGVmYXVsdGRpY3QoaW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudF9idWZmZXIuZXh0ZW5kKGZpbGVzX3NlbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_lin</last-search>
+      <last-search>reader</last-search>
       <last-offset />
-      <last-pattern>get_lin</last-pattern>
+      <last-pattern>reader</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1026,6 +1038,7 @@
         <entry>sess</entry>
         <entry>sort</entry>
         <entry>get_lin</entry>
+        <entry>reader</entry>
       </history-search>
       <history-cmd>
         <entry>wa</entry>
@@ -1046,8 +1059,10 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>184</entry>
-        <entry>w</entry>
+        <entry>q!</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
