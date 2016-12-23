@@ -159,11 +159,10 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482454670994">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="104" column="7" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482455159542">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -973,11 +972,11 @@
       <jump line="67" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>reader</text>
@@ -986,31 +985,31 @@
         <text encoding="base64">ICAgICAgICBkWyJzZW50ZW5jZXMiXSAtPiBudW1iZXIgb2Ygc2VudGVuY2VzCiAgICAgICAgZFsid29yZHMiXSAgICAgLT4gbnVtYmVyIG9mIHdvcmRzCiAgICAgICAgZFsibm91bnMiXSAgICAgLT4gbnVtYmVyIG9mIG5vdW5zCiAgICAgICAgZFsiYXNzb2MuIl0gICAgLT4gbnVtYmVyIG9mIGFzc29jaWF0aW9ucwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyB3b3JrZXIgZnVuY3Rpb25zCiMgbmVlZGVkIGJlY2F1c2UgUG9vbCBjYW4gbm90IHBpY2tsZSBmdW5jdGlvbnMgd2l0aCBtYXAgaW5zaWRlIG9mIGNsYXNzZXMK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIG9ubHkgb25lIHBhdGgvc3RyaW5nIGlzIHN1cHBsaWVkCiAgICAgICAgaWYgdHlwZShmcGF0aHMpIGlzIG5vdCBsaXN0OgogICAgICAgICAgICBmcGF0aHMgPSBbc3RyKGZwYXRocyldCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJmcGF0aHMgaXMge30gKHt9KSIuZm9ybWF0KHR5cGUoZnBhdGhzKSwgZnBhdGhzKSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZnBhdGhzOgoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlYWQgaW4gYWxsIHNlbnRlbmNlcyBvZiBhbGwgZmlsZXMKICAgICAgICBzZW50X2J1ZmZlciA9IGxpc3QoKQogICAgICAgIHdvcmRfYnVmZmVyID0gZGVmYXVsdGRpY3QoaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1021,7 +1020,7 @@
       <last-offset />
       <last-pattern>reader</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1041,8 +1040,6 @@
         <entry>reader</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
-        <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
@@ -1056,13 +1053,13 @@
         <entry>m .-2</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>redo</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>184</entry>
         <entry>q!</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
