@@ -159,11 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482373679873">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="116" column="96" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482451709895">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="43" />
+        <mark key="." line="51" column="43" />
+        <mark key="^" line="51" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -243,6 +243,7 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/main.py" timestamp="1482452470972" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex11.py" timestamp="1456533586210">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="52" column="17" />
@@ -961,7 +962,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyB3b3JrZXIgZnVuY3Rpb25zCiMgbmVlZGVkIGJlY2F1c2UgUG9vbCBjYW4gbm90IHBpY2tsZSBmdW5jdGlvbnMgd2l0aCBtYXAgaW5zaWRlIG9mIGNsYXNzZXMK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -973,34 +974,34 @@
         <text encoding="base64">ICAgICAgICBzZW50X2J1ZmZlciA9IHNlbGYuX19nZXRfb25lX3NlbnRlbmNlX2J1ZmZlcihbZVswXSBmb3IgZSBpbiBzZW50c193b3Jkc19idWZmZXJdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyB3b3JrZXIgZnVuY3Rpb25zCiMgbmVlZGVkIGJlY2F1c2UgUG9vbCBjYW4gbm90IHBpY2tsZSBmdW5jdGlvbnMgd2l0aCBtYXAgaW5zaWRlIG9mIGNsYXNzZXMK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudF9idWZmZXIuZXh0ZW5kKGZpbGVzX3NlbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmlsZXNfc2VudHMgaW4gcGVyX2ZpbGVfc2VudHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmlsZXNfc2VudHMgaW4gcGVyX2ZpbGVfc2VudHM6Cg==</text>
+        <text encoding="base64">IyB3b3JrZXIgZnVuY3Rpb25zCiMgbmVlZGVkIGJlY2F1c2UgUG9vbCBjYW4gbm90IHBpY2tsZSBmdW5jdGlvbnMgd2l0aCBtYXAgaW5zaWRlIG9mIGNsYXNzZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbHN0OgogICAgICAgIDpyZXR1cm46Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0b3AgPSBuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VudF9idWZmZXIuZXh0ZW5kKGZpbGVzX3NlbnRzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1008,7 +1009,7 @@
       <last-offset />
       <last-pattern>get_lin</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1027,8 +1028,6 @@
         <entry>get_lin</entry>
       </history-search>
       <history-cmd>
-        <entry>50</entry>
-        <entry>80</entry>
         <entry>wa</entry>
         <entry>action AceJumpAction</entry>
         <entry>action AceJumpCharAction</entry>
@@ -1039,7 +1038,6 @@
         <entry>we</entry>
         <entry>action CommentByLineComment</entry>
         <entry>q</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>nohlsearch</entry>
         <entry>1</entry>
         <entry>m .-2</entry>
@@ -1049,6 +1047,7 @@
         <entry>set nopaste</entry>
         <entry>184</entry>
         <entry>w</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
