@@ -159,10 +159,11 @@
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482455159542">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482458258986">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -972,8 +973,8 @@
       <jump line="67" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBsc3RfZiA9IFtzZWxmLmdldF9zZW50ZW5jZXMsCiAgICAgICAgICAgICAgICAgc2VsZi5nZXRfd29yZHMsCiAgICAgICAgICAgICAgICAgc2VsZi5nZXRfbm91bnMsCiAgICAgICAgICAgICAgICAgc2VsZi5nZXRfbm91bl9ncm91cHNd</text>
       </register>
       <register name="-" type="4">
         <text>List</text>
@@ -984,26 +985,26 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkWyJzZW50ZW5jZXMiXSAtPiBudW1iZXIgb2Ygc2VudGVuY2VzCiAgICAgICAgZFsid29yZHMiXSAgICAgLT4gbnVtYmVyIG9mIHdvcmRzCiAgICAgICAgZFsibm91bnMiXSAgICAgLT4gbnVtYmVyIG9mIG5vdW5zCiAgICAgICAgZFsiYXNzb2MuIl0gICAgLT4gbnVtYmVyIG9mIGFzc29jaWF0aW9ucwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBsc3RfZiA9IFtzZWxmLmdldF9zZW50ZW5jZXMsCiAgICAgICAgICAgICAgICAgc2VsZi5nZXRfd29yZHMsCiAgICAgICAgICAgICAgICAgc2VsZi5nZXRfbm91bnMsCiAgICAgICAgICAgICAgICAgc2VsZi5nZXRfbm91bl9ncm91cHNd</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG9ubHkgb25lIHBhdGgvc3RyaW5nIGlzIHN1cHBsaWVkCiAgICAgICAgaWYgdHlwZShmcGF0aHMpIGlzIG5vdCBsaXN0OgogICAgICAgICAgICBmcGF0aHMgPSBbc3RyKGZwYXRocyldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJmcGF0aHMgaXMge30gKHt9KSIuZm9ybWF0KHR5cGUoZnBhdGhzKSwgZnBhdGhzKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIG9ubHkgb25lIHBhdGgvc3RyaW5nIGlzIHN1cHBsaWVkCiAgICAgICAgaWYgdHlwZShmcGF0aHMpIGlzIG5vdCBsaXN0OgogICAgICAgICAgICBmcGF0aHMgPSBbc3RyKGZwYXRocyldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKCJmcGF0aHMgaXMge30gKHt9KSIuZm9ybWF0KHR5cGUoZnBhdGhzKSwgZnBhdGhzKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gZnBhdGhzOgoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZnBhdGhzOgoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
@@ -1012,7 +1013,7 @@
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CommentByLineComment</text>
+        <text>action CommentByBlockComment</text>
       </register>
     </registers>
     <search>
@@ -1060,6 +1061,7 @@
         <entry>w</entry>
         <entry>action SearchEverywhere</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action CommentByBlockComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
