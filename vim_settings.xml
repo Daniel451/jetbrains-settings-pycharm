@@ -1012,7 +1012,7 @@
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>action CommentByLineComment</text>
       </register>
     </registers>
     <search>
@@ -1046,7 +1046,6 @@
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
         <entry>m .+1</entry>
         <entry>we</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
         <entry>1</entry>
@@ -1060,6 +1059,7 @@
         <entry>set nopaste</entry>
         <entry>w</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action CommentByLineComment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
