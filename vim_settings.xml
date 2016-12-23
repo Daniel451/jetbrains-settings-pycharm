@@ -1012,7 +1012,7 @@
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1055,11 +1055,11 @@
         <entry>redo</entry>
         <entry>184</entry>
         <entry>q!</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>W</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
