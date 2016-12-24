@@ -126,10 +126,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" timestamp="1482355195993">
-        <mark key="'" line="19" column="10" />
-        <mark key="." line="2" column="10" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="63" column="19" />
@@ -423,11 +419,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" timestamp="1482528604680">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" timestamp="1482544176672">
+        <mark key="[" line="178" column="14" />
+        <mark key="]" line="178" column="77" />
+        <mark key="." line="178" column="77" />
+        <mark key="^" line="178" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
         <mark key="[" line="23" column="34" />
@@ -872,6 +868,12 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_processor.py" timestamp="1482544144565">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_colors.py" timestamp="1455923532338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="20" />
@@ -1029,11 +1031,11 @@
       <jump line="56" column="15" filename="$USER_HOME$/repositories/Python3Tests/screen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>rslt</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>rslt</text>
       </register>
       <register name="/" type="4">
         <text>noecho</text>
@@ -1042,31 +1044,31 @@
         <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX3N0ZHNjci5nZXRzdHIoKS5kZWNvZGUoZW5jb2Rpbmc9InV0Zi04IikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hyKHNlbGYuX19zdGRzY3IuZ2V0Y2goKSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBjdXN0b20gaW1wb3J0cwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dC5tb3ZlCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gbGlzdCgpCiAgICAgICAgZm9yIHdvcmQgaW4gd29yZGdyb3VwOgogICAgICAgICAgICByZXN1bHRzLmFwcGVuZChQUC5zZWFyY2hfd29yZCh3b3JkLCBzZWxmLl9fcmVhZGVyLmdldF9ub3VuX2dyb3VwcygpKSkKCiAgICAgICAgd29yZF9pbnRlcnNlYyA9IHJlZHVjZShsYW1iZGEgczEsIHMyOiBzMS5pbnRlcnNlY3Rpb24oczIpLCBtYXAobGFtYmRhIGl0ZW06IHNldChpdGVtKSwgcmVzdWx0cykpCgogICAgICAgIHJzbHQgPSBsaXN0KCkKICAgICAgICBmb3Igd29yZCBpbiBjaGFpbigqcmVzdWx0cyk6CiAgICAgICAgICAgIGlmIHdvcmQgaW4gd29yZF9pbnRlcnNlYzoKICAgICAgICAgICAgICAgIHJzbHQuYXBwZW5kKHdvcmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHggaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0X2J1ZmZlciA9IGxpc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHkgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHMgaW4gc2VsZi5fX3JlYWRlci5nZXRfbm91bl9ncm91cHMoKToKICAgICAgICAgICAgICAgIGlmIHdvcmQgaW4gczoKICAgICAgICAgICAgICAgICAgICBidWZmZXIgPSBsaXN0KHMgLSB7d29yZH0pCiAgICAgICAgICAgICAgICAgICAgcmVzdWx0X2J1ZmZlci5leHRlbmQoYnVmZmVyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHQubW92ZSgxLDEpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX3N0ZHNjci5nZXRzdHIoKS5kZWNvZGUoZW5jb2Rpbmc9InV0Zi04IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dC5mdWxsc2NyZWVuKFRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hyKHNlbGYuX19zdGRzY3IuZ2V0Y2goKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dC5lbnRlcl9mdWxsc2NyZWVuKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
