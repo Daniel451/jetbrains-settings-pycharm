@@ -9,11 +9,11 @@
         <mark key="^" line="54" column="89" />
         <mark key="." line="54" column="89" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing_with_pool.py" timestamp="1482531284262">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing_with_pool.py" timestamp="1482539468958">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex10.py" timestamp="1457331386890">
         <mark key="[" line="64" column="29" />
@@ -33,7 +33,7 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1482529879186">
+      <file name="/a.dummy" timestamp="1482539608581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
@@ -154,7 +154,17 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482528890549" />
+      <file name="$USER_HOME$/repositories/Python3Tests/simple_dec.py" timestamp="1481094077789">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482543016838">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="69" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482460186481">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="46" />
@@ -263,6 +273,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/exp_setups/train_s11_ex17.py" timestamp="1480049378321">
+        <mark key="[" line="55" column="82" />
+        <mark key="]" line="55" column="83" />
+        <mark key="." line="55" column="83" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455549796227">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="34" />
@@ -317,6 +332,12 @@
         <mark key="]" line="61" column="37" />
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/blessings_multiprocessing_with_pool.py" timestamp="1482537965833">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
@@ -707,11 +728,11 @@
         <mark key="." line="58" column="33" />
         <mark key="^" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/screen.py" timestamp="1482530996782">
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="40" />
-        <mark key="^" line="31" column="40" />
-        <mark key="." line="31" column="40" />
+      <file name="$USER_HOME$/repositories/Python3Tests/screen.py" timestamp="1482542950405">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="67" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
         <mark key="[" line="1" column="0" />
@@ -736,6 +757,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/blessed_multiprocessing_with_pool.py" timestamp="1482542081960">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/heatmap_plot.py" timestamp="1457357297582">
         <mark key="[" line="37" column="13" />
@@ -893,16 +920,13 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/blessings_test.py" timestamp="1482534685079">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="$USER_HOME$/repositories/Python3Tests/blessings_test.py" timestamp="1482540931643">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="15" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="20" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="163" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
@@ -1001,55 +1025,57 @@
       <jump line="78" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
       <jump line="170" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
       <jump line="28" column="7" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="18" column="29" filename="$USER_HOME$/repositories/Python3Tests/screen.py" />
+      <jump line="56" column="15" filename="$USER_HOME$/repositories/Python3Tests/screen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>loaded</text>
+        <text>noecho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQodC5ib2xkKCJIZWxsbyB3b3JsZCEiKSkK</text>
+        <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBpbXBvcnQgcmUKIyBpbXBvcnQgbmx0awojIGltcG9ydCBvcywgc3lzCiMgZnJvbSB0eXBpbmcgaW1wb3J0IExpc3QsIFNldAojIGZyb20gY29sbGVjdGlvbnMgaW1wb3J0IE9yZGVyZWREaWN0LCBkZWZhdWx0ZGljdAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX3N0ZHNjci5nZXRzdHIoKS5kZWNvZGUoZW5jb2Rpbmc9InV0Zi04IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBtdWx0aXByb2Nlc3NpbmcgaW1wb3J0IFBvb2wsIGNwdV9jb3VudAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2hyKHNlbGYuX19zdGRzY3IuZ2V0Y2goKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1ZmZlci5hcHBlbmQod29ya2VyKGRhdGFfYXJyW3Jvd10pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yIHJvdyBpbiBucC5uZGluZGV4KGRhdGFfYXJyLnNoYXBlWzBdKToK</text>
+        <text encoding="base64">dC5tb3ZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YnVmZmVyID0gbGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIGlmIHggaXMgTm9uZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHkgaXMgTm9uZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcnIK</text>
+        <text encoding="base64">ICAgIHQubW92ZSgxLDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dC5mdWxsc2NyZWVuKFRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2VsZi5fX3NjcmVlbi5nZXRfdXNlcl9pbnB1dF9jaHIoKQo=</text>
+        <text encoding="base64">dC5lbnRlcl9mdWxsc2NyZWVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loaded</last-search>
+      <last-search>noecho</last-search>
       <last-offset />
-      <last-pattern>loaded</last-pattern>
+      <last-pattern>noecho</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1072,6 +1098,7 @@
         <entry>print</entry>
         <entry>reader</entry>
         <entry>loaded</entry>
+        <entry>noecho</entry>
       </history-search>
       <history-cmd>
         <entry>action AceJumpChar</entry>
@@ -1083,16 +1110,17 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>1</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>redo</entry>
-        <entry>nohlsearch</entry>
         <entry>m .-2</entry>
         <entry>q</entry>
+        <entry>1</entry>
+        <entry>wq</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>nohlsearch</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
