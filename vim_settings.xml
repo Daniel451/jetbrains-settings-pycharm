@@ -418,11 +418,11 @@
         <mark key="^" line="15" column="12" />
         <mark key="." line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" timestamp="1482545475947">
-        <mark key="[" line="50" column="40" />
-        <mark key="]" line="51" column="7" />
-        <mark key="." line="51" column="7" />
-        <mark key="^" line="51" column="7" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" timestamp="1482548436952">
+        <mark key="[" line="154" column="44" />
+        <mark key="]" line="155" column="51" />
+        <mark key="." line="155" column="51" />
+        <mark key="^" line="155" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
         <mark key="[" line="23" column="34" />
@@ -442,10 +442,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/read_txt.py" timestamp="1482530146837">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="5" column="28" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/read_txt.py" timestamp="1482548261898">
+        <mark key="[" line="188" column="32" />
+        <mark key="]" line="188" column="38" />
+        <mark key="." line="188" column="38" />
+        <mark key="^" line="188" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_5.py" timestamp="1455294865923">
         <mark key="[" line="168" column="37" />
@@ -867,11 +868,11 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_processor.py" timestamp="1482544144565">
-        <mark key="[" line="27" column="33" />
-        <mark key="]" line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="29" column="18" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_processor.py" timestamp="1482548324466">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_colors.py" timestamp="1455923532338">
         <mark key="[" line="0" column="0" />
@@ -1030,11 +1031,11 @@
       <jump line="56" column="15" filename="$USER_HOME$/repositories/Python3Tests/screen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>rslt</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>noecho</text>
@@ -1043,31 +1044,31 @@
         <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAid2Vzc2VuIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAid2VyIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQgZGF0YSBwcm9jZXNzb3IgJiBkYXRhCiAgICAgICAgc2VsZi5fX3JlYWRlciA9IHNlbGYuX19sb2FkX2RhdGEoYXJncykK</text>
+        <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX21haW5zY3IK</text>
+        <text encoding="base64">ICAgIF0pKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBjdXN0b20gaW1wb3J0cwo=</text>
+        <text encoding="base64">ICAgICAgICAjIGxvYWQgZGF0YSBwcm9jZXNzb3IgJiBkYXRhCiAgICAgICAgc2VsZi5fX3JlYWRlciA9IHNlbGYuX19sb2FkX2RhdGEoYXJncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRzID0gbGlzdCgpCiAgICAgICAgZm9yIHdvcmQgaW4gd29yZGdyb3VwOgogICAgICAgICAgICByZXN1bHRzLmFwcGVuZChQUC5zZWFyY2hfd29yZCh3b3JkLCBzZWxmLl9fcmVhZGVyLmdldF9ub3VuX2dyb3VwcygpKSkKCiAgICAgICAgd29yZF9pbnRlcnNlYyA9IHJlZHVjZShsYW1iZGEgczEsIHMyOiBzMS5pbnRlcnNlY3Rpb24oczIpLCBtYXAobGFtYmRhIGl0ZW06IHNldChpdGVtKSwgcmVzdWx0cykpCgogICAgICAgIHJzbHQgPSBsaXN0KCkKICAgICAgICBmb3Igd29yZCBpbiBjaGFpbigqcmVzdWx0cyk6CiAgICAgICAgICAgIGlmIHdvcmQgaW4gd29yZF9pbnRlcnNlYzoKICAgICAgICAgICAgICAgIHJzbHQuYXBwZW5kKHdvcmQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX21haW5zY3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0X2J1ZmZlciA9IGxpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1111,7 +1112,6 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>redo</entry>
         <entry>q</entry>
         <entry>1</entry>
         <entry>wq</entry>
@@ -1122,6 +1122,7 @@
         <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
