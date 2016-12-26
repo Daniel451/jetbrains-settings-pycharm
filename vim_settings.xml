@@ -9,20 +9,17 @@
         <mark key="^" line="54" column="89" />
         <mark key="." line="54" column="89" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing_with_pool.py" timestamp="1482539468958">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="38" column="21" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex10.py" timestamp="1457331386890">
         <mark key="[" line="64" column="29" />
         <mark key="]" line="64" column="30" />
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" timestamp="1479944851637">
-        <mark key="e" line="23" column="7" />
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="o" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/models/abstr_model.py" timestamp="1480354687330">
         <mark key="[" line="25" column="23" />
@@ -30,7 +27,13 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479527087736">
+      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing_without_pool.py" timestamp="1482530500999">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+      </file>
+      <file name="/a.dummy" timestamp="1482539608581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
@@ -123,9 +126,6 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cornelius_topographic_elman/mlprec_v3.py" timestamp="1459689469834">
-        <mark key="[" line="137" column="59" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="63" column="19" />
@@ -154,6 +154,17 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482544924060">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482460186481">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="46" />
+        <mark key="." line="100" column="30" />
+        <mark key="^" line="100" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
         <mark key="[" line="38" column="29" />
@@ -233,6 +244,12 @@
         <mark key="." line="13" column="23" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/main.py" timestamp="1482453581131">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="84" />
+        <mark key="^" line="15" column="84" />
+        <mark key="." line="15" column="84" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex11.py" timestamp="1456533586210">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="52" column="17" />
@@ -274,6 +291,13 @@
         <mark key="." line="86" column="16" />
         <mark key="^" line="86" column="16" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" timestamp="1482460282061">
+        <mark key="'" line="175" column="0" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="46" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/performance_tests/closest_to_average_in_list.py" timestamp="1455910167245">
         <mark key="[" line="68" column="13" />
         <mark key="]" line="77" column="18" />
@@ -303,6 +327,12 @@
         <mark key="]" line="61" column="37" />
         <mark key="." line="61" column="37" />
         <mark key="^" line="61" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/blessings_multiprocessing_with_pool.py" timestamp="1482537965833">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
@@ -382,8 +412,23 @@
         <mark key="." line="164" column="24" />
         <mark key="^" line="164" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/blubb.py" timestamp="1481503641048">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing.py" timestamp="1482529837283">
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="30" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" timestamp="1482548436952">
+        <mark key="[" line="154" column="44" />
+        <mark key="]" line="155" column="51" />
+        <mark key="." line="155" column="51" />
+        <mark key="^" line="155" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
@@ -397,6 +442,12 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/read_txt.py" timestamp="1482548261898">
+        <mark key="[" line="188" column="32" />
+        <mark key="]" line="188" column="38" />
+        <mark key="." line="188" column="38" />
+        <mark key="^" line="188" column="38" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_5.py" timestamp="1455294865923">
         <mark key="[" line="168" column="37" />
         <mark key="]" line="168" column="36" />
@@ -409,11 +460,17 @@
         <mark key="." line="284" column="72" />
         <mark key="^" line="284" column="72" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481673381286">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="24" />
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481850534796">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482459906325">
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -432,9 +489,6 @@
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/array_type_printer.py" timestamp="1479562586552">
-        <mark key="[" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex02.py" timestamp="1456938881676">
         <mark key="[" line="46" column="16" />
@@ -550,6 +604,12 @@
         <mark key="^" line="13" column="51" />
         <mark key="." line="13" column="51" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/main.py" timestamp="1482527963109">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="19" />
@@ -664,6 +724,12 @@
         <mark key="." line="58" column="33" />
         <mark key="^" line="58" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/screen.py" timestamp="1482542950405">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="67" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -687,6 +753,12 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
         <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/blessed_multiprocessing_with_pool.py" timestamp="1482542081960">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/heatmap_plot.py" timestamp="1457357297582">
         <mark key="[" line="37" column="13" />
@@ -742,6 +814,12 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/iter_split_every_n.py" timestamp="1482373033522">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456532787821">
         <mark key="[" line="134" column="70" />
         <mark key="]" line="134" column="71" />
@@ -766,6 +844,12 @@
         <mark key="." line="169" column="48" />
         <mark key="^" line="129" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/check_iter_split_every_n.py" timestamp="1482371820875">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/log_plot/plot_train.py" timestamp="1478645268563">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="62" column="6" />
@@ -783,6 +867,12 @@
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_processor.py" timestamp="1482548324466">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_colors.py" timestamp="1455923532338">
         <mark key="[" line="0" column="0" />
@@ -832,10 +922,13 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/blessings_test.py" timestamp="1482540931643">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="15" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="20" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
       <jump line="163" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/conv_net_test1.3.py" />
@@ -913,55 +1006,78 @@
       <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" />
+      <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
+      <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="161" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="168" column="28" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="26" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="33" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="41" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="67" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="158" column="41" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
+      <jump line="155" column="27" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="163" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="35" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="43" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="69" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="170" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="28" column="7" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
+      <jump line="18" column="29" filename="$USER_HOME$/repositories/Python3Tests/screen.py" />
+      <jump line="56" column="15" filename="$USER_HOME$/repositories/Python3Tests/screen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">DA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">DA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>sess</text>
+        <text>noecho</text>
       </register>
-      <register name="0" type="4">
-        <text>speck-bachelor-thesis</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">DGRpZSBCcmFuZHlib2NrcyBoYXR0ZW4gbmFjaCBhbGxlbSwgd2FzIG1hbiBow7ZydGUsIEJyZWVibHV0IGluIGRlbgo=</text>
+        <text encoding="base64">ICAgICAgICAid2Vzc2VuIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAid2VyIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIyMgVHJhaW5lZCBOZXR3b3JrcwoKSSB3aWxsIHJlbGVhc2UgdHJhaW5lZCBuZXVyYWwgbmV0d29ya3Mgc2hvcnRseS4gCg==</text>
+        <text encoding="base64">ICAgIF0pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIHlvdXIgb3duIGRhdGEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgie30gLSB7fSIuZm9ybWF0KGZucCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGxvYWQgZGF0YSBwcm9jZXNzb3IgJiBkYXRhCiAgICAgICAgc2VsZi5fX3JlYWRlciA9IHNlbGYuX19sb2FkX2RhdGEoYXJncykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIHQxLCB0MiBpbiB6aXAoYmxhLnRfdGltZS52YWx1ZXMoKSwgYmxhLnRfdGltZV9wZXJmLnZhbHVlcygpKToKICAgIHByaW50KHQxLCB0MikK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX21haW5zY3IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOnBhcmFtIGFyZ3M6IAogICAgICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICAgICAgOnJldHVybjogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action emacsIDEAs.AceJump</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sess</last-search>
+      <last-search>noecho</last-search>
       <last-offset />
-      <last-pattern>sess</last-pattern>
+      <last-pattern>noecho</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -978,28 +1094,36 @@
         <entry>cnn</entry>
         <entry>log</entry>
         <entry>sess</entry>
+        <entry>get_lin</entry>
+        <entry>noun</entry>
+        <entry>sort</entry>
+        <entry>print</entry>
+        <entry>reader</entry>
+        <entry>loaded</entry>
+        <entry>noecho</entry>
       </history-search>
       <history-cmd>
-        <entry>80</entry>
-        <entry>wa</entry>
-        <entry>1</entry>
-        <entry>nohlsearch</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action AceJumpAction</entry>
-        <entry>action AceJumpCharAction</entry>
         <entry>action AceJumpChar</entry>
         <entry>qa</entry>
-        <entry>redo</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>m .+1</entry>
+        <entry>we</entry>
+        <entry>184</entry>
+        <entry>q!</entry>
+        <entry>W</entry>
+        <entry>action CommentByBlockComment</entry>
+        <entry>q</entry>
+        <entry>1</entry>
+        <entry>wq</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>nohlsearch</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>m .-2</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>we</entry>
-        <entry>m .-2</entry>
-        <entry>action emacsIDEAs.AceJumpWord</entry>
+        <entry>redo</entry>
         <entry>w</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
       </history-cmd>
       <history-expr />
       <history-input />
