@@ -955,7 +955,7 @@
         <text encoding="base64">ICAgICAgICAgICAgOnBhcmFtIGFyZ3M6IAogICAgICAgICAgICA6cGFyYW0ga3dhcmdzOiAKICAgICAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action emacsIDEAs.AceJump</text>
       </register>
     </registers>
     <search>
@@ -980,7 +980,6 @@
         <entry>sess</entry>
       </history-search>
       <history-cmd>
-        <entry>50</entry>
         <entry>80</entry>
         <entry>wa</entry>
         <entry>1</entry>
@@ -998,9 +997,9 @@
         <entry>set nopaste</entry>
         <entry>we</entry>
         <entry>m .-2</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>w</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
       </history-cmd>
       <history-expr />
       <history-input />
