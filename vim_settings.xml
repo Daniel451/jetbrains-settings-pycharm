@@ -1071,7 +1071,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action emacsIDEAs.AceJump</text>
       </register>
     </registers>
     <search>
@@ -1103,7 +1103,6 @@
         <entry>noecho</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceJumpChar</entry>
         <entry>qa</entry>
         <entry>action org.hunmr.acejump.AceJumpCharAction</entry>
         <entry>m .+1</entry>
@@ -1117,13 +1116,14 @@
         <entry>wq</entry>
         <entry>action SearchEverywhere</entry>
         <entry>nohlsearch</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>m .-2</entry>
         <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>redo</entry>
         <entry>w</entry>
+        <entry>action emacsIDEAs.AceJumpWord</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
       </history-cmd>
       <history-expr />
       <history-input />
