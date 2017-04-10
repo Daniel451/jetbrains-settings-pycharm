@@ -132,6 +132,12 @@
         <mark key="^" line="63" column="19" />
         <mark key="." line="63" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/prepare.sh" timestamp="1491852817167">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1456927830462">
         <mark key="[" line="22" column="46" />
         <mark key="]" line="22" column="47" />
@@ -670,8 +676,12 @@
         <mark key="." line="203" column="27" />
         <mark key="^" line="203" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/setup.sh" timestamp="1491849122986">
+      <file name="$USER_HOME$/repositories/robocup-ai/setup.sh" timestamp="1491852766737">
         <mark key="'" line="12" column="25" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="84" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot_train.py" timestamp="1457287079982">
         <mark key="[" line="115" column="48" />
@@ -1040,8 +1050,8 @@
       <jump line="12" column="25" filename="$USER_HOME$/repositories/robocup-ai/setup.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dG1wX3BhdGg9IiR7Y29udF9wYXRofS90bXAiICAgICAgICAgICAgICAjIHBhdGggdG8gdG1wIGRpcmVjdG9yeSAtLS0gZG93bmxvYWQgYW5kIHRtcCBkaXIKcHlfcGF0aD0iJHtjb250X3BhdGh9L3B5MzYiICAgICAgICAgICAgICAjIHBhdGggdG8gUHl0aG9uIGludGVycHJldGVyIC0tLSBQeXRob24gYmluYXJpZXMKZW52X3BhdGg9IiR7Y29udF9wYXRofS9yb2JvYWkzNi12ZW52IiAgICAjIHBhdGggdG8gUHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQgLS0tIHJ1biBlbnZpcm9ubWVudApvcGVuY3ZfcGF0aD0iJHtjb250X3BhdGh9L29wZW5jdiIgICAgICAgICMgcGF0aCB0byBPcGVuQ1YgbW9kdWxlcyAtLS0gT3BlbkNWIGJpbmFyaWVzCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -1050,37 +1060,37 @@
         <text>roboai</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJzZXMuZWNobygpCg==</text>
+        <text encoding="base64">dG1wX3BhdGg9IiR7Y29udF9wYXRofS90bXAiICAgICAgICAgICAgICAjIHBhdGggdG8gdG1wIGRpcmVjdG9yeSAtLS0gZG93bmxvYWQgYW5kIHRtcCBkaXIKcHlfcGF0aD0iJHtjb250X3BhdGh9L3B5MzYiICAgICAgICAgICAgICAjIHBhdGggdG8gUHl0aG9uIGludGVycHJldGVyIC0tLSBQeXRob24gYmluYXJpZXMKZW52X3BhdGg9IiR7Y29udF9wYXRofS9yb2JvYWkzNi12ZW52IiAgICAjIHBhdGggdG8gUHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQgLS0tIHJ1biBlbnZpcm9ubWVudApvcGVuY3ZfcGF0aD0iJHtjb250X3BhdGh9L29wZW5jdiIgICAgICAgICMgcGF0aCB0byBPcGVuQ1YgbW9kdWxlcyAtLS0gT3BlbkNWIGJpbmFyaWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAid2Vzc2VuIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAid2VyIiwK</text>
+        <text encoding="base64">cHJpbnRmICJjb250IHBhdGggaXM6ICR7Y29udF9wYXRofSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
+        <text encoding="base64">ICAgICAgICAid2Vzc2VuIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAid2VyIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIF0pKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQgZGF0YSBwcm9jZXNzb3IgJiBkYXRhCiAgICAgICAgc2VsZi5fX3JlYWRlciA9IHNlbGYuX19sb2FkX2RhdGEoYXJncykK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fX21haW5zY3IK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAjIGxvYWQgZGF0YSBwcm9jZXNzb3IgJiBkYXRhCiAgICAgICAgc2VsZi5fX3JlYWRlciA9IHNlbGYuX19sb2FkX2RhdGEoYXJncykK</text>
+      </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1125,15 +1135,15 @@
         <entry>wq</entry>
         <entry>m .-2</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>redo</entry>
-        <entry>w</entry>
-        <entry>action emacsIDEAs.AceJumpWord</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>qa</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>action emacsIDEAs.AceJumpWord</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1192,6 +1202,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
