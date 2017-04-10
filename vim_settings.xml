@@ -220,10 +220,10 @@
         <mark key="^" line="7" column="14" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-opencv.sh" timestamp="1491855237900">
-        <mark key="[" line="87" column="15" />
-        <mark key="]" line="87" column="16" />
-        <mark key="." line="87" column="16" />
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-opencv.sh" timestamp="1491861068299">
+        <mark key="[" line="72" column="66" />
+        <mark key="]" line="72" column="67" />
+        <mark key="." line="72" column="67" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457370726349">
