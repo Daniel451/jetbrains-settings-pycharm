@@ -214,6 +214,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/venv-setup.sh" timestamp="1491858259363">
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="7" column="14" />
+        <mark key="." line="23" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-opencv.sh" timestamp="1491855237900">
         <mark key="[" line="87" column="15" />
         <mark key="]" line="87" column="16" />
@@ -676,18 +682,24 @@
         <mark key="." line="203" column="27" />
         <mark key="^" line="203" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/setup.sh" timestamp="1491852766737">
+      <file name="$USER_HOME$/repositories/robocup-ai/setup.sh" timestamp="1491858484451">
         <mark key="'" line="12" column="25" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="84" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
         <mark key="^" line="18" column="29" />
-        <mark key="." line="18" column="29" />
+        <mark key="." line="7" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot_train.py" timestamp="1457287079982">
         <mark key="[" line="115" column="48" />
         <mark key="]" line="116" column="54" />
         <mark key="^" line="116" column="54" />
         <mark key="." line="116" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-python.sh" timestamp="1491858386621">
+        <mark key="[" line="51" column="42" />
+        <mark key="]" line="53" column="7" />
+        <mark key="^" line="53" column="7" />
+        <mark key="." line="53" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
         <mark key="[" line="38" column="0" />
@@ -1051,10 +1063,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dG1wX3BhdGg9IiR7Y29udF9wYXRofS90bXAiICAgICAgICAgICAgICAjIHBhdGggdG8gdG1wIGRpcmVjdG9yeSAtLS0gZG93bmxvYWQgYW5kIHRtcCBkaXIKcHlfcGF0aD0iJHtjb250X3BhdGh9L3B5MzYiICAgICAgICAgICAgICAjIHBhdGggdG8gUHl0aG9uIGludGVycHJldGVyIC0tLSBQeXRob24gYmluYXJpZXMKZW52X3BhdGg9IiR7Y29udF9wYXRofS9yb2JvYWkzNi12ZW52IiAgICAjIHBhdGggdG8gUHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQgLS0tIHJ1biBlbnZpcm9ubWVudApvcGVuY3ZfcGF0aD0iJHtjb250X3BhdGh9L29wZW5jdiIgICAgICAgICMgcGF0aCB0byBPcGVuQ1YgbW9kdWxlcyAtLS0gT3BlbkNWIGJpbmFyaWVzCg==</text>
+        <text encoding="base64">I3ZpcnR1YWxlbnYgLXAgIiR7cHlfcGF0aH0vYmluL3B5dGhvbjMuNiIgLS1uby1zaXRlLXBhY2thZ2VzICR7ZW52X3BhdGh9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>roboai</text>
@@ -1063,31 +1075,31 @@
         <text encoding="base64">dG1wX3BhdGg9IiR7Y29udF9wYXRofS90bXAiICAgICAgICAgICAgICAjIHBhdGggdG8gdG1wIGRpcmVjdG9yeSAtLS0gZG93bmxvYWQgYW5kIHRtcCBkaXIKcHlfcGF0aD0iJHtjb250X3BhdGh9L3B5MzYiICAgICAgICAgICAgICAjIHBhdGggdG8gUHl0aG9uIGludGVycHJldGVyIC0tLSBQeXRob24gYmluYXJpZXMKZW52X3BhdGg9IiR7Y29udF9wYXRofS9yb2JvYWkzNi12ZW52IiAgICAjIHBhdGggdG8gUHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQgLS0tIHJ1biBlbnZpcm9ubWVudApvcGVuY3ZfcGF0aD0iJHtjb250X3BhdGh9L29wZW5jdiIgICAgICAgICMgcGF0aCB0byBPcGVuQ1YgbW9kdWxlcyAtLS0gT3BlbkNWIGJpbmFyaWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3ZpcnR1YWxlbnYgLXAgIiR7cHlfcGF0aH0vYmluL3B5dGhvbjMuNiIgLS1uby1zaXRlLXBhY2thZ2VzICR7ZW52X3BhdGh9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRmICJjb250IHBhdGggaXM6ICR7Y29udF9wYXRofSIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAid2Vzc2VuIiwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAid2VyIiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIF0pKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2QgJHtweV9wYXRofS9iaW4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnRmICJjb250IHBhdGggaXM6ICR7Y29udF9wYXRofSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAid2Vzc2VuIiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAid2VyIiwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGxvYWQgZGF0YSBwcm9jZXNzb3IgJiBkYXRhCiAgICAgICAgc2VsZi5fX3JlYWRlciA9IHNlbGYuX19sb2FkX2RhdGEoYXJncykK</text>
+        <text encoding="base64">ICAgIF0pKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1134,15 +1146,15 @@
         <entry>1</entry>
         <entry>wq</entry>
         <entry>m .-2</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>redo</entry>
         <entry>qa</entry>
         <entry>nohlsearch</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
