@@ -208,6 +208,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-opencv.sh" timestamp="1491849395909">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457370726349">
         <mark key="[" line="63" column="37" />
         <mark key="]" line="63" column="38" />
@@ -1035,10 +1041,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>roboai</text>
@@ -1183,6 +1189,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed DOWN</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
