@@ -214,10 +214,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-opencv.sh" timestamp="1491849395909">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-opencv.sh" timestamp="1491855237900">
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="87" column="16" />
+        <mark key="." line="87" column="16" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457370726349">
