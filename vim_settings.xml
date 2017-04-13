@@ -707,6 +707,7 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_models/tutorials/image/cifar10/README.md" timestamp="1492049302543" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="40" column="55" />
@@ -1108,7 +1109,7 @@
         <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1148,13 +1149,11 @@
         <entry>q!</entry>
         <entry>W</entry>
         <entry>action CommentByBlockComment</entry>
-        <entry>q</entry>
         <entry>1</entry>
         <entry>wq</entry>
         <entry>m .-2</entry>
         <entry>redo</entry>
         <entry>qa</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
@@ -1162,6 +1161,8 @@
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>nohlsearch</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
