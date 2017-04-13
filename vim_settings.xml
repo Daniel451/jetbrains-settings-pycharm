@@ -634,6 +634,12 @@
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_models/tutorials/image/cifar10/cifar10.py" timestamp="1492050255387">
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="62" />
+        <mark key="^" line="52" column="62" />
+        <mark key="." line="52" column="62" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="32" column="19" />
@@ -1109,7 +1115,7 @@
         <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1152,7 +1158,6 @@
         <entry>1</entry>
         <entry>wq</entry>
         <entry>m .-2</entry>
-        <entry>redo</entry>
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>set paste</entry>
@@ -1160,9 +1165,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>nohlsearch</entry>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
