@@ -1149,7 +1149,7 @@
         <text encoding="base64">cHJpbnQoa2VyYXMuYmFja2VuZC5pbWFnZV9kYXRhX2Zvcm1hdCkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1203,9 +1203,9 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>q</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
