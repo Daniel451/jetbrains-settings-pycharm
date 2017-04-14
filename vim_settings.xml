@@ -126,6 +126,12 @@
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/keras-tests/sequential1/xor.py" timestamp="1492202266433">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="25" column="75" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
         <mark key="]" line="63" column="19" />
@@ -276,6 +282,12 @@
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/keras-tests/sequential1/seq1.py" timestamp="1492202021915">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex20.py" timestamp="1456938585727">
         <mark key="[" line="59" column="34" />
@@ -498,6 +510,12 @@
         <mark key="]" line="34" column="18" />
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/keras-tests/sequential1/xor2.py" timestamp="1492202563833">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
@@ -1091,44 +1109,44 @@
       <jump line="18" column="42" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoSy4pCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>dim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dG1wX3BhdGg9IiR7Y29udF9wYXRofS90bXAiICAgICAgICAgICAgICAjIHBhdGggdG8gdG1wIGRpcmVjdG9yeSAtLS0gZG93bmxvYWQgYW5kIHRtcCBkaXIKcHlfcGF0aD0iJHtjb250X3BhdGh9L3B5MzYiICAgICAgICAgICAgICAjIHBhdGggdG8gUHl0aG9uIGludGVycHJldGVyIC0tLSBQeXRob24gYmluYXJpZXMKZW52X3BhdGg9IiR7Y29udF9wYXRofS9yb2JvYWkzNi12ZW52IiAgICAjIHBhdGggdG8gUHl0aG9uIHZpcnR1YWwgZW52aXJvbm1lbnQgLS0tIHJ1biBlbnZpcm9ubWVudApvcGVuY3ZfcGF0aD0iJHtjb250X3BhdGh9L29wZW5jdiIgICAgICAgICMgcGF0aCB0byBPcGVuQ1YgbW9kdWxlcyAtLS0gT3BlbkNWIGJpbmFyaWVzCg==</text>
+        <text encoding="base64">ZGF0YV9sYWJlbHNbMF0gPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoSy4pCg==</text>
+        <text encoding="base64">bW9kZWwuY29tcGlsZShvcHRpbWl6ZXI9b3B0Lihscj0wLjIpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoa2VyYXMuYmFja2VuZC5pbWFnZV9kYXRhX2Zvcm1hdCkK</text>
+        <text encoding="base64">cHJpbnQocCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">dGVzdCA9IG5wLmFycmF5KFtbMCwgMF0sIFswLCAxXV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWx0aG91Z2ggYSBgUHl0aG9uIDMuNi4xYCBpbnRlcnByZXRlciB3aWxsIGJlIGNvbXBpbGVkIGZyb20gc291cmNlLCBgcGlwYCBhbmQgYHZpcnR1YWxlbnZgIG5lZWQKIHRvIGJlIGF2YWlsYWJsZSBvbiB0aGUgc3lzdGVtLCB3aGljaCBpbmNsdWRlcyBhIHN5c3RlbSBQeXRob24gaW50ZXJwcmV0ZXIuIAogSW5zdGFsbCB0aGVzZSBwYWNrYWdlcyB3aXRoIHlvdXIgZGlzdHJpYnV0aW9uJ3MgcGFja2FnZSBtYW5hZ2VyOgo=</text>
+        <text encoding="base64">bW9kZWwuZXZhbHVhdGUoWzAsXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3ZpcnR1YWxlbnYgLXAgIiR7cHlfcGF0aH0vYmluL3B5dGhvbjMuNiIgLS1uby1zaXRlLXBhY2thZ2VzICR7ZW52X3BhdGh9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoZGF0YV9pbnB1dCkKZXhpdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2QgJHtweV9wYXRofS9iaW4K</text>
+        <text encoding="base64">ZGF0YV9pbnB1dFsxXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoSy4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnRmICJjb250IHBhdGggaXM6ICR7Y29udF9wYXRofSIK</text>
+        <text encoding="base64">cHJpbnQoa2VyYXMuYmFja2VuZC5pbWFnZV9kYXRhX2Zvcm1hdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1179,14 +1197,14 @@
         <entry>m .-2</entry>
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
+        <entry>redo</entry>
+        <entry>nohlsearch</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
-        <entry>redo</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>q</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>nohlsearch</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
