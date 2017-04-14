@@ -198,9 +198,6 @@
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_models/.gitignore" timestamp="1492052082330">
         <mark key="[" line="6" column="4" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="9" column="5" />
-        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1456452708710">
         <mark key="[" line="343" column="0" />
@@ -1127,7 +1124,7 @@
         <text encoding="base64">ICAgICAgICAid2llc28iCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1177,10 +1174,10 @@
         <entry>action CommentByLineComment</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
         <entry>redo</entry>
         <entry>action SearchEverywhere</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
