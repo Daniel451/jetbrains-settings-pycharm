@@ -172,6 +172,12 @@
         <mark key="]" line="35" column="31" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nvidia-fanspeed/nvidia-fan-speed.py" timestamp="1492611623773">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482460186481">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="46" />
@@ -741,7 +747,6 @@
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_models/tutorials/image/cifar10/README.md" timestamp="1492049302543" />
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="40" column="55" />
@@ -1161,9 +1166,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trX</entry>
-        <entry>reshape</entry>
-        <entry>start_time</entry>
         <entry>cores</entry>
         <entry>CORES</entry>
         <entry>npy</entry>
