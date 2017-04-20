@@ -1159,7 +1159,7 @@
         <text encoding="base64">ICBwcmludChhcmdzLmRhdGFzZXRzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1210,7 +1210,6 @@
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>q</entry>
         <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
@@ -1218,6 +1217,7 @@
         <entry>nohlsearch</entry>
         <entry>w</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
