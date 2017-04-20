@@ -84,6 +84,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/main.py" timestamp="1492681504779">
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="79" column="17" />
+        <mark key="^" line="79" column="17" />
+        <mark key="." line="79" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex06.py" timestamp="1457057681957">
         <mark key="[" line="355" column="65" />
         <mark key="]" line="355" column="66" />
@@ -162,16 +168,6 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/simple_dec.py" timestamp="1481094077789">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482544924060">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/nvidia-fanspeed/nvidia-fan-speed.py" timestamp="1492611623773">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="16" />
@@ -222,6 +218,13 @@
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" timestamp="1492681927756">
+        <mark key="'" line="309" column="14" />
+        <mark key="[" line="464" column="41" />
+        <mark key="]" line="464" column="40" />
+        <mark key="." line="464" column="40" />
+        <mark key="^" line="464" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex01.py" timestamp="1457442186414">
         <mark key="[" line="9" column="0" />
@@ -283,6 +286,12 @@
         <mark key="^" line="15" column="84" />
         <mark key="." line="15" column="84" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/download.py" timestamp="1492680452042">
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="62" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex11.py" timestamp="1456533586210">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="52" column="17" />
@@ -306,11 +315,6 @@
         <mark key="]" line="10" column="28" />
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
-      </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/exp_setups/train_s11_ex17.py" timestamp="1480049378321">
-        <mark key="[" line="55" column="82" />
-        <mark key="]" line="55" column="83" />
-        <mark key="." line="55" column="83" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455549796227">
         <mark key="[" line="17" column="33" />
@@ -927,6 +931,12 @@
         <mark key="." line="169" column="48" />
         <mark key="^" line="129" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-test1/download.py" timestamp="1492682207808">
+        <mark key="[" line="172" column="28" />
+        <mark key="]" line="173" column="35" />
+        <mark key="^" line="173" column="35" />
+        <mark key="." line="173" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/extra/check_iter_split_every_n.py" timestamp="1482371820875">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
@@ -1005,35 +1015,8 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/blessings_test.py" timestamp="1482540931643">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/img_load_save.py" />
-      <jump line="275" column="69" filename="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_4.py" />
-      <jump line="6" column="59" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
-      <jump line="64" column="39" filename="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_3.1.py" />
-      <jump line="24" column="2" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/log_plot.py" />
-      <jump line="14" column="49" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/LogImg.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/primitive_plot.py" />
-      <jump line="4" column="19" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex01.py" />
-      <jump line="10" column="2" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="28" column="15" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="9" column="5" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="16" column="51" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="20" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
@@ -1112,55 +1095,77 @@
       <jump line="62" column="18" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="63" column="19" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="18" column="42" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="7" column="22" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="196" column="17" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="204" column="17" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="405" column="22" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="463" column="18" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="465" column="17" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="469" column="17" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="473" column="17" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="477" column="17" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="507" column="24" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="509" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="513" column="15" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="519" column="24" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="522" column="38" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="523" column="57" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="524" column="39" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="170" column="21" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="199" column="23" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="462" column="22" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="31" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="309" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>dim</text>
+        <text>mnist</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGF0YV9sYWJlbHNbMF0gPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kZWwuY29tcGlsZShvcHRpbWl6ZXI9b3B0Lihscj0wLjIpLAo=</text>
+        <text encoding="base64">ZnJvbSBzaXgubW92ZXMgaW1wb3J0IHhyYW5nZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQocCkK</text>
+        <text encoding="base64">ICAgICAgcGF0aCA9ICIuL2RhdGEiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGVzdCA9IG5wLmFycmF5KFtbMCwgMF0sIFswLCAxXV0pCg==</text>
+        <text encoding="base64">ICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kZWwuZXZhbHVhdGUoWzAsXSkK</text>
+        <text encoding="base64">ICBpZiBhcmdzLmRhdGFfcGF0aCBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJlcGFyZV9kYXRhX2RpcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoZGF0YV9pbnB1dCkKZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgcHJlcGFyZV9kYXRhX2RpcihhcmdzLmRhdGFfcGF0aCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YV9pbnB1dFsxXQo=</text>
+        <text encoding="base64">ICBleGl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoSy4pCg==</text>
+        <text encoding="base64">ICBwcmludChhcmdzLmRhdGFfcGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQoa2VyYXMuYmFja2VuZC5pbWFnZV9kYXRhX2Zvcm1hdCkK</text>
+        <text encoding="base64">ICBwcmludChhcmdzLmRhdGFzZXRzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dim</last-search>
+      <last-search>mnist</last-search>
       <last-offset />
-      <last-pattern>dim</last-pattern>
+      <last-pattern>mnist</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1186,6 +1191,10 @@
         <entry>tf</entry>
         <entry>th</entry>
         <entry>dim</entry>
+        <entry>xrange</entry>
+        <entry>path</entry>
+        <entry>flag</entry>
+        <entry>mnist</entry>
       </history-search>
       <history-cmd>
         <entry>m .+1</entry>
@@ -1199,15 +1208,16 @@
         <entry>m .-2</entry>
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
-        <entry>redo</entry>
-        <entry>nohlsearch</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>q</entry>
+        <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>w</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>wa</entry>
+        <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
