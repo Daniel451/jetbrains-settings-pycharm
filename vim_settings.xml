@@ -437,11 +437,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor.py" timestamp="1492743665437">
-        <mark key="[" line="27" column="50" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor.py" timestamp="1492747271602">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="22" />
+        <mark key="." line="38" column="22" />
+        <mark key="^" line="44" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
         <mark key="[" line="0" column="0" />
@@ -1126,43 +1126,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h1_b</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>h1_b</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aDFfdyA9IHRmLlZhcmlhYmxlKHRmLnJhbmRvbV91bmlmb3JtKFtOb25lLCAyLCAzXSksIGR0eXBlPXRmLmZsb2F0MzIsIG5hbWU9ImgxX3ciKQpoMV9iID0gdGYuVmFyaWFibGUodGYuY29uc3RhbnQoMC4wLCBzaGFwZT10Zi5zaGFwZSh3MSksIGR0eXBlPXRmLmZsb2F0MzIpLCBuYW1lPSJoMV9iIikKaDFfb3V0ID0gdGYubm4ucmVsdSh0Zi5tYXRtdWwoeCwgaDFfdykgKyBoMV9iKQo=</text>
+        <text encoding="base64">aDFfdyA9IHRmLlZhcmlhYmxlKHRmLnJhbmRvbV91bmlmb3JtKFsyLCAzXSksIGR0eXBlPXRmLmZsb2F0MzIsIG5hbWU9ImgxX3ciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3V0ID0gdGYubm4ucmVsdSh0Zi5tYXRtdWwoKSkK</text>
+        <text encoding="base64">ZGVmIHJlbHVfbGF5ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0X3cK</text>
+        <text encoding="base64">dGYucHJpbnRfZnVuY3Rpb24oImdhIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhpdCgpCg==</text>
+        <text encoding="base64">aDFfYiA9IHRmLlZhcmlhYmxlKHRmLnJhbmRvbV91bmlmb3JtKFsyLCAzXSksIGR0eXBlPXRmLmZsb2F0MzIsIG5hbWU9ImgxX3ciKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoeG9yX2xhYmVscykK</text>
+        <text encoding="base64">aDFfYiA9IHRmLlZhcmlhYmxlKHRmLmNvbnN0YW50KDAuMCwgc2hhcGU9dGYuc2hhcGUoaDFfdyksIGR0eXBlPXRmLmZsb2F0MzIpLCBuYW1lPSJoMV9iIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoeG9yX2RhdGEsIHhvcl9kYXRhLnNoYXBlLCB4b3JfZGF0YS5kdHlwZSkK</text>
+        <text encoding="base64">b3V0ID0gdGYubm4ucmVsdSh0Zi5tYXRtdWwoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoeG9yX2RhdGEpCg==</text>
+        <text encoding="base64">b3V0X3cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eSA9IAo=</text>
+        <text encoding="base64">ZXhpdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBzaXgubW92ZXMgaW1wb3J0IHhyYW5nZQo=</text>
+        <text encoding="base64">cHJpbnQoeG9yX2xhYmVscykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGF0aCA9ICIuL2RhdGEiCg==</text>
+        <text encoding="base64">cHJpbnQoeG9yX2RhdGEsIHhvcl9kYXRhLnNoYXBlLCB4b3JfZGF0YS5kdHlwZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1216,13 +1216,13 @@
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>wa</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>q</entry>
         <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
