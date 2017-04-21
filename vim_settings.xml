@@ -437,11 +437,11 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor.py" timestamp="1492737916717">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor.py" timestamp="1492740610295">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="5" column="54" />
+        <mark key="^" line="5" column="54" />
+        <mark key="." line="5" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
         <mark key="[" line="0" column="0" />
