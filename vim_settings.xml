@@ -437,6 +437,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor.py" timestamp="1492737916717">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="37" />
@@ -1159,7 +1165,7 @@
         <text encoding="base64">ICBwcmludChhcmdzLmRhdGFzZXRzKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1214,10 +1220,10 @@
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
