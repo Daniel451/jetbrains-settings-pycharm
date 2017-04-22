@@ -168,16 +168,6 @@
         <mark key="." line="11" column="68" />
         <mark key="^" line="11" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/simple_dec.py" timestamp="1481094077789">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482544924060">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/nvidia-fanspeed/nvidia-fan-speed.py" timestamp="1492611623773">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="16" />
@@ -326,11 +316,6 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/exp_setups/train_s11_ex17.py" timestamp="1480049378321">
-        <mark key="[" line="55" column="82" />
-        <mark key="]" line="55" column="83" />
-        <mark key="." line="55" column="83" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_01.py" timestamp="1455549796227">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="34" />
@@ -451,11 +436,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="6" column="25" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor.py" timestamp="1492829305084">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
         <mark key="[" line="0" column="0" />
@@ -1005,10 +985,11 @@
         <mark key="^" line="264" column="0" />
         <mark key="." line="364" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492829308114">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492870170113">
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="33" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
         <mark key="[" line="285" column="16" />
@@ -1039,11 +1020,6 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/blessings_test.py" timestamp="1482540931643">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1149,44 +1125,44 @@
       <jump line="309" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMK</text>
+      <register name="&quot;" type="4">
+        <text>random_uniform</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>random_uniform</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
       </register>
-      <register name="0" type="4">
-        <text>#</text>
+      <register name="0" type="2">
+        <text encoding="base64">aDFfdyA9IHRmLlZhcmlhYmxlKHRmLnJhbmRvbV91bmlmb3JtKFsyLCAzXSksIGR0eXBlPXRmLmZsb2F0MzIsIG5hbWU9ImgxX3ciKQpoMV9iID0gdGYuVmFyaWFibGUodGYuemVyb3MoWzNdLCBkdHlwZT10Zi5mbG9hdDMyKSwgbmFtZT0iaDFfYiIpCmgxX28gPSB0Zi5ubi5yZWx1KHRmLm1hdG11bCh4LCBoMV93KSArIGgxX2IsIG5hbWU9ImgxX28iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMK</text>
+        <text encoding="base64">ICAgICAgICB3ZWlnaHRzID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">IyMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eG9yX2xhYmVsc1szXSA9IDAK</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkYXRhCnhvcl9kYXRhID0gbnAuemVyb3MoKDQsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQp4b3JfZGF0YVswXSA9IFswLCAwXQp4b3JfZGF0YVsxXSA9IFswLCAxXQp4b3JfZGF0YVsyXSA9IFsxLCAwXQp4b3JfZGF0YVszXSA9IFsxLCAxXQoKeG9yX2xhYmVscyA9IG5wLnplcm9zKCg0LCAxKSwgZHR5cGU9bnAuZmxvYXQzMikKeG9yX2xhYmVsc1swXSA9IDAKeG9yX2xhYmVsc1sxXSA9IDEKeG9yX2xhYmVsc1syXSA9IDEKeG9yX2xhYmVsc1szXSA9IDAK</text>
+        <text encoding="base64">eG9yX2xhYmVsc1szXSA9IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">IyBkYXRhCnhvcl9kYXRhID0gbnAuemVyb3MoKDQsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQp4b3JfZGF0YVswXSA9IFswLCAwXQp4b3JfZGF0YVsxXSA9IFswLCAxXQp4b3JfZGF0YVsyXSA9IFsxLCAwXQp4b3JfZGF0YVszXSA9IFsxLCAxXQoKeG9yX2xhYmVscyA9IG5wLnplcm9zKCg0LCAxKSwgZHR5cGU9bnAuZmxvYXQzMikKeG9yX2xhYmVsc1swXSA9IDAKeG9yX2xhYmVsc1sxXSA9IDEKeG9yX2xhYmVsc1syXSA9IDEKeG9yX2xhYmVsc1szXSA9IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3IK</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJlbHVfbGF5ZXIK</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1201,10 +1177,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cores</entry>
-        <entry>CORES</entry>
-        <entry>npy</entry>
-        <entry encoding="base64">XDxoZWF0bWFwXD4=</entry>
         <entry>test</entry>
         <entry>cnn</entry>
         <entry>log</entry>
@@ -1227,7 +1199,6 @@
         <entry>mnist</entry>
       </history-search>
       <history-cmd>
-        <entry>m .+1</entry>
         <entry>we</entry>
         <entry>184</entry>
         <entry>q!</entry>
@@ -1245,9 +1216,9 @@
         <entry>nohlsearch</entry>
         <entry>action CommentByLineComment</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
