@@ -260,6 +260,12 @@
         <mark key="." line="72" column="67" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_random_test.py" timestamp="1492893694843">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457370726349">
         <mark key="[" line="63" column="37" />
         <mark key="]" line="63" column="38" />
@@ -1168,7 +1174,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbjIgPSB0Zi5ubi5sMl9ub3JtYWxpemUoc2VsZi5oaWRkZW4yLCAwKQo=</text>
+        <text encoding="base64">Zm9yIGksIG1heF9pbnRlcnZhbCwgc3RkZGV2IGluIHppcChyYW5nZSgxMCksIFsxMCwgMTAwLCAxMDAwLCAxMDAwMCwgMTAwMDAwXSwgWzEuMCwgMC41LCAwLjEsIDAuMDUsIDAuMDFdKToK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1180,31 +1186,31 @@
         <text encoding="base64">IyBkYXRhCnhvcl9kYXRhID0gbnAuemVyb3MoKDQsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQp4b3JfZGF0YVswXSA9IFswLCAwXQp4b3JfZGF0YVsxXSA9IFswLCAxXQp4b3JfZGF0YVsyXSA9IFsxLCAwXQp4b3JfZGF0YVszXSA9IFsxLCAxXQoKeG9yX2xhYmVscyA9IG5wLnplcm9zKCg0LCAxKSwgZHR5cGU9bnAuZmxvYXQzMikKeG9yX2xhYmVsc1swXSA9IDAKeG9yX2xhYmVsc1sxXSA9IDEKeG9yX2xhYmVsc1syXSA9IDEKeG9yX2xhYmVsc1szXSA9IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbjIgPSB0Zi5ubi5sMl9ub3JtYWxpemUoc2VsZi5oaWRkZW4yLCAwKQo=</text>
+        <text encoding="base64">Zm9yIGksIG1heF9pbnRlcnZhbCwgc3RkZGV2IGluIHppcChyYW5nZSgxMCksIFsxMCwgMTAwLCAxMDAwLCAxMDAwMCwgMTAwMDAwXSwgWzEuMCwgMC41LCAwLjEsIDAuMDUsIDAuMDFdKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbjEgPSB0Zi5ubi5sMl9ub3JtYWxpemUoc2VsZi5oaWRkZW4xLCAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGF0YSA9IG5wLnplcm9zKCgxMCwgNSwgNSksIGR0eXBlPW5wLmZsb2F0MzIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbjIgPSB0Zi5ubi5sMl9ub3JtYWxpemUoc2VsZi5oaWRkZW4yLCAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2FkX3RyYWluZWRfbmV0d29yayhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmhpZGRlbjEgPSB0Zi5ubi5sMl9ub3JtYWxpemUoc2VsZi5oaWRkZW4xLCAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBsb2FkX3RyYWluZWRfbmV0d29yayhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
