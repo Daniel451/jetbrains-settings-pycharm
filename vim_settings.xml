@@ -593,6 +593,12 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_new2_class.py" timestamp="1492890770187">
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="40" />
+        <mark key="^" line="46" column="40" />
+        <mark key="." line="46" column="40" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex06.py" timestamp="1456469981546">
         <mark key="[" line="134" column="36" />
         <mark key="]" line="134" column="69" />
@@ -1142,11 +1148,11 @@
       <jump line="309" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBkYXRhCnhvcl9kYXRhID0gbnAuemVyb3MoKDQsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQp4b3JfZGF0YVswXSA9IFswLCAwXQp4b3JfZGF0YVsxXSA9IFswLCAxXQp4b3JfZGF0YVsyXSA9IFsxLCAwXQp4b3JfZGF0YVszXSA9IFsxLCAxXQoKeG9yX2xhYmVscyA9IG5wLnplcm9zKCg0LCAxKSwgZHR5cGU9bnAuZmxvYXQzMikKeG9yX2xhYmVsc1swXSA9IDAKeG9yX2xhYmVsc1sxXSA9IDEKeG9yX2xhYmVsc1syXSA9IDEKeG9yX2xhYmVsc1szXSA9IDAK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
