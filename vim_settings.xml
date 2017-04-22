@@ -90,11 +90,11 @@
         <mark key="^" line="79" column="17" />
         <mark key="." line="79" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_baseclass.py" timestamp="1492872137777">
-        <mark key="[" line="10" column="55" />
-        <mark key="]" line="10" column="57" />
-        <mark key="^" line="10" column="57" />
-        <mark key="." line="10" column="57" />
+      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_baseclass.py" timestamp="1492873678167">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex06.py" timestamp="1457057681957">
         <mark key="[" line="355" column="65" />
@@ -775,6 +775,12 @@
         <mark key="." line="86" column="45" />
         <mark key="^" line="86" column="45" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_new_class.py" timestamp="1492873958237">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1455029566011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
@@ -991,9 +997,9 @@
         <mark key="^" line="264" column="0" />
         <mark key="." line="364" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492872186192">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492873949518">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="16" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
@@ -1007,6 +1013,12 @@
         <mark key="]" line="7" column="47" />
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_netclass.py" timestamp="1492873930490">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/ils_class.py" timestamp="1454989045378">
         <mark key="[" line="5" column="8" />
@@ -1131,43 +1143,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">IyBkYXRhCnhvcl9kYXRhID0gbnAuemVyb3MoKDQsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQp4b3JfZGF0YVswXSA9IFswLCAwXQp4b3JfZGF0YVsxXSA9IFswLCAxXQp4b3JfZGF0YVsyXSA9IFsxLCAwXQp4b3JfZGF0YVszXSA9IFsxLCAxXQoKeG9yX2xhYmVscyA9IG5wLnplcm9zKCg0LCAxKSwgZHR5cGU9bnAuZmxvYXQzMikKeG9yX2xhYmVsc1swXSA9IDAKeG9yX2xhYmVsc1sxXSA9IDEKeG9yX2xhYmVsc1syXSA9IDEKeG9yX2xhYmVsc1szXSA9IDAK</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2xheWVyX2RlbnNlKHNlbGYsIGlucHV0LCBuZXVyb25zLCBuYW1lLAogICAgICAgICAgICAgICAgICAgICAgYWN0aXZhdGlvbj10Zi5ubi5yZWx1LAogICAgICAgICAgICAgICAgICAgICAgaW5pdD10Zi5yYW5kb21fdW5pZm9ybSk6CiAgICAgICAgaW5wdXRfc2hhcGUgPSBpbnB1dC5nZXRfc2hhcGUoKVstMV0udmFsdWUKICAgICAgICB3ZWlnaHRzID0gdGYuVmFyaWFibGUoaW5pdChbaW5wdXRfc2hhcGUsIG5ldXJvbnNdKSwgZHR5cGU9dGYuZmxvYXQzMiwgbmFtZT1uYW1lKyJfdyIpCiAgICAgICAgYmlhc2VzID0gdGYuVmFyaWFibGUodGYuemVyb3MoW25ldXJvbnNdLCBkdHlwZT10Zi5mbG9hdDMyKSwgbmFtZT1uYW1lKyJfYiIpCiAgICAgICAgb3V0cHV0ID0gYWN0aXZhdGlvbih0Zi5tYXRtdWwoaW5wdXQsIHdlaWdodHMpICsgYmlhc2VzLCBuYW1lPW5hbWUrIl9vIikKICAgICAgICByZXR1cm4gb3V0cHV0Cg==</text>
+        <text encoding="base64">IyBkYXRhCnhvcl9kYXRhID0gbnAuemVyb3MoKDQsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQp4b3JfZGF0YVswXSA9IFswLCAwXQp4b3JfZGF0YVsxXSA9IFswLCAxXQp4b3JfZGF0YVsyXSA9IFsxLCAwXQp4b3JfZGF0YVszXSA9IFsxLCAxXQoKeG9yX2xhYmVscyA9IG5wLnplcm9zKCg0LCAxKSwgZHR5cGU9bnAuZmxvYXQzMikKeG9yX2xhYmVsc1swXSA9IDAKeG9yX2xhYmVsc1sxXSA9IDEKeG9yX2xhYmVsc1syXSA9IDEKeG9yX2xhYmVsc1szXSA9IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvdXRwdXQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBkZWYgdHJhaW4oc2VsZik6CiAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMTAwKToKICAgICAgICAgICAgc2VsZi5zZXNzaW9uLnJ1bihzZWxmLnRyYWluX29wLCBmZWVkX2RpY3Q9e3NlbGYueDogeG9yX2RhdGEsIHNlbGYueTogeG9yX2xhYmVsc30pCiAgICAgICAgICAgIGlmIGkgJSAxMCA9PSAwOgogICAgICAgICAgICAgICAgcHJpbnQoImVwb2NoIHt9Ii5mb3JtYXQoaSkpCgogICAgICAgIHByZWRpY3QgPSBzZWxmLnNlc3Npb24ucnVuKHNlbGYub3V0LCBmZWVkX2RpY3Q9e3NlbGYueDogeG9yX2RhdGF9KQogICAgICAgIHByaW50KG5wLnJvdW5kKHByZWRpY3QsIGRlY2ltYWxzPTIpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBsb2FkX3RyYWluZWRfbmV0d29yayhzZWxmKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJibHViIikK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDEwMCk6CiAgICAgICAgcy5ydW4odHJhaW5fb3AsIGZlZWRfZGljdD17eDogeG9yX2RhdGEsIHk6IHhvcl9sYWJlbHN9KQogICAgICAgIGlmIGkgJSAxMCA9PSAwOgogICAgICAgICAgICBwcmludCgiZXBvY2gge30iLmZvcm1hdChpKSkKCiAgICBwcmVkaWN0ID0gcy5ydW4ob3V0X28sIGZlZWRfZGljdD17eDogeG9yX2RhdGF9KQogICAgcHJpbnQobnAucm91bmQocHJlZGljdCwgZGVjaW1hbHM9MikpCg==</text>
+        <text encoding="base64">ICAgIEBhYnN0cmFjdG1ldGhvZAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMucnVuKGluaXQpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2l0aCB0Zi5TZXNzaW9uKCkgYXMgczoK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5pdCA9IHRmLmluaXRpYWxpemVfYWxsX3ZhcmlhYmxlcygpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJub3QgaW1wbGVtZW50ZWQgeWV0IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1221,6 +1233,8 @@
         <entry>action CommentByLineComment</entry>
         <entry>q</entry>
         <entry>action emacsIDEAs.AceJump</entry>
+        <entry>23</entry>
+        <entry>28</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
