@@ -90,11 +90,11 @@
         <mark key="^" line="79" column="17" />
         <mark key="." line="79" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_baseclass.py" timestamp="1492935983821">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="43" />
-        <mark key="." line="10" column="43" />
-        <mark key="^" line="10" column="43" />
+      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_baseclass.py" timestamp="1492945515789">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+        <mark key="^" line="27" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex06.py" timestamp="1457057681957">
         <mark key="[" line="355" column="65" />
@@ -508,6 +508,13 @@
         <mark key="]" line="188" column="38" />
         <mark key="." line="188" column="38" />
         <mark key="^" line="188" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/mnist.py" timestamp="1492946219164">
+        <mark key="'" line="63" column="26" />
+        <mark key="[" line="73" column="26" />
+        <mark key="]" line="73" column="26" />
+        <mark key="^" line="73" column="25" />
+        <mark key="." line="73" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_5.py" timestamp="1455294865923">
         <mark key="[" line="168" column="37" />
@@ -1052,7 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="20" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
       <jump line="27" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/exp_setups/train_s11_ex01.py" />
@@ -1152,46 +1158,47 @@
       <jump line="462" column="22" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="31" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="309" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
+      <jump line="63" column="26" filename="$USER_HOME$/repositories/tensorflow_tests/mnist.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBiaWFzZXMgPSB0Zi5WYXJpYWJsZSh0Zi56ZXJvcyhbbmV1cm9uc10sIGR0eXBlPXRmLmZsb2F0MzIpLCBuYW1lPW5hbWUrIl9iIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gYWN0aXZhdGlvbigKICAgICAgICAgICAgICAgICh0Zi5tYXRtdWwoaW5wdXQsIHdlaWdodHMpICsgYmlhc2VzKSAvIG5ldXJvbnMsCiAgICAgICAgICAgICAgICBuYW1lPW5hbWUrIl9vIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFydGlhbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0ID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvc3QgPSBzZWxmLmxvc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaWFzZXMgPSB0Zi5WYXJpYWJsZSh0Zi5maWxsKFtuZXVyb25zXSwgMC4wMDAwMSksIG5hbWU9bmFtZSsiX2IiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvc3QgPSB0Zi5yZWR1Y2VfbWVhbigubm4uc29mdG1heF9jcm9zc19lbnRyb3B5X3dpdGhfbG9naXRzKGxvZ2l0cz1zZWxmLm91dCwgbGFiZWxzPXNlbGYueSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyICs9ICIgIgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvc3MgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc3RkZGV2IGluIFsxLjAsIDAuNSwgMC4xLCAwLjA1LCAwLjAxXToK</text>
+        <text encoding="base64">ICAgICAgICAjIHByZWRpY3QgPSBzZWxmLnNlc3Npb24ucnVuKHNlbGYub3V0LCBmZWVkX2RpY3Q9e3NlbGYueDogeG9yX2RhdGF9KQogICAgICAgICMgcHJpbnQobnAucm91bmQocHJlZGljdCwgZGVjaW1hbHM9MikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGksIG1heF9pbnRlcnZhbCwgc3RkZGV2IGluIHppcChyYW5nZSgxMCksIFsxMCwgMTAwLCAxMDAwLCAxMDAwMCwgMTAwMDAwXSwgWzEuMCwgMC41LCAwLjEsIDAuMDUsIDAuMDFdKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmF0Y2hfeC5zaGFwZSwgYmF0Y2hfeS5zaGFwZSkKCiAgICAgICAgICAgIHggPSBzZWxmLnNlc3Npb24ucnVuKHNlbGYubWF4MiwgZmVlZF9kaWN0PXtzZWxmLng6IGJhdGNoX3gsIHNlbGYueTogYmF0Y2hfeX0pCiAgICAgICAgICAgIHByaW50KHguc2hhcGUpCgogICAgICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGF0YSA9IG5wLnplcm9zKCgxMCwgNSwgNSksIGR0eXBlPW5wLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1237,18 +1244,18 @@
         <entry>wq</entry>
         <entry>m .-2</entry>
         <entry>qa</entry>
-        <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>redo</entry>
         <entry>wa</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>nohlsearch</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>23</entry>
         <entry>28</entry>
+        <entry>q</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>nohlsearch</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>q</entry>
+        <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
