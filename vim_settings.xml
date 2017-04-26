@@ -1189,7 +1189,7 @@
         <text encoding="base64">ZGVmIHJlbHVfbGF5ZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohlsearch</text>
       </register>
     </registers>
     <search>
@@ -1201,10 +1201,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cores</entry>
-        <entry>CORES</entry>
-        <entry>npy</entry>
-        <entry encoding="base64">XDxoZWF0bWFwXD4=</entry>
         <entry>test</entry>
         <entry>cnn</entry>
         <entry>log</entry>
@@ -1227,7 +1223,6 @@
         <entry>mnist</entry>
       </history-search>
       <history-cmd>
-        <entry>m .+1</entry>
         <entry>we</entry>
         <entry>184</entry>
         <entry>q!</entry>
@@ -1239,15 +1234,15 @@
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>redo</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>wa</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>nohlsearch</entry>
         <entry>action CommentByLineComment</entry>
         <entry>q</entry>
         <entry>w</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
