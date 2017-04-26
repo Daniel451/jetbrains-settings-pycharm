@@ -40,6 +40,7 @@
   <action id="IpnbMoveCellDownAction" />
   <action id="IpnbMoveCellUpAction" />
   <action id="IpnbRunCellInplaceAction" />
+  <action id="MarkdownNavigator.ToggleSplitLayoutChange" />
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveStatementDown" />
