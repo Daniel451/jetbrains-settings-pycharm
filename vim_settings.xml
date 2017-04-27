@@ -33,11 +33,12 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493255586962">
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="101" column="53" />
-        <mark key="." line="101" column="53" />
-        <mark key="^" line="101" column="53" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493256747362">
+        <mark key="'" line="237" column="26" />
+        <mark key="[" line="135" column="33" />
+        <mark key="]" line="135" column="34" />
+        <mark key="." line="135" column="34" />
+        <mark key="^" line="115" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
         <mark key="[" line="19" column="39" />
@@ -1108,7 +1109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" />
       <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
@@ -1208,46 +1208,47 @@
       <jump line="152" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/rnn/rnn_01.py" />
       <jump line="155" column="13" filename="$USER_HOME$/repositories/bachelor-thesis/code/rnn/rnn_01.py" />
       <jump line="156" column="13" filename="$USER_HOME$/repositories/bachelor-thesis/code/rnn/rnn_01.py" />
+      <jump line="235" column="26" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>plot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRfb3B0aW0gPSBTR0QobHI9MC4wMDA1LCBtb21lbnR1bT0wLjksIG5lc3Rlcm92PVRydWUpCiAgICBnX29wdGltID0gU0dEKGxyPTAuMDAwNSwgbW9tZW50dW09MC45LCBuZXN0ZXJvdj1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGltZ19uYW1lID0gImltZ19kZWJ1Zy5qcGciCiAgICAjIGltZ19wYXRoID0gYXJncy5pbWdfc2F2ZV9wYXRoCiAgICAjIGlmIGltZ19wYXRoWy0xXSAhPSAiLyI6CiAgICAjICAgICBpbWdfcGF0aCArPSAiLyIKICAgICNpbS5zYXZlKGltZ19wYXRoICsgaW1nX25hbWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRfb3B0aW0gPSBBZGFtKGxyPTAuMDAwNSkKICAgIGdfb3B0aW0gPSBBZGFtKGxyPTAuMDAwNXVtPTAuOSwgbmVzdGVyb3Y9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImJhdGNoICVkIGRfbG9zcyA6ICVmIiAlIChpbmRleCwgZF9sb3NzKSkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGRfb3B0aW0gPSBTR0QobHI9MC4wMDA1LCBtb21lbnR1bT0wLjksIG5lc3Rlcm92PVRydWUpCiAgICBnX29wdGltID0gU0dEKGxyPTAuMDAwNSwgbW9tZW50dW09MC45LCBuZXN0ZXJvdj1UcnVlKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImJhdGNoICVkIGdfbG9zcyA6ICVmIiAlIChpbmRleCwgZ19sb3NzKSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGRfb3B0aW0gPSBTR0QobHI9MC4wMDA1LCBtb21lbnR1bT0wLjksIG5lc3Rlcm92PVRydWUpCiAgICBnX29wdGltID0gU0dEKGxyPTAuMDAwNSwgbW9tZW50dW09MC45LCBuZXN0ZXJvdj1UcnVlKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5kZXggJSA1MCA9PSAwOgogICAgICAgICAgICAgICAgcGxvdF90cmFpbmluZ19iYXRjaChnZW5lcmF0ZWRfaW1hZ2VzLCBlcG9jaCwgaW5kZXgsIGYsIGF4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gU2VxdWVudGlhbCgpCiAgICBtb2RlbC5hZGQoQ29udjJEKDY0LCAoMywgMyksIHN0cmlkZXM9KDIsIDIpLCBwYWRkaW5nPSdzYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRfc2hhcGU9KDI4LCAyOCwgMSkpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3RhbmgnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoQ29udjJEKDEyOCwgKDMsIDMpLCBzdHJpZGVzPSgyLCAyKSwgcGFkZGluZz0nc2FtZScpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3RhbmgnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoRmxhdHRlbigpKQogICAgbW9kZWwuYWRkKERlbnNlKDEpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3NpZ21vaWQnKSkK</text>
+        <text encoding="base64">ICAgIGRfb3B0aW0gPSBBZGFtKGxyPTAuMDAwNSkKICAgIGdfb3B0aW0gPSBBZGFtKGxyPTAuMDAwNXVtPTAuOSwgbmVzdGVyb3Y9VHJ1ZSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1vZGVsID0gU2VxdWVudGlhbCgpCgogICAgbW9kZWwuYWRkKERlbnNlKGlucHV0X2RpbT0xMDAsIHVuaXRzPTI1Nio3KjcpKQogICAgbW9kZWwuYWRkKFJlc2hhcGUoKDcsIDcsIDI1NikpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3JlbHUnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoQ29udjJEVHJhbnNwb3NlKDEyOCwgKDMsIDMpLCBzdHJpZGVzPSgyLCAyKSwgcGFkZGluZz0ic2FtZSIpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3JlbHUnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoQ29udjJEVHJhbnNwb3NlKDY0LCAoMywgMyksIHN0cmlkZXM9KDIsIDIpLCBwYWRkaW5nPSJzYW1lIikpCiAgICBtb2RlbC5hZGQoQWN0aXZhdGlvbigncmVsdScpKQogICAgbW9kZWwuYWRkKEJhdGNoTm9ybWFsaXphdGlvbigpKQoKICAgIG1vZGVsLmFkZChDb252MkRUcmFuc3Bvc2UoMSwgKDUsIDUpLCBzdHJpZGVzPSgxLCAxKSwgcGFkZGluZz0ic2FtZSIpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3NpZ21vaWQnKSkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGRfb3B0aW0gPSBTR0QobHI9MC4wMDA1LCBtb21lbnR1bT0wLjksIG5lc3Rlcm92PVRydWUpCiAgICBnX29wdGltID0gU0dEKGxyPTAuMDAwNSwgbW9tZW50dW09MC45LCBuZXN0ZXJvdj1UcnVlKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGF4LmNvbG9yYmFyKCkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGRfb3B0aW0gPSBTR0QobHI9MC4wMDA1LCBtb21lbnR1bT0wLjksIG5lc3Rlcm92PVRydWUpCiAgICBnX29wdGltID0gU0dEKGxyPTAuMDAwNSwgbW9tZW50dW09MC45LCBuZXN0ZXJvdj1UcnVlKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNheCA9IGF4Lmltc2hvdyhucC56ZXJvcygoMzUyLCAzNTIpKSwgY21hcD0iZ3JheSIsIGludGVycG9sYXRpb249Im5vbmUiKQogICAgZi5jb2xvcmJhcihjYXgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNheCA9IGF4Lmltc2hvdyhpbWdfY29udGFpbmVyLCBjbWFwPSJncmF5IiwgaW50ZXJwb2xhdGlvbj0ibm9uZSIpCiAgICBmLmNvbG9yYmFyKGNheCkK</text>
+        <text encoding="base64">ICAgIG1vZGVsID0gU2VxdWVudGlhbCgpCiAgICBtb2RlbC5hZGQoQ29udjJEKDY0LCAoMywgMyksIHN0cmlkZXM9KDIsIDIpLCBwYWRkaW5nPSdzYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRfc2hhcGU9KDI4LCAyOCwgMSkpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3RhbmgnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoQ29udjJEKDEyOCwgKDMsIDMpLCBzdHJpZGVzPSgyLCAyKSwgcGFkZGluZz0nc2FtZScpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3RhbmgnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoRmxhdHRlbigpKQogICAgbW9kZWwuYWRkKERlbnNlKDEpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3NpZ21vaWQnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1299,12 +1300,12 @@
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>nohlsearch</entry>
         <entry>m .+1</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>redo</entry>
         <entry>m .-2</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>q</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
