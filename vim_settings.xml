@@ -33,11 +33,11 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493240150803">
-        <mark key="[" line="112" column="66" />
-        <mark key="]" line="113" column="11" />
-        <mark key="." line="113" column="11" />
-        <mark key="^" line="113" column="11" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493284536201">
+        <mark key="[" line="168" column="62" />
+        <mark key="]" line="169" column="44" />
+        <mark key="." line="169" column="44" />
+        <mark key="^" line="169" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
         <mark key="[" line="19" column="39" />
@@ -1171,10 +1171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>img</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
@@ -1183,31 +1183,31 @@
         <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoQkFUQ0hfU0laRSk6Cg==</text>
+        <text encoding="base64">ICAgIGltYWdlID0gaW1hZ2UqMTI3LjUrMTI3LjUKICAgIEltYWdlLmZyb21hcnJheShpbWFnZS5hc3R5cGUobnAudWludDgpKS5zYXZlKAogICAgICAgICJnZW5lcmF0ZWRfaW1hZ2UucG5nIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGNvbWJpbmVfaW1hZ2VzKGdlbmVyYXRlZF9pbWFnZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vaXNlID0gbnAuemVyb3MoKEJBVENIX1NJWkUsIDEwMCkpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5pY2U6CiAgICAgICAgZGlzY3JpbWluYXRvciA9IGRpc2NyaW1pbmF0b3JfbW9kZWwoKQogICAgICAgIGRpc2NyaW1pbmF0b3IuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPSJTR0QiKQogICAgICAgIGRpc2NyaW1pbmF0b3IubG9hZF93ZWlnaHRzKCdkaXNjcmltaW5hdG9yJykKICAgICAgICBub2lzZSA9IG5wLnplcm9zKChCQVRDSF9TSVpFKjIwLCAxMDApKQogICAgICAgIGZvciBpIGluIHJhbmdlKEJBVENIX1NJWkUqMjApOgogICAgICAgICAgICBub2lzZVtpLCA6XSA9IG5wLnJhbmRvbS51bmlmb3JtKC0xLCAxLCAxMDApCiAgICAgICAgZ2VuZXJhdGVkX2ltYWdlcyA9IGdlbmVyYXRvci5wcmVkaWN0KG5vaXNlLCB2ZXJib3NlPTEpCiAgICAgICAgZF9wcmV0ID0gZGlzY3JpbWluYXRvci5wcmVkaWN0KGdlbmVyYXRlZF9pbWFnZXMsIHZlcmJvc2U9MSkKICAgICAgICBpbmRleCA9IG5wLmFyYW5nZSgwLCBCQVRDSF9TSVpFKjIwKQogICAgICAgIGluZGV4LnJlc2l6ZSgoQkFUQ0hfU0laRSoyMCwgMSkpCiAgICAgICAgcHJlX3dpdGhfaW5kZXggPSBsaXN0KG5wLmFwcGVuZChkX3ByZXQsIGluZGV4LCBheGlzPTEpKQogICAgICAgIHByZV93aXRoX2luZGV4LnNvcnQoa2V5PWxhbWJkYSB4OiB4WzBdLCByZXZlcnNlPVRydWUpCiAgICAgICAgbmljZV9pbWFnZXMgPSBucC56ZXJvcygoQkFUQ0hfU0laRSwgMSkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdlbmVyYXRlZF9pbWFnZXMuc2hhcGVbMjpdKSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBmb3IgaSBpbiByYW5nZShpbnQoQkFUQ0hfU0laRSkpOgogICAgICAgICAgICBpZHggPSBpbnQocHJlX3dpdGhfaW5kZXhbaV1bMV0pCiAgICAgICAgICAgIG5pY2VfaW1hZ2VzW2ksIDAsIDosIDpdID0gZ2VuZXJhdGVkX2ltYWdlc1tpZHgsIDAsIDosIDpdCiAgICAgICAgaW1hZ2UgPSBjb21iaW5lX2ltYWdlcyhuaWNlX2ltYWdlcykKICAgIGVsc2U6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoQkFUQ0hfU0laRSk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIG5vaXNlID0gbnAuemVyb3MoKEJBVENIX1NJWkUsIDEwMCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFhfdHJhaW4gPSBYX3RyYWluLnJlc2hhcGUoKFhfdHJhaW4uc2hhcGVbMF0sIDEpICsgWF90cmFpbi5zaGFwZVsxOl0pCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFhfdHJhaW4gPSBYX3RyYWluLnJlc2hhcGUoKFhfdHJhaW4uc2hhcGVbMF0sIDEpICsgWF90cmFpbi5zaGFwZVsxOl0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1258,12 +1258,12 @@
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>action SearchEverywhere</entry>
         <entry>qa</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>nohlsearch</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>w</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
