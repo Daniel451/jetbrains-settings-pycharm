@@ -33,13 +33,6 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493290500540">
-        <mark key="'" line="237" column="26" />
-        <mark key="[" line="169" column="61" />
-        <mark key="]" line="169" column="73" />
-        <mark key="." line="169" column="73" />
-        <mark key="^" line="169" column="73" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
         <mark key="[" line="19" column="39" />
         <mark key="]" line="25" column="0" />
@@ -719,11 +712,8 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493376854635">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493383453530">
+        <mark key="^" line="115" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479527021809">
         <mark key="[" line="12" column="25" />
@@ -1219,43 +1209,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5sYXllcnMuY29yZSBpbXBvcnQgRmxhdHRlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>power</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>mnist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0c1sicG93ZXIuZHJhdyJdID0gcXVlcnlfbHN0WzFdCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcHJpbnRfYmF0Y2hfdGltZXMoImFsbCBiYXRjaGVzIiwgc29ydGVkX2JhdGNoX3RpbWVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5sYXllcnMuY29yZSBpbXBvcnQgRmxhdHRlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5sYXllcnMgaW1wb3J0IFJlc2hhcGUK</text>
+        <text encoding="base64">ICAgIHByaW50KGFyZ3Muc2F2ZV9wYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5sYXllcnMuY29udm9sdXRpb25hbCBpbXBvcnQgVXBTYW1wbGluZzJECg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Sy5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgYmF0Y2hfbWVhbl90aW1lID0gbnAubWVhbihiYXRjaF90aW1lX2NvbnRhaW5lcikKICAgICAgICBiYXRjaF9taW5fdGltZSA9IG5wLm1pbihiYXRjaF90aW1lX2NvbnRhaW5lcikKICAgICAgICBiYXRjaF9tYXhfdGltZSA9IG5wLm1heChiYXRjaF90aW1lX2NvbnRhaW5lcikKICAgICAgICBwcmludCgiPiB0aW1lcyAoYWxsIGJhdGNoZXMpOiIpCiAgICAgICAgcHJpbnQoIm1lYW4gcGVyIGJhdGNoICAgOiB7Oj44LjVmfXMiLmZvcm1hdChiYXRjaF9tZWFuX3RpbWUpKQogICAgICAgIHByaW50KCJtaW4gcGVyIGJhdGNoICAgIDogezo+OC41Zn1zIi5mb3JtYXQoYmF0Y2hfbWluX3RpbWUpKQogICAgICAgIHByaW50KCJtYXggcGVyIGJhdGNoICAgIDogezo+OC41Zn1zIi5mb3JtYXQoYmF0Y2hfbWF4X3RpbWUpKQogICAgICAgIHByaW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSg1KToKICAgICAgICAgICAgcHJpbnQoc2VsZi5fX2dldF9sb2dfc3RhdHNfbnZpZGlhKCkpCiAgICAgICAgICAgIHRpbWUuc2xlZXAoMSkK</text>
+        <text encoding="base64">ICAgICAgICBiYXRjaF9tZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBub19iYXRjaGVzID0gbnAuY291Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0c1sicG93ZXIuZHJhdyJdID0gcXVlcnlfbHN0WzFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vjb25kcyA9ICJ7OjAuNGZ9Ii5mb3JtYXQocm91bmQoc2Vjb25kcywgNCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gaW1hZ2UqMTI3LjUrMTI3LjUKICAgIEltYWdlLmZyb21hcnJheShpbWFnZS5hc3R5cGUobnAudWludDgpKS5zYXZlKAogICAgICAgICJnZW5lcmF0ZWRfaW1hZ2UucG5nIikK</text>
+        <text encoding="base64">ICAgICAgICBpZiByb3VuZF9zZWNvbmRzOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1297,20 +1287,21 @@
         <entry>W</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>1</entry>
-        <entry>wq</entry>
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>wa</entry>
         <entry>nohlsearch</entry>
-        <entry>redo</entry>
         <entry>q</entry>
-        <entry>action SearchEverywhere</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>m .+1</entry>
-        <entry>m .-2</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>wq</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>we</entry>
+        <entry>m .+1</entry>
+        <entry>m .-2</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
