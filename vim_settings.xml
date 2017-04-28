@@ -1251,7 +1251,7 @@
         <text encoding="base64">ICAgIG1vZGVsID0gU2VxdWVudGlhbCgpCiAgICBtb2RlbC5hZGQoQ29udjJEKDY0LCAoMywgMyksIHN0cmlkZXM9KDIsIDIpLCBwYWRkaW5nPSdzYW1lJywKICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXRfc2hhcGU9KDI4LCAyOCwgMSkpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3RhbmgnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoQ29udjJEKDEyOCwgKDMsIDMpLCBzdHJpZGVzPSgyLCAyKSwgcGFkZGluZz0nc2FtZScpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3RhbmgnKSkKICAgIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkKCiAgICBtb2RlbC5hZGQoRmxhdHRlbigpKQogICAgbW9kZWwuYWRkKERlbnNlKDEpKQogICAgbW9kZWwuYWRkKEFjdGl2YXRpb24oJ3NpZ21vaWQnKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1263,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>cnn</entry>
         <entry>log</entry>
         <entry>sess</entry>
@@ -1286,7 +1285,6 @@
         <entry>plot</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>184</entry>
         <entry>q!</entry>
         <entry>W</entry>
@@ -1302,11 +1300,11 @@
         <entry>m .+1</entry>
         <entry>redo</entry>
         <entry>m .-2</entry>
-        <entry>q</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
