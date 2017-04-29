@@ -1269,7 +1269,7 @@
         <text encoding="base64">ICAgIHBhcnNlci5zZXRfZGVmYXVsdHMoc2F2ZV9wYXRoPSIiKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action SearchEverywhere</text>
       </register>
     </registers>
     <search>
@@ -1303,13 +1303,6 @@
         <entry>plot</entry>
       </history-search>
       <history-cmd>
-        <entry>action emacsIDEAs.AceJumpWord</entry>
-        <entry>wa</entry>
-        <entry>nohlsearch</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
-        <entry>we</entry>
-        <entry>m .+1</entry>
         <entry>redo</entry>
         <entry>m .-2</entry>
         <entry>2</entry>
@@ -1322,7 +1315,6 @@
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>qa</entry>
         <entry>w</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>action StructuralSearchActions</entry>
         <entry>action StructuralSearchPlugin.StructuralSearchAction</entry>
         <entry>action MethodDown</entry>
@@ -1330,6 +1322,7 @@
         <entry>action MethodHierarchyPopupMenu</entry>
         <entry>action GotoSymbol</entry>
         <entry>action GotoClass</entry>
+        <entry>action SearchEverywhere</entry>
       </history-cmd>
       <history-expr />
       <history-input />
