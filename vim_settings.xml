@@ -724,10 +724,7 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493503248430">
-        <mark key="[" line="300" column="29" />
-        <mark key="]" line="300" column="29" />
-        <mark key="." line="300" column="29" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493506017226">
         <mark key="^" line="198" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479527021809">
@@ -1127,7 +1124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="28" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="56" column="8" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="233" column="19" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="287" column="30" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
@@ -1227,10 +1223,11 @@
       <jump line="101" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
       <jump line="104" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
       <jump line="106" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -1242,34 +1239,34 @@
         <text encoding="base64">ICAgIGRhdGV0aW1lX3N0ciA9IGRhdGV0aW1lLmRhdGV0aW1lLm5vdygpLnN0cmZ0aW1lKCJbJVktJW0tJWQgfCAlSDolTV0iKQogICAgYXguc2V0X3RpdGxlKCJ7fSBlcG9jaCB7fSBydW4ge30iLmZvcm1hdChkYXRldGltZV9zdHIsIGVwb2NoLCBpKSkKICAgIGNheCA9IGF4Lmltc2hvdyhpbWdfY29udGFpbmVyLCBjbWFwPSJncmF5IiwgaW50ZXJwb2xhdGlvbj0ibm9uZSIpCiAgICBjYmFyID0gZi5jb2xvcmJhcihjYXgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNheAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGNvbWJpbmVfaW1hZ2VzKGdlbmVyYXRlZF9pbWFnZXMpCiAgICAgICAgaW1hZ2UgPSBpbWFnZSoxMjcuNSsxMjcuNQogICAgICAgIEltYWdlLmZyb21hcnJheShpbWFnZS5hc3R5cGUobnAudWludDgpKS5zYXZlKAogICAgICAgICAgICAiZ2VuZXJhdGVkX2ltYWdlLnBuZyIpCg==</text>
+        <text encoding="base64">ICAgIGNheAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IgPSBnZW5lcmF0b3JfbW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGNvbWJpbmVfaW1hZ2VzKGdlbmVyYXRlZF9pbWFnZXMpCiAgICAgICAgaW1hZ2UgPSBpbWFnZSoxMjcuNSsxMjcuNQogICAgICAgIEltYWdlLmZyb21hcnJheShpbWFnZS5hc3R5cGUobnAudWludDgpKS5zYXZlKAogICAgICAgICAgICAiZ2VuZXJhdGVkX2ltYWdlLnBuZyIpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5lcmF0b3IgPSBnZW5lcmF0b3JfbW9kZWwoKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiBuaWNlOgogICAgICAgICAgICBkaXNjcmltaW5hdG9yID0gZGlzY3JpbWluYXRvcl9tb2RlbCgpCiAgICAgICAgICAgIGRpc2NyaW1pbmF0b3IuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPSJTR0QiKQogICAgICAgICAgICBkaXNjcmltaW5hdG9yLmxvYWRfd2VpZ2h0cygnZGlzY3JpbWluYXRvcicpCiAgICAgICAgICAgIG5vaXNlID0gbnAuemVyb3MoKEJBVENIX1NJWkUqMjAsIDEwMCkpCiAgICAgICAgICAgIGZvciBpIGluIHJhbmdlKEJBVENIX1NJWkUqMjApOgogICAgICAgICAgICAgICAgbm9pc2VbaSwgOl0gPSBucC5yYW5kb20udW5pZm9ybSgtMSwgMSwgMTAwKQogICAgICAgICAgICBnZW5lcmF0ZWRfaW1hZ2VzID0gZ2VuZXJhdG9yLnByZWRpY3Qobm9pc2UsIHZlcmJvc2U9MSkKICAgICAgICAgICAgZF9wcmV0ID0gZGlzY3JpbWluYXRvci5wcmVkaWN0KGdlbmVyYXRlZF9pbWFnZXMsIHZlcmJvc2U9MSkKICAgICAgICAgICAgaW5kZXggPSBucC5hcmFuZ2UoMCwgQkFUQ0hfU0laRSoyMCkKICAgICAgICAgICAgaW5kZXgucmVzaXplKChCQVRDSF9TSVpFKjIwLCAxKSkKICAgICAgICAgICAgcHJlX3dpdGhfaW5kZXggPSBsaXN0KG5wLmFwcGVuZChkX3ByZXQsIGluZGV4LCBheGlzPTEpKQogICAgICAgICAgICBwcmVfd2l0aF9pbmRleC5zb3J0KGtleT1sYW1iZGEgeDogeFswXSwgcmV2ZXJzZT1UcnVlKQogICAgICAgICAgICBuaWNlX2ltYWdlcyA9IG5wLnplcm9zKChCQVRDSF9TSVpFLCAxKSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdlbmVyYXRlZF9pbWFnZXMuc2hhcGVbMjpdKSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoaW50KEJBVENIX1NJWkUpKToKICAgICAgICAgICAgICAgIGlkeCA9IGludChwcmVfd2l0aF9pbmRleFtpXVsxXSkKICAgICAgICAgICAgICAgIG5pY2VfaW1hZ2VzW2ksIDAsIDosIDpdID0gZ2VuZXJhdGVkX2ltYWdlc1tpZHgsIDAsIDosIDpdCiAgICAgICAgICAgIGltYWdlID0gY29tYmluZV9pbWFnZXMobmljZV9pbWFnZXMpCiAgICAgICAgZWxzZToK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICMgZGVmIGdlbmVyYXRlKEJBVENIX1NJWkUsIG5pY2U9RmFsc2UpOgogICAgIyAgICAgZ2VuZXJhdG9yID0gZ2VuZXJhdG9yX21vZGVsKCk=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">IyBkZWYgZ2VuZXJhdGUoQkFUQ0hfU0laRSwgbmljZT1GYWxzZSk6CiMgICAgIGdlbmVyYXRvciA9IGdlbmVyYXRvcl9tb2RlbCgpCiMgICAgIGdlbmVyYXRvci5jb21waWxlKGxvc3M9J2JpbmFyeV9jcm9zc2VudHJvcHknLCBvcHRpbWl6ZXI9IlNHRCIpCiMgICAgICMgZ2VuZXJhdG9yLmxvYWRfd2VpZ2h0cygnZ2VuZXJhdG9yJykKIyAgICAgaWYgbmljZToKIyAgICAgICAgIGRpc2NyaW1pbmF0b3IgPSBkaXNjcmltaW5hdG9yX21vZGVsKCkKIyAgICAgICAgIGRpc2NyaW1pbmF0b3IuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPSJTR0QiKQojICAgICAgICAgZGlzY3JpbWluYXRvci5sb2FkX3dlaWdodHMoJ2Rpc2NyaW1pbmF0b3InKQojICAgICAgICAgbm9pc2UgPSBucC56ZXJvcygoQkFUQ0hfU0laRSoyMCwgMTAwKSkKIyAgICAgICAgIGZvciBpIGluIHJhbmdlKEJBVENIX1NJWkUqMjApOgojICAgICAgICAgICAgIG5vaXNlW2ksIDpdID0gbnAucmFuZG9tLnVuaWZvcm0oLTEsIDEsIDEwMCkKIyAgICAgICAgIGdlbmVyYXRlZF9pbWFnZXMgPSBnZW5lcmF0b3IucHJlZGljdChub2lzZSwgdmVyYm9zZT0xKQojICAgICAgICAgZF9wcmV0ID0gZGlzY3JpbWluYXRvci5wcmVkaWN0KGdlbmVyYXRlZF9pbWFnZXMsIHZlcmJvc2U9MSkKIyAgICAgICAgIGluZGV4ID0gbnAuYXJhbmdlKDAsIEJBVENIX1NJWkUqMjApCiMgICAgICAgICBpbmRleC5yZXNpemUoKEJBVENIX1NJWkUqMjAsIDEpKQojICAgICAgICAgcHJlX3dpdGhfaW5kZXggPSBsaXN0KG5wLmFwcGVuZChkX3ByZXQsIGluZGV4LCBheGlzPTEpKQojICAgICAgICAgcHJlX3dpdGhfaW5kZXguc29ydChrZXk9bGFtYmRhIHg6IHhbMF0sIHJldmVyc2U9VHJ1ZSkKIyAgICAgICAgIG5pY2VfaW1hZ2VzID0gbnAuemVyb3MoKEJBVENIX1NJWkUsIDEpICsKIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdlbmVyYXRlZF9pbWFnZXMuc2hhcGVbMjpdKSwgZHR5cGU9bnAuZmxvYXQzMikKIyAgICAgICAgIGZvciBpIGluIHJhbmdlKGludChCQVRDSF9TSVpFKSk6CiMgICAgICAgICAgICAgaWR4ID0gaW50KHByZV93aXRoX2luZGV4W2ldWzFdKQojICAgICAgICAgICAgIG5pY2VfaW1hZ2VzW2ksIDAsIDosIDpdID0gZ2VuZXJhdGVkX2ltYWdlc1tpZHgsIDAsIDosIDpdCiMgICAgICAgICBpbWFnZSA9IGNvbWJpbmVfaW1hZ2VzKG5pY2VfaW1hZ2VzKQojICAgICBlbHNlOgojICAgICAgICAgbm9pc2UgPSBucC5yYW5kb20udW5pZm9ybShsb3c9LTEuMCwgaGlnaD0xLjAsIHNpemU9KEJBVENIX1NJWkUsIDEwMCkpCiMgICAgICAgICBnZW5lcmF0ZWRfaW1hZ2VzID0gZ2VuZXJhdG9yLnByZWRpY3Qobm9pc2UsIHZlcmJvc2U9MSkKIyAgICAgICAgIGltYWdlID0gY29tYmluZV9pbWFnZXMoZ2VuZXJhdGVkX2ltYWdlcykKIyAgICAgaW1hZ2UgPSBpbWFnZSoxMjcuNSsxMjcuNQojICAgICBJbWFnZS5mcm9tYXJyYXkoaW1hZ2UuYXN0eXBlKG5wLnVpbnQ4KSkuc2F2ZSgKIyAgICAgICAgICJnZW5lcmF0ZWRfaW1hZ2UucG5nIikKCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBub19lcG9jaHMgPSAxMDAK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHBhcnNlci5zZXRfZGVmYXVsdHMobnZpZGlhX2xvZz0wKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5zZXRfZGVmYXVsdHMoc2F2ZV9wYXRoPSIiKQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1303,7 +1300,6 @@
         <entry>plot</entry>
       </history-search>
       <history-cmd>
-        <entry>redo</entry>
         <entry>m .-2</entry>
         <entry>2</entry>
         <entry>16</entry>
@@ -1313,8 +1309,6 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>qa</entry>
-        <entry>w</entry>
         <entry>action StructuralSearchActions</entry>
         <entry>action StructuralSearchPlugin.StructuralSearchAction</entry>
         <entry>action MethodDown</entry>
@@ -1323,6 +1317,10 @@
         <entry>action GotoSymbol</entry>
         <entry>action GotoClass</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
