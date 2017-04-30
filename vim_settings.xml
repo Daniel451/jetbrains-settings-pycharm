@@ -478,6 +478,9 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" timestamp="1493528035062">
+        <mark key="'" line="56" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/robocup-ai/README.md" timestamp="1491865546804">
         <mark key="[" line="16" column="17" />
         <mark key="]" line="16" column="17" />
@@ -639,8 +642,8 @@
         <mark key="^" line="116" column="45" />
         <mark key="." line="116" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" timestamp="1493521619155">
-        <mark key="'" line="127" column="14" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" timestamp="1493528600527">
+        <mark key="'" line="116" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454874114639">
         <mark key="[" line="47" column="28" />
@@ -727,10 +730,10 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493512990340">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493526721090">
         <mark key="'" line="195" column="7" />
-        <mark key="[" line="239" column="32" />
-        <mark key="]" line="239" column="32" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="119" column="62" />
         <mark key="." line="239" column="32" />
         <mark key="^" line="239" column="43" />
       </file>
@@ -764,11 +767,11 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493523669432">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="42" column="85" />
-        <mark key="^" line="42" column="85" />
-        <mark key="." line="42" column="85" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493530114951">
+        <mark key="[" line="182" column="33" />
+        <mark key="]" line="189" column="45" />
+        <mark key="." line="189" column="45" />
+        <mark key="^" line="189" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -1137,16 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="$USER_HOME$/repositories/robocup-ai/setup.sh" />
-      <jump line="10" column="0" filename="$USER_HOME$/repositories/robocup-ai/setup.sh" />
-      <jump line="11" column="25" filename="$USER_HOME$/repositories/robocup-ai/setup.sh" />
-      <jump line="16" column="19" filename="$USER_HOME$/repositories/robocup-ai/setup.sh" />
-      <jump line="12" column="25" filename="$USER_HOME$/repositories/robocup-ai/setup.sh" />
-      <jump line="76" column="59" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
-      <jump line="65" column="42" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
-      <jump line="68" column="25" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
-      <jump line="69" column="23" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
-      <jump line="135" column="14" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="136" column="14" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="140" column="28" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="13" column="9" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
@@ -1231,52 +1224,62 @@
       <jump line="122" column="26" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="124" column="26" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="126" column="21" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
-      <jump line="116" column="16" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="118" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="120" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="123" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="125" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
       <jump line="127" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="68" column="13" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="81" column="24" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="85" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="57" column="27" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="89" column="69" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="48" column="4" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="53" column="4" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="55" column="32" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="56" column="32" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
+      <jump line="116" column="16" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZfaW5pdCA9IGxhbWJkYSBzaGFwZSwgZHR5cGUsIHBhcnRpdGlvbl9pbmZvPU5vbmU6XAogICAgICAgICMgICAgIHRmLnJhbmRvbV9ub3JtYWwoc2hhcGUsIG1lYW49MC4wLCBzdGRkZXY9MC4wMSwgZHR5cGU9ZHR5cGUpCiAgICAgICAgZl9pbml0ID0gdGYucmFuZG9tX25vcm1hbF9pbml0aWFsaXplcihtZWFuPTAuMCwgc3RkZGV2PTEsIGR0eXBlPXRmLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lICE9ICIiOgogICAgICAgICAgICBwc3RyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>256</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdfdF9jb252MSA9IHRmLmxheWVycy5jb252MmRfdHJhbnNwb3NlKHNlbGYuZ19jb25uZWN0LCAxMjgsIFszLCAzXSwgc3RyaWRlcz1bMiwgMl0sCiAgICAgICAgICAgICAgICBwYWRkaW5nPSJzYW1lIiwKICAgICAgICAgICAgICAgIG5hbWU9ImdfdF9jb252MSIsCiAgICAgICAgICAgICAgICByZXVzZT1yZXVzZSkKICAgICAgICBzZWxmLmdfdF9jb252MSA9IHRmLm5uLnRhbmgodGYubGF5ZXJzLmJhdGNoX25vcm1hbGl6YXRpb24oc2VsZi5nX3RfY29udjEpLCBuYW1lPSJscl9nX3RfY29udjEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuUEFJKGRlYnVnX0cpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZfaW5pdCA9IGxhbWJkYSBzaGFwZSwgZHR5cGUsIHBhcnRpdGlvbl9pbmZvPU5vbmU6XAogICAgICAgICMgICAgIHRmLnJhbmRvbV9ub3JtYWwoc2hhcGUsIG1lYW49MC4wLCBzdGRkZXY9MC4wMSwgZHR5cGU9ZHR5cGUpCiAgICAgICAgZl9pbml0ID0gdGYucmFuZG9tX25vcm1hbF9pbml0aWFsaXplcihtZWFuPTAuMCwgc3RkZGV2PTEsIGR0eXBlPXRmLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lICE9ICIiOgogICAgICAgICAgICBwc3RyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGxvdF90cmFpbmluZ190aW1lcyhiYXRjaF90aW1lX2NvbnRhaW5lciwgImVwb2NoIHRyYWluaW5nIHRpbWluZ3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdlbmVyYXRvci5sb2FkX3dlaWdodHMoJ2dlbmVyYXRvcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuREcsIHNlbGYuREdfbG9naXRzID0gc2VsZi5tb2RlbF9kaXNjcmltaW5hdG9yKHNlbGYubW9kZWxfZ2VuZXJhdG9yKHNlbGYuWiwgcmV1c2U9VHJ1ZSksIHJldXNlPVRydWUsIHRyYWluYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdlbmVyYXRvci5jb21waWxlKGxvc3M9J2JpbmFyeV9jcm9zc2VudHJvcHknLCBvcHRpbWl6ZXI9IlNHRCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLkcgPSBzZWxmLm1vZGVsX2dlbmVyYXRvcihzZWxmLlopCiAgICAgICAgc2VsZi5EID0gc2VsZi5tb2RlbF9kaXNjcmltaW5hdG9yKHNlbGYuWCkKICAgICAgICBzZWxmLkRHID0gc2VsZi5tb2RlbF9kaXNjcmltaW5hdG9yKHNlbGYubW9kZWxfZ2VuZXJhdG9yKHNlbGYuWiwgcmV1c2U9VHJ1ZSksIHJldXNlPVRydWUsIHRyYWluYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmF0Y2hfeC5zaGFwZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRldGltZV9zdHIgPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgiWyVZLSVtLSVkIHwgJUg6JU1dIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfbmFtZSA9ICJpbWdfZXBvY2hfezowPjR9X2l0X3s6MD4zfS5qcGciLmZvcm1hdChlcG9jaCwgaSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjaW0uc2F2ZShpbWdfcGF0aCArIGltZ19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdmFyIGluIHRmLmdldF9jb2xsZWN0aW9uKHRmLkdyYXBoS2V5cy5HTE9CQUxfVkFSSUFCTEVTLCBzY29wZT0nZycpOgogICAgICAgICAgICBwcmludCh2YXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltZ19wYXRoID0gYXJncy5pbWdfc2F2ZV9wYXRoCiAgICAgICAgIyBpZiBpbWdfcGF0aFstMV0gIT0gIi8iOgogICAgICAgICMgICAgIGltZ19wYXRoICs9ICIvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1314,12 +1317,13 @@
         <entry>epoch</entry>
         <entry>plot</entry>
         <entry>reduce</entry>
+        <entry>run</entry>
+        <entry>losses</entry>
         <entry>cross</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
         <entry>16</entry>
-        <entry>W</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>action StructuralSearchActions</entry>
         <entry>action StructuralSearchPlugin.StructuralSearchAction</entry>
@@ -1333,11 +1337,12 @@
         <entry>action GotoSymbol</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>nohlsearch</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
