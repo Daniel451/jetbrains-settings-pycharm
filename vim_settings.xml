@@ -21,11 +21,10 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1493563136343">
-        <mark key="[" line="169" column="67" />
-        <mark key="]" line="169" column="71" />
-        <mark key="^" line="169" column="71" />
-        <mark key="." line="169" column="71" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1493565937968">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1493560714771">
         <mark key="[" line="0" column="0" />
@@ -273,6 +272,11 @@
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" timestamp="1493528035062">
         <mark key="'" line="56" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/keras_dcgan3.py" timestamp="1493565386279">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataSequence.py" timestamp="1456327307429">
         <mark key="[" line="25" column="0" />
@@ -1253,11 +1257,11 @@
       <jump line="288" column="48" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbW5pc3QudHJhaW4uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">ICogMi4wIC0gMS4w</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -1266,31 +1270,28 @@
         <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1iYXRjaF9zaXplIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAwLCBoZWxwPSJpbnRlZ2VyLCBkZWZhdWx0IGlzIDEwMCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZhcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW5pc3QudHJhaW4uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFsbCB2YXJpYWJsZXMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZhcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRyYWluYWJsZSB2YXJzIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSC5QQUkodHJhaW5faW1hZ2VzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhaW5faW1hZ2VzID0gbnAudGFuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gbmFtZToK</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJyOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChILlBBSShYX3RyYWluKSkK</text>
       </register>
-      <register name="8" type="8">
-        <text>self
-self
-self
-self</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1339,9 +1340,7 @@ self</text>
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
         <entry>q</entry>
-        <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action GotoSymbol</entry>
         <entry>nohlsearch</entry>
         <entry>qa</entry>
@@ -1349,6 +1348,8 @@ self</text>
         <entry>W</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
