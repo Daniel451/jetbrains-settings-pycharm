@@ -21,32 +21,26 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/models/abstr_model.py" timestamp="1480354687330">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing_without_pool.py" timestamp="1482530500999">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="19" column="35" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1493561378122">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="167" column="78" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1493560714771">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
-        <mark key="[" line="19" column="39" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/tests/csv_tests/csv_test1.py" timestamp="1478882625016">
         <mark key="[" line="24" column="61" />
         <mark key="]" line="26" column="51" />
         <mark key="^" line="26" column="51" />
         <mark key="." line="26" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/helper.py" timestamp="1493561311318">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -60,41 +54,17 @@
         <mark key="^" line="102" column="33" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/keras-dcgan/dcgan.py" timestamp="1493289913460">
-        <mark key="[" line="175" column="43" />
-        <mark key="]" line="175" column="58" />
-        <mark key="^" line="175" column="58" />
-        <mark key="." line="175" column="58" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/extra/array_type_printer.py" timestamp="1455019839244">
         <mark key="[" line="8" column="88" />
         <mark key="]" line="7" column="81" />
         <mark key="^" line="7" column="81" />
         <mark key="." line="7" column="81" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex13.py" timestamp="1456569481498">
-        <mark key="[" line="139" column="42" />
-        <mark key="]" line="139" column="34" />
-        <mark key="." line="139" column="34" />
-        <mark key="^" line="139" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex18.py" timestamp="1457383573418">
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="35" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="52" column="35" />
-      </file>
       <file name="$USER_HOME$/repositories/Python3Tests/concat_test.py" timestamp="1493399610812">
         <mark key="[" line="16" column="11" />
         <mark key="]" line="16" column="11" />
         <mark key="^" line="13" column="35" />
         <mark key="." line="16" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/ex_setup_s01_ex01.py" timestamp="1478483279414">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/main.py" timestamp="1492681504779">
         <mark key="[" line="80" column="33" />
@@ -120,41 +90,17 @@
         <mark key="." line="221" column="55" />
         <mark key="^" line="235" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex02.py" timestamp="1456469140232">
-        <mark key="[" line="134" column="56" />
-        <mark key="]" line="134" column="58" />
-        <mark key="." line="134" column="58" />
-        <mark key="^" line="134" column="58" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex13.py" timestamp="1457372362359">
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="61" column="37" />
-        <mark key="^" line="61" column="37" />
-        <mark key="." line="61" column="37" />
-      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
         <mark key="]" line="35" column="5" />
         <mark key="." line="35" column="5" />
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="249" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/classA.py" timestamp="1455035486300">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/keras-tests/sequential1/xor.py" timestamp="1492202266433">
-        <mark key="[" line="29" column="43" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="25" column="75" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.7_2.py" timestamp="1455232004414">
         <mark key="[" line="6" column="37" />
@@ -165,45 +111,10 @@
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/rnn/rnn_01.py" timestamp="1493250475256">
         <mark key="'" line="156" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/prepare.sh" timestamp="1491852817167">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1456927830462">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="47" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="22" column="47" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455226933683">
-        <mark key="[" line="269" column="40" />
-        <mark key="]" line="269" column="41" />
-        <mark key="^" line="210" column="21" />
-        <mark key="." line="269" column="41" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/screen.py" timestamp="1479521624221">
-        <mark key="[" line="10" column="78" />
-        <mark key="]" line="11" column="68" />
-        <mark key="." line="11" column="68" />
-        <mark key="^" line="11" column="68" />
-      </file>
       <file name="$USER_HOME$/repositories/Python3Tests/simple_dec.py" timestamp="1481094077789">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482544924060">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="31" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nvidia-fanspeed/nvidia-fan-speed.py" timestamp="1492611623773">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="16" />
-        <mark key="^" line="0" column="16" />
-        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" timestamp="1482460186481">
         <mark key="[" line="9" column="0" />
@@ -217,54 +128,11 @@
         <mark key="^" line="50" column="15" />
         <mark key="." line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="29" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex03.py" timestamp="1456938867152">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="56" column="37" />
-        <mark key="^" line="56" column="37" />
-        <mark key="." line="56" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_log_data_types.py" timestamp="1456569248501">
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="45" column="42" />
-        <mark key="^" line="45" column="42" />
-        <mark key="." line="45" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex12.py" timestamp="1457372241258">
-        <mark key="[" line="64" column="32" />
-        <mark key="]" line="64" column="33" />
-        <mark key="^" line="52" column="44" />
-        <mark key="." line="64" column="33" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1456452708710">
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="16" />
-        <mark key="." line="343" column="16" />
-        <mark key="^" line="58" column="40" />
-      </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/cnn.py" timestamp="1460218660197">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" timestamp="1492686148114">
-        <mark key="'" line="309" column="14" />
-        <mark key="[" line="463" column="23" />
-        <mark key="]" line="464" column="47" />
-        <mark key="." line="464" column="47" />
-        <mark key="^" line="464" column="47" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex01.py" timestamp="1457442186414">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/venv-setup.sh" timestamp="1491858259363">
         <mark key="[" line="23" column="25" />
@@ -278,62 +146,17 @@
         <mark key="." line="72" column="67" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_random_test.py" timestamp="1492895500460">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="57" />
-        <mark key="^" line="23" column="57" />
-        <mark key="." line="23" column="57" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457370726349">
-        <mark key="[" line="63" column="37" />
-        <mark key="]" line="63" column="38" />
-        <mark key="." line="63" column="38" />
-        <mark key="^" line="63" column="41" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/gen_words.py" timestamp="1479346610831">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex09.py" timestamp="1456533286459">
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
         <mark key="^" line="345" column="82" />
       </file>
-      <file name="/__dummy.xml" timestamp="1493505031005">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test1.3.py" timestamp="1454988236803">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/hdr-sample.txt" timestamp="1481673267682">
-        <mark key="[" line="31" column="107" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455033587706">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/main.py" timestamp="1482453581131">
         <mark key="[" line="15" column="34" />
         <mark key="]" line="15" column="84" />
         <mark key="^" line="15" column="84" />
         <mark key="." line="15" column="84" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/download.py" timestamp="1492680452042">
-        <mark key="[" line="23" column="62" />
-        <mark key="]" line="23" column="62" />
-        <mark key="^" line="23" column="48" />
-        <mark key="." line="23" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex11.py" timestamp="1456533586210">
         <mark key="[" line="7" column="33" />
@@ -369,18 +192,6 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s05_ex05.py" timestamp="1456988674421">
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="32" column="61" />
-        <mark key="." line="32" column="61" />
-        <mark key="^" line="32" column="61" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test.py" timestamp="1457432853149">
-        <mark key="[" line="53" column="7" />
-        <mark key="]" line="86" column="16" />
-        <mark key="." line="86" column="16" />
-        <mark key="^" line="86" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" timestamp="1482460282061">
         <mark key="'" line="175" column="0" />
@@ -436,12 +247,6 @@
         <mark key="[" line="223" column="0" />
         <mark key="]" line="252" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07.py" timestamp="1455232154861">
-        <mark key="[" line="149" column="48" />
-        <mark key="]" line="149" column="57" />
-        <mark key="." line="149" column="57" />
-        <mark key="^" line="149" column="57" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_04.py" timestamp="1455115201647">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -466,26 +271,8 @@
         <mark key="^" line="136" column="51" />
         <mark key="." line="136" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_speed.py" timestamp="1455916715516">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_converter.py" timestamp="1460230019707">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="51" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" timestamp="1493528035062">
         <mark key="'" line="56" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/README.md" timestamp="1491865546804">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="41" column="101" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataSequence.py" timestamp="1456327307429">
         <mark key="[" line="25" column="0" />
@@ -497,12 +284,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="23" column="36" />
-        <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan_original_model.py" timestamp="1493254669428">
         <mark key="[" line="107" column="0" />
@@ -539,12 +320,6 @@
         <mark key="." line="155" column="51" />
         <mark key="^" line="155" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="23" column="35" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/cross_entropy.py" timestamp="1455108689016">
         <mark key="[" line="23" column="27" />
         <mark key="]" line="21" column="109" />
@@ -556,12 +331,6 @@
         <mark key="]" line="61" column="37" />
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/read_txt.py" timestamp="1482548261898">
-        <mark key="[" line="188" column="32" />
-        <mark key="]" line="188" column="38" />
-        <mark key="." line="188" column="38" />
-        <mark key="^" line="188" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_tests/mnist.py" timestamp="1492946219164">
         <mark key="'" line="63" column="26" />
@@ -582,24 +351,6 @@
         <mark key="." line="284" column="72" />
         <mark key="^" line="284" column="72" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481850534796">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482459906325">
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="34" column="18" />
-        <mark key="." line="34" column="18" />
-        <mark key="^" line="34" column="18" />
-      </file>
-      <file name="$USER_HOME$/repositories/keras-tests/sequential1/xor2.py" timestamp="1492202563833">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="43" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_32.py" timestamp="1454979681871">
         <mark key="[" line="285" column="16" />
         <mark key="]" line="285" column="17" />
@@ -617,6 +368,503 @@
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/plot_assist.py" timestamp="1457054635714">
+        <mark key="[" line="33" column="74" />
+        <mark key="]" line="33" column="53" />
+        <mark key="^" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460218725779">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="5" column="8" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/keras-dcgan/dcgan.py" timestamp="1493040340364">
+        <mark key="'" line="24" column="42" />
+        <mark key="[" line="110" column="63" />
+        <mark key="]" line="110" column="11" />
+        <mark key="." line="110" column="11" />
+        <mark key="^" line="110" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words_ui.py" timestamp="1479873870053">
+        <mark key="[" line="142" column="64" />
+        <mark key="]" line="142" column="65" />
+        <mark key="." line="142" column="65" />
+        <mark key="^" line="142" column="64" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
+        <mark key="[" line="165" column="53" />
+        <mark key="]" line="165" column="54" />
+        <mark key="." line="165" column="54" />
+        <mark key="^" line="101" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex12.py" timestamp="1456536908758">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493526721090">
+        <mark key="'" line="195" column="7" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="119" column="62" />
+        <mark key="." line="239" column="32" />
+        <mark key="^" line="239" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479527021809">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460220137305">
+        <mark key="[" line="11" column="41" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/main.py" timestamp="1482527963109">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_models/tutorials/image/cifar10/cifar10.py" timestamp="1492050255387">
+        <mark key="[" line="52" column="42" />
+        <mark key="]" line="52" column="62" />
+        <mark key="^" line="52" column="62" />
+        <mark key="." line="52" column="62" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
+        <mark key="[" line="32" column="19" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex01.py" timestamp="1457506828348">
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="63" column="39" />
+        <mark key="^" line="63" column="39" />
+        <mark key="." line="63" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/debug_plotter/plot_train_images.py" timestamp="1478644481869">
+        <mark key="[" line="9" column="55" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1481388477933">
+        <mark key="[" line="104" column="67" />
+        <mark key="]" line="104" column="68" />
+        <mark key="." line="104" column="68" />
+        <mark key="^" line="104" column="68" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/main.py" timestamp="1479527485180">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_08.py" timestamp="1455263632842">
+        <mark key="[" line="203" column="26" />
+        <mark key="]" line="203" column="27" />
+        <mark key="." line="203" column="27" />
+        <mark key="^" line="203" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/setup.sh" timestamp="1491858484451">
+        <mark key="'" line="12" column="25" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot_train.py" timestamp="1457287079982">
+        <mark key="[" line="115" column="48" />
+        <mark key="]" line="116" column="54" />
+        <mark key="^" line="116" column="54" />
+        <mark key="." line="116" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="40" column="55" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="61" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot.py" timestamp="1457287014994">
+        <mark key="[" line="84" column="42" />
+        <mark key="]" line="86" column="45" />
+        <mark key="." line="86" column="45" />
+        <mark key="^" line="86" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1455029566011">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="59" />
+        <mark key="^" line="285" column="57" />
+        <mark key="." line="285" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/screen.py" timestamp="1482542950405">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="23" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="67" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot_test.py" timestamp="1457370936346">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="43" column="14" />
+        <mark key="^" line="43" column="14" />
+        <mark key="." line="43" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/typing.py" timestamp="1458529188907">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/heatmap_plot.py" timestamp="1457357297582">
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="14" />
+        <mark key="^" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455582008943">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="277" column="65" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455911463662">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/iter_split_every_n.py" timestamp="1482373033522">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456532787821">
+        <mark key="[" line="134" column="70" />
+        <mark key="]" line="134" column="71" />
+        <mark key="." line="134" column="71" />
+        <mark key="^" line="134" column="68" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="105" column="50" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455571384948">
+        <mark key="[" line="158" column="30" />
+        <mark key="]" line="159" column="71" />
+        <mark key="." line="169" column="48" />
+        <mark key="^" line="129" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-test1/download.py" timestamp="1492682207808">
+        <mark key="[" line="172" column="28" />
+        <mark key="]" line="173" column="35" />
+        <mark key="^" line="173" column="35" />
+        <mark key="." line="173" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/check_iter_split_every_n.py" timestamp="1482371820875">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_colors.py" timestamp="1455923532338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492873949518">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/read_input_data.py" timestamp="1453972758900">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_netclass.py" timestamp="1493036604157">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/models/abstr_model.py" timestamp="1480354687330">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/curse_multiprocessing_without_pool.py" timestamp="1482530500999">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="19" column="35" />
+        <mark key="." line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/dir_list.py" timestamp="1454733065808">
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/keras-dcgan/dcgan.py" timestamp="1493289913460">
+        <mark key="[" line="175" column="43" />
+        <mark key="]" line="175" column="58" />
+        <mark key="^" line="175" column="58" />
+        <mark key="." line="175" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex13.py" timestamp="1456569481498">
+        <mark key="[" line="139" column="42" />
+        <mark key="]" line="139" column="34" />
+        <mark key="." line="139" column="34" />
+        <mark key="^" line="139" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex18.py" timestamp="1457383573418">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/ex_setup_s01_ex01.py" timestamp="1478483279414">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex02.py" timestamp="1456469140232">
+        <mark key="[" line="134" column="56" />
+        <mark key="]" line="134" column="58" />
+        <mark key="." line="134" column="58" />
+        <mark key="^" line="134" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex13.py" timestamp="1457372362359">
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="61" column="37" />
+        <mark key="^" line="61" column="37" />
+        <mark key="." line="61" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="249" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/keras-tests/sequential1/xor.py" timestamp="1492202266433">
+        <mark key="[" line="29" column="43" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="25" column="75" />
+      </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/prepare.sh" timestamp="1491852817167">
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/distribution.py" timestamp="1456927830462">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="47" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="22" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_06.py" timestamp="1455226933683">
+        <mark key="[" line="269" column="40" />
+        <mark key="]" line="269" column="41" />
+        <mark key="^" line="210" column="21" />
+        <mark key="." line="269" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/screen.py" timestamp="1479521624221">
+        <mark key="[" line="10" column="78" />
+        <mark key="]" line="11" column="68" />
+        <mark key="." line="11" column="68" />
+        <mark key="^" line="11" column="68" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/screen.py" timestamp="1482544924060">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="31" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nvidia-fanspeed/nvidia-fan-speed.py" timestamp="1492611623773">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/read_pdf.py" timestamp="1479872886811">
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="29" />
+        <mark key="^" line="38" column="29" />
+        <mark key="." line="38" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex03.py" timestamp="1456938867152">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="56" column="37" />
+        <mark key="^" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_log_data_types.py" timestamp="1456569248501">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex12.py" timestamp="1457372241258">
+        <mark key="[" line="64" column="32" />
+        <mark key="]" line="64" column="33" />
+        <mark key="^" line="52" column="44" />
+        <mark key="." line="64" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex01.py" timestamp="1456452708710">
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="343" column="16" />
+        <mark key="." line="343" column="16" />
+        <mark key="^" line="58" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" timestamp="1492686148114">
+        <mark key="'" line="309" column="14" />
+        <mark key="[" line="463" column="23" />
+        <mark key="]" line="464" column="47" />
+        <mark key="." line="464" column="47" />
+        <mark key="^" line="464" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s07_ex01.py" timestamp="1457442186414">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_random_test.py" timestamp="1492895500460">
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="57" />
+        <mark key="^" line="23" column="57" />
+        <mark key="." line="23" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex06.py" timestamp="1457370726349">
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="38" />
+        <mark key="." line="63" column="38" />
+        <mark key="^" line="63" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/gen_words.py" timestamp="1479346610831">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+      </file>
+      <file name="/__dummy.xml" timestamp="1493505031005">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test1.3.py" timestamp="1454988236803">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/hdr-sample.txt" timestamp="1481673267682">
+        <mark key="[" line="31" column="107" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.1.py" timestamp="1455033587706">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1/download.py" timestamp="1492680452042">
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="23" column="62" />
+        <mark key="^" line="23" column="48" />
+        <mark key="." line="23" column="62" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s05_ex05.py" timestamp="1456988674421">
+        <mark key="[" line="17" column="49" />
+        <mark key="]" line="32" column="61" />
+        <mark key="." line="32" column="61" />
+        <mark key="^" line="32" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tests/multi_gpu_test.py" timestamp="1457432853149">
+        <mark key="[" line="53" column="7" />
+        <mark key="]" line="86" column="16" />
+        <mark key="." line="86" column="16" />
+        <mark key="^" line="86" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07.py" timestamp="1455232154861">
+        <mark key="[" line="149" column="48" />
+        <mark key="]" line="149" column="57" />
+        <mark key="." line="149" column="57" />
+        <mark key="^" line="149" column="57" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_speed.py" timestamp="1455916715516">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_converter.py" timestamp="1460230019707">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="51" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/README.md" timestamp="1491865546804">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="17" />
+        <mark key="^" line="41" column="101" />
+      </file>
+      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+      </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
+        <mark key="[" line="23" column="34" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="23" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/read_txt.py" timestamp="1482548261898">
+        <mark key="[" line="188" column="32" />
+        <mark key="]" line="188" column="38" />
+        <mark key="." line="188" column="38" />
+        <mark key="^" line="188" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/text1.py" timestamp="1481850534796">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/check_read_txt.py" timestamp="1482459906325">
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/keras-tests/sequential1/xor2.py" timestamp="1492202563833">
+        <mark key="[" line="29" column="42" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex02.py" timestamp="1456938881676">
         <mark key="[" line="46" column="16" />
@@ -681,30 +929,11 @@
         <mark key="^" line="56" column="40" />
         <mark key="." line="56" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/plot_assist.py" timestamp="1457054635714">
-        <mark key="[" line="33" column="74" />
-        <mark key="]" line="33" column="53" />
-        <mark key="^" line="33" column="53" />
-        <mark key="." line="33" column="53" />
-      </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/main.py" timestamp="1460218725779">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="8" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s06_ex10.py" timestamp="1457331503040">
         <mark key="[" line="7" column="33" />
         <mark key="]" line="52" column="17" />
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/keras-dcgan/dcgan.py" timestamp="1493040340364">
-        <mark key="'" line="24" column="42" />
-        <mark key="[" line="110" column="63" />
-        <mark key="]" line="110" column="11" />
-        <mark key="." line="110" column="11" />
-        <mark key="^" line="110" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series05/cnn_series05_ex07.py" timestamp="1457057691983">
         <mark key="[" line="355" column="65" />
@@ -712,71 +941,16 @@
         <mark key="^" line="258" column="32" />
         <mark key="." line="355" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words_ui.py" timestamp="1479873870053">
-        <mark key="[" line="142" column="64" />
-        <mark key="]" line="142" column="65" />
-        <mark key="." line="142" column="65" />
-        <mark key="^" line="142" column="64" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
-        <mark key="[" line="165" column="53" />
-        <mark key="]" line="165" column="54" />
-        <mark key="." line="165" column="54" />
-        <mark key="^" line="101" column="31" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s01_ex12.py" timestamp="1456536908758">
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="36" column="36" />
-        <mark key="." line="36" column="36" />
-        <mark key="^" line="36" column="36" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493526721090">
-        <mark key="'" line="195" column="7" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="119" column="62" />
-        <mark key="." line="239" column="32" />
-        <mark key="^" line="239" column="43" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479527021809">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex12.py" timestamp="1456536830075">
         <mark key="[" line="136" column="37" />
         <mark key="]" line="136" column="36" />
         <mark key="^" line="136" column="36" />
         <mark key="." line="136" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/test_cnn.py" timestamp="1460220137305">
-        <mark key="[" line="11" column="41" />
-        <mark key="]" line="13" column="51" />
-        <mark key="^" line="13" column="51" />
-        <mark key="." line="13" column="51" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/main.py" timestamp="1482527963109">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="12" column="14" />
-        <mark key="^" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_models/tutorials/image/cifar10/cifar10.py" timestamp="1492050255387">
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="62" />
-        <mark key="^" line="52" column="62" />
-        <mark key="." line="52" column="62" />
-      </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493560566616">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="8" />
         <mark key="." line="35" column="8" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
-        <mark key="[" line="32" column="19" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_tests/mnist2.py" timestamp="1493037272564">
         <mark key="[" line="32" column="0" />
@@ -790,29 +964,11 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex01.py" timestamp="1457506828348">
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="63" column="39" />
-        <mark key="^" line="63" column="39" />
-        <mark key="." line="63" column="39" />
-      </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/debug_plotter/plot_train_images.py" timestamp="1478644481869">
-        <mark key="[" line="9" column="55" />
-        <mark key="]" line="9" column="54" />
-        <mark key="." line="9" column="54" />
-        <mark key="^" line="9" column="54" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex16.py" timestamp="1457372401822">
         <mark key="[" line="61" column="36" />
         <mark key="]" line="49" column="19" />
         <mark key="^" line="49" column="19" />
         <mark key="." line="49" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/README.md" timestamp="1481388477933">
-        <mark key="[" line="104" column="67" />
-        <mark key="]" line="104" column="68" />
-        <mark key="." line="104" column="68" />
-        <mark key="^" line="104" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex05.py" timestamp="1456469922260">
         <mark key="[" line="134" column="41" />
@@ -826,60 +982,17 @@
         <mark key="^" line="344" column="56" />
         <mark key="." line="344" column="56" />
       </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/main.py" timestamp="1479527485180">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_08.py" timestamp="1455263632842">
-        <mark key="[" line="203" column="26" />
-        <mark key="]" line="203" column="27" />
-        <mark key="." line="203" column="27" />
-        <mark key="^" line="203" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/setup.sh" timestamp="1491858484451">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="19" />
-        <mark key="^" line="18" column="29" />
-        <mark key="." line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot_train.py" timestamp="1457287079982">
-        <mark key="[" line="115" column="48" />
-        <mark key="]" line="116" column="54" />
-        <mark key="^" line="116" column="54" />
-        <mark key="." line="116" column="54" />
-      </file>
       <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-python.sh" timestamp="1491858386621">
         <mark key="[" line="51" column="42" />
         <mark key="]" line="53" column="7" />
         <mark key="^" line="53" column="7" />
         <mark key="." line="53" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/label_images/v1/label.py" timestamp="1454985081344">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="40" column="55" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="61" column="34" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_3.py" timestamp="1455260101801">
         <mark key="[" line="149" column="56" />
         <mark key="]" line="149" column="50" />
         <mark key="." line="149" column="50" />
         <mark key="^" line="149" column="50" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot.py" timestamp="1457287014994">
-        <mark key="[" line="84" column="42" />
-        <mark key="]" line="86" column="45" />
-        <mark key="." line="86" column="45" />
-        <mark key="^" line="86" column="45" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional.py" timestamp="1455029566011">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="59" />
-        <mark key="^" line="285" column="57" />
-        <mark key="." line="285" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_05.py" timestamp="1455116785459">
         <mark key="[" line="7" column="19" />
@@ -911,23 +1024,11 @@
         <mark key="." line="58" column="33" />
         <mark key="^" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/screen.py" timestamp="1482542950405">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="23" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="67" column="30" />
-      </file>
       <file name="$USER_HOME$/repositories/tensorflow_models/tutorials/image/cifar10/cifar10_train.py" timestamp="1492051806915">
         <mark key="[" line="47" column="42" />
         <mark key="]" line="47" column="63" />
         <mark key="." line="47" column="63" />
         <mark key="^" line="47" column="63" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series04/cnn_series04_ex19.py" timestamp="1456915377018">
         <mark key="[" line="48" column="19" />
@@ -935,41 +1036,17 @@
         <mark key="." line="48" column="56" />
         <mark key="^" line="48" column="56" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/distribution_img_plot_test.py" timestamp="1457370936346">
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="43" column="14" />
-        <mark key="^" line="43" column="14" />
-        <mark key="." line="43" column="14" />
-      </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/typing.py" timestamp="1458529188907">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/repositories/Python3Tests/blessed_multiprocessing_with_pool.py" timestamp="1482542081960">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/heatmap_plot.py" timestamp="1457357297582">
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="37" column="14" />
-        <mark key="^" line="37" column="14" />
-        <mark key="." line="37" column="14" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/ex_setup_s05_ex01.py" timestamp="1456940627414">
         <mark key="[" line="17" column="48" />
         <mark key="]" line="32" column="60" />
         <mark key="." line="32" column="60" />
         <mark key="^" line="32" column="60" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_05.py" timestamp="1455582008943">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="277" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex11.py" timestamp="1457331442390">
         <mark key="[" line="49" column="18" />
@@ -1001,53 +1078,11 @@
         <mark key="^" line="22" column="29" />
         <mark key="." line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/Python2.7Tests/decorator.py" timestamp="1455911463662">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="24" />
-        <mark key="." line="22" column="24" />
-        <mark key="^" line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/iter_split_every_n.py" timestamp="1482373033522">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/cnn_series01_ex08.py" timestamp="1456532787821">
-        <mark key="[" line="134" column="70" />
-        <mark key="]" line="134" column="71" />
-        <mark key="." line="134" column="71" />
-        <mark key="^" line="134" column="68" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex05.py" timestamp="1457371754494">
         <mark key="[" line="52" column="23" />
         <mark key="]" line="52" column="24" />
         <mark key="." line="52" column="24" />
         <mark key="^" line="429" column="59" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_01.py" timestamp="1455581403359">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="105" column="50" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07_6.py" timestamp="1455571384948">
-        <mark key="[" line="158" column="30" />
-        <mark key="]" line="159" column="71" />
-        <mark key="." line="169" column="48" />
-        <mark key="^" line="129" column="49" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-test1/download.py" timestamp="1492682207808">
-        <mark key="[" line="172" column="28" />
-        <mark key="]" line="173" column="35" />
-        <mark key="^" line="173" column="35" />
-        <mark key="." line="173" column="35" />
-      </file>
-      <file name="$USER_HOME$/repositories/litos-dmai-core/extra/check_iter_split_every_n.py" timestamp="1482371820875">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/cnn_models/log_plot/plot_train.py" timestamp="1478645268563">
         <mark key="[" line="60" column="29" />
@@ -1073,12 +1108,6 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/enum_colors.py" timestamp="1455923532338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="20" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_3/conv_net_test3_02.py" timestamp="1455556848931">
         <mark key="[" line="16" column="33" />
         <mark key="]" line="16" column="34" />
@@ -1091,28 +1120,11 @@
         <mark key="^" line="264" column="0" />
         <mark key="." line="364" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492873949518">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
         <mark key="[" line="285" column="16" />
         <mark key="]" line="285" column="17" />
         <mark key="^" line="285" column="17" />
         <mark key="." line="285" column="17" />
-      </file>
-      <file name="$USER_HOME$/repositories/bachelor-thesis/code/test-training-1/read_input_data.py" timestamp="1453972758900">
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="47" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/tf_netclass.py" timestamp="1493036604157">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/img_load_save/ils_class.py" timestamp="1454989045378">
         <mark key="[" line="5" column="8" />
@@ -1242,10 +1254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJkZyIsIHJldXNlPVRydWUpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZhcikK</text>
       </register>
       <register name="-" type="4">
-        <text>batch_size</text>
+        <text>tf</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
@@ -1254,34 +1266,37 @@
         <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1iYXRjaF9zaXplIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAwLCBoZWxwPSJpbnRlZ2VyLCBkZWZhdWx0IGlzIDEwMCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHRmLnZhcmlhYmxlX3Njb3BlKCJkZyIsIHJldXNlPVRydWUpOgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdCgpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHZhciBpbiB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCk6CiAgICAgICAgICAgICAgICBwcmludCh2YXIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZhcikK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImFsbCB2YXJpYWJsZXMiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHZhcikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoInRyYWluYWJsZSB2YXJzIikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gbmFtZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIHZhciBpbiB0Zi50cmFpbmFibGVfdmFyaWFibGVzKCk6CiAgICAgICAgICAgICAgICBwcmludCh2YXIpCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJyOgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="8">
+        <text>self
+self
+self
+self</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IDEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1323,18 +1338,18 @@
         <entry>action MethodHierarchyPopupMenu</entry>
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
-        <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action GotoSymbol</entry>
         <entry>nohlsearch</entry>
+        <entry>qa</entry>
+        <entry>action SearchEverywhere</entry>
+        <entry>W</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>W</entry>
         <entry>w</entry>
-        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
