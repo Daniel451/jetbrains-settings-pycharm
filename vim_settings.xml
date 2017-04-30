@@ -767,11 +767,11 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493530114951">
-        <mark key="[" line="182" column="33" />
-        <mark key="]" line="189" column="45" />
-        <mark key="." line="189" column="45" />
-        <mark key="^" line="189" column="45" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493534173864">
+        <mark key="[" line="201" column="90" />
+        <mark key="]" line="203" column="28" />
+        <mark key="^" line="203" column="28" />
+        <mark key="." line="203" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -1140,7 +1140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="14" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="140" column="28" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="13" column="9" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
       <jump line="62" column="18" filename="$USER_HOME$/repositories/keras-dcgan/dcgan.py" />
@@ -1240,46 +1239,47 @@
       <jump line="55" column="32" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
       <jump line="56" column="32" filename="$USER_HOME$/repositories/tensorflow_dcgan/face-generator/train.py" />
       <jump line="116" column="16" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
+      <jump line="119" column="45" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuYW1lICE9ICIiOgogICAgICAgICAgICBwc3RyCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuUEFJKGRlYnVnX0cpCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1pbWdfc2F2ZV9wYXRoIiwgdHlwZT1zdHIsIGRlZmF1bHQ9IiIsIGhlbHA9InBhdGggd2hlcmUgdG8gc3RvcmUgZ2VuZXJhdGVkIGltYWdlcyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuYW1lICE9ICIiOgogICAgICAgICAgICBwc3RyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmF0Y2hfc2l6ZSA9IDEwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuREcsIHNlbGYuREdfbG9naXRzID0gc2VsZi5tb2RlbF9kaXNjcmltaW5hdG9yKHNlbGYubW9kZWxfZ2VuZXJhdG9yKHNlbGYuWiwgcmV1c2U9VHJ1ZSksIHJldXNlPVRydWUsIHRyYWluYWJsZT1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzX29uZXMgPSBucC5vbmVzKChiYXRjaF9zaXplLCAyKSwgZHR5cGU9bnAuZmxvYXQzMikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkcgPSBzZWxmLm1vZGVsX2dlbmVyYXRvcihzZWxmLlopCiAgICAgICAgc2VsZi5EID0gc2VsZi5tb2RlbF9kaXNjcmltaW5hdG9yKHNlbGYuWCkKICAgICAgICBzZWxmLkRHID0gc2VsZi5tb2RlbF9kaXNjcmltaW5hdG9yKHNlbGYubW9kZWxfZ2VuZXJhdG9yKHNlbGYuWiwgcmV1c2U9VHJ1ZSksIHJldXNlPVRydWUsIHRyYWluYWJsZT1GYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYmF0Y2hfeC5zaGFwZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBsYWJlbHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzX3plcm9zID0gbnAuemVyb3MoKGJhdGNoX3NpemUsIDIpLCBkdHlwZT1ucC5mbG9hdDMyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYuUEFJKGRlYnVnRCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdmFyIGluIHRmLmdldF9jb2xsZWN0aW9uKHRmLkdyYXBoS2V5cy5HTE9CQUxfVkFSSUFCTEVTLCBzY29wZT0nZycpOgogICAgICAgICAgICBwcmludCh2YXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3NlbGYuUEFJKGRlYnVneSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjc2VsZi5QQUkoc2luZ2xlX2ltYWdlX2RhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1332,17 +1332,17 @@
         <entry>action MethodHierarchyPopupMenu</entry>
         <entry>action GotoClass</entry>
         <entry>qa</entry>
-        <entry>redo</entry>
         <entry>action RenameElement</entry>
         <entry>action GotoSymbol</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
+        <entry>redo</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
         <entry>W</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
