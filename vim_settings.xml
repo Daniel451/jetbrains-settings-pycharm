@@ -724,12 +724,12 @@
         <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493510710239">
-        <mark key="'" line="105" column="14" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="^" line="225" column="34" />
-        <mark key="." line="225" column="0" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" timestamp="1493512990340">
+        <mark key="'" line="195" column="7" />
+        <mark key="[" line="239" column="32" />
+        <mark key="]" line="239" column="32" />
+        <mark key="." line="239" column="32" />
+        <mark key="^" line="239" column="43" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" timestamp="1479527021809">
         <mark key="[" line="12" column="25" />
@@ -1128,29 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="17" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="253" column="24" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="7" column="44" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
-      <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="19" column="10" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
-      <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="161" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="168" column="28" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="26" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="41" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="67" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="158" column="41" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="155" column="27" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
       <jump line="163" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
       <jump line="35" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
       <jump line="43" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
@@ -1228,55 +1205,78 @@
       <jump line="140" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
       <jump line="220" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
       <jump line="105" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="231" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="292" column="28" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="324" column="31" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="333" column="59" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="340" column="55" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="378" column="27" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="395" column="58" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="94" column="32" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="152" column="20" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="206" column="8" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="232" column="23" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="235" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="236" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="237" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="238" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="239" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="240" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="184" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="241" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="197" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
+      <jump line="196" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/test3-keras/dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRldGltZV9zdHIgPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgiWyVZLSVtLSVkIHwgJUg6JU1dIikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>random</text>
+        <text>plot</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmLCBheCA9IHBsdC5zdWJwbG90cygpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGxvdF90cmFpbmluZ190aW1lcyhlcG9jaF90aW1lX2NvbnRhaW5lciwgImVwb2NoIHRyYWluaW5nIHRpbWluZ3MiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRldGltZV9zdHIgPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgiWyVZLSVtLSVkIHwgJUg6JU1dIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fcGxvdF90cmFpbmluZ190aW1lcyhiYXRjaF90aW1lX2NvbnRhaW5lciwgImVwb2NoIHRyYWluaW5nIHRpbWluZ3MiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfbmFtZSA9ICJpbWdfZXBvY2hfezowPjR9X2l0X3s6MD4zfS5qcGciLmZvcm1hdChlcG9jaCwgaSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGdlbmVyYXRvci5sb2FkX3dlaWdodHMoJ2dlbmVyYXRvcicpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjaW0uc2F2ZShpbWdfcGF0aCArIGltZ19uYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGdlbmVyYXRvci5jb21waWxlKGxvc3M9J2JpbmFyeV9jcm9zc2VudHJvcHknLCBvcHRpbWl6ZXI9IlNHRCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltZ19wYXRoID0gYXJncy5pbWdfc2F2ZV9wYXRoCiAgICAgICAgIyBpZiBpbWdfcGF0aFstMV0gIT0gIi8iOgogICAgICAgICMgICAgIGltZ19wYXRoICs9ICIvIgo=</text>
+        <text encoding="base64">CgoKCgoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGYuc2F2ZWZpZyhpbWdfcGF0aCArIGltZ19uYW1lKQogICAgICAgICMgZi5zYXZlZmlnKGltZ19uYW1lKQogICAgICAgICMgcGx0LmNsb3NlKGYpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRldGltZV9zdHIgPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgiWyVZLSVtLSVkIHwgJUg6JU1dIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGYuc2hvdygpCiAgICAgICAgIyBwbHQucGF1c2UoMC4wMSkK</text>
+        <text encoding="base64">ICAgICAgICBpbWdfbmFtZSA9ICJpbWdfZXBvY2hfezowPjR9X2l0X3s6MD4zfS5qcGciLmZvcm1hdChlcG9jaCwgaSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYmFyLnJlbW92ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjaW0uc2F2ZShpbWdfcGF0aCArIGltZ19uYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYmFyID0gZi5jb2xvcmJhcihjYXgpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltZ19wYXRoID0gYXJncy5pbWdfc2F2ZV9wYXRoCiAgICAgICAgIyBpZiBpbWdfcGF0aFstMV0gIT0gIi8iOgogICAgICAgICMgICAgIGltZ19wYXRoICs9ICIvIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbWdfY29udGFpbmVyID0gZ2V0X2ltZ19wbG90X2NvbnRhaW5lcihiYXRjaCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGYuc2F2ZWZpZyhpbWdfcGF0aCArIGltZ19uYW1lKQogICAgICAgICMgZi5zYXZlZmlnKGltZ19uYW1lKQogICAgICAgICMgcGx0LmNsb3NlKGYpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>random</last-search>
+      <last-search>plot</last-search>
       <last-offset />
-      <last-pattern>random</last-pattern>
+      <last-pattern>plot</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1301,8 +1301,9 @@
         <entry>path</entry>
         <entry>flag</entry>
         <entry>mnist</entry>
-        <entry>plot</entry>
         <entry>random</entry>
+        <entry>epoch</entry>
+        <entry>plot</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
@@ -1320,10 +1321,11 @@
         <entry>redo</entry>
         <entry>q</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action RenameElement</entry>
+        <entry>action GotoSymbol</entry>
         <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action GotoSymbol</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
