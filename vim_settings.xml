@@ -33,7 +33,7 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493290500540">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493537024900">
         <mark key="[" line="169" column="61" />
         <mark key="]" line="169" column="73" />
         <mark key="." line="169" column="73" />
@@ -195,7 +195,8 @@
         <mark key="." line="100" column="30" />
         <mark key="^" line="100" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" timestamp="1493038639645">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" timestamp="1493538622282">
+        <mark key="'" line="105" column="37" />
         <mark key="[" line="49" column="44" />
         <mark key="]" line="50" column="15" />
         <mark key="^" line="50" column="15" />
@@ -458,6 +459,9 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="41" column="101" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/zsdonghao-dcgan/main.py" timestamp="1493538486263">
+        <mark key="'" line="75" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series01/DataSequence.py" timestamp="1456327307429">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -602,6 +606,9 @@
         <mark key="]" line="116" column="45" />
         <mark key="^" line="116" column="45" />
         <mark key="." line="116" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" timestamp="1493538405110">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454874114639">
         <mark key="[" line="47" column="28" />
@@ -790,6 +797,12 @@
         <mark key="]" line="116" column="54" />
         <mark key="^" line="116" column="54" />
         <mark key="." line="116" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan_binary.py" timestamp="1493538143081">
+        <mark key="[" line="152" column="31" />
+        <mark key="]" line="146" column="44" />
+        <mark key="." line="146" column="44" />
+        <mark key="^" line="146" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/robocup-ai/setup-scripts/compile-python.sh" timestamp="1491858386621">
         <mark key="[" line="51" column="42" />
@@ -1074,15 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="28" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="56" column="8" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="233" column="19" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="287" column="30" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="381" column="47" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="72" column="32" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="98" column="27" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="175" column="37" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
-      <jump line="218" column="32" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="223" column="17" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="253" column="24" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/abstr_model.py" />
       <jump line="7" column="44" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
@@ -1174,57 +1178,66 @@
       <jump line="101" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
       <jump line="104" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
       <jump line="106" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/zsdonghao-dcgan/main.py" />
+      <jump line="70" column="38" filename="$USER_HOME$/repositories/tensorflow_dcgan/zsdonghao-dcgan/main.py" />
+      <jump line="72" column="38" filename="$USER_HOME$/repositories/tensorflow_dcgan/zsdonghao-dcgan/main.py" />
+      <jump line="75" column="33" filename="$USER_HOME$/repositories/tensorflow_dcgan/zsdonghao-dcgan/main.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
+      <jump line="99" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
+      <jump line="111" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
+      <jump line="105" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLlkgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMl0sIG5hbWU9IlkiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>nice</text>
+        <text>float32</text>
       </register>
       <register name="/" type="4">
-        <text>mnist</text>
+        <text>cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLlkgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMl0sIG5hbWU9IlkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsYWJlbHNfZmFrZS5zaGFwZSwgbGFiZWxzX3JlYWwuc2hhcGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltYWdlID0gaW1hZ2UqMTI3LjUrMTI3LjUKICAgIEltYWdlLmZyb21hcnJheShpbWFnZS5hc3R5cGUobnAudWludDgpKS5zYXZlKAogICAgICAgICJnZW5lcmF0ZWRfaW1hZ2UucG5nIikK</text>
+        <text encoding="base64">ICAgICAgICAjIHNwYXJzZSBsYWJlbHMKICAgICAgICBsYWJlbHNfZmFrZSA9IG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGNvbWJpbmVfaW1hZ2VzKGdlbmVyYXRlZF9pbWFnZXMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5pY2U6CiAgICAgICAgZGlzY3JpbWluYXRvciA9IGRpc2NyaW1pbmF0b3JfbW9kZWwoKQogICAgICAgIGRpc2NyaW1pbmF0b3IuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPSJTR0QiKQogICAgICAgIGRpc2NyaW1pbmF0b3IubG9hZF93ZWlnaHRzKCdkaXNjcmltaW5hdG9yJykKICAgICAgICBub2lzZSA9IG5wLnplcm9zKChCQVRDSF9TSVpFKjIwLCAxMDApKQogICAgICAgIGZvciBpIGluIHJhbmdlKEJBVENIX1NJWkUqMjApOgogICAgICAgICAgICBub2lzZVtpLCA6XSA9IG5wLnJhbmRvbS51bmlmb3JtKC0xLCAxLCAxMDApCiAgICAgICAgZ2VuZXJhdGVkX2ltYWdlcyA9IGdlbmVyYXRvci5wcmVkaWN0KG5vaXNlLCB2ZXJib3NlPTEpCiAgICAgICAgZF9wcmV0ID0gZGlzY3JpbWluYXRvci5wcmVkaWN0KGdlbmVyYXRlZF9pbWFnZXMsIHZlcmJvc2U9MSkKICAgICAgICBpbmRleCA9IG5wLmFyYW5nZSgwLCBCQVRDSF9TSVpFKjIwKQogICAgICAgIGluZGV4LnJlc2l6ZSgoQkFUQ0hfU0laRSoyMCwgMSkpCiAgICAgICAgcHJlX3dpdGhfaW5kZXggPSBsaXN0KG5wLmFwcGVuZChkX3ByZXQsIGluZGV4LCBheGlzPTEpKQogICAgICAgIHByZV93aXRoX2luZGV4LnNvcnQoa2V5PWxhbWJkYSB4OiB4WzBdLCByZXZlcnNlPVRydWUpCiAgICAgICAgbmljZV9pbWFnZXMgPSBucC56ZXJvcygoQkFUQ0hfU0laRSwgMSkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdlbmVyYXRlZF9pbWFnZXMuc2hhcGVbMjpdKSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBmb3IgaSBpbiByYW5nZShpbnQoQkFUQ0hfU0laRSkpOgogICAgICAgICAgICBpZHggPSBpbnQocHJlX3dpdGhfaW5kZXhbaV1bMV0pCiAgICAgICAgICAgIG5pY2VfaW1hZ2VzW2ksIDAsIDosIDpdID0gZ2VuZXJhdGVkX2ltYWdlc1tpZHgsIDAsIDosIDpdCiAgICAgICAgaW1hZ2UgPSBjb21iaW5lX2ltYWdlcyhuaWNlX2ltYWdlcykKICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoQkFUQ0hfU0laRSk6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGltYWdlID0gaW1hZ2UqMTI3LjUrMTI3LjUKICAgIEltYWdlLmZyb21hcnJheShpbWFnZS5hc3R5cGUobnAudWludDgpKS5zYXZlKAogICAgICAgICJnZW5lcmF0ZWRfaW1hZ2UucG5nIikK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZSA9IGNvbWJpbmVfaW1hZ2VzKGdlbmVyYXRlZF9pbWFnZXMpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5vaXNlID0gbnAuemVyb3MoKEJBVENIX1NJWkUsIDEwMCkpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5pY2U6CiAgICAgICAgZGlzY3JpbWluYXRvciA9IGRpc2NyaW1pbmF0b3JfbW9kZWwoKQogICAgICAgIGRpc2NyaW1pbmF0b3IuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPSJTR0QiKQogICAgICAgIGRpc2NyaW1pbmF0b3IubG9hZF93ZWlnaHRzKCdkaXNjcmltaW5hdG9yJykKICAgICAgICBub2lzZSA9IG5wLnplcm9zKChCQVRDSF9TSVpFKjIwLCAxMDApKQogICAgICAgIGZvciBpIGluIHJhbmdlKEJBVENIX1NJWkUqMjApOgogICAgICAgICAgICBub2lzZVtpLCA6XSA9IG5wLnJhbmRvbS51bmlmb3JtKC0xLCAxLCAxMDApCiAgICAgICAgZ2VuZXJhdGVkX2ltYWdlcyA9IGdlbmVyYXRvci5wcmVkaWN0KG5vaXNlLCB2ZXJib3NlPTEpCiAgICAgICAgZF9wcmV0ID0gZGlzY3JpbWluYXRvci5wcmVkaWN0KGdlbmVyYXRlZF9pbWFnZXMsIHZlcmJvc2U9MSkKICAgICAgICBpbmRleCA9IG5wLmFyYW5nZSgwLCBCQVRDSF9TSVpFKjIwKQogICAgICAgIGluZGV4LnJlc2l6ZSgoQkFUQ0hfU0laRSoyMCwgMSkpCiAgICAgICAgcHJlX3dpdGhfaW5kZXggPSBsaXN0KG5wLmFwcGVuZChkX3ByZXQsIGluZGV4LCBheGlzPTEpKQogICAgICAgIHByZV93aXRoX2luZGV4LnNvcnQoa2V5PWxhbWJkYSB4OiB4WzBdLCByZXZlcnNlPVRydWUpCiAgICAgICAgbmljZV9pbWFnZXMgPSBucC56ZXJvcygoQkFUQ0hfU0laRSwgMSkgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGdlbmVyYXRlZF9pbWFnZXMuc2hhcGVbMjpdKSwgZHR5cGU9bnAuZmxvYXQzMikKICAgICAgICBmb3IgaSBpbiByYW5nZShpbnQoQkFUQ0hfU0laRSkpOgogICAgICAgICAgICBpZHggPSBpbnQocHJlX3dpdGhfaW5kZXhbaV1bMV0pCiAgICAgICAgICAgIG5pY2VfaW1hZ2VzW2ksIDAsIDosIDpdID0gZ2VuZXJhdGVkX2ltYWdlc1tpZHgsIDAsIDosIDpdCiAgICAgICAgaW1hZ2UgPSBjb21iaW5lX2ltYWdlcyhuaWNlX2ltYWdlcykKICAgIGVsc2U6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoQkFUQ0hfU0laRSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KFhfdHJhaW4uc2hhcGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>mnist</last-search>
+      <last-search>cross</last-search>
       <last-offset />
-      <last-pattern>mnist</last-pattern>
+      <last-pattern>cross</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1248,6 +1261,8 @@
         <entry>path</entry>
         <entry>flag</entry>
         <entry>mnist</entry>
+        <entry>loss</entry>
+        <entry>cross</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1260,16 +1275,16 @@
         <entry>wa</entry>
         <entry>23</entry>
         <entry>28</entry>
-        <entry>q</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>qa</entry>
         <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>qa</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
