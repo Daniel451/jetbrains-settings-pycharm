@@ -1315,7 +1315,7 @@
         <text encoding="base64">ICAgICNuZXQudGVzdF9kaXNjcmltaW5hdG9yKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SearchEverywhere</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1368,11 +1368,11 @@
         <entry>m .-2</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>wqa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action SearchEverywhere</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
