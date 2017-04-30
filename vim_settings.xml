@@ -21,7 +21,7 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1493576623102">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1493577702174">
         <mark key="[" line="128" column="51" />
         <mark key="]" line="128" column="53" />
         <mark key="." line="128" column="53" />
@@ -42,6 +42,12 @@
         <mark key="]" line="86" column="52" />
         <mark key="." line="86" column="52" />
         <mark key="^" line="86" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_binary.py" timestamp="1493579638775">
+        <mark key="[" line="170" column="32" />
+        <mark key="]" line="170" column="31" />
+        <mark key="^" line="170" column="31" />
+        <mark key="." line="170" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/distributions/convert_to_distribution.py" timestamp="1455023219352">
         <mark key="[" line="17" column="3" />
@@ -1260,10 +1266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>128</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>128</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc2NpaV9sb3dlcmNhc2VcPg==</text>
@@ -1342,7 +1348,6 @@
         <entry>action MethodHierarchyPopupMenu</entry>
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
-        <entry>q</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>qa</entry>
         <entry>action SearchEverywhere</entry>
@@ -1355,6 +1360,8 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>wqa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
