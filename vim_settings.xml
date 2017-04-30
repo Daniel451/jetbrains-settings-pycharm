@@ -767,11 +767,11 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493534173864">
-        <mark key="[" line="201" column="90" />
-        <mark key="]" line="203" column="28" />
-        <mark key="^" line="203" column="28" />
-        <mark key="." line="203" column="28" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493559750611">
+        <mark key="[" line="158" column="11" />
+        <mark key="]" line="158" column="32" />
+        <mark key="^" line="158" column="32" />
+        <mark key="." line="158" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -1243,16 +1243,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>batch_size</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>batch_size</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1pbWdfc2F2ZV9wYXRoIiwgdHlwZT1zdHIsIGRlZmF1bHQ9IiIsIGhlbHA9InBhdGggd2hlcmUgdG8gc3RvcmUgZ2VuZXJhdGVkIGltYWdlcyIpCg==</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1iYXRjaF9zaXplIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MTAwLCBoZWxwPSJpbnRlZ2VyLCBkZWZhdWx0IGlzIDEwMCIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
