@@ -767,11 +767,11 @@
         <mark key="^" line="52" column="62" />
         <mark key="." line="52" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493559750611">
-        <mark key="[" line="158" column="11" />
-        <mark key="]" line="158" column="32" />
-        <mark key="^" line="158" column="32" />
-        <mark key="." line="158" column="32" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/test1-tf/mnist_dcgan.py" timestamp="1493559783310">
+        <mark key="[" line="170" column="33" />
+        <mark key="]" line="170" column="33" />
+        <mark key="^" line="170" column="33" />
+        <mark key="." line="170" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/mlp_xor_stackoverflow.py" timestamp="1454861761153">
         <mark key="[" line="32" column="19" />
@@ -1282,7 +1282,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjc2VsZi5QQUkoc2luZ2xlX2ltYWdlX2RhdGEpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action GotoSymbol</text>
       </register>
     </registers>
     <search>
@@ -1333,7 +1333,6 @@
         <entry>action GotoClass</entry>
         <entry>qa</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoSymbol</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
@@ -1344,6 +1343,7 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>w</entry>
+        <entry>action GotoSymbol</entry>
       </history-cmd>
       <history-expr />
       <history-input />
