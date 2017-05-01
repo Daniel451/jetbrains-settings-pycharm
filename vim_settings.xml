@@ -678,6 +678,13 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" timestamp="1493670379023">
+        <mark key="'" line="14" column="48" />
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="53" />
+        <mark key="." line="45" column="53" />
+        <mark key="^" line="45" column="53" />
+      </file>
       <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/ex_setup_s01_ex01.py" timestamp="1478483279414">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="0" />
@@ -1205,7 +1212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="513" column="15" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="519" column="24" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="522" column="38" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="523" column="57" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
@@ -1305,19 +1311,20 @@
       <jump line="8" column="51" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/conv_autoencoder_train.py" />
       <jump line="16" column="4" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/conv_autoencoder_train.py" />
       <jump line="3" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/helper.py" />
+      <jump line="14" column="48" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>model</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgbGVuKGFyZ3MubG9hZF9wYXRoKSA+IDAgYW5kIGFyZ3MubG9hZF9wYXRoWy0xXSAhPSAiLyI6CiAgICBhcmdzLmxvYWRfcGF0aCArPSAiLyIK</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>Autoencer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc2NpaV9sb3dlcmNhc2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bGVuKGFyZ3Muc2F2ZV9wYXRoKSA+IDAgYW5kIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgbGVuKGFyZ3MubG9hZF9wYXRoKSA+IDAgYW5kIGFyZ3MubG9hZF9wYXRoWy0xXSAhPSAiLyI6CiAgICBhcmdzLmxvYWRfcGF0aCArPSAiLyIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBILlBBSShiYXRjaCkK</text>
@@ -1390,9 +1397,7 @@
         <entry>m .-2</entry>
         <entry>wqa</entry>
         <entry>m .+1</entry>
-        <entry>q</entry>
         <entry>action CommentByLineComment</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action SearchEverywhere</entry>
         <entry>nohlsearch</entry>
         <entry>redo</entry>
@@ -1400,6 +1405,8 @@
         <entry>set nopaste</entry>
         <entry>action GotoSymbol</entry>
         <entry>W</entry>
+        <entry>q</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
