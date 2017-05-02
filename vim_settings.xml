@@ -1229,7 +1229,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1283,8 +1283,8 @@
         <entry>qa</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
