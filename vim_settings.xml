@@ -478,11 +478,11 @@
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_cond.py" timestamp="1493691976747">
-        <mark key="[" line="214" column="37" />
-        <mark key="]" line="214" column="38" />
-        <mark key="." line="214" column="38" />
-        <mark key="^" line="214" column="37" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_cond.py" timestamp="1493694356499">
+        <mark key="[" line="184" column="80" />
+        <mark key="]" line="184" column="80" />
+        <mark key="^" line="184" column="80" />
+        <mark key="." line="184" column="80" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series07/cnn_series07_ex01.py" timestamp="1457506828348">
         <mark key="[" line="63" column="38" />
@@ -1333,43 +1333,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>z_size</text>
+        <text>mnist_batch</text>
       </register>
       <register name="-" type="4">
-        <text>z_size</text>
+        <text>mnist_batch</text>
       </register>
       <register name="/" type="4">
         <text>img_save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFoxID0gbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbCgoYmF0Y2hfc2l6ZSwgel9zaXplKSkuYXN0eXBlKG5wLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQyA9IHRyYWluX2ltYWdlcyAqIDAuMSArIG5wLnJhbmRvbS5zdGFuZGFyZF9ub3JtYWwoKGJhdGNoX3NpemUsIDI4LCAyOCwgMSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHpfc2l6ZSA9IDEwMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEMgPSB0cmFpbl9pbWFnZXMgKyBucC5yYW5kb20uc3RhbmRhcmRfbm9ybWFsKChiYXRjaF9zaXplLCAyOCwgMjgsIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJ1biAlIDUwID09IDA6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFoyID0gbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbCgoYmF0Y2hfc2l6ZSwgel9zaXplKSkuYXN0eXBlKG5wLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEMgPSB0cmFpbl9pbWFnZXNbMDoxXQogICAgICAgICAgICAgICAgSC5QQUkoKQogICAgICAgICAgICAgICAgZXhpdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENfZHVtbXkgPSBucC5yYW5kb20uc3RhbmRhcmRfbm9ybWFsKChiYXRjaF9zaXplLCAyOCwgMjgsIDEpKS5hc3R5cGUobnAuZmxvYXQzMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENfZHVtbXkgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFoyID0gbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbCgoYmF0Y2hfc2l6ZSwgel9zaXplKSkuYXN0eXBlKG5wLmZsb2F0MzIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKEMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFozID0gdHJhaW5faW1hZ2VzICsgbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbCgoYmF0Y2hfc2l6ZSwgMjgsIDI4LCAxKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhbmRvbV9jID0gbnAucmFuZG9tLnJhbmRpbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEMgPSB0cmFpbl9pbWFnZXMgKyBucC5yYW5kb20uc3RhbmRhcmRfbm9ybWFsKChiYXRjaF9zaXplLCAyOCwgMjgsIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dCA9IHRmLmxheWVycy5iYXRjaF9ub3JtYWxpemF0aW9uKG91dCkKICAgICAgICAgICAgICAgICMgb3V0ID0gdGYubm4udGFuaChvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKEMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1420,14 +1420,14 @@
         <entry>action GotoSymbol</entry>
         <entry>m .-2</entry>
         <entry>q</entry>
-        <entry>redo</entry>
         <entry>qa</entry>
         <entry>qw</entry>
-        <entry>W</entry>
+        <entry>redo</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>action CommentByLineComment</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
