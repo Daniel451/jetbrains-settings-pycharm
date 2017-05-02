@@ -450,6 +450,12 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto3.py" timestamp="1493684957792">
+        <mark key="[" line="98" column="35" />
+        <mark key="]" line="98" column="36" />
+        <mark key="." line="98" column="36" />
+        <mark key="^" line="269" column="91" />
+      </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/keras_dcgan1.py" timestamp="1493674795026">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="93" column="43" />
@@ -545,11 +551,11 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="67" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto2.py" timestamp="1493678144274">
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="177" column="66" />
-        <mark key="." line="207" column="42" />
-        <mark key="^" line="204" column="42" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto2.py" timestamp="1493680107906">
+        <mark key="[" line="167" column="36" />
+        <mark key="]" line="167" column="36" />
+        <mark key="^" line="167" column="36" />
+        <mark key="." line="167" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/unpack_speed.py" timestamp="1456439107818">
         <mark key="[" line="1" column="0" />
@@ -687,12 +693,12 @@
         <mark key="^" line="52" column="35" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" timestamp="1493677812641">
-        <mark key="'" line="42" column="40" />
-        <mark key="[" line="156" column="52" />
-        <mark key="]" line="156" column="55" />
-        <mark key="." line="156" column="55" />
-        <mark key="^" line="156" column="55" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" timestamp="1493679990803">
+        <mark key="'" line="167" column="11" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="166" column="36" />
+        <mark key="^" line="166" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/MafiasiBachelorThesis/code/ex_setup_s01_ex01.py" timestamp="1478483279414">
         <mark key="[" line="16" column="27" />
@@ -895,11 +901,11 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/mnist_loader.py" timestamp="1493678128999">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/mnist_loader.py" timestamp="1493679166167">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/Python3Tests/multiprocessing_pool.py" timestamp="1482365263292">
         <mark key="[" line="23" column="34" />
@@ -1227,9 +1233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="21" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
-      <jump line="199" column="23" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
-      <jump line="462" column="22" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="31" column="29" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="309" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/test1/model.py" />
       <jump line="63" column="26" filename="$USER_HOME$/repositories/tensorflow_tests/mnist.py" />
@@ -1327,46 +1330,49 @@
       <jump line="201" column="15" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" />
       <jump line="42" column="40" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" />
       <jump line="12" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/helper.py" />
+      <jump line="161" column="11" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" />
+      <jump line="160" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" />
+      <jump line="166" column="11" filename="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_auto.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoWF90cmFpbiwgeV90cmFpbiksIChYX3Rlc3QsIHlfdGVzdCkgPSBtbmlzdC5sb2FkX2RhdGEoKQogICAgICAgIFhfdHJhaW4gPSAoWF90cmFpbi5hc3R5cGUobnAuZmxvYXQzMikgLSAxMjcuNSkvMTI3LjUKICAgICAgICBYX3RyYWluID0gWF90cmFpbi5yZXNoYXBlKC0xLCAyOCwgMjgsIDEpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>img_save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoWF90cmFpbiwgeV90cmFpbiksIChYX3Rlc3QsIHlfdGVzdCkgPSBtbmlzdC5sb2FkX2RhdGEoKQogICAgICAgIFhfdHJhaW4gPSAoWF90cmFpbi5hc3R5cGUobnAuZmxvYXQzMikgLSAxMjcuNSkvMTI3LjUKICAgICAgICBYX3RyYWluID0gWF90cmFpbi5yZXNoYXBlKC0xLCAyOCwgMjgsIDEpLmFzdHlwZShucC5mbG9hdDMyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX2ltYWdlcyA9IFhfdHJhaW5bYmF0Y2hfc2l6ZSpydW46YmF0Y2hfc2l6ZSoocnVuKzEpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb3V0ID0gdGYubGF5ZXJzLmJhdGNoX25vcm1hbGl6YXRpb24ob3V0KQogICAgICAgICAgICAgICAgIyBvdXQgPSB0Zi5ubi50YW5oKG91dCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCh0cmFpbl9sYWJlbHMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dCA9IHRmLmxheWVycy5kcm9wb3V0KG91dCwgcmF0ZT0wLjkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBnZXRfbm9ybWFsaXplZF9yYW5kb21fYmF0Y2hfb2Zfb25lX2NsYXNzKG1uaXN0X2NsYXNzIDogaW50LCBiYXRjaF9zaXplIDogaW50KToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dCA9IHNlbGYubGVha3lfcmVsdShvdXQsIG5hbWU9ImxlYWt5IikKICAgICAgICAgICAgICAgICMgb3V0ID0gdGYubGF5ZXJzLmRyb3BvdXQob3V0LCByYXRlPTAuOSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX2xhYmVscyA9IFhfdHJhaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1tbmlzdF9kYXRhX3BhdGgiLCB0eXBlPXN0ciwgZGVmYXVsdD0iIiwgaGVscD0icGF0aCB0byB0aGUgTU5JU1QgZGF0YSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGluZGV4ZXNbMDoxMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBILlBBSSh6LCBuYW1lPSJ6IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKGluZGV4ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY29uc3RydWN0IHoKICAgICAgICAgICAgICAgIHogPSBlbmNvZGVkICsgbm9pc2UKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKHRyYWluX2ltYWdlcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgY29uc3RydWN0IHoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1412,18 +1418,18 @@
         <entry>_w</entry>
         <entry>wqa</entry>
         <entry>action SearchEverywhere</entry>
-        <entry>action GotoSymbol</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>m .+1</entry>
         <entry>nohlsearch</entry>
-        <entry>q</entry>
-        <entry>m .-2</entry>
-        <entry>W</entry>
         <entry>we</entry>
-        <entry>action CommentByLineComment</entry>
-        <entry>redo</entry>
+        <entry>action GotoSymbol</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>m .-2</entry>
+        <entry>q</entry>
+        <entry>W</entry>
+        <entry>redo</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
