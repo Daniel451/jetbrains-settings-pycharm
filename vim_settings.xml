@@ -126,11 +126,11 @@
         <mark key="." line="134" column="58" />
         <mark key="^" line="134" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493764370318">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="36" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493778037245">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="77" />
+        <mark key="." line="45" column="77" />
+        <mark key="^" line="45" column="77" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex13.py" timestamp="1457372362359">
         <mark key="[" line="64" column="32" />
@@ -1210,11 +1210,11 @@
       <jump line="105" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
@@ -1223,31 +1223,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLlkgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMl0sIG5hbWU9IlkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYWJlbHNfZmFrZS5zaGFwZSwgbGFiZWxzX3JlYWwuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNwYXJzZSBsYWJlbHMKICAgICAgICBsYWJlbHNfZmFrZSA9IG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsYWJlbHNfZmFrZS5zaGFwZSwgbGFiZWxzX3JlYWwuc2hhcGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNwYXJzZSBsYWJlbHMKICAgICAgICBsYWJlbHNfZmFrZSA9IG5wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
