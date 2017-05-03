@@ -64,11 +64,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_abstr.py" timestamp="1493853020540">
-        <mark key="[" line="41" column="49" />
-        <mark key="]" line="41" column="52" />
-        <mark key="^" line="41" column="52" />
-        <mark key="." line="41" column="52" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_abstr.py" timestamp="1493853855857">
+        <mark key="'" line="55" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="38" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_03.py" timestamp="1455117987226">
         <mark key="[" line="101" column="0" />
@@ -720,12 +721,12 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493852967334">
-        <mark key="'" line="31" column="14" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="45" />
-        <mark key="^" line="31" column="45" />
-        <mark key="." line="31" column="45" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493853896530">
+        <mark key="'" line="31" column="7" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="37" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -1126,9 +1127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="44" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
-      <jump line="208" column="10" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex01.py" />
-      <jump line="3" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words/predict_words.py" />
       <jump line="26" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
@@ -1226,55 +1224,58 @@
       <jump line="105" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
       <jump line="42" column="25" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
       <jump line="43" column="14" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_abstr.py" />
+      <jump line="32" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
+      <jump line="31" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5vcHRpbWl6ZXJzIGltcG9ydCBTR0QsIEFkYW0K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>args</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlX3BhdGhcPg==</text>
+        <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJzY3JpcHQgc3RhcnRlZC4iKQogICAgYXJncyA9IGdldF9hcmdzKCkKCiAgICBpZiBhcmdzLnNhdmVfcGF0aFstMV0gIT0gIi8iOgogICAgICAgIGFyZ3Muc2F2ZV9wYXRoICs9ICIvIgo=</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ZnJvbSBrZXJhcy5vcHRpbWl6ZXJzIGltcG9ydCBTR0QsIEFkYW0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5kYXRhc2V0cyBpbXBvcnQgbW5pc3QK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyBwcmludChLLmJhY2tlbmQoKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBwcmludChLLmJhY2tlbmQoKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICmZyb20gZGF0YV9tbmlzdCBpbXBvcnQgUmVhZGVyCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCmltcG9ydCBtYXRoCmltcG9ydCB0aW1lCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLkcuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPXNlbGYuZ19vcHRpbSkKICAgICAgICBzZWxmLkRHLmNvbXBpbGUobG9zcz0nYmluYXJ5X2Nyb3NzZW50cm9weScsIG9wdGltaXplcj1zZWxmLmdfb3B0aW0pCgogICAgICAgIHNlbGYuRC50cmFpbmFibGUgPSBUcnVlCiAgICAgICAgc2VsZi5ELmNvbXBpbGUobG9zcz0nYmluYXJ5X2Nyb3NzZW50cm9weScsIG9wdGltaXplcj1zZWxmLmRfb3B0aW0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkX29wdGltID0gQWRhbShscj0wLjAwMDIsIGJldGFfMT0wLjUsIGJldGFfMj0wLjk5OSkKICAgICAgICBnX29wdGltID0gQWRhbShscj0wLjAwMDIsIGJldGFfMT0wLjUsIGJldGFfMj0wLjk5OSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHByb2R1Y3QKZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBydW4sIFBJUEUK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIG1vZGVsLmFkZChCYXRjaE5vcm1hbGl6YXRpb24oKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlX3BhdGhcPg==</last-search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlX3BhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1300,6 +1301,7 @@
         <entry>loss</entry>
         <entry>cross</entry>
         <entry encoding="base64">XDxzYXZlX3BhdGhcPg==</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -1315,12 +1317,12 @@
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>m .-2</entry>
+        <entry>1</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>1</entry>
         <entry>redo</entry>
-        <entry>nohlsearch</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
