@@ -710,11 +710,11 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493839780790">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="30" />
-        <mark key="^" line="85" column="27" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493840859030">
+        <mark key="[" line="169" column="70" />
+        <mark key="]" line="169" column="70" />
+        <mark key="^" line="171" column="83" />
+        <mark key="." line="169" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -1217,44 +1217,44 @@
       <jump line="105" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">aW5kZXgsIAppbmRleCwgCmluZGV4LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoImVwb2NoIHs6MD4zfSB8IGRfbG9zcyA6IHs6LjVmfSIuZm9ybWF0KGVwb2NoLCBpbmRleCwgZF9sb3NzKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">aW5kZXgsIAppbmRleCwgCmluZGV4LCA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gYmF0Y2hfc2l6ZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGluZGV4ICUgNTAgPT0gMCBhbmQgaW5kZXggIT0gMDoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBZID0gbnAuY29uY2F0ZW5hdGUoKGxhYmVsc19vbmVzLCBsYWJlbHNfemVyb3MpLCBheGlzPTApCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5wdXRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFggPSBucC5jb25jYXRlbmF0ZSgoaW1hZ2VfYmF0Y2gsIGdlbmVyYXRlZF9pbWFnZXMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYmF0Y2hfc2l6ZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1298,7 +1298,6 @@
         <entry>action CommentByBlockComment</entry>
         <entry>1</entry>
         <entry>wq</entry>
-        <entry>m .-2</entry>
         <entry>redo</entry>
         <entry>wa</entry>
         <entry>23</entry>
@@ -1313,6 +1312,7 @@
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>m .-2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
