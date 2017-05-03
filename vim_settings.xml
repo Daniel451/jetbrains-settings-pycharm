@@ -126,11 +126,11 @@
         <mark key="." line="134" column="58" />
         <mark key="^" line="134" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493837315017">
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="40" column="48" />
-        <mark key="^" line="40" column="48" />
-        <mark key="." line="40" column="48" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493847346248">
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="40" />
+        <mark key="^" line="50" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex13.py" timestamp="1457372362359">
         <mark key="[" line="64" column="32" />
@@ -710,11 +710,11 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493845111045">
-        <mark key="[" line="169" column="91" />
-        <mark key="]" line="171" column="97" />
-        <mark key="^" line="171" column="97" />
-        <mark key="." line="171" column="97" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493847133753">
+        <mark key="[" line="111" column="26" />
+        <mark key="]" line="111" column="31" />
+        <mark key="^" line="111" column="31" />
+        <mark key="." line="111" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -1218,10 +1218,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cnVuIHs6MD40fSB8IA==</text>
+        <text encoding="base64">bnVtX2JhdGNoZXMg</text>
       </register>
       <register name="-" type="4">
-        <text>save_path</text>
+        <text encoding="base64">bnVtX2JhdGNoZXMg</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
@@ -1230,31 +1230,31 @@
         <text encoding="base64">cnVuIHs6MD40fSB8IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuRC50cmFpbmFibGUgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBudW1fYmF0Y2hlcyA9IHNlbGYubW5pc3RfdHJhaW5fZGF0YVswXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZXBvY2ggJSA1ID09IDAgYW5kIGVwb2NoICE9IDA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxvdF90cmFpbmluZ19iYXRjaChnZW5lcmF0ZWRfaW1hZ2VzLCBlcG9jaCwgaW5kZXgsIGYsIGF4KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLm1uaXN0X3RyYWluX2RhdGEuc2hhcGUsIHNlbGYubW5pc3RfdHJhaW5fZGF0YS5zaGFwZVswXSkK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">aW5kZXgsIAppbmRleCwgCmluZGV4LCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSID0gUmVhZGVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGluZGV4ICUgNTAgPT0gMCBhbmQgaW5kZXggIT0gMDoK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBZID0gbnAuY29uY2F0ZW5hdGUoKGxhYmVsc19vbmVzLCBsYWJlbHNfemVyb3MpLCBheGlzPTApCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm1uaXN0X2N5Y2xlciA9IFJlYWRlci5nZXRfbW5pc3RfaXRlcmF0b3IoYmF0Y2hfc2l6ZSkKICAgICAgICBzZWxmLmRhdGFfdHJhaW5fc2l6ZSA9IFJlYWRlci5nZXRfbW5pc3RfdHJhaW5fc2l6ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk51bWJlciBvZiBiYXRjaGVzIiwgaW50KFhfdHJhaW4uc2hhcGVbMF0vYmF0Y2hfc2l6ZSkpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5wdXRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFggPSBucC5jb25jYXRlbmF0ZSgoaW1hZ2VfYmF0Y2gsIGdlbmVyYXRlZF9pbWFnZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAoWF90cmFpbiwgeV90cmFpbiksIChYX3Rlc3QsIHlfdGVzdCkgPSBtbmlzdC5sb2FkX2RhdGEoKQogICAgICAgIFhfdHJhaW4gPSAoWF90cmFpbi5hc3R5cGUobnAuZmxvYXQzMikgLSAxMjcuNSkgLyAxMjcuNQogICAgICAgIFhfdHJhaW4gPSBYX3RyYWluLnJlc2hhcGUoLTEsIDI4LCAyOCwgMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1308,11 +1308,11 @@
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>nohlsearch</entry>
-        <entry>set paste</entry>
-        <entry>set nopaste</entry>
         <entry>action CommentByLineComment</entry>
         <entry>m .-2</entry>
         <entry>redo</entry>
+        <entry>set paste</entry>
+        <entry>set nopaste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
