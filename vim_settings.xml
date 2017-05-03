@@ -710,11 +710,11 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493838379184">
-        <mark key="[" line="52" column="39" />
-        <mark key="]" line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-        <mark key="." line="53" column="27" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493839780790">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="30" />
+        <mark key="^" line="85" column="27" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -1218,7 +1218,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1227,7 +1227,7 @@
         <text>cross</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLlkgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMl0sIG5hbWU9IlkiKQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
@@ -1309,9 +1309,9 @@
         <entry>.,.+8action SearchEverywhere</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
+        <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>nohlsearch</entry>
         <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
