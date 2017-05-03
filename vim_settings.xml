@@ -710,11 +710,11 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493842932440">
-        <mark key="[" line="107" column="38" />
-        <mark key="]" line="107" column="38" />
-        <mark key="^" line="173" column="48" />
-        <mark key="." line="107" column="38" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493845111045">
+        <mark key="[" line="169" column="91" />
+        <mark key="]" line="171" column="97" />
+        <mark key="^" line="171" column="97" />
+        <mark key="." line="171" column="97" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
@@ -1218,16 +1218,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text encoding="base64">cnVuIHs6MD40fSB8IA==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>save_path</text>
       </register>
       <register name="/" type="4">
         <text>cross</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCkKICAgICAgICAgICAgICAgIHByaW50KCJTYXZpbmcgd2VpZ2h0cy4uLiIpCiAgICAgICAgICAgICAgICBzZWxmLkcuc2F2ZV93ZWlnaHRzKGFyZ3Muc2F2ZV9wYXRoICsgJ2dlbmVyYXRvcicsIFRydWUpCiAgICAgICAgICAgICAgICBzZWxmLkQuc2F2ZV93ZWlnaHRzKGFyZ3Muc2F2ZV9wYXRoICsgJ2Rpc2NyaW1pbmF0b3InLCBUcnVlKQogICAgICAgICAgICAgICAgcHJpbnQoIkNvbXBsZXRlZCBzYXZpbmcgd2VpZ2h0cy4iKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cnVuIHs6MD40fSB8IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuRC50cmFpbmFibGUgPSBUcnVlCg==</text>
