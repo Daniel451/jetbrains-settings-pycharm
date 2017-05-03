@@ -637,6 +637,12 @@
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/helper.py" timestamp="1493778494874">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/.gitignore" timestamp="1479562657173">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="10" column="9" />
@@ -1210,8 +1216,8 @@
       <jump line="105" column="37" filename="$USER_HOME$/repositories/tensorflow_dcgan/sugyan-dcgan/dcgan.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1223,31 +1229,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLlkgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMl0sIG5hbWU9IlkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYWJlbHNfZmFrZS5zaGFwZSwgbGFiZWxzX3JlYWwuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNwYXJzZSBsYWJlbHMKICAgICAgICBsYWJlbHNfZmFrZSA9IG5wCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsYWJlbHNfZmFrZS5zaGFwZSwgbGFiZWxzX3JlYWwuc2hhcGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
