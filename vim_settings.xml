@@ -126,11 +126,11 @@
         <mark key="." line="134" column="58" />
         <mark key="^" line="134" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493778037245">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="77" />
-        <mark key="." line="45" column="77" />
-        <mark key="^" line="45" column="77" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493837315017">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="48" />
+        <mark key="^" line="40" column="48" />
+        <mark key="." line="40" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series06/cnn_series06_ex13.py" timestamp="1457372362359">
         <mark key="[" line="64" column="32" />
@@ -710,6 +710,12 @@
         <mark key="." line="142" column="65" />
         <mark key="^" line="142" column="64" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" timestamp="1493838379184">
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_02.py" timestamp="1455109520005">
         <mark key="[" line="165" column="53" />
         <mark key="]" line="165" column="54" />
@@ -1071,11 +1077,6 @@
         <mark key="^" line="264" column="0" />
         <mark key="." line="364" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/xor_class.py" timestamp="1492873949518">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/tensor_flow/mnist/convolutional_64.py" timestamp="1454979692525">
         <mark key="[" line="285" column="16" />
         <mark key="]" line="285" column="17" />
@@ -1217,7 +1218,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1229,31 +1230,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLlkgPSB0Zi5wbGFjZWhvbGRlcih0Zi5mbG9hdDMyLCBzaGFwZT1bTm9uZSwgMl0sIG5hbWU9IlkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYmF0Y2hfc2l6ZToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ZnJvbSBfZnVuY3Rvb2xzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsYWJlbHNfZmFrZS5zaGFwZSwgbGFiZWxzX3JlYWwuc2hhcGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1264,7 +1265,7 @@
       <last-offset />
       <last-pattern>cross</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -1303,15 +1304,15 @@
         <entry>23</entry>
         <entry>28</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
-        <entry>nohlsearch</entry>
         <entry>qa</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>.,.+8action SearchEverywhere</entry>
         <entry>action SearchEverywhere</entry>
         <entry>q</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>nohlsearch</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
