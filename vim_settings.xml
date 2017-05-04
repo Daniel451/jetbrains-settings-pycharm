@@ -143,11 +143,11 @@
         <mark key="." line="134" column="58" />
         <mark key="^" line="134" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_cond1.py" timestamp="1493873409786">
-        <mark key="[" line="63" column="79" />
-        <mark key="]" line="63" column="80" />
-        <mark key="^" line="59" column="24" />
-        <mark key="." line="63" column="80" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_cond1.py" timestamp="1493875497275">
+        <mark key="[" line="71" column="52" />
+        <mark key="]" line="71" column="53" />
+        <mark key="." line="71" column="53" />
+        <mark key="^" line="63" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/data_mnist.py" timestamp="1493847346248">
         <mark key="[" line="50" column="19" />
@@ -1253,38 +1253,38 @@
       <jump line="31" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbmMyID0gQ29udjJEKDEyOCwgKDMsIDMpLCBzdHJpZGVzPSgyLCAyKSwgcGFkZGluZz0ic2FtZSIpKGVuYzEpCiAgICAgICAgZW5jMiA9IEJhdGNoTm9ybWFsaXphdGlvbigpKGVuYzIpCiAgICAgICAgZW5jMiA9IExlYWt5UmVMVSgpKGVuYzIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>enc4</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>enc4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbmMyID0gQ29udjJEKDEyOCwgKDMsIDMpLCBzdHJpZGVzPSgyLCAyKSwgcGFkZGluZz0ic2FtZSIpKGVuYzEpCiAgICAgICAgZW5jMiA9IEJhdGNoTm9ybWFsaXphdGlvbigpKGVuYzIpCiAgICAgICAgZW5jMiA9IExlYWt5UmVMVSgpKGVuYzIpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWMxID0gQmF0Y2hOb3JtYWxpemF0aW9uKCkoZGVjMSkKICAgICAgICBkZWMxID0gTGVha3lSZUxVKCkoZGVjMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbmMyID0gQmF0Y2hOb3JtYWxpemF0aW9uKCkoZW5jMSkK</text>
+        <text encoding="base64">ICAgICAgICB1cDEgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbmMyID0gQmF0Y2hOb3JtYWxpemF0aW9uKCkoZW5jMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlYzIgPSBDb25jYXRlbmF0ZShheGlzPTEpKFtkZWMyLCBlbmMxXSkK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoTGVha3lSZUxVKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWMxID0gQ29uY2F0ZW5hdGUoYXhpcz0xKShbZGVjMSwgZW5jMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRlYzIgPSBDb25jYXRlbmF0ZShheGlzPTEpKFtkZWMyLCBlbmMxXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWMxID0gQ29uY2F0ZW5hdGUoYXhpcz0xKShbZGVjMSwgZW5jMV0pCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
