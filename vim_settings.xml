@@ -331,6 +331,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan3.py" timestamp="1493866674081">
+        <mark key="[" line="100" column="44" />
+        <mark key="]" line="100" column="45" />
+        <mark key="." line="100" column="45" />
+        <mark key="^" line="99" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/tests/carsten/hdr-sample.txt" timestamp="1481673267682">
         <mark key="[" line="31" column="107" />
         <mark key="]" line="32" column="0" />
@@ -1242,10 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>zeros</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>zeros</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
@@ -1254,28 +1260,28 @@
         <text encoding="base64">ZnJvbSBrZXJhcy5vcHRpbWl6ZXJzIGltcG9ydCBTR0QsIEFkYW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5kYXRhc2V0cyBpbXBvcnQgbW5pc3QK</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHNfZmFrZVs6LCAxXSA9IDEuMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBrZXJhcy5sYXllcnMuYWR2YW5jZWRfYWN0aXZhdGlvbnMgaW1wb3J0IExlYWt5UmVMVQo=</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHNfcmVhbFs6LCAwXSA9IDEuMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBkYXRldGltZQppbXBvcnQgbWF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAjIGZha2UgWzAsIDFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHByb2R1Y3QK</text>
+        <text encoding="base64">ICAgICAgICAjIHJlYWwgWzEsIDBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBrZXJhcy5kYXRhc2V0cyBpbXBvcnQgbW5pc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBsb2cyKHNlbGYpOgogICAgICAgIHByaW50KCJsb2cyIikK</text>
+        <text encoding="base64">ZnJvbSBrZXJhcy5sYXllcnMuYWR2YW5jZWRfYWN0aXZhdGlvbnMgaW1wb3J0IExlYWt5UmVMVQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCmltcG9ydCBkYXRldGltZQppbXBvcnQgbWF0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLkcuY29tcGlsZShsb3NzPSdiaW5hcnlfY3Jvc3NlbnRyb3B5Jywgb3B0aW1pemVyPXNlbGYuZ19vcHRpbSkKICAgICAgICBzZWxmLkRHLmNvbXBpbGUobG9zcz0nYmluYXJ5X2Nyb3NzZW50cm9weScsIG9wdGltaXplcj1zZWxmLmdfb3B0aW0pCgogICAgICAgIHNlbGYuRC50cmFpbmFibGUgPSBUcnVlCiAgICAgICAgc2VsZi5ELmNvbXBpbGUobG9zcz0nYmluYXJ5X2Nyb3NzZW50cm9weScsIG9wdGltaXplcj1zZWxmLmRfb3B0aW0pCg==</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHByb2R1Y3QK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1329,12 +1335,12 @@
         <entry>action SearchEverywhere</entry>
         <entry>m .-2</entry>
         <entry>1</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>nohlsearch</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
         <entry>redo</entry>
         <entry>q</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
