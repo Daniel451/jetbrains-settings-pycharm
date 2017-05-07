@@ -358,9 +358,9 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/cv2_filter.py" timestamp="1494126317316">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="26" />
+      <file name="$USER_HOME$/repositories/Python3Tests/cv2_filter.py" timestamp="1494177796658">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="11" />
         <mark key="." line="27" column="26" />
         <mark key="^" line="27" column="26" />
       </file>
@@ -654,6 +654,12 @@
         <mark key="]" line="61" column="37" />
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494178005776">
+        <mark key="[" line="144" column="40" />
+        <mark key="]" line="144" column="39" />
+        <mark key="^" line="144" column="39" />
+        <mark key="." line="144" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
         <mark key="[" line="17" column="37" />
@@ -1265,44 +1271,44 @@
       <jump line="31" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIG5vaXNlID0gbnAucmFuZG9tLnVuaWZvcm0obG93PS0xLCBoaWdoPTEsIHNpemU9KGJhdGNoX3NpemUsIDEwMCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>image_batch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF4YXJyWzFdLmltc2hvdyhmaW0pCg==</text>
+        <text encoding="base64">ZGVmIGdldF9rKHNpemUpOgogICAgayA9IG5wLnplcm9zKChzaXplLCBzaXplKSkKICAgIGtbaW50KChzaXplLTEpLzIpLCA6XSA9IG5wLm9uZXMoc2l6ZSkKICAgIGsgPSBrIC8gc2l6ZQogICAgcmV0dXJuIGsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF4YXJyWzJdLmltc2hvdyhmaW0yKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG5vaXNlID0gbnAucmFuZG9tLnVuaWZvcm0obG93PS0xLCBoaWdoPTEsIHNpemU9KGJhdGNoX3NpemUsIDEwMCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbTIgPSBjb252b2x2ZShpbSwgaykK</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZV9iYXRjaCA9IGltYWdlX2JhdGNoICsgbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbChzaXplPSgyOCwgMjgsIDEpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGsyID0gbnAuemVyb3Moay5zaGFwZVswXSkK</text>
+        <text encoding="base64">ICAgICAgICBrID0gZ2V0X2soMzApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG5vaXNlID0gbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbCgoYmF0Y2hfc2l6ZSwgMTAwKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZiwgYXhhcnIgPSBwbHQuc3VicGxvdHMoMSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cyA9IHRmLlNlc3Npb24oKQo=</text>
+        <text encoding="base64">ICAgIGF4YXJyWzJdLmltc2hvdyhmaW0yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW0gPSBpbVtucC5uZXdheGlzLCA6LCA6XQo=</text>
+        <text encoding="base64">ICAgIGZpbTIgPSBjb252b2x2ZShpbSwgaykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRlbnNvcmZsb3cgYXMgdGYK</text>
+        <text encoding="base64">ICAgIGsyID0gbnAuemVyb3Moay5zaGFwZVswXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbSA9IHRmLm5uLmNvbnYyZChpbSwgaywgc3RyaWRlcz1bMSwgMSwgMSwgMV0sIHBhZGRpbmc9IlNBTUUiKS5ldmFsKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
