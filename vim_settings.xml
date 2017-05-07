@@ -358,10 +358,7 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/cv2_filter.py" timestamp="1494177796658">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="19" column="11" />
-        <mark key="." line="27" column="26" />
+      <file name="$USER_HOME$/repositories/Python3Tests/cv2_filter.py" timestamp="1494193953749">
         <mark key="^" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/plot_assist.py" timestamp="1457054635714">
@@ -655,11 +652,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494189607121">
-        <mark key="[" line="126" column="19" />
-        <mark key="]" line="126" column="19" />
-        <mark key="^" line="126" column="19" />
-        <mark key="." line="126" column="19" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494193816719">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="130" column="45" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
         <mark key="[" line="17" column="37" />
@@ -993,6 +990,12 @@
         <mark key="." line="138" column="48" />
         <mark key="^" line="138" column="48" />
       </file>
+      <file name="$USER_HOME$/repositories/Python3Tests/tf_filter.py" timestamp="1494194431772">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_04.py" timestamp="1455720666116">
         <mark key="[" line="344" column="55" />
         <mark key="]" line="344" column="56" />
@@ -1271,44 +1274,44 @@
       <jump line="31" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9rKHNpemUpOgogICAgayA9IG5wLnplcm9zKChzaXplLCBzaXplKSkKICAgIGtbaW50KChzaXplLTEpLzIpLCA6XSA9IG5wLm9uZXMoc2l6ZSkKICAgIGsgPSBrIC8gc2l6ZQogICAgcmV0dXJuIGsK</text>
+        <text encoding="base64">Zm9yIHNpemUgaW4gWzEwMF06CiAgICBmb3IgYW5nbGUgaW4gWzAuMCwgMzAuMCwgNDUuMCwgNjAuMCwgNzUuMCwgOTAuMCwgMTIwLjAsIDE1MC4wLCAxODAuMCwgMjEwLjBdOgogICAgICAgIGYsIGF4YXJyID0gcGx0LnN1YnBsb3RzKDEsIDIpCiAgICAgICAgayA9IGdldF9rKHNpemUpCiAgICAgICAgayA9IHJvdGF0ZShrLCBhbmdsZSkKCiAgICAgICAgZmltID0gY3YyLmZpbHRlcjJEKGltLCAtMSwgaykKCiAgICAgICAgYXhhcnJbMF0uaW1zaG93KGltKQogICAgICAgIGF4YXJyWzFdLmltc2hvdyhmaW0pCgogICAgICAgIHBsdC50aXRsZSgic2l6ZSB7fSwgYW5nbGUge30iLmZvcm1hdChzaXplLCBhbmdsZSkpCiAgICAgICAgcGx0LnNob3coKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaXNlID0gbnAucmFuZG9tLnVuaWZvcm0obG93PS0xLCBoaWdoPTEsIHNpemU9KGJhdGNoX3NpemUsIDEwMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZV9iYXRjaCA9IGltYWdlX2JhdGNoICsgbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbChzaXplPSgyOCwgMjgsIDEpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrLnNoYXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrID0gZ2V0X2soMzApCg==</text>
+        <text encoding="base64">ICAgICAgICBrID0ga1s6LCA6LCBucC5uZXdheGlzXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaXNlID0gbnAucmFuZG9tLnN0YW5kYXJkX25vcm1hbCgoYmF0Y2hfc2l6ZSwgMTAwKSkK</text>
+        <text encoding="base64">cHJpbnQoaW0uc2hhcGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgCg==</text>
+        <text encoding="base64">aW0gPSBpbS5yZXNoYXBlKCgxLCAyOCwgMjgsIDEpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF4YXJyWzJdLmltc2hvdyhmaW0yKQo=</text>
+        <text encoding="base64">aW0gPSBpbS5yZXNoYXBlKCgyOCwgMjgsIDEpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbTIgPSBjb252b2x2ZShpbSwgaykK</text>
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGsyID0gbnAuemVyb3Moay5zaGFwZVswXSkK</text>
+        <text encoding="base64">ZnJvbSBzY2lweS5uZGltYWdlIGltcG9ydCBjb252b2x2ZSwgc2hpZnQsIHJvdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGN2Mgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1359,12 +1362,12 @@
         <entry>1</entry>
         <entry>nohlsearch</entry>
         <entry>qa</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>q</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>redo</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
