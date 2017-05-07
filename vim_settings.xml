@@ -655,11 +655,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494178005776">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494183689724">
         <mark key="[" line="144" column="40" />
-        <mark key="]" line="144" column="39" />
-        <mark key="^" line="144" column="39" />
-        <mark key="." line="144" column="39" />
+        <mark key="]" line="144" column="50" />
+        <mark key="^" line="144" column="50" />
+        <mark key="." line="144" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_4/conv_net_test4_03.py" timestamp="1455593515052">
         <mark key="[" line="17" column="37" />
@@ -1271,8 +1271,8 @@
       <jump line="31" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaXNlID0gbnAucmFuZG9tLnVuaWZvcm0obG93PS0xLCBoaWdoPTEsIHNpemU9KGJhdGNoX3NpemUsIDEwMCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>image_batch</text>
       </register>
       <register name="-" type="4">
         <text>image_batch</text>
