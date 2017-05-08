@@ -142,6 +142,12 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise3.py" timestamp="1494215526143">
+        <mark key="[" line="179" column="57" />
+        <mark key="]" line="179" column="57" />
+        <mark key="." line="179" column="57" />
+        <mark key="^" line="122" column="46" />
+      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/iteration_mutation_speed.py" timestamp="1455917770701">
         <mark key="[" line="35" column="5" />
         <mark key="]" line="35" column="5" />
@@ -427,6 +433,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" timestamp="1494213278047">
+        <mark key="[" line="178" column="65" />
+        <mark key="]" line="178" column="65" />
+        <mark key="^" line="181" column="56" />
+        <mark key="." line="178" column="65" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/experiment_test_training_2.4.py" timestamp="1455114915299">
         <mark key="[" line="63" column="37" />
         <mark key="]" line="63" column="37" />
@@ -552,6 +564,12 @@
         <mark key="]" line="188" column="38" />
         <mark key="." line="188" column="38" />
         <mark key="^" line="188" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise2.py" timestamp="1494214843325">
+        <mark key="[" line="126" column="55" />
+        <mark key="]" line="127" column="59" />
+        <mark key="^" line="127" column="59" />
+        <mark key="." line="127" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_tests/mnist.py" timestamp="1492946219164">
         <mark key="'" line="63" column="26" />
@@ -1223,43 +1241,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plot_title</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>plot_title</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3BhdGhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSC5wbG90X2JhdGNoX3RvX2Rpc2soZ2VuZXJhdGVkX2ltYWdlcywgc2VsZi5zYXZlX3BhdGgsIGZuYW1lLCBwbG90X3RpdGxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dCA9IHRmLmxheWVycy5jb252MmQob3V0LCAxMjgsIFszLCAzXSwgc3RyaWRlcz1bMiwgMl0sIHBhZGRpbmc9InNhbWUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbmFibGU9dHJhaW5hYmxlKQogICAgICAgICAgICAgICAgb3V0ID0gc2VsZi5sZWFreV9yZWx1KG91dCwgbmFtZT0ibGVha3kiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmdlbmVyYXRlKDEwMCwgc2VsZi5zYXZlX3BhdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dCA9IHRmLmxheWVycy5kZW5zZShmbGF0LCAxNCAqIDE0LCBhY3RpdmF0aW9uPU5vbmUsIHRyYWluYWJsZT10cmFpbmFibGUpCiAgICAgICAgICAgICAgICBvdXQgPSB0Zi5yZXNoYXBlKG91dCwgWy0xLCAxNCwgMTQsIDFdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsYXRfeiA9IHRmLnJlc2hhcGUob3V0X3osIFstMSwgMTQgKiAxNCAqIDMyXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmLCBheCA9IHBsdC5zdWJwbG90cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsYXRfeCA9IHRmLnJlc2hhcGUob3V0X3gsIFstMSwgMTQgKiAxNCAqIDMyXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoIi0tbW5pc3RfcGF0aCIsIHR5cGU9c3RyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxvdF90cmFpbmluZ19iYXRjaChnZW5lcmF0ZWRfaW1hZ2VzLCBlLCBydW4sIGYsIGF4KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgiaW5feCIpOgogICAgICAgICAgICAgICAgb3V0ID0gdGYubGF5ZXJzLmNvbnYyZChYLCAzMiwgWzUsIDVdLCBzdHJpZGVzPVsyLCAyXSwgcGFkZGluZz0ic2FtZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluYWJsZT10cmFpbmFibGUpCiAgICAgICAgICAgICAgICBvdXRfeCA9IHNlbGYubGVha3lfcmVsdShvdXQsIG5hbWU9ImxlYWt5IikKCiAgICAgICAgICAgIHdpdGggdGYudmFyaWFibGVfc2NvcGUoImluX3oiKToKICAgICAgICAgICAgICAgIG91dCA9IHRmLmxheWVycy5jb252MmQoWiwgMzIsIFs1LCA1XSwgc3RyaWRlcz1bMiwgMl0sIHBhZGRpbmc9InNhbWUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cmFpbmFibGU9dHJhaW5hYmxlKQogICAgICAgICAgICAgICAgb3V0X3ogPSBzZWxmLmxlYWt5X3JlbHUob3V0LCBuYW1lPSJsZWFreSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzYXZlIHRyYWluaW5nIGltYWdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzYXZlIHRyYWluaW5nIGltYWdlcyBvbmNlIHBlciBlcG9jaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCB0Zi52YXJpYWJsZV9zY29wZSgiY29udjEiKToKICAgICAgICAgICAgICAgIG91dCA9IHRmLmxheWVycy5jb252MmQob3V0LCA2NCwgWzUsIDVdLCBzdHJpZGVzPVsxLCAxXSwgcGFkZGluZz0ic2FtZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRyYWluYWJsZT10cmFpbmFibGUpCiAgICAgICAgICAgICAgICBvdXQgPSBzZWxmLmxlYWt5X3JlbHUob3V0LCBuYW1lPSJsZWFreSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiZXBvY2ggezowPjN9IHwgcnVuIHs6MD40fSB8IGRfbG9zc19yZWFsIDogezouNWZ9Ii5mb3JtYXQoZXBvY2gsIGluZGV4LCBkX2xvc3NfcmVhbCkpCiAgICAgICAgICAgICAgICAgICAgcHJpbnQoImVwb2NoIHs6MD4zfSB8IHJ1biB7OjA+NH0gfCBkX2xvc3NfZmFrZSA6IHs6LjVmfSIuZm9ybWF0KGVwb2NoLCBpbmRleCwgZF9sb3NzX2Zha2UpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgiZXBvY2ggezowPjN9IHwgcnVuIHs6MD40fSB8IGdfbG9zcyAgICAgIDogezouNWZ9Ii5mb3JtYXQoZXBvY2gsIGluZGV4LCBnX2xvc3MpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1274,9 +1292,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>cnn</entry>
-        <entry>log</entry>
         <entry>sess</entry>
         <entry>get_lin</entry>
         <entry>noun</entry>
@@ -1299,7 +1314,6 @@
         <entry encoding="base64">XDxzYXZlX3BhdGhcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>q!</entry>
         <entry>W</entry>
         <entry>action CommentByBlockComment</entry>
         <entry>1</entry>
