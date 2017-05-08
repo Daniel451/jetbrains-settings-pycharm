@@ -36,10 +36,10 @@
         <mark key="^" line="26" column="51" />
         <mark key="." line="26" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/helper.py" timestamp="1493678076333">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/helper.py" timestamp="1494212647246">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="77" />
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan_binary.py" timestamp="1493579638775">
@@ -871,6 +871,12 @@
         <mark key="." line="86" column="16" />
         <mark key="^" line="86" column="16" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" timestamp="1494212888922">
+        <mark key="[" line="181" column="26" />
+        <mark key="]" line="181" column="32" />
+        <mark key="." line="181" column="32" />
+        <mark key="^" line="181" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07.py" timestamp="1455232154861">
         <mark key="[" line="149" column="48" />
         <mark key="]" line="149" column="57" />
@@ -966,6 +972,12 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/helper.py" timestamp="1494212664311">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/.gitignore" timestamp="1479562657173">
         <mark key="[" line="9" column="5" />
@@ -1333,46 +1345,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mnist_batch</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>mnist_batch</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>img_save</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgQyA9IHRyYWluX2ltYWdlcyAqIDAuMSArIG5wLnJhbmRvbS5zdGFuZGFyZF9ub3JtYWwoKGJhdGNoX3NpemUsIDI4LCAyOCwgMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRldGltZV9zdHIgPSBkYXRldGltZS5kYXRldGltZS5ub3coKS5zdHJmdGltZSgiWyVZLSVtLSVkIHwgJUg6JU1dIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGsgPSBILmdldF9ub2lzZV9rZXJuZWwoOSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHJ1biAlIDUwID09IDA6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEMgPSB0cmFpbl9pbWFnZXNbMDoxXQogICAgICAgICAgICAgICAgSC5QQUkoKQogICAgICAgICAgICAgICAgZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gImRlYnVnIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb3V0ID0gdGYubm4udGFuaChvdXQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb3V0ID0gdGYubm4udGFuaChvdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKEMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgb3V0ID0gdGYubm4udGFuaChvdXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhbmRvbV9jID0gbnAucmFuZG9tLnJhbmRpbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4aXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEguZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKEMpCg==</text>
+        <text encoding="base64">ICAgICAgICBIZWxwZXIuZ2V0X25vaXNlX2tlcm5lbCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1420,12 +1432,12 @@
         <entry>qw</entry>
         <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
-        <entry>action CommentByLineComment</entry>
+        <entry>W</entry>
+        <entry>qa</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
-        <entry>W</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
-        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1490,6 +1502,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
