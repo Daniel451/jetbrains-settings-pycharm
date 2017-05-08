@@ -21,9 +21,11 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1493848425850">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="215" column="90" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/dcgan-tests/tf_mnist_dcgan.py" timestamp="1494204925685">
+        <mark key="[" line="34" column="64" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
       </file>
       <file name="/a.dummy" timestamp="1494125585536">
         <mark key="[" line="0" column="0" />
@@ -234,9 +236,9 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise_abstr.py" timestamp="1494204734539">
-        <mark key="[" line="104" column="43" />
-        <mark key="]" line="104" column="44" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise_abstr.py" timestamp="1494205015602">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="111" column="54" />
         <mark key="." line="104" column="44" />
         <mark key="^" line="104" column="44" />
       </file>
@@ -245,9 +247,6 @@
         <mark key="]" line="63" column="37" />
         <mark key="^" line="46" column="22" />
         <mark key="." line="63" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_tests/mnist_dcgan.py" timestamp="1493233418897">
-        <mark key="'" line="15" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_04.py" timestamp="1455115201647">
         <mark key="[" line="6" column="0" />
@@ -364,8 +363,11 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/cv2_filter.py" timestamp="1494193953749">
-        <mark key="^" line="27" column="26" />
+      <file name="$USER_HOME$/repositories/Python3Tests/cv2_filter.py" timestamp="1494206596249">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/plot_assist/plot_assist.py" timestamp="1457054635714">
         <mark key="[" line="33" column="74" />
@@ -658,10 +660,10 @@
         <mark key="^" line="61" column="37" />
         <mark key="." line="61" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494204548808">
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" timestamp="1494206321839">
         <mark key="'" line="93" column="58" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="42" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="110" column="15" />
         <mark key="^" line="84" column="61" />
         <mark key="." line="84" column="61" />
       </file>
@@ -822,6 +824,9 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" timestamp="1494207635983">
+        <mark key="^" line="180" column="107" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_07.py" timestamp="1455232154861">
         <mark key="[" line="149" column="48" />
         <mark key="]" line="149" column="57" />
@@ -845,9 +850,6 @@
         <mark key="]" line="16" column="17" />
         <mark key="." line="16" column="17" />
         <mark key="^" line="41" column="101" />
-      </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/zsdonghao-dcgan/main.py" timestamp="1493538486263">
-        <mark key="'" line="75" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/dmai-core/tests/handwritten1/image_loader.py" timestamp="1460230044501">
         <mark key="[" line="0" column="0" />
@@ -909,20 +911,17 @@
         <mark key="^" line="116" column="45" />
         <mark key="." line="116" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/carpedm20-dcgan/model.py" timestamp="1493538405110">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/Python2.7Tests/tensorflow/parallel.py" timestamp="1454874114639">
         <mark key="[" line="47" column="28" />
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/helper.py" timestamp="1494201249365">
-        <mark key="[" line="92" column="16" />
-        <mark key="]" line="92" column="20" />
-        <mark key="." line="92" column="20" />
-        <mark key="^" line="92" column="20" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/helper.py" timestamp="1494206617259">
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="44" />
+        <mark key="." line="114" column="44" />
+        <mark key="^" line="114" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/.gitignore" timestamp="1479562657173">
         <mark key="[" line="9" column="5" />
@@ -997,9 +996,9 @@
         <mark key="." line="138" column="48" />
         <mark key="^" line="138" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/Python3Tests/tf_filter.py" timestamp="1494194431772">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="20" />
+      <file name="$USER_HOME$/repositories/Python3Tests/tf_filter.py" timestamp="1494206374827">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="49" />
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
@@ -1179,20 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="212" column="0" filename="$USER_HOME$/repositories/bachelor-thesis/code/cnn_series11/models/cnn_s11_ex05.py" />
-      <jump line="19" column="10" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/gen_words.py" />
-      <jump line="167" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
-      <jump line="70" column="11" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/read_txt.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="161" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="168" column="28" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="26" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="33" column="8" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="41" column="15" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
-      <jump line="67" column="31" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="158" column="41" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="173" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="155" column="27" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
@@ -1279,56 +1264,70 @@
       <jump line="32" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
       <jump line="31" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan1.py" />
       <jump line="93" column="58" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/keras_dcgan_denoise1.py" />
+      <jump line="202" column="0" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="205" column="26" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="226" column="19" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="229" column="7" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="230" column="35" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="231" column="9" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="19" column="20" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="21" column="3" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="147" column="39" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="153" column="46" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="154" column="41" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="201" column="40" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="175" column="15" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l4</text>
-      </register>
-      <register name="-" type="4">
-        <text>l4</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxzYW1lXD4=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dHNfYSA9IElucHV0KHNoYXBlPSgyOCwgMjgsIDEpKQogICAgICAgIGlucHV0c19iID0gSW5wdXQoc2hhcGU9KDI4LCAyOCwgMSkpCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoRCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dHNfYiA9IElucHV0KHNoYXBlPSgyOCwgMjgsIDEpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnID0gRwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoRykK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IFNlcXVlbnRpYWwoKQo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>k</text>
+      </register>
+      <register name="/" type="4">
+        <text>args</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaW0gPSBjdjIuZmlsdGVyMkQoaW0sIC0xLCBrKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmVzaGFwZSBhbmQgZ2V0IGltYWdlcyB0byBhbiBpbnRlcnZhbCBvZiBbLTEuMCwgMS4wXQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX2ltYWdlcyA9IHRyYWluX2ltYWdlcy5yZXNoYXBlKCgtMSwgMjgsIDI4LCAxKSkgKiAyLjAgLSAxLjAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBpbXBvcnQgZGF0ZXRpbWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoQWN0aXZhdGlvbignc2lnbW9pZCcpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoRGVuc2UoMSkpCg==</text>
+        <text encoding="base64">ZnJvbSB0ZW5zb3JmbG93LmV4YW1wbGVzLnR1dG9yaWFscy5tbmlzdCBpbXBvcnQgaW5wdXRfZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGQoRmxhdHRlbigpKQo=</text>
+        <text encoding="base64">cGFyc2VyLmFkZF9hcmd1bWVudCgiLS1tbmlzdF9kYXRhX3BhdGgiLCB0eXBlPXN0ciwgZGVmYXVsdD0iIiwgaGVscD0icGF0aCB0byB0aGUgTU5JU1QgZGF0YSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW1lXD4=</last-search>
+      <last-search>args</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW1lXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>args</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1355,6 +1354,7 @@
         <entry encoding="base64">XDxzYXZlX3BhdGhcPg==</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxzYW1lXD4=</entry>
+        <entry>args</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -1366,17 +1366,17 @@
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>.,.+8action SearchEverywhere</entry>
         <entry>m .-2</entry>
-        <entry>1</entry>
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>action SearchEverywhere</entry>
         <entry>m .+1</entry>
-        <entry>redo</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>1</entry>
         <entry>nohlsearch</entry>
         <entry>q</entry>
         <entry>set paste</entry>
         <entry>set nopaste</entry>
+        <entry>redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
