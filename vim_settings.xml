@@ -1372,7 +1372,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEguUEFJKEMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1384,7 +1384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reader</entry>
         <entry>loaded</entry>
         <entry>noecho</entry>
         <entry>version</entry>
@@ -1407,8 +1406,6 @@
         <entry>img_save</entry>
       </history-search>
       <history-cmd>
-        <entry>action MethodHierarchy</entry>
-        <entry>action MethodHierarchyPopupMenu</entry>
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
         <entry>_w</entry>
@@ -1420,7 +1417,6 @@
         <entry>action GotoSymbol</entry>
         <entry>m .-2</entry>
         <entry>q</entry>
-        <entry>qa</entry>
         <entry>qw</entry>
         <entry>redo</entry>
         <entry>action emacsIDEAs.AceJump</entry>
@@ -1429,6 +1425,7 @@
         <entry>set nopaste</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
