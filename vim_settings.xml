@@ -37,7 +37,7 @@
         <mark key="^" line="19" column="35" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1493764319353">
+      <file name="/a.dummy" timestamp="1494306540887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493537024900">
@@ -665,6 +665,12 @@
         <mark key="^" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/tf_dcgan_denoise2.py" timestamp="1494306575565">
+        <mark key="[" line="34" column="57" />
+        <mark key="]" line="35" column="64" />
+        <mark key="." line="35" column="64" />
+        <mark key="^" line="35" column="64" />
+      </file>
       <file name="$USER_HOME$/repositories/litos-dmai-core/.gitignore" timestamp="1479562657173">
         <mark key="[" line="9" column="5" />
         <mark key="]" line="10" column="9" />
@@ -1241,10 +1247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>28</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>28</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3BhdGhcPg==</text>
@@ -1322,7 +1328,6 @@
         <entry>23</entry>
         <entry>28</entry>
         <entry>action emacsIDEAs.AceJumpWord</entry>
-        <entry>qa</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>.,.+8action SearchEverywhere</entry>
         <entry>action SearchEverywhere</entry>
@@ -1333,6 +1338,7 @@
         <entry>set nopaste</entry>
         <entry>nohlsearch</entry>
         <entry>action CommentByLineComment</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
