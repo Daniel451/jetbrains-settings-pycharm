@@ -1292,7 +1292,7 @@
         <text encoding="base64">ICAgIGRlZiBfX2NoZWNrX2FuZF9jcmVhdGVfbGFiZWxzKHNlbGYpOgogICAgICAgICIiIgogICAgICAgIGNoZWNrcyB0aGUgbGFiZWxzIGZpbGUKICAgICAgICAiIiIKICAgICAgICAjIGNoZWNrIHRoYXQgdGhlIHBhdGggZXhpc3RzCiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKHNlbGYuX19wYXRoICsgImxhYmVscy50eHQiKToKICAgICAgICAgICAgcmFpc2UgSU9FcnJvcigibGFiZWxzIGZpbGUgJ3t9JyBkb2VzIG5vdCBleGlzdCIuZm9ybWF0KHNlbGYuX19wYXRoICsgImxhYmVscy50eHQiKSkKCiAgICAgICAgIyBjaGVjayB0aGF0IHRoZSBsYWJlbHMgZmlsZSBleGlzdHMKICAgICAgICBpZiBub3Qgb3MucGF0aC5pc2ZpbGUoc2VsZi5fX3BhdGggKyAibGFiZWxzLnR4dCIpOgogICAgICAgICAgICByYWlzZSBJT0Vycm9yKCIne30nIGlzIG5vdCBhIGZpbGUiLmZvcm1hdChzZWxmLl9fcGF0aCArICJsYWJlbHMudHh0IikpCgogICAgICAgICMgZmlsbCB0aGUgc2VsZi5fX2xhYmVscyBkaWN0aW9uYXJ5CiAgICAgICAgc2VsZi5fX2xhYmVscyA9IHNlbGYuX19yZWFkX2xhYmVsX2ZpbGUoKQoKICAgICAgICAjIGNoZWNrIGlmIGxhYmVsIGRhdGEgZm9yIGV2ZXJ5IGltYWdlIGlzIGF2YWlsYWJsZQogICAgICAgIGZvciBmIGluIHNlbGYuX19maWxlczoKICAgICAgICAgICAgaWYgbm90IHNlbGYuX19sYWJlbHMuaGFzX2tleShmKToKICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigidGhlIGxhYmVsIGZvciBpbWFnZSAne30nIGlzIG1pc3NpbmciLmZvcm1hdChmKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -1346,6 +1346,7 @@
         <entry>qa</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
