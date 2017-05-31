@@ -1,8 +1,8 @@
 <scheme name="Darcula Daniel" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
   <option name="LINE_SPACING" value="1.0500001" />
-  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
   <attributes>
