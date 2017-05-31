@@ -48,6 +48,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser1.sh" timestamp="1496237632651">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_03.py" timestamp="1455117987226">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="102" column="60" />
@@ -1285,11 +1291,11 @@
       <jump line="175" column="15" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a2Zqd2VrbGZqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2xla2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2VrZmp3ZWxma2p3ZWxma2p3ZWxma2p3ZWxma3dlamZsa3dlamYK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
