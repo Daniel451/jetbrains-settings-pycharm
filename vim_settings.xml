@@ -1176,11 +1176,10 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser2.py" timestamp="1496193744230">
-        <mark key="[" line="133" column="48" />
-        <mark key="]" line="134" column="3" />
-        <mark key="." line="134" column="3" />
-        <mark key="^" line="134" column="3" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser2.py" timestamp="1496198481104">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1287,7 +1286,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNuZXQudGVzdF9kaXNjcmltaW5hdG9yKCkK</text>
+        <text encoding="base64">a2Zqd2VrbGZqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2xla2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2VrZmp3ZWxma2p3ZWxma2p3ZWxma2p3ZWxma3dlamZsa3dlamYK</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -1299,31 +1298,31 @@
         <text encoding="base64">ICAgICAgICBmaW0gPSBjdjIuZmlsdGVyMkQoaW0sIC0xLCBrKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNuZXQudGVzdF9kaXNjcmltaW5hdG9yKCkK</text>
+        <text encoding="base64">a2Zqd2VrbGZqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2xla2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2VrZmp3ZWxma2p3ZWxma2p3ZWxma2p3ZWxma3dlamZsa3dlamYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNuZXQudGVzdF9nZW5lcmF0b3IoKQo=</text>
+        <text encoding="base64">ICAgICNuZXQudGVzdF9kaXNjcmltaW5hdG9yKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBCdWZmZXJEYXRhTG9hZGVyIGltcG9ydCBEYXRhT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICNuZXQudGVzdF9nZW5lcmF0b3IoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICg==</text>
+        <text encoding="base64">ZnJvbSBCdWZmZXJEYXRhTG9hZGVyIGltcG9ydCBEYXRhT2JqZWN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmdqcmVrZ2pyZWtnanJla2dqbGtyZWdqcmVsa2dqcmVsa2dqZXJrZ2pyZWxnanJlbGtnanJlbGtnanJlbGdrcmplZ2xrcmVqZ2xrcmVqZ3JlbGtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xyZWtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZwo=</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmdqcmVrZ2pyZWtnanJla2dqbGtyZWdqcmVsa2dqcmVsa2dqZXJrZ2pyZWxnanJlbGtnanJlbGtnanJlbGdrcmplZ2xrcmVqZ2xrcmVqZ3JlbGtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xyZWtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmVzaGFwZSBhbmQgZ2V0IGltYWdlcyB0byBhbiBpbnRlcnZhbCBvZiBbLTEuMCwgMS4wXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX2ltYWdlcyA9IHRyYWluX2ltYWdlcy5yZXNoYXBlKCgtMSwgMjgsIDI4LCAxKSkgKiAyLjAgLSAxLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmVzaGFwZSBhbmQgZ2V0IGltYWdlcyB0byBhbiBpbnRlcnZhbCBvZiBbLTEuMCwgMS4wXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX2ltYWdlcyA9IHRyYWluX2ltYWdlcy5yZXNoYXBlKCgtMSwgMjgsIDI4LCAxKSkgKiAyLjAgLSAxLjAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
