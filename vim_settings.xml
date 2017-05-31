@@ -48,11 +48,12 @@
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="51" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser1.sh" timestamp="1496237632651">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser1.sh" timestamp="1496239878210">
+        <mark key="'" line="33" column="142" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="29" column="34" />
+        <mark key="^" line="29" column="34" />
+        <mark key="." line="29" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_03.py" timestamp="1455117987226">
         <mark key="[" line="101" column="0" />
@@ -1189,7 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="41" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="173" column="0" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict-words2/predict_words_ui.py" />
       <jump line="155" column="27" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
       <jump line="163" column="47" filename="$USER_HOME$/repositories/litos-dmai-core/demo/predict_words2/predict_words_ui.py" />
@@ -1289,13 +1289,14 @@
       <jump line="154" column="41" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
       <jump line="201" column="40" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
       <jump line="175" column="15" filename="$USER_HOME$/repositories/tensorflow_dcgan/mnist-dcgan/tf_mnist_dcgan_denoise1.py" />
+      <jump line="31" column="142" filename="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser1.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -1304,31 +1305,31 @@
         <text encoding="base64">ICAgICAgICBmaW0gPSBjdjIuZmlsdGVyMkQoaW0sIC0xLCBrKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2Zqd2VrbGZqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2xla2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2VrZmp3ZWxma2p3ZWxma2p3ZWxma2p3ZWxma3dlamZsa3dlamYK</text>
+        <text encoding="base64">bW9kdWxlIHN3aXRjaCBlbnYgZW52LzIwMTVRNC1nY2Mtb3Blbm1waQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNuZXQudGVzdF9kaXNjcmltaW5hdG9yKCkK</text>
+        <text encoding="base64">bW9kdWxlIGxvYWQgL3N3L0NPUkUvY29tcGlsZXIvY3VkYS03LjAuMjgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNuZXQudGVzdF9nZW5lcmF0b3IoKQo=</text>
+        <text encoding="base64">a2Zqd2VrbGZqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2xla2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2Vsa2Zqd2VrZmp3ZWxma2p3ZWxma2p3ZWxma2p3ZWxma3dlamZsa3dlamYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBCdWZmZXJEYXRhTG9hZGVyIGltcG9ydCBEYXRhT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICNuZXQudGVzdF9kaXNjcmltaW5hdG9yKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICg==</text>
+        <text encoding="base64">ICAgICNuZXQudGVzdF9nZW5lcmF0b3IoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmdqcmVrZ2pyZWtnanJla2dqbGtyZWdqcmVsa2dqcmVsa2dqZXJrZ2pyZWxnanJlbGtnanJlbGtnanJlbGdrcmplZ2xrcmVqZ2xrcmVqZ3JlbGtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xyZWtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZwo=</text>
+        <text encoding="base64">ZnJvbSBCdWZmZXJEYXRhTG9hZGVyIGltcG9ydCBEYXRhT2JqZWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmVzaGFwZSBhbmQgZ2V0IGltYWdlcyB0byBhbiBpbnRlcnZhbCBvZiBbLTEuMCwgMS4wXQo=</text>
+        <text encoding="base64">cmdqcmVrZ2pyZWtnanJla2dqbGtyZWdqcmVsa2dqcmVsa2dqZXJrZ2pyZWxnanJlbGtnanJlbGtnanJlbGdrcmplZ2xrcmVqZ2xrcmVqZ3JlbGtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xrcmVqZ2xyZWtqZ2xrcmVqZ2xrcmVqZ2xrcmVqZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyYWluX2ltYWdlcyA9IHRyYWluX2ltYWdlcy5yZXNoYXBlKCgtMSwgMjgsIDI4LCAxKSkgKiAyLjAgLSAxLjAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
