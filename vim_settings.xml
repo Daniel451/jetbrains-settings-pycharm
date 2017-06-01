@@ -27,7 +27,7 @@
         <mark key="^" line="34" column="23" />
         <mark key="." line="34" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1494125585536">
+      <file name="/a.dummy" timestamp="1496337347932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493537024900">
@@ -261,11 +261,11 @@
         <mark key="^" line="46" column="22" />
         <mark key="." line="63" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/tf_dcgan_denoise_abstract.py" timestamp="1496336701640">
-        <mark key="[" line="264" column="34" />
-        <mark key="]" line="264" column="35" />
-        <mark key="." line="264" column="35" />
-        <mark key="^" line="264" column="35" />
+      <file name="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/tf_dcgan_denoise_abstract.py" timestamp="1496337425505">
+        <mark key="[" line="334" column="24" />
+        <mark key="]" line="334" column="41" />
+        <mark key="." line="334" column="41" />
+        <mark key="^" line="334" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/bachelor-thesis/code/test_training_2/conv_net_test2_04.py" timestamp="1455115201647">
         <mark key="[" line="6" column="0" />
@@ -1305,10 +1305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
@@ -1317,31 +1317,31 @@
         <text encoding="base64">cGFyc2VyID0gYXJncGFyc2UuQXJndW1lbnRQYXJzZXIoKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCItLXNhdmVfcGF0aCIsIHR5cGU9c3RyLCBkZWZhdWx0PSIiLCBoZWxwPSJwYXRoIHdoZXJlIHRvIHN0b3JlIGdlbmVyYXRlZCBpbWFnZXMiKQpwYXJzZXIuYWRkX2FyZ3VtZW50KCItLWJhdGNoX3NpemUiLCB0eXBlPWludCwgZGVmYXVsdD0xMDAsIGhlbHA9ImludGVnZXIsIGRlZmF1bHQgaXMgMTAwIikKcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1lcG9jaHMiLCB0eXBlPWludCwgZGVmYXVsdD0xMDAsIGhlbHA9ImludGVnZXIsIGRlZmF1bHQgaXMgMTAwIikKcGFyc2VyLmFkZF9hcmd1bWVudCgiLS1tb2RlIiwgdHlwZT1zdHIsIGRlZmF1bHQ9ImdlbmVyYXRlIiwgY2hvaWNlcz1bInRyYWluIiwgImdlbmVyYXRlIl0pCmFyZ3MgPSBwYXJzZXIucGFyc2VfYXJncygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGxvZ2dpbmcKICAgICAgICAgICAgICAgICAgICBzZWxmLmVycm9yX0RfcmVhbC5hcHBlbmQoc2VsZi5kX3RyYWluX3JlYWxfcmV0WzFdKQogICAgICAgICAgICAgICAgICAgIHNlbGYuZXJyb3JfRF9mYWtlLmFwcGVuZChzZWxmLmRfdHJhaW5fZmFrZV9yZXRbMV0pCiAgICAgICAgICAgICAgICAgICAgc2VsZi5lcnJvcl9HLmFwcGVuZChzZWxmLmRnX3RyYWluX3JldFsxXSkKCg==</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBoZWxwZXIgaW1wb3J0IEhlbHBlciBhcyBICg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIGxvZ2dpbmcKICAgICAgICAgICAgICAgICAgICBzZWxmLmVycm9yX0RfcmVhbC5hcHBlbmQoc2VsZi5kX3RyYWluX3JlYWxfcmV0WzFdKQogICAgICAgICAgICAgICAgICAgIHNlbGYuZXJyb3JfRF9mYWtlLmFwcGVuZChzZWxmLmRfdHJhaW5fZmFrZV9yZXRbMV0pCiAgICAgICAgICAgICAgICAgICAgc2VsZi5lcnJvcl9HLmFwcGVuZChzZWxmLmRnX3RyYWluX3JldFsxXSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZmlsZXMgPSBhcmdzLmZpbGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQodHlwZShmaWxlcyksIGZpbGVzLCB0eXBlKGFyZ3MubW9kZSksIGFyZ3MubW9kZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aWYgdHlwZShhcmdzLmZpbGVzKSBpcyBzdHI6CiAgICBmaWxlcy5hcHBlbmQoYXJncy5maWxlcykKZWxzZToKICAgIGZpbGVzID0gYXJncy5maWxlcwo=</text>
+        <text encoding="base64">ZmlsZXMgPSBhcmdzLmZpbGVzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbGVzID0gYXJncy5maWxlcwo=</text>
+        <text encoding="base64">cHJpbnQodHlwZShmaWxlcyksIGZpbGVzLCB0eXBlKGFyZ3MubW9kZSksIGFyZ3MubW9kZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
