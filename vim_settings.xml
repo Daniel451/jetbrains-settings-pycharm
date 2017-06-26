@@ -1344,7 +1344,7 @@
         <text encoding="base64">cHJpbnQodHlwZShmaWxlcyksIGZpbGVzLCB0eXBlKGFyZ3MubW9kZSksIGFyZ3MubW9kZSkK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1386,7 +1386,6 @@
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>.,.+8action SearchEverywhere</entry>
         <entry>m .-2</entry>
-        <entry>qa</entry>
         <entry>action emacsIDEAs.AceJump</entry>
         <entry>m .+1</entry>
         <entry>action CommentByLineComment</entry>
@@ -1398,6 +1397,7 @@
         <entry>set nopaste</entry>
         <entry>action SearchEverywhere</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
