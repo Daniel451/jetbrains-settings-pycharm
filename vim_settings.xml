@@ -27,7 +27,7 @@
         <mark key="^" line="34" column="23" />
         <mark key="." line="34" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1498521167769">
+      <file name="/a.dummy" timestamp="1498581178914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/test2-keras/dcgan.py" timestamp="1493537024900">
@@ -400,6 +400,12 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/repositories/robocup-ai/code/classifier/BufferDataLoader.py" timestamp="1498581137525">
+        <mark key="[" line="155" column="11" />
+        <mark key="]" line="156" column="65" />
+        <mark key="." line="156" column="65" />
+        <mark key="^" line="156" column="65" />
+      </file>
       <file name="$USER_HOME$/repositories/keras-dcgan/dcgan.py" timestamp="1493040340364">
         <mark key="'" line="24" column="42" />
         <mark key="[" line="110" column="63" />
@@ -637,11 +643,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="97" column="18" />
       </file>
-      <file name="$USER_HOME$/repositories/robocup-ai/code/classifier/classifier_abstr.py" timestamp="1498523247795">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="107" column="39" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/robocup-ai/code/classifier/classifier_abstr.py" timestamp="1498581200043">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/tensorflow_dcgan/keras-dcgan/dcgan.py" timestamp="1493289913460">
         <mark key="[" line="175" column="43" />
@@ -1321,44 +1327,44 @@
       <jump line="31" column="142" filename="$USER_HOME$/repositories/tensorflow_dcgan/robocup-dcgan/denoiser1.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHByb2R1Y3QK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QnVmZmVyRGF0YUxvYWRlciA=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">QnVmZmVyRGF0YUxvYWRlciA=</text>
       </register>
       <register name="/" type="4">
         <text>args</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG91dCA9IHNlbGYubGVha3lfcmVsdShvdXQsIG5hbWU9ImxlYWt5IikK</text>
+      <register name="0" type="8">
+        <text encoding="base64">IyBsaXN0IG9mIGZpbGVuYW1lcyAoaW1hZ2VzKQojIHNpemUgb2YgdGhlIGRhdGFzZXQgLT4gdG90YWwgYW1vdW50IG9mIHRyYWluaW5nL3Rlc3QgZmlsZXMKICAgICMgYSB2YWxpZCBwYXRoIGNvbnRhaW5pbmcgaW1hZ2VzIGFuZCBsYWJlbHMKIyBhIGRpY3Rpb25hcnkgZm9yIHRoZSBsYWJlbHMgKHN0cjogaW1nX2ZpbGVuYW1lKSAtPiAoeCwgeSkKIyBzaXplIG9mIHRoZSBpbWFnZSBkYXRhIGJhdGNoZXMgdGhhdCB3aWxsIGJlIGxvYWRlZAojIHR1cGxlIHRoYXQgY29udGFpbnMgdGhlIHNpemUgb2YgdGhlIHgtIGFuZCB5LXZlY3RvcgojIGJvb2xlYW4gZmxhZyAtPiBpbmhpYml0b3IgZGF0YXNldHMgaGF2ZSAqbm8qIGxhYmVsczsgdGhleSBqdXN0IGNvbnRhaW4KIyBuZWdhdGl2ZSBzYW1wbGUgZGF0YSwgdGhlcmVmb3JlIGxhYmVscyBhcmUgYWx3YXlzIGFsbCB6ZXJvCiMgYm9vbGVhbiBmbGFnIC0+IGVuLSBvciBkaXNhYmxlcyBkZWJ1ZyBwcmludGluZwojIG5vcm1hbCBkaXN0cmlidXRpb25zIHZhcmlhbmNlIGlzIHNldCB0bzoKIyAtPiB2ZWN0b3Igc2hhcGUgKGltYWdlIHdpZHRoIG9yIGhlaWdodCkgLyBzaWdtYV9yYXRlICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHByb2R1Y3QK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9maWxlcyA9IE5vbmUKICAgIF9kYXRhc2V0X3NpemUgPSBOb25lCiAgICBfcGF0aGxpc3QgPSBOb25lCiAgICBfbGFiZWxzID0gTm9uZQogICAgX2JhdGNoX3NpemUgPSBOb25lCiAgICBfeHlfc2hhcGUgPSBOb25lCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICBfZGVidWcgPSBOb25lICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBwbG90X2JhdGNoX3RvX2Rpc2soaW1nX2JhdGNoIDogbnAubmRhcnJheSwgZnBhdGggOiBzdHIsIGZuYW1lIDogc3RyLCBwbG90X3RpdGxlIDogc3RyKToKICAgICAgICBiYXRjaF9zaXplID0gaW1nX2JhdGNoLnNoYXBlWzBdCgogICAgICAgICMgaW1hZ2UgJiBncmlkIGNvbmZpZwogICAgICAgIGdyaWRzID0gNAogICAgICAgIGltZ19oZWlnaHQgPSA3NQogICAgICAgIGltZ193aWR0aCA9IDEwMAoKICAgICAgICAjIGNvbnRhaW5lciBzaXplOiBpbWFnZV9kaW1lbnNpb24gKiBncmlkX2NvdW50ICsgYm9yZGVycyAoc3BhY2UgYmV0d2VlbiBncmlkcykKICAgICAgICBjb250X2hlaWdodCA9IGltZ19oZWlnaHQgKiBncmlkcyArIChncmlkcyArIDEpICogNQogICAgICAgIGNvbnRfd2lkdGggPSBpbWdfd2lkdGggKiBncmlkcyArIChncmlkcyArIDEpICogNQoKICAgICAgICAjIGltZyBjb250YWluZXIKICAgICAgICBpbWdfY29udGFpbmVyID0gbnAuemVyb3MoKGNvbnRfaGVpZ2h0LCBjb250X3dpZHRoLCAzKSkuYXN0eXBlKG5wLmZsb2F0MzIpCiAgICAgICAgaW1nX2NvbnRhaW5lclswLCA6LCA6XSA9IDEuMAogICAgICAgIGltZ19jb250YWluZXJbOiwgMCwgOl0gPSAxLjAKICAgICAgICBpbWdfY29udGFpbmVyW2NvbnRfaGVpZ2h0IC0gMSwgOiwgOl0gPSAxLjAKICAgICAgICBpbWdfY29udGFpbmVyWzosIGNvbnRfd2lkdGggLSAxLCA6XSA9IDEuMAoKICAgICAgICBmb3IgaW5kZXgsIChyb3csIGNvbCkgaW4gemlwKHJhbmdlKGdyaWRzICogZ3JpZHMpLCBwcm9kdWN0KHJhbmdlKGdyaWRzKSwgcmFuZ2UoZ3JpZHMpKSk6CiAgICAgICAgICAgIGlmIGluZGV4ID49IGJhdGNoX3NpemU6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBwb3Nfcm93ID0gNSArIHJvdyAqIChpbWdfaGVpZ2h0ICsgNSkKICAgICAgICAgICAgcG9zX2NvbCA9IDUgKyBjb2wgKiAoaW1nX3dpZHRoICsgNSkKICAgICAgICAgICAgc2luZ2xlX2ltYWdlX2RhdGEgPSBpbWdfYmF0Y2hbaW5kZXhdLnJlc2hhcGUoKDE1MCwgMjAwLCAzKSkKICAgICAgICAgICAgc2luZ2xlX2ltYWdlX2RhdGEgPSBjdjIucmVzaXplKHNpbmdsZV9pbWFnZV9kYXRhLCAoaW1nX3dpZHRoLCBpbWdfaGVpZ2h0KSkKCiAgICAgICAgICAgIGltZ19jb250YWluZXJbcG9zX3Jvdzpwb3Nfcm93K2ltZ19oZWlnaHQsIHBvc19jb2w6cG9zX2NvbCtpbWdfd2lkdGhdID0gc2luZ2xlX2ltYWdlX2RhdGEKCiAgICAgICAgIyBpbWdfbmFtZSA9ICJpbWdfZXBvY2hfezowPjN9X3J1bl97OjA+NH0uanBnIi5mb3JtYXQoZSwgcnVuKQogICAgICAgICMgaW1nX3BhdGggPSBhcmdzLmltZ19zYXZlX3BhdGgKCiAgICAgICAgZiwgYXggPSBwbHQuc3VicGxvdHMoKQogICAgICAgIGF4LnNldF90aXRsZSgie30ge30iLmZvcm1hdChIZWxwZXIuZ2V0X2RhdGVfdGltZV9zdHIoKSwgcGxvdF90aXRsZSkpCiAgICAgICAgY2F4ID0gYXguaW1zaG93KGltZ19jb250YWluZXIsIGNtYXA9ImdyYXkiLCBpbnRlcnBvbGF0aW9uPSJub25lIikKICAgICAgICBmLmNvbG9yYmFyKGNheCkKICAgICAgICBmLnNhdmVmaWcoZnBhdGggKyBmbmFtZSkKICAgICAgICBwbHQuY2xvc2UoZikK</text>
+        <text encoding="base64">ICAgIF9zaWdtYV9yYXRlID0gTm9uZSAgICAgICAgICAjIG5vcm1hbCBkaXN0cmlidXRpb25zIHZhcmlhbmNlIGlzIHNldCB0bzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIC0+IHZlY3RvciBzaGFwZSAoaW1hZ2Ugd2lkdGggb3IgaGVpZ2h0KSAvIHNpZ21hX3JhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbmhpYml0b3JfZGF0YXNldCA9IE5vbmUgICAjIGJvb2xlYW4gZmxhZyAtPiBpbmhpYml0b3IgZGF0YXNldHMgaGF2ZSAqbm8qIGxhYmVsczsgdGhleSBqdXN0IGNvbnRhaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9pbmhpYml0b3JfZGF0YXNldCA9IE5vbmUgICAjIGJvb2xlYW4gZmxhZyAtPiBpbmhpYml0b3IgZGF0YXNldHMgaGF2ZSAqbm8qIGxhYmVsczsgdGhleSBqdXN0IGNvbnRhaW4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBwbG90X2F1dG9lbmNvZGVyX2JhdGNoX3RvX2Rpc2soZGVjb2RlX2ltYWdlcyA6IG5wLm5kYXJyYXksIGlucHV0X2ltYWdlcyA6IG5wLm5kYXJyYXksIGZwYXRoIDogc3RyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbmFtZSA6IHN0ciwgcGxvdF90aXRsZSA6IHN0cik6CiAgICAgICAgYmF0Y2hfc2l6ZSA9IGRlY29kZV9pbWFnZXMuc2hhcGVbMF0KCiAgICAgICAgaW1nX2NvbnRhaW5lciA9IG5wLnplcm9zKCgzNTIsIDM1MikpLmFzdHlwZShucC5mbG9hdDMyKQogICAgICAgIGltZ19jb250YWluZXJbMSwgOl0gPSAxLjAKICAgICAgICBpbWdfY29udGFpbmVyWzosIDFdID0gMS4wCiAgICAgICAgaW1nX2NvbnRhaW5lclszNTEsIDpdID0gMS4wCiAgICAgICAgaW1nX2NvbnRhaW5lcls6LCAzNTFdID0gMS4wCgogICAgICAgIGZvciBpbmRleCwgKHJvdywgY29sKSBpbiB6aXAocmFuZ2UoMTAqMTApLCBwcm9kdWN0KHJhbmdlKDEwKSwgcmFuZ2UoMTApKSk6CiAgICAgICAgICAgIGlmIGluZGV4ID49IGJhdGNoX3NpemU6CiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBwb3Nfcm93ID0gNSArIHJvdyAqIDM1CiAgICAgICAgICAgIHBvc19jb2wgPSA1ICsgY29sICogMzUKICAgICAgICAgICAgaWYgaW5kZXggPD0gNDk6CiAgICAgICAgICAgICAgICBzaW5nbGVfaW1hZ2VfZGF0YSA9IGRlY29kZV9pbWFnZXNbaW5kZXhdLnJlc2hhcGUoKDI4LCAyOCkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBzaW5nbGVfaW1hZ2VfZGF0YSA9IGlucHV0X2ltYWdlc1tpbmRleC01MF0ucmVzaGFwZSgoMjgsIDI4KSkKCiAgICAgICAgICAgIGltZ19jb250YWluZXJbcG9zX3Jvdzpwb3Nfcm93KzI4LCBwb3NfY29sOnBvc19jb2wrMjhdID0gc2luZ2xlX2ltYWdlX2RhdGEKCiAgICAgICAgZiwgYXggPSBwbHQuc3VicGxvdHMoKQogICAgICAgIGF4LnNldF90aXRsZSgie30ge30iLmZvcm1hdChIZWxwZXIuZ2V0X2RhdGVfdGltZV9zdHIoKSwgcGxvdF90aXRsZSkpCiAgICAgICAgY2F4ID0gYXguaW1zaG93KGltZ19jb250YWluZXIsIGNtYXA9ImdyYXkiLCBpbnRlcnBvbGF0aW9uPSJub25lIikKICAgICAgICBmLmNvbG9yYmFyKGNheCkKICAgICAgICBmLnNhdmVmaWcoZnBhdGggKyBmbmFtZSkKICAgICAgICBwbHQuY2xvc2UoZikK</text>
+        <text encoding="base64">ZnJvbSBpdGVydG9vbHMgaW1wb3J0IHByb2R1Y3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1402,7 +1408,6 @@
         <entry>action emacsIDEAs.AceJumpWord</entry>
         <entry>.,.+8action SearchEverywhere</entry>
         <entry>m .-2</entry>
-        <entry>action emacsIDEAs.AceJump</entry>
         <entry>m .+1</entry>
         <entry>1</entry>
         <entry>nohlsearch</entry>
@@ -1414,6 +1419,7 @@
         <entry>qa</entry>
         <entry>action CommentByLineComment</entry>
         <entry>wq</entry>
+        <entry>action emacsIDEAs.AceJump</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
